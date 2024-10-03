@@ -1,0 +1,678 @@
+{
+  "url": "/nutty-molasses-chicken",
+  "title": "Nutty Molasses Chicken",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Dairy-Free ",
+      "url": "/dairy-free",
+      "uid": "bltba0f45afb7165184"
+    },
+    {
+      "title": "Chicken Recipes",
+      "url": "/chicken-recipes",
+      "uid": "blt7efd940d5b4a3c2e"
+    }
+  ],
+  "gousto_id": "460",
+  "gousto_uid": "f98ee37e-a65f-46aa-87ce-fb6874aad644",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/428---Nutty-Molasses-Chicken-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/428---Nutty-Molasses-Chicken-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/428---Nutty-Molasses-Chicken-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/428---Nutty-Molasses-Chicken-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/428---Nutty-Molasses-Chicken-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 534
+  },
+  "description": "This recipe is inspired by a Persian chicken dish made from ground walnuts and pomegranate molasses. Our version is quicker but still combines the fruity, nutty flavours of the original recipe. Served with the supergrain freekeh for a taste of the Middle East.",
+  "prep_times": {
+    "for_2": 30,
+    "for_4": 30
+  },
+  "cuisine": {
+    "slug": "middle-eastern",
+    "title": "Middle Eastern"
+  },
+  "ingredients": [
+    {
+      "label": "20g fresh parsley ",
+      "title": "parsley-I-07-HBS-PL-26",
+      "uid": "blt37c89755faac5573",
+      "gousto_uuid": "30e1ca72-4369-4994-8832-b2e7aa79266c",
+      "name": "parsley",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 honey pot (28g)",
+      "title": "honey-I-01-CAN-LQ-06",
+      "uid": "bltc92f99bd088d381a",
+      "gousto_uuid": "79f3354b-1c07-4ead-a173-f97e8cddd843",
+      "name": "honey",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "30g raw walnuts ",
+      "title": "walnuts-I-04-NUT-NT-06-30",
+      "uid": "blt7b820fefea880251",
+      "gousto_uuid": "a4013afd-2344-4620-8c11-56b4fdc4f24e",
+      "name": "walnuts",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/walnuts-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/walnuts-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/walnuts-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/walnuts-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/walnuts-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "nut"
+          },
+          {
+            "title": null,
+            "slug": "peanut"
+          },
+          {
+            "title": null,
+            "slug": "sesame"
+          }
+        ]
+      }
+    },
+    {
+      "label": "130g freekeh ",
+      "title": "freekeh-IQ-03-GRN-PA-13-04",
+      "uid": "blt48a9ed5ac33bf6a9",
+      "gousto_uuid": "dd9046cc-f560-471e-9613-30b6c8911573",
+      "name": "freekeh",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/freekeh-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/freekeh-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/freekeh-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/freekeh-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/freekeh-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 large British chicken breast fillet",
+      "title": "chicken breast fillet-I-10-MPF-PO-29",
+      "uid": "blt9ccb566f9e9935d2",
+      "gousto_uuid": "61b32cd0-ca40-4e89-9039-c3e32a2cc30d",
+      "name": "chicken breast fillet",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-large-british-chicken-breast-fillet-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-large-british-chicken-breast-fillet-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-large-british-chicken-breast-fillet-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-large-british-chicken-breast-fillet-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-large-british-chicken-breast-fillet-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 soy sauce sachet (8ml)",
+      "title": "soy sauce-I-06-SML-OT-05",
+      "uid": "bltaa4a46c7cb59b000",
+      "gousto_uuid": "3c07d126-f655-437c-aa1d-c38dbbae0398",
+      "name": "soy sauce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "2 tbsp tahini paste",
+      "title": "tahini-IQ-08-SAU-PS-03-02",
+      "uid": "bltc13785fc66200fca",
+      "gousto_uuid": "40c26b1c-9114-43dd-9b14-5c0d757a15b5",
+      "name": "tahini",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tahini-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tahini-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tahini-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tahini-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tahini-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sesame"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 tbsp pomegranate molasses ",
+      "title": "pomegranate molasses-IQ-08-SAU-CD-03-01",
+      "uid": "blt2134d885214dcd84",
+      "gousto_uuid": "abbafe84-e55a-4ed4-804a-4e254d0ff1a2",
+      "name": "pomegranate molasses",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pomegranate-molasses-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pomegranate-molasses-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pomegranate-molasses-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pomegranate-molasses-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pomegranate-molasses-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 red onion",
+      "title": "red onion-I-02-SVG-VG-05",
+      "uid": "bltc69ae0a09122a2b4",
+      "gousto_uuid": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 220&deg;C/ 200&deg;C (fan)/ 425&deg;F/ Gas 7</p>\r\n<p>Rinse the <strong>freekeh</strong> in a sieve under the tap, then add it to a pot with 500ml <span class=\"text-danger\">[1L]</span>&nbsp;cold water and bring to a boil over a high heat</p>\r\n<p>Once boiling, reduce the heat to medium and cook for 20 min or until tender, but with a slight bite</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-1-new-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-1-new-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-1-new-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-1-new-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-1-new-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, heat a large, wide-based pan (preferably non-stick) over a high heat with 1 tbsp <span class=\"text-danger\">[2 tbsp]</span> <strong>vegetable oil</strong></p>\r\n<p>Once hot, add the<strong> chicken</strong> and season generously with <strong>salt</strong> and<strong> pepper</strong>, then<strong>&nbsp;</strong>cook on each side for 3-4 min</p>\r\n<p>Meanwhile, peel and finely slice the <strong>red onion<span class=\"text-danger\">[s]</span></strong></p>\r\n<p>Boil a little kettle water (for step 4)&nbsp;</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-2-new-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-2-new-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-2-new-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-2-new-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-2-new-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>onion</strong> to the chicken&nbsp;and cook for a further 2-3 min, stirring until glossy</p>\r\n<p>Line a baking tray with <strong>tin foil</strong> and transfer the onions and chicken to the tray</p>\r\n<p>Drizzle the onions with the <strong>pomegranate molasses</strong>, season with <strong>pepper</strong> and put the tray in the oven for 10-15 min, or until the chicken is cooked through</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-3-new-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-3-new-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-3-new-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-3-new-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-3-new-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, combine the <strong>tahini</strong>, <strong>soy sauce</strong> and <strong>honey</strong></p>\r\n<p>Gradually add 3 tbsp <span class=\"text-danger\">[6 tbsp]</span>&nbsp;<strong>boiled water</strong>, a tablespoon at a time, and whisk (or stir with a fork) vigorously until a thin glossy sauce forms</p>\r\n<p>Season generously with <strong>salt</strong> - this is your tahini sauce</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-4-new-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-4-new-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-4-new-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-4-new-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-4-new-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>walnuts</strong> to a separate baking tray or oven-proof dish</p>\r\n<p>Put them in the oven for 4 min, or until the walnuts have slightly darkened in colour</p>\r\n<p>Once toasted, leave the nuts to cool</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Chop the <strong>parsley</strong>&nbsp;finely,<strong>&nbsp;</strong>including the stalks</p>\r\n<p>Chop the cooled, toasted <strong>walnuts</strong> coarsely</p>\r\n<p>Drain the cooked <strong>freekeh</strong>, return it to the cooking pot and season it with a pinch of&nbsp;<strong>salt</strong> and <strong>pepper</strong>&nbsp;</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-6-new-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-6-new-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-6-new-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-6-new-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-6-new-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add half of the <strong>parsley</strong> (save the rest for garnish),&nbsp;<strong>walnuts</strong>, <strong>onions</strong> and any cooking juices from the tray into the freekeh and stir to combine</p>\r\n<p>Slice the <strong>chicken </strong>finely with a sharp knife&nbsp;</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-7-new-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-7-new-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-7-new-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-7-new-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/428.step-7-new-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the sliced chicken over the freekeh with the tahini sauce drizzled over&nbsp;</p>\r\n<p>Garnish with the remaining parsley</p>\r\n<p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    },
+    {
+      "title": "nut",
+      "slug": "nut"
+    },
+    {
+      "title": "peanut",
+      "slug": "peanut"
+    }
+  ],
+  "seo": {
+    "title": "Nutty Molasses Chicken",
+    "description": "This recipe is inspired by a Persian chicken dish made from ground walnuts and pomegranate molasses. Our version is quicker but still combines the fruity, nutty flavours of the original recipe. Served with the supergrain freekeh for a taste of the Middle East.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/428---Nutty-Molasses-Chicken.jpg"
+  },
+  "tags": [],
+  "uid": "blt6876b63183cc3e2f",
+  "_version": 50,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 215,
+      "energy_kj": 906,
+      "fat_mg": 7703,
+      "fat_saturates_mg": 1160,
+      "carbs_mg": 20762,
+      "carbs_sugars_mg": 5880,
+      "fibre_mg": 2905,
+      "protein_mg": 17259,
+      "salt_mg": 255,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 702,
+      "energy_kj": 2960,
+      "fat_mg": 25151,
+      "fat_saturates_mg": 3789,
+      "carbs_mg": 67791,
+      "carbs_sugars_mg": 19199,
+      "fibre_mg": 9488,
+      "protein_mg": 56351,
+      "salt_mg": 834,
+      "net_weight_mg": 326500
+    }
+  },
+  "portion_sizes": null
+}

@@ -1,0 +1,592 @@
+{
+  "url": "/speedy-chicken-nasi-goreng",
+  "title": "Speedy Chicken Nasi-Goreng ",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "3664",
+  "gousto_uid": "52b382a4-b74f-494b-9622-0d11b7c0a4eb",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3523---Speedy-Chicken-Nasi-Goreng4326-1626251834633-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3523---Speedy-Chicken-Nasi-Goreng4326-1626251834633-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3523---Speedy-Chicken-Nasi-Goreng4326-1626251834633-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3523---Speedy-Chicken-Nasi-Goreng4326-1626251834633-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3523---Speedy-Chicken-Nasi-Goreng4326-1626251834633-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 2330
+  },
+  "description": "This tasty rice stir-fry is packed with crunchy veg, diced chicken and edamame. You'll stir-fry your rice, veggies and chicken with a spicy, sticky sauce. Then top it off with a sunny-side-up fried egg for a delicious and healthy dinner.   ",
+  "prep_times": {
+    "for_2": 10,
+    "for_4": 10
+  },
+  "cuisine": {
+    "slug": "indonesian",
+    "title": "Indonesian"
+  },
+  "ingredients": [
+    {
+      "label": "8ml sriracha hot chilli sauce",
+      "title": "sriracha hot chilli sauce-I-06-SML-OT-13",
+      "uid": "bltb7aeaccca98dd922",
+      "gousto_uuid": "8ab4090b-1e9f-4761-abdb-c3911390a80a",
+      "name": "sriracha hot chilli sauce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sriracha-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sriracha-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sriracha-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sriracha-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sriracha-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "peanut"
+          },
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "fish"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          },
+          {
+            "title": null,
+            "slug": "mustard"
+          },
+          {
+            "title": null,
+            "slug": "sesame"
+          }
+        ]
+      }
+    },
+    {
+      "label": "300g edamame & jasmine rice",
+      "title": "edamame & jasmine rice-I-03-GRN-RC-34",
+      "uid": "blt159617a2fd413665",
+      "gousto_uuid": "847f11e1-92bb-4c6d-9ca0-c688abf9b354",
+      "name": "edamame & jasmine rice",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Jasmine-Rice--Edamame-Beans-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Jasmine-Rice--Edamame-Beans-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Jasmine-Rice--Edamame-Beans-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Jasmine-Rice--Edamame-Beans-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Jasmine-Rice--Edamame-Beans-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "soya"
+          },
+          {
+            "title": null,
+            "slug": "mollusc"
+          }
+        ]
+      }
+    },
+    {
+      "label": "300g rainbow veg mix",
+      "title": "300g rainbow veg mix-I-05-FVG-LF-53",
+      "uid": "bltf16c8d5223cb48c0",
+      "gousto_uuid": "743238d4-506c-4244-a455-aa6a9bc4fd16",
+      "name": "300g rainbow veg mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rainbow-stir-fry-mix-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rainbow-stir-fry-mix-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rainbow-stir-fry-mix-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rainbow-stir-fry-mix-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rainbow-stir-fry-mix-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "15ml tamari soy sauce",
+      "title": "tamari soy sauce-I-06-SML-OT-16",
+      "uid": "blt3e4377abf25dd223",
+      "gousto_uuid": "4d9b777f-b6fe-4cc5-b613-52a724079e5f",
+      "name": "tamari soy sauce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "15g ginger & garlic paste",
+      "title": "ginger & garlic paste-I-08-SAU-PS-50",
+      "uid": "blteecc3ed8350d1be1",
+      "gousto_uuid": "66613362-e511-4465-b1a4-9992a919b5d0",
+      "name": "ginger & garlic paste",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "250g British diced chicken breast",
+      "title": "British diced chicken breast-I-10-MPF-PO-05",
+      "uid": "bltc205e354c02de571",
+      "gousto_uuid": "d5a5797a-7cef-4d50-970d-d3e08d19836b",
+      "name": "British diced chicken breast",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "25g honey",
+      "title": "honey-I-01-CAN-LQ-06",
+      "uid": "bltc92f99bd088d381a",
+      "gousto_uuid": "79f3354b-1c07-4ead-a173-f97e8cddd843",
+      "name": "honey",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 British free-range eggs",
+      "title": "British free range egg-IQ-06-SML-OT-01-01",
+      "uid": "bltb40819d6ebf4ef0d",
+      "gousto_uuid": "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+      "name": "British free range egg",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "egg"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1/2 tsp dried chilli flakes",
+      "title": "dried chilli flakes-IQ-06-SML-CL-01-01",
+      "uid": "bltdf5cef05fbb62840",
+      "gousto_uuid": "b721b69b-bff1-413a-82f8-3ed2b73979a2",
+      "name": "dried chilli flakes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Heat a large, wide-based pan (preferably non-stick with a matching lid) with a drizzle of <strong>vegetable</strong> <strong>oil</strong> over a medium-high heat</p><p>Once hot, add the <strong>diced</strong> <strong>chicken breast</strong> and cook for 6 min or until golden</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-copy-1630489100040-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-copy-1630489100040-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-copy-1630489100040-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-copy-1630489100040-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-copy-1630489100040-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>While the chicken is cooking, heat a separate large, wide-based pan (preferably non-stick) with a drizzle of<strong> vegetable</strong> <strong>oil</strong> over high heat</p><p>Once hot, add the <strong>rainbow</strong> <strong>veg mix </strong>and cook for 3 min or until the veg has slightly softened but still has some crunch</p><p>Once the veg has slightly softened, add the <strong>ginger & garlic paste </strong>and the <strong>edamame & jasmine rice</strong> and cook for a further 2-3 min or until fragrant</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-copy-1630489206186-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-copy-1630489206186-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-copy-1630489206186-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-copy-1630489206186-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-copy-1630489206186-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, combine the <strong>honey</strong>,<strong> tamari</strong>, <strong>sriracha </strong>and<strong> chilli flakes</strong> (can't handle the heat? Go easy!) in a small bowl<strong> </strong>– this is your <strong>spicy sauce</strong></p><p>Once the chicken is golden, transfer it to the rice pan and add the <strong>spicy sauce </strong>(reserve the pan!)</p><p>Give everything a good mix up and cook for 3 min further or until the chicken is cooked through (no pink meat!) and everything is piping hot – this is your <strong>chicken nasi-goreng</strong></p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-copy-1630489216549-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-copy-1630489216549-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-copy-1630489216549-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-copy-1630489216549-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-copy-1630489216549-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Return the reserved pan to a medium-low heat with a drizzle of <strong>vegetable oil</strong></p><p>Once hot, crack the <strong>eggs</strong> into the pan</p><p>Cover with a lid and cook for 2-3 min or until done to your liking</p><p>Tip: Shake your eggs before cracking for a perfectly-centred yolk</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-copy-1630489261362-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-copy-1630489261362-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-copy-1630489261362-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-copy-1630489261362-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-copy-1630489261362-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>chicken nasi-goreng</strong> topped with a <strong>fried egg </strong>and season with a generous pinch of<strong> salt </strong>and<strong> pepper</strong></p><p>Enjoy!</p>",
+      "order": 5,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "egg",
+      "slug": "egg"
+    },
+    {
+      "title": "peanut",
+      "slug": "peanut"
+    },
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "mollusc",
+      "slug": "mollusc"
+    }
+  ],
+  "seo": {
+    "title": "Speedy Chicken Nasi-Goreng ",
+    "description": "This tasty rice stir-fry is packed with crunchy veg, diced chicken and edamame. You'll stir-fry your rice, veggies and chicken with a spicy, sticky sauce. Then top it off with a sunny-side-up fried egg for a delicious and healthy dinner.   ",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://s3-eu-west-1.amazonaws.com/s3-gousto-production-media/cms/mood-image/3523---Speedy-Chicken-Nasi-Goreng4326-1626251834633.jpg"
+  },
+  "tags": [],
+  "uid": "bltef403d171ee5357c",
+  "_version": 2374,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 100,
+      "energy_kj": 426,
+      "fat_mg": 2237,
+      "fat_saturates_mg": 448,
+      "carbs_mg": 11812,
+      "carbs_sugars_mg": 3607,
+      "fibre_mg": 1289,
+      "protein_mg": 9082,
+      "salt_mg": 391,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 532,
+      "energy_kj": 2247,
+      "fat_mg": 11790,
+      "fat_saturates_mg": 2364,
+      "carbs_mg": 62253,
+      "carbs_sugars_mg": 19009,
+      "fibre_mg": 6796,
+      "protein_mg": 47865,
+      "salt_mg": 2064,
+      "net_weight_mg": 527000
+    }
+  },
+  "portion_sizes": null
+}

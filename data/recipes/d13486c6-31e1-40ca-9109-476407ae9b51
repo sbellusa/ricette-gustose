@@ -1,0 +1,652 @@
+{
+  "url": "/one-pot-pasta",
+  "title": "One Pot Pasta",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Vegetarian Recipes ",
+      "url": "/vegetarian-recipes",
+      "uid": "blta762d7d1d30213a2"
+    }
+  ],
+  "gousto_id": "251",
+  "gousto_uid": "d13486c6-31e1-40ca-9109-476407ae9b51",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/259.OnePotPastaV-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/259.OnePotPastaV-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/259.OnePotPastaV-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/259.OnePotPastaV-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/259.OnePotPastaV-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 1282
+  },
+  "description": "The idea behind this dish is that you cook your linguine in a measured amount of stock, rather than a massive pan of water. Throw in your raw ingredients; garlic, cherry tomatoes, Italian hard cheese and herbs, to cook as one. They marry together to form perfectly cooked pasta and a silky smooth sauce. ",
+  "prep_times": {
+    "for_2": 15,
+    "for_4": 15
+  },
+  "cuisine": {
+    "slug": "italian",
+    "title": "Italian"
+  },
+  "ingredients": [
+    {
+      "label": "1 tbsp Italian dried oregano",
+      "title": "dried oregano-IQ-06-SML-DL-04-04",
+      "uid": "bltd9a13d1d08ca30fb",
+      "gousto_uuid": "7edb165e-f4ea-4dee-a3df-f04d5cb3dcb5",
+      "name": "dried oregano",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "200g linguine",
+      "title": "linguine-IQ-03-GRN-PA-03-02",
+      "uid": "bltd8805776b1c1edf0",
+      "gousto_uuid": "923c2f49-2564-4a68-9814-d172e41a6d1b",
+      "name": "linguine",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/190g-linguine-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/190g-linguine-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/190g-linguine-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/190g-linguine-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/190g-linguine-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "20g fresh basil",
+      "title": "basil-I-07-HBS-PL-34",
+      "uid": "bltb1bbad82eb75824b",
+      "gousto_uuid": "b77e899d-b35c-4d2e-9811-ea29fa7bfa84",
+      "name": "basil",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1/2 tsp fiery chilli flakes ",
+      "title": "dried chilli flakes-IQ-06-SML-CL-01-01",
+      "uid": "bltdf5cef05fbb62840",
+      "gousto_uuid": "b721b69b-bff1-413a-82f8-3ed2b73979a2",
+      "name": "dried chilli flakes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 vegetable stock cube",
+      "title": "vegetable stock pot-I-06-SML-SC-05",
+      "uid": "blt22b2a05e06531155",
+      "gousto_uuid": "13e2dcd7-fa65-4e8d-a062-43d78801ad36",
+      "name": "vegetable stock pot",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "celery"
+          }
+        ]
+      }
+    },
+    {
+      "label": "40g Italian hard cheese",
+      "title": "italian hard cheese-I-09-DAI-CH-09",
+      "uid": "blt3f4c4b97eac0cddd",
+      "gousto_uuid": "489ee7e2-ff89-4089-b2a1-0f2876b8474c",
+      "name": "italian hard cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rennet-free-parmesan-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rennet-free-parmesan-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rennet-free-parmesan-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rennet-free-parmesan-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rennet-free-parmesan-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "250g cherry tomatoes",
+      "title": "cherry tomatoes-I-05-FVG-FV-02-04",
+      "uid": "blt45689303fed45d62",
+      "gousto_uuid": "f56ddebd-04ab-40ec-8bb5-d87c08a236db",
+      "name": "cherry tomatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 garlic cloves",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 onion",
+      "title": "brown onion-I-02-SVG-VG-07",
+      "uid": "blt8f3ebc667e318aad",
+      "gousto_uuid": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Sugar",
+      "slug": "sugar"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Boil </strong>a full kettle</p>\r\n<p><strong>Add</strong> the stock cube<span class=\"text-danger\">[s]</span>&nbsp;and 700ml <span class=\"text-danger\">[1.4L]</span>&nbsp;boiled water to a large pot (big enough to fit all the ingredients)</p>\r\n<p><strong>Place</strong> the pot over a high heat and bring to the boil</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Meanwhile</strong>, peel and finely slice the onion<span class=\"text-danger\">[s]</span></p>\r\n<p><strong>Peel</strong> and finely slice the garlic</p>\r\n<p><strong>Chop</strong> the cherry tomatoes in half</p>\r\n<p><strong>Grate</strong> the cheese</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Once</strong> the stock is boiling, reduce the heat to medium and add the linguine (you can break the linguine in half if it doesn't fit)</p>\r\n<p><strong>Add</strong>&nbsp;the tomatoes, onion, garlic, dried oregano and the chilli flakes (can't handle the heat? Go easy!)</p>\r\n<p><strong>Add</strong> half the cheese and half the basil</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong>&nbsp;2 tbsp <span class=\"text-danger\">[4 tbsp]</span>&nbsp;olive oil and 1 tsp <span class=\"text-danger\">[2 tsp]</span>&nbsp;of both sugar and pepper</p>\r\n<p><strong>Cover</strong> and cook for 5 min or until half of the water has absorbed</p>\r\n<p>&nbsp;</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>After </strong>5 min, remove the lid and stir continuously until the linguine has cooked (approx. 5 min), adding more water if needed</p>\r\n<p><strong>Tip:</strong>&nbsp;stirring the sauce releases the starch from the pasta, making it creamier</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Once </strong>cooked, add the remaining cheese and basil</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Taste</strong> for seasoning, adding more salt and pepper if needed &nbsp;</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-8-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-8-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-8-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-8-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/259-step-8-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Serve </strong>and enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "celery",
+      "slug": "celery"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    }
+  ],
+  "seo": {
+    "title": "One Pot Pasta",
+    "description": "The idea behind this dish is that you cook your linguine in a measured amount of stock, rather than a massive pan of water. Throw in your raw ingredients; garlic, cherry tomatoes, Italian hard cheese and herbs, to cook as one. They marry together to form perfectly cooked pasta and a silky smooth sauce. ",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/259.OnePotPastaV.jpg"
+  },
+  "tags": [],
+  "uid": "blt3b42f30dd2e18b53",
+  "_version": 48,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 151,
+      "energy_kj": 643,
+      "fat_mg": 2718,
+      "fat_saturates_mg": 1373,
+      "carbs_mg": 27137,
+      "carbs_sugars_mg": 2949,
+      "fibre_mg": 2252,
+      "protein_mg": 6151,
+      "salt_mg": 795,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 473,
+      "energy_kj": 2008,
+      "fat_mg": 8483,
+      "fat_saturates_mg": 4285,
+      "carbs_mg": 84670,
+      "carbs_sugars_mg": 9202,
+      "fibre_mg": 7028,
+      "protein_mg": 19192,
+      "salt_mg": 2483,
+      "net_weight_mg": 312000
+    }
+  },
+  "portion_sizes": null
+}

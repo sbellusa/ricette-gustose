@@ -1,0 +1,614 @@
+{
+  "url": "/simple-king-prawn-garlic-chilli-linguine",
+  "title": "Simple King Prawn, Garlic & Chilli Linguine",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Dairy-Free ",
+      "url": "/dairy-free",
+      "uid": "bltba0f45afb7165184"
+    },
+    {
+      "title": null,
+      "url": null,
+      "uid": "blt54538aae1331442b"
+    },
+    {
+      "title": "Pasta Recipes",
+      "url": "/pasta-recipes",
+      "uid": "blt637b2a42a268b2b1"
+    },
+    {
+      "title": "Prawn Recipes",
+      "url": "/prawn-recipes",
+      "uid": "bltd8911d168617690f"
+    },
+    {
+      "title": "Fish Recipes",
+      "url": "/fish-recipes",
+      "uid": "bltc04cab7baf142a2b"
+    },
+    {
+      "title": "Lighter",
+      "url": "/lighter",
+      "uid": "blt74e6f3cf5fe273c1"
+    },
+    {
+      "title": "Italian Recipes",
+      "url": "/italian-recipes",
+      "uid": "blt7306e62f2a9906c9"
+    },
+    {
+      "title": null,
+      "url": null,
+      "uid": "bltaf39e8cdab7b454a"
+    }
+  ],
+  "gousto_id": "912",
+  "gousto_uid": "308c433f-2c63-4d20-962e-669e351f9ab1",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/928-Simple-King-Prawn-Garlic--Chilli-Linguine.2-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/928-Simple-King-Prawn-Garlic--Chilli-Linguine.2-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/928-Simple-King-Prawn-Garlic--Chilli-Linguine.2-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/928-Simple-King-Prawn-Garlic--Chilli-Linguine.2-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/928-Simple-King-Prawn-Garlic--Chilli-Linguine.2-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 14532
+  },
+  "description": "Create a classic Sicilian pasta with chilli, garlic, parsley and juicy king prawns. Then simply finish with a squeeze of lemon to brighten the flavours, and serve with a drizzle of olive oil. ",
+  "prep_times": {
+    "for_2": 20,
+    "for_4": 25
+  },
+  "cuisine": {
+    "slug": "italian",
+    "title": "Italian"
+  },
+  "ingredients": [
+    {
+      "label": "1 red chilli ",
+      "title": "red chilli-I-05-FVG-FV-06",
+      "uid": "blt9449c22aa5aa8996",
+      "gousto_uuid": "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+      "name": "red chilli",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "190g linguine",
+      "title": "linguine-IQ-03-GRN-PA-03-02",
+      "uid": "bltd8805776b1c1edf0",
+      "gousto_uuid": "923c2f49-2564-4a68-9814-d172e41a6d1b",
+      "name": "linguine",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/190g-linguine-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/190g-linguine-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/190g-linguine-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/190g-linguine-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/190g-linguine-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "171g raw peeled king prawns",
+      "title": "raw peeled king prawns-IQ-10-MPF-SE-36",
+      "uid": "blt07d267e363122d45",
+      "gousto_uuid": "edbd0f9c-c275-4238-9403-0ba19cf96a9c",
+      "name": "raw peeled king prawns",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/king-prawns-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/king-prawns-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/king-prawns-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/king-prawns-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/king-prawns-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "crustacean"
+          },
+          {
+            "title": null,
+            "slug": "mollusc"
+          }
+        ]
+      }
+    },
+    {
+      "label": "10g parsley ",
+      "title": "parsley-I-07-HBS-PL-25",
+      "uid": "bltea262efbf1ed9532",
+      "gousto_uuid": "2ad9f7c1-18f7-4974-b647-95059a432969",
+      "name": "parsley",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 spring onions",
+      "title": "spring onion-I-07-HBS-PL-10",
+      "uid": "blt7f30073f4f7cf590",
+      "gousto_uuid": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+      "name": "spring onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "3 garlic cloves ",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 lemon ",
+      "title": "lemon-I-02-SVG-SF-03",
+      "uid": "blte823ccfd82fc22c7",
+      "gousto_uuid": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+      "name": "lemon",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Boil a kettle, then peel and finely chop (or grate) the <strong>garlic</strong></p><p>Trim, then chop the <strong>spring onions</strong> roughly</p><p>Cut the<strong> red chilli<span class=\"text-danger\">[es]</span></strong> in half lengthways, deseed (scrape the seeds out with a teaspoon) and chop roughly</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the<strong> linguine</strong> to a pot of<strong> boiled water</strong> with a large pinch of<strong> salt</strong> and bring to the boil over a high heat</p><p>Cook the<strong> </strong>pasta for 8-10 min or until cooked with a slight bite</p><p>Once done, drain the<strong> linguine</strong>, reserving a cup of the <strong>starchy pasta water</strong></p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Mix the <strong>chopped</strong> <strong>chilli </strong>(can't handle the heat? Go easy!) and <strong>spring onion </strong>together and chop them until you're left with a finely chopped mixture – this is your <strong>chilli & spring onion mixture</strong></p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a large, wide-based pan (preferably non-stick) with 3 tbsp <span class=\"text-danger\">[6 tbsp]</span> <strong>olive oil</strong> over a medium heat</p><p>Once hot, add the<strong> chilli & spring onion mixture </strong>to the pan and cook for 2 min or until it begins to soften</p><p>Add the<strong> king prawns</strong> and <strong>chopped garlic</strong> and cook for 4-5 min or until the prawns are cooked through</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>While the prawns are cooking, cut the <strong>lemon<span class=\"text-danger\">[s]</span></strong> in half</p><p>Chop the<strong> parsley</strong> finely, including the stalks</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the prawns are cooked, add the<strong> cooked linguine</strong> to the pan with a couple of splashes of <strong>starchy pasta water</strong></p><p>Squeeze in the <strong>juice</strong> of 1/2<span class=\"text-danger\"> [1]</span><strong> lemon</strong> and stir until the sauce sticks to the<strong> </strong>linguine – this is your <strong>king prawn, garlic & chilli linguine</strong></p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Remove from the heat and stir through the <strong>chopped parsley</strong></p><p>Cut the <strong>remaining</strong> <strong>lemon</strong> into wedges</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/928.-step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the<strong> king prawn, garlic & chilli linguine</strong> in bowls with a<strong> lemon wedge</strong> to the side</p><p>Drizzle with a little<strong> olive oil </strong>and season with plenty of<strong> black pepper</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "crustacean",
+      "slug": "crustacean"
+    },
+    {
+      "title": "mollusc",
+      "slug": "mollusc"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    }
+  ],
+  "seo": {
+    "title": "Simple King Prawn, Garlic & Chilli Linguine ",
+    "description": "Create a classic Sicilian pasta with chilli, garlic, parsley and juicy king prawns. Then simply finish with a squeeze of lemon to brighten the flavours Serve with a drizzle of olive oil and a rocket salad to the side.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/928-Simple-King-Prawn-Garlic--Chilli-Linguine.2.jpg"
+  },
+  "tags": [],
+  "uid": "bltc116c5d9243d942a",
+  "_version": 103,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 155,
+      "energy_kj": 654,
+      "fat_mg": 779,
+      "fat_saturates_mg": 183,
+      "carbs_mg": 28303,
+      "carbs_sugars_mg": 1772,
+      "fibre_mg": 1825,
+      "protein_mg": 9360,
+      "salt_mg": 499,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 411,
+      "energy_kj": 1731,
+      "fat_mg": 2061,
+      "fat_saturates_mg": 485,
+      "carbs_mg": 74862,
+      "carbs_sugars_mg": 4689,
+      "fibre_mg": 4828,
+      "protein_mg": 24758,
+      "salt_mg": 1322,
+      "net_weight_mg": 264500
+    }
+  },
+  "portion_sizes": null
+}

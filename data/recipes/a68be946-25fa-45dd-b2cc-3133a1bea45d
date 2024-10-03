@@ -1,0 +1,923 @@
+{
+  "url": "/10-min-fruity-halloumi-spinach-pilaf",
+  "title": "Golden Halloumi & Fruity Spinach Pilaf",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "10-Minute Meals",
+      "url": "/10-minute-meals",
+      "uid": "blt464f71fb1a92c640"
+    },
+    {
+      "title": "Vegetarian Recipes ",
+      "url": "/vegetarian-recipes",
+      "uid": "blta762d7d1d30213a2"
+    },
+    {
+      "title": "Vegetarian",
+      "url": "/vegetarian",
+      "uid": "blt5cc8b5413c283f12"
+    },
+    {
+      "title": "Gluten-Free ",
+      "url": "/gluten-free",
+      "uid": "blt05a40818b6dba670"
+    }
+  ],
+  "gousto_id": "2461",
+  "gousto_uid": "a68be946-25fa-45dd-b2cc-3133a1bea45d",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2329---10-Min-Fruity-Halloumi--Spinach0884-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2329---10-Min-Fruity-Halloumi--Spinach0884-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2329---10-Min-Fruity-Halloumi--Spinach0884-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2329---10-Min-Fruity-Halloumi--Spinach0884-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2329---10-Min-Fruity-Halloumi--Spinach0884-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 961
+  },
+  "description": "Picture this. Aromatic brown rice, packed with dates, full of green beans and topped with slices of crispy golden halloumi. Plate it up with lashings of cool natural yoghurt and dig in.",
+  "prep_times": {
+    "for_2": 10,
+    "for_4": 10
+  },
+  "cuisine": {
+    "slug": "middle-eastern",
+    "title": "Middle Eastern"
+  },
+  "ingredients": [
+    {
+      "label": "Fine green beans (80g)",
+      "title": "fine green beans-I-05-FVG-PD-01-14",
+      "uid": "blta9baeecca109d356",
+      "gousto_uuid": "846b56c4-4dad-4edb-a09d-9e2bbd5b3a73",
+      "name": "fine green beans",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-trimmed-fine-green-beans-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-trimmed-fine-green-beans-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-trimmed-fine-green-beans-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-trimmed-fine-green-beans-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-trimmed-fine-green-beans-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Natural yoghurt (80g)",
+      "title": "natural yoghurt-I-09-DAI-CR-13",
+      "uid": "blt8d35001e30a0bf2b",
+      "gousto_uuid": "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+      "name": "natural yoghurt",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Ras el hanout (1tbsp)",
+      "title": "ras el hanout-I-06-SML-DL-37",
+      "uid": "blt7007dbff354082b7",
+      "gousto_uuid": "631dc7d6-b411-48bf-b6a8-eafc30e89fb0",
+      "name": "ras el hanout",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ras-el-hanout-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ras-el-hanout-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ras-el-hanout-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ras-el-hanout-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ras-el-hanout-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Cooked brown long grain rice (280g)",
+      "title": "cooked brown long grain rice-I-03-GRN-RC-40",
+      "uid": "blt86711c6a19993ce0",
+      "gousto_uuid": "1ce7caa3-bc52-4aad-b8cb-9c2930ad371e",
+      "name": "cooked brown long grain rice",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-brown-rice-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-brown-rice-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-brown-rice-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-brown-rice-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-brown-rice-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Halloumi (200g)",
+      "title": "halloumi-I-09-DAI-CH-30",
+      "uid": "blt8a0aa7bc605989b2",
+      "gousto_uuid": "14341c5e-3c23-4fb0-b591-8ea2baa90e12",
+      "name": "halloumi",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/200g-halloumi-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/200g-halloumi-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/200g-halloumi-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/200g-halloumi-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/200g-halloumi-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Spinach (80g)",
+      "title": "spinach-I-05-FVG-FG-02-03",
+      "uid": "blte6edae427c7fa86f",
+      "gousto_uuid": "d240500f-9c26-4286-88bc-6be3e774e96b",
+      "name": "spinach",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Chopped dates (30g)",
+      "title": "chopped dates-IQ-04-NUT-DF-03",
+      "uid": "blta08df8994b5050e5",
+      "gousto_uuid": "dc38d999-aa2e-46bc-b714-56b8b6c55f6c",
+      "name": "chopped dates",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-bag-of-chopped-dates-30g-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-bag-of-chopped-dates-30g-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-bag-of-chopped-dates-30g-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-bag-of-chopped-dates-30g-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-bag-of-chopped-dates-30g-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Red onion",
+      "title": "red onion-I-02-SVG-VG-05",
+      "uid": "bltc69ae0a09122a2b4",
+      "gousto_uuid": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Before you begin...</strong></p><p>Get all your ingredients and equipment ready</p><p>Skim through these steps, then wash your fruit and veg</p><p>Note: Equipment and pan sizes vary. Make sure you cook food thoroughly (even if it takes you a little longer than 10 mins)</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Now, let's get started!</strong></p><p>Peel and finely slice your<strong> red onion[s]</strong></p><p>Trim, then chop your <strong>green beans </strong>in half</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a large, wide-based pan (preferably non-stick with a matching lid) with a generous drizzle of <strong>olive oil</strong> over a medium-high heat</p><p>Once hot, add the <strong>sliced onion</strong> and <strong>halved beans</strong> and cook for 3-4 min or until slightly softened</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, slice your<strong> halloumi</strong> into thin strips (save the <strong>halloumi liquid</strong> from the packet for later!)</p><p>Heat a separate large, dry, wide-based pan (preferably non-stick) over a high heat</p><p>Once hot, add the <strong>sliced halloumi</strong> to the pan and cook for 2-3 min on each side or until golden and crisp</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Wash your <strong>spinach</strong> and shake off the excess water</p><p>Squeeze your pouch[es] of <strong>cooked brown long grain rice </strong>to separate the grains</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the onion and beans are slightly softened, add your<strong> ras el hanout</strong> and cook for 30 secs or until fragrant</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once fragrant, add the <strong>spinach </strong>to the pan with your <strong>chopped dates</strong>,<strong> cooked brown long grain rice</strong>,<strong> halloumi liquid </strong>and a small splash of <strong>cold water</strong></p><p>Stir it altogether and cook, covered, for 3-4 min or until warmed through and the spinach has wilted – this is your <strong>fruity spinach pilaf</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2329-Step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the<strong> fruity spinach pilaf</strong> topped with the <strong>halloumi slices</strong></p><p>Drizzle your<strong> natural yoghurt</strong> over the top and season with a pinch of <strong>pepper</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "milk",
+      "slug": "milk"
+    }
+  ],
+  "seo": {
+    "title": "10-Min Fruity Halloumi & Spinach Pilaf",
+    "description": "In this vegetarian recipe, you'll cook halloumi with Middle-Eastern spice blend 'baharat' and dried chilli flakes, before adding spinach, rice and fruity sultanas. Lemon juice brings zing to the dish, which is then topped with crunchy flaked almonds and fresh dill.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/2329---10-Min-Fruity-Halloumi--Spinach0884.jpg"
+  },
+  "tags": [],
+  "uid": "blt7c81217c10b7da41",
+  "_version": 60,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 158,
+      "energy_kj": 661,
+      "fat_mg": 7315,
+      "fat_saturates_mg": 3905,
+      "carbs_mg": 14865,
+      "carbs_sugars_mg": 4338,
+      "fibre_mg": 2272,
+      "protein_mg": 7546,
+      "salt_mg": 626,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 663,
+      "energy_kj": 2773,
+      "fat_mg": 30650,
+      "fat_saturates_mg": 16365,
+      "carbs_mg": 62285,
+      "carbs_sugars_mg": 18180,
+      "fibre_mg": 9520,
+      "protein_mg": 31620,
+      "salt_mg": 2623,
+      "net_weight_mg": 419000
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 1,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "dc38d999-aa2e-46bc-b714-56b8b6c55f6c",
+          "code": "IQ-04-NUT-DF-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "1ce7caa3-bc52-4aad-b8cb-9c2930ad371e",
+          "code": "I-03-GRN-RC-40",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "846b56c4-4dad-4edb-a09d-9e2bbd5b3a73",
+          "code": "I-05-FVG-PD-01-14",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "14341c5e-3c23-4fb0-b591-8ea2baa90e12",
+          "code": "I-09-DAI-CH-30",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+          "code": "I-09-DAI-CR-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "631dc7d6-b411-48bf-b6a8-eafc30e89fb0",
+          "code": "I-06-SML-DL-37",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d240500f-9c26-4286-88bc-6be3e774e96b",
+          "code": "I-05-FVG-FG-02-03",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "dc38d999-aa2e-46bc-b714-56b8b6c55f6c",
+          "code": "IQ-04-NUT-DF-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "1ce7caa3-bc52-4aad-b8cb-9c2930ad371e",
+          "code": "I-03-GRN-RC-40",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "846b56c4-4dad-4edb-a09d-9e2bbd5b3a73",
+          "code": "I-05-FVG-PD-01-14",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "14341c5e-3c23-4fb0-b591-8ea2baa90e12",
+          "code": "I-09-DAI-CH-30",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+          "code": "I-09-DAI-CR-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "631dc7d6-b411-48bf-b6a8-eafc30e89fb0",
+          "code": "I-06-SML-DL-37",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d240500f-9c26-4286-88bc-6be3e774e96b",
+          "code": "I-05-FVG-FG-02-03",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 3,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "dc38d999-aa2e-46bc-b714-56b8b6c55f6c",
+          "code": "IQ-04-NUT-DF-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "1ce7caa3-bc52-4aad-b8cb-9c2930ad371e",
+          "code": "I-03-GRN-RC-40",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "846b56c4-4dad-4edb-a09d-9e2bbd5b3a73",
+          "code": "I-05-FVG-PD-01-14",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "14341c5e-3c23-4fb0-b591-8ea2baa90e12",
+          "code": "I-09-DAI-CH-30",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+          "code": "I-09-DAI-CR-13",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "631dc7d6-b411-48bf-b6a8-eafc30e89fb0",
+          "code": "I-06-SML-DL-37",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d240500f-9c26-4286-88bc-6be3e774e96b",
+          "code": "I-05-FVG-FG-02-03",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "dc38d999-aa2e-46bc-b714-56b8b6c55f6c",
+          "code": "IQ-04-NUT-DF-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "1ce7caa3-bc52-4aad-b8cb-9c2930ad371e",
+          "code": "I-03-GRN-RC-40",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "846b56c4-4dad-4edb-a09d-9e2bbd5b3a73",
+          "code": "I-05-FVG-PD-01-14",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "14341c5e-3c23-4fb0-b591-8ea2baa90e12",
+          "code": "I-09-DAI-CH-30",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+          "code": "I-09-DAI-CR-13",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "631dc7d6-b411-48bf-b6a8-eafc30e89fb0",
+          "code": "I-06-SML-DL-37",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d240500f-9c26-4286-88bc-6be3e774e96b",
+          "code": "I-05-FVG-FG-02-03",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 5,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "dc38d999-aa2e-46bc-b714-56b8b6c55f6c",
+          "code": "IQ-04-NUT-DF-03",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "1ce7caa3-bc52-4aad-b8cb-9c2930ad371e",
+          "code": "I-03-GRN-RC-40",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "846b56c4-4dad-4edb-a09d-9e2bbd5b3a73",
+          "code": "I-05-FVG-PD-01-14",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "14341c5e-3c23-4fb0-b591-8ea2baa90e12",
+          "code": "I-09-DAI-CH-30",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+          "code": "I-09-DAI-CR-13",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "631dc7d6-b411-48bf-b6a8-eafc30e89fb0",
+          "code": "I-06-SML-DL-37",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "d240500f-9c26-4286-88bc-6be3e774e96b",
+          "code": "I-05-FVG-FG-02-03",
+          "quantities": {
+            "in_box": 3
+          }
+        }
+      ]
+    }
+  ]
+}

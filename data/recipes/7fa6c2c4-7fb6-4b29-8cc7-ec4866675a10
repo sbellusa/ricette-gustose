@@ -1,0 +1,943 @@
+{
+  "url": "/slow-cooker-mushroom-ragu-spaghetti-caprese-salad",
+  "title": "Slow Cooker Mushroom Ragù Spaghetti & Caprese Salad",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "5353",
+  "gousto_uid": "7fa6c2c4-7fb6-4b29-8cc7-ec4866675a10",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5198---Slow-Cooker-Mushroom-Ragu-Spaghetti--Caprese-Salad0243-1666720524081-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5198---Slow-Cooker-Mushroom-Ragu-Spaghetti--Caprese-Salad0243-1666720524081-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5198---Slow-Cooker-Mushroom-Ragu-Spaghetti--Caprese-Salad0243-1666720524081-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5198---Slow-Cooker-Mushroom-Ragu-Spaghetti--Caprese-Salad0243-1666720524081-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5198---Slow-Cooker-Mushroom-Ragu-Spaghetti--Caprese-Salad0243-1666720524081-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 432
+  },
+  "description": "Warm up your week with this meat-free mushroom ragu. You’ll sauté grated mushrooms in garlicky butter before gently slow cooking in a rich balsamic-infused tomato sauce. Plate up with an easy caprese and a sprinkle of cheese. ",
+  "prep_times": {
+    "for_2": 245,
+    "for_4": 250
+  },
+  "cuisine": {
+    "slug": "italian",
+    "title": "Italian"
+  },
+  "ingredients": [
+    {
+      "label": "5g basil",
+      "title": "basil-I-07-HBS-PL-23",
+      "uid": "bltf719958334d8b893",
+      "gousto_uuid": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+      "name": "basil",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "125g cherry tomatoes",
+      "title": "cherry tomatoes-I-05-FVG-FV-02-08",
+      "uid": "blt60df91997e03dd15",
+      "gousto_uuid": "b3374bc8-0097-449f-9ac6-b53299104e11",
+      "name": "cherry tomatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "32g tomato paste",
+      "title": "tomato paste-I-08-SAU-PS-37",
+      "uid": "blt56af6f93c8c97b3f",
+      "gousto_uuid": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+      "name": "tomato paste",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "190g spaghetti",
+      "title": "spaghetti-I-03-GRN-PA-40",
+      "uid": "blt24d85a164eaf8302",
+      "gousto_uuid": "8deb2d63-8771-4bd0-8a9b-55cf5d96a2bc",
+      "name": "spaghetti",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/spaghetti-190g-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/spaghetti-190g-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/spaghetti-190g-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/spaghetti-190g-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/spaghetti-190g-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "egg"
+          }
+        ]
+      }
+    },
+    {
+      "label": "11g vegetable stock mix",
+      "title": "vegetable stock mix-I-06-SML-SC-27",
+      "uid": "bltebbd714d321e7e43",
+      "gousto_uuid": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+      "name": "vegetable stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "35g Italian hard cheese",
+      "title": "italian hard cheese-I-09-DAI-CH-24",
+      "uid": "bltd15b3a3b7cd68c3a",
+      "gousto_uuid": "d81b20cf-609b-49f3-b584-f57378429694",
+      "name": "italian hard cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/35g-Italian-hard-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/35g-Italian-hard-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/35g-Italian-hard-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/35g-Italian-hard-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/35g-Italian-hard-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "210g canned finely chopped tomatoes",
+      "title": "finely chopped tomatoes-I-01-CAN-VC-38",
+      "uid": "blt4323c91340efb803",
+      "gousto_uuid": "57564ebd-6a56-4910-8379-ccdc658a978d",
+      "name": "finely chopped tomatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 tsp dried oregano",
+      "title": "dried oregano-I-06-SML-DL-11",
+      "uid": "blt3e73399d67676327",
+      "gousto_uuid": "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+      "name": "dried oregano",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "250g chestnut mushrooms",
+      "title": "chestnut mushrooms-I-05-FVG-MS-20",
+      "uid": "bltac0c1b39aaaa191e",
+      "gousto_uuid": "9e4a3543-1d30-4faa-8613-bc185dd06aea",
+      "name": "chestnut mushrooms",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-chestnut-mushrooms-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-chestnut-mushrooms-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-chestnut-mushrooms-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-chestnut-mushrooms-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-chestnut-mushrooms-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "15ml balsamic vinegar",
+      "title": "balsamic vinegar-I-08-SAU-LS-15",
+      "uid": "blt36b3f7d5608537b7",
+      "gousto_uuid": "8357c090-d832-41bc-a458-b13600637e1b",
+      "name": "balsamic vinegar",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sulphites"
+          }
+        ]
+      }
+    },
+    {
+      "label": "125g mozzarella",
+      "title": "mozzarella-I-09-DAI-CH-06",
+      "uid": "bltc60ef78862781ea1",
+      "gousto_uuid": "d93301c4-2563-4b9d-b829-991800ca87b4",
+      "name": "mozzarella",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mozzarella-ball-125g-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mozzarella-ball-125g-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mozzarella-ball-125g-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mozzarella-ball-125g-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mozzarella-ball-125g-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 garlic clove",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Butter",
+      "slug": "butter"
+    },
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Before you begin...</strong></p><p>This recipe takes around 5 min <span class=\"text-danger\">[10 min]</span> to prep, so get your slow cooker and all your ingredients ready, then wash your fruit and veg</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-2-1667303059769-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-2-1667303059769-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-2-1667303059769-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-2-1667303059769-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-2-1667303059769-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Turn on your <strong>slow cooker</strong> to high</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1667302633371-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1667302633371-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1667302633371-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1667302633371-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1667302633371-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Grate the<strong> mushrooms</strong> and <strong>garlic clove<span class=\"text-danger\">[s]</span></strong></p><p>Heat a large, wide-based pan (preferably non-stick) with a<strong> </strong>drizzle<strong> </strong>of<strong> olive oil</strong> over a high heat</p><p>Add the <strong>grated mushrooms</strong>,<strong> garlic</strong> and a knob of <strong>butter </strong>to the pan</p><p>Add the <strong>tomato paste</strong> and give everything a good mix up</p><p>Cook for 2-3 min or until the mushrooms are softened</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1667302637202-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1667302637202-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1667302637202-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1667302637202-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1667302637202-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the contents of your pan to the<strong> slow cooker </strong>with the<strong> chopped tomatoes</strong>, <strong>vegetable stock mix</strong>, <strong>balsamic vinegar </strong>and <strong>oregano</strong></p><p>Cover and cook on high for 3 hours – this is your <strong>mushroom ragù</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1667302640049-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1667302640049-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1667302640049-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1667302640049-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1667302640049-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Use this time to clear up, set the table, have a cup of tea or simply chill!</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1667302651487-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1667302651487-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1667302651487-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1667302651487-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1667302651487-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>After 3 hours, boil a kettle</p><p>Break the<strong> spaghetti</strong> in half and add it to the<strong> slow cooker </strong>with 250ml <span class=\"text-danger\">[450ml]</span> <strong>boiled water</strong>, stirring everything to separate the strands</p><p>Cover and cook for 1 hour further – this is your <strong>mushroom ragù spaghetti</strong></p><p>Grate the <strong>Italian hard cheese</strong></p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1667302660212-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1667302660212-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1667302660212-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1667302660212-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1667302660212-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once everything is almost done, chop the<strong> cherry</strong> <strong>tomatoes</strong> in half and add them to a serving bowl</p><p>Drain the <strong>mozzarella</strong>, then pat and squeeze as much liquid out as you can with kitchen paper</p><p>Roughly tear the <strong>mozzarella </strong>and<strong> basil leaves</strong> over the top of the tomatoes</p><p>Drizzle with <strong>olive oil</strong> and season with <strong>salt</strong> and <strong>pepper</strong> – this is your <strong>caprese salad</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1667303029156-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1667303029156-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1667303029156-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1667303029156-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1667303029156-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>To serve, give the<strong> mushroom ragù</strong> <strong>spaghetti </strong>a good mix up with a fork to separate the strands of pasta and sprinkle the <strong>grated Italian hard cheese </strong>all over</p><p>Serve the <strong>caprese salad</strong> to the side</p><p>Let everyone dig in!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "sulphites",
+      "slug": "sulphites"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "egg",
+      "slug": "egg"
+    }
+  ],
+  "seo": {
+    "title": "Slow Cooker Mushroom Ragù Spaghetti & Caprese Salad",
+    "description": "Warm up your week with this meat-free mushroom ragu. You’ll sauté grated mushrooms in garlicky butter before gently slow cooking in a rich balsamic-infused tomato sauce. Plate up with an easy caprese and a sprinkle of cheese. ",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/5198---Slow-Cooker-Mushroom-Ragu-Spaghetti--Caprese-Salad0243-1666720524081.jpg"
+  },
+  "tags": [],
+  "uid": "bltcc056b89aa63af54",
+  "_version": 487,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 127,
+      "energy_kj": 536,
+      "fat_mg": 3605,
+      "fat_saturates_mg": 2326,
+      "carbs_mg": 17017,
+      "carbs_sugars_mg": 2714,
+      "fibre_mg": 1386,
+      "protein_mg": 6383,
+      "salt_mg": 393,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 641,
+      "energy_kj": 2700,
+      "fat_mg": 18137,
+      "fat_saturates_mg": 11703,
+      "carbs_mg": 85596,
+      "carbs_sugars_mg": 13655,
+      "fibre_mg": 6976,
+      "protein_mg": 32111,
+      "salt_mg": 1980,
+      "net_weight_mg": 503000
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+          "code": "I-06-SML-DL-11",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b3374bc8-0097-449f-9ac6-b53299104e11",
+          "code": "I-05-FVG-FV-02-08",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d93301c4-2563-4b9d-b829-991800ca87b4",
+          "code": "I-09-DAI-CH-06",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8357c090-d832-41bc-a458-b13600637e1b",
+          "code": "I-08-SAU-LS-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8deb2d63-8771-4bd0-8a9b-55cf5d96a2bc",
+          "code": "I-03-GRN-PA-40",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "57564ebd-6a56-4910-8379-ccdc658a978d",
+          "code": "I-01-CAN-VC-38",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "9e4a3543-1d30-4faa-8613-bc185dd06aea",
+          "code": "I-05-FVG-MS-20",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+          "code": "I-08-SAU-PS-37",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d81b20cf-609b-49f3-b584-f57378429694",
+          "code": "I-09-DAI-CH-24",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+          "code": "I-07-HBS-PL-23",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+          "code": "I-06-SML-DL-11",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "b3374bc8-0097-449f-9ac6-b53299104e11",
+          "code": "I-05-FVG-FV-02-08",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d93301c4-2563-4b9d-b829-991800ca87b4",
+          "code": "I-09-DAI-CH-06",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "8357c090-d832-41bc-a458-b13600637e1b",
+          "code": "I-08-SAU-LS-15",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "8deb2d63-8771-4bd0-8a9b-55cf5d96a2bc",
+          "code": "I-03-GRN-PA-40",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "57564ebd-6a56-4910-8379-ccdc658a978d",
+          "code": "I-01-CAN-VC-38",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "9e4a3543-1d30-4faa-8613-bc185dd06aea",
+          "code": "I-05-FVG-MS-20",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+          "code": "I-08-SAU-PS-37",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d81b20cf-609b-49f3-b584-f57378429694",
+          "code": "I-09-DAI-CH-24",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+          "code": "I-07-HBS-PL-23",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    }
+  ]
+}

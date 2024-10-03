@@ -1,0 +1,829 @@
+{
+  "url": "/yasai-yaki-udon",
+  "title": "Yasai Yaki Udon",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Dairy-Free ",
+      "url": "/dairy-free",
+      "uid": "bltba0f45afb7165184"
+    },
+    {
+      "title": null,
+      "url": null,
+      "uid": "bltb7a6b9970241dc48"
+    },
+    {
+      "title": "Plant-Based",
+      "url": "/plant-based",
+      "uid": "bltbe1b1dc1446d6ab8"
+    },
+    {
+      "title": "Healthy Choices",
+      "url": "/healthy-choices",
+      "uid": "blt6481386f749a222a"
+    },
+    {
+      "title": "Vegetarian",
+      "url": "/vegetarian",
+      "uid": "blt5cc8b5413c283f12"
+    },
+    {
+      "title": "Vegan Recipes",
+      "url": "/vegan-recipes",
+      "uid": "blt780131ad80dc73ef"
+    }
+  ],
+  "gousto_id": "2388",
+  "gousto_uid": "c54b83e0-e127-42b2-8d09-636734007c18",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2256---Yasai-Yaki-Udon_Wagamamas-1999-1569588486813-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2256---Yasai-Yaki-Udon_Wagamamas-1999-1569588486813-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2256---Yasai-Yaki-Udon_Wagamamas-1999-1569588486813-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2256---Yasai-Yaki-Udon_Wagamamas-1999-1569588486813-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2256---Yasai-Yaki-Udon_Wagamamas-1999-1569588486813-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 3463
+  },
+  "description": "You’ll throw together fresh veggies with soft and chewy udon for a delicious and quick plant-based noodle stir-fry. We’ve teamed up with wagamama to bring these hearty noodles to your kitchen at home.",
+  "prep_times": {
+    "for_2": 20,
+    "for_4": 25
+  },
+  "cuisine": {
+    "slug": "japanese",
+    "title": "Japanese"
+  },
+  "ingredients": [
+    {
+      "label": "1 bag fried onions (15g)",
+      "title": "crispy onions-IQ-08-SAU-PT-06-02",
+      "uid": "bltbfc2a08372035226",
+      "gousto_uuid": "61499436-65ce-4e9a-8e7b-72882f1121a8",
+      "name": "crispy onions",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Fried-onion-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Fried-onion-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Fried-onion-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Fried-onion-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Fried-onion-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 toasted sesame seed sachet (5g)",
+      "title": "toasted sesame seeds-I-06-SML-SD-14",
+      "uid": "blt4de0adaefa6dd032",
+      "gousto_uuid": "c4363e48-068d-4650-b2c3-afba8d801197",
+      "name": "toasted sesame seeds",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-toasted-sesame-seeds-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-toasted-sesame-seeds-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-toasted-sesame-seeds-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-toasted-sesame-seeds-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-toasted-sesame-seeds-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sesame"
+          },
+          {
+            "title": null,
+            "slug": "fish"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          },
+          {
+            "title": null,
+            "slug": "nut"
+          },
+          {
+            "title": null,
+            "slug": "celery"
+          },
+          {
+            "title": null,
+            "slug": "mustard"
+          }
+        ]
+      }
+    },
+    {
+      "label": "400g udon noodles",
+      "title": "udon noodles-I-03-GRN-PA-30",
+      "uid": "blt68e0ff491b31291b",
+      "gousto_uuid": "a71e3195-df67-4877-9c55-de7584867d49",
+      "name": "udon noodles",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/200g-udon-noodles-new-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/200g-udon-noodles-new-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/200g-udon-noodles-new-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/200g-udon-noodles-new-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/200g-udon-noodles-new-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 Henderson's Relish sachet (15ml)",
+      "title": "Hendersons relish-I-08-SAU-HD-02",
+      "uid": "blt755b4a0ad2b852c2",
+      "gousto_uuid": "803f4e4a-ac59-4ab2-9da2-dd872b675ef5",
+      "name": "Hendersons relish",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/hendersons-relish-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/hendersons-relish-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/hendersons-relish-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/hendersons-relish-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/hendersons-relish-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 pickled ginger sachet (4g)",
+      "title": "pickled ginger-I-06-SML-OT-18",
+      "uid": "blt92ab6633f2844164",
+      "gousto_uuid": "1db96216-c3ff-4363-bcb2-e3f9187821ee",
+      "name": "pickled ginger",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/4g-pickled-ginger-v2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/4g-pickled-ginger-v2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/4g-pickled-ginger-v2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/4g-pickled-ginger-v2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/4g-pickled-ginger-v2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 soy sauce sachet (30ml)",
+      "title": "soy sauce-I-06-SML-OT-15",
+      "uid": "bltdb27bbac781f8209",
+      "gousto_uuid": "d516304e-cb6e-42a9-8d0a-0e0d9477a800",
+      "name": "soy sauce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "160g chestnut mushrooms",
+      "title": "chestnut mushrooms-I-05-FVG-MS-15",
+      "uid": "blt5e501dc7f5148260",
+      "gousto_uuid": "258b809a-5998-431f-82cd-8c3da08a9201",
+      "name": "chestnut mushrooms",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-chestnut-mushrooms-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-chestnut-mushrooms-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-chestnut-mushrooms-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-chestnut-mushrooms-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-chestnut-mushrooms-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 black sesame seed sachet (5g)",
+      "title": "black sesame seeds-I-06-SML-SD-13",
+      "uid": "blt12a7da1cc0c52af7",
+      "gousto_uuid": "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+      "name": "black sesame seeds",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/black-sesame-seeds-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/black-sesame-seeds-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/black-sesame-seeds-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/black-sesame-seeds-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/black-sesame-seeds-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sesame"
+          },
+          {
+            "title": null,
+            "slug": "fish"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          },
+          {
+            "title": null,
+            "slug": "nut"
+          },
+          {
+            "title": null,
+            "slug": "celery"
+          },
+          {
+            "title": null,
+            "slug": "mustard"
+          }
+        ]
+      }
+    },
+    {
+      "label": "4 spring onions",
+      "title": "spring onion-I-07-HBS-PL-10",
+      "uid": "blt7f30073f4f7cf590",
+      "gousto_uuid": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+      "name": "spring onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "15g fresh root ginger",
+      "title": "ginger-IQ-06-SML-OT-03-01",
+      "uid": "blt286d3a9819caba5f",
+      "gousto_uuid": "90ea17bd-204c-4ded-9dac-12df03f265d6",
+      "name": "ginger",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 red pepper",
+      "title": "red pepper-I-05-FVG-FV-07",
+      "uid": "blt0f5f2591749c88e3",
+      "gousto_uuid": "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+      "name": "red pepper",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 red onion",
+      "title": "red onion-I-02-SVG-VG-05",
+      "uid": "bltc69ae0a09122a2b4",
+      "gousto_uuid": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Slice the <strong>chestnut mushrooms</strong></p>\n<p>Deseed the<strong> red pepper<span class=\"text-danger\">[s]</span></strong> (scrape the seeds and pith out with a teaspoon) and cut into thin strips</p>\n<p>Peel and finely slice the<strong> red onion<span class=\"text-danger\">[s]</span></strong></p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Peel (scrape the skin off with a teaspoon) and finely chop (or grate) the <strong>ginger</strong></p>\n<p>Trim, then slice the <strong>spring onions</strong> into large, bite-sized pieces</p>\n<p>Tip: Bunch them together for speed!</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a wide, large based pan (preferably non-stick) with a generous drizzle of <strong>vegetable oil</strong> over a high heat</p>\n<p>Once hot, add the <strong>sliced mushrooms</strong>, <strong>red onion</strong> and <strong>red pepper</strong> with a pinch of <strong>salt</strong> and cook for 3-4 min or until starting to caramelise</p>\n<p> </p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once caramelised, add the <strong>chopped spring onion</strong> and cook for 2-3 min further </p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>chopped ginger</strong> and cook for 1 min or until fragrant</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the<strong> udon noodles</strong> and cook for 3-4 min or until warmed through</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>soy sauce</strong> and <strong>Henderson's Relish</strong> and cook for 1-2 min further until the noodles are fully coated in the sauce</p>\n<p>Season with a grind of <strong>black pepper</strong> – this is your <strong>yasai yaki udon</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2256-Step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>yasai yaki udon</strong> and garnish with th<span class=\"text-highlight\">e</span><strong><span class=\"text-highlight\"> sesame se</span>eds</strong>, <strong>fried onions</strong> and <strong>pickled ginger</strong></p>\n<p>Enjoy!</p>\n<p>From wagamama’s new cookbook: Feed Your Soul (Kyle Books)</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    }
+  ],
+  "seo": {
+    "title": "Yasai Yaki Udon",
+    "description": "You’ll throw together fresh veggies with soft and chewy udon for a delicious and quick plant-based noodle stir-fry. We’ve teamed up with wagamama to bring these hearty noodles to your kitchen at home.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/2256---Yasai-Yaki-Udon_Wagamamas-1999-1569588486813.jpg"
+  },
+  "tags": [],
+  "uid": "bltcc26a0f3069913f0",
+  "_version": 61,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 85,
+      "energy_kj": 359,
+      "fat_mg": 1707,
+      "fat_saturates_mg": 514,
+      "carbs_mg": 14847,
+      "carbs_sugars_mg": 1765,
+      "fibre_mg": 1575,
+      "protein_mg": 2385,
+      "salt_mg": 652,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 388,
+      "energy_kj": 1624,
+      "fat_mg": 7718,
+      "fat_saturates_mg": 2324,
+      "carbs_mg": 67109,
+      "carbs_sugars_mg": 7982,
+      "fibre_mg": 7122,
+      "protein_mg": 10782,
+      "salt_mg": 2948,
+      "net_weight_mg": 452000
+    }
+  },
+  "portion_sizes": null
+}

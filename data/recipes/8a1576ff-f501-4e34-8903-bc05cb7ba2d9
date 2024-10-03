@@ -1,0 +1,612 @@
+{
+  "url": "/garlic-risotto",
+  "title": "Garlic Risotto",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Vegetarian Recipes ",
+      "url": "/vegetarian-recipes",
+      "uid": "blta762d7d1d30213a2"
+    },
+    {
+      "title": "Rice Recipes",
+      "url": "/rice-recipes",
+      "uid": "blt7d4da6bbb3711078"
+    },
+    {
+      "title": "Mushroom Recipes",
+      "url": "/mushroom-recipes",
+      "uid": "bltd605efe72e010d8d"
+    },
+    {
+      "title": "Risotto Recipes",
+      "url": "/risotto-recipes",
+      "uid": "blt3ab6e37a8ace7672"
+    },
+    {
+      "title": "Italian Recipes",
+      "url": "/italian-recipes",
+      "uid": "blt7306e62f2a9906c9"
+    },
+    {
+      "title": "Vegan Recipes",
+      "url": "/vegan-recipes",
+      "uid": "blt780131ad80dc73ef"
+    }
+  ],
+  "gousto_id": "396",
+  "gousto_uid": "8a1576ff-f501-4e34-8903-bc05cb7ba2d9",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/421.GreenRisottoV-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/421.GreenRisottoV-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/421.GreenRisottoV-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/421.GreenRisottoV-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/421.GreenRisottoV-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 278
+  },
+  "description": "This iron-packed Popeye-inspired green risotto is flavoured with spinach and garlic, topped with meaty caramelised mushrooms and finished with toasted pecan oil.",
+  "prep_times": {
+    "for_2": 35,
+    "for_4": 35
+  },
+  "cuisine": {
+    "slug": "italian",
+    "title": "Italian"
+  },
+  "ingredients": [
+    {
+      "label": "150g spinach",
+      "title": "spinach-I-05-FVG-FG-02-01",
+      "uid": "blt4e6fd5f59485ee58",
+      "gousto_uuid": "022e96ce-7d54-429c-b38a-11dfb8f3b041",
+      "name": "spinach",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "160g arborio rice ",
+      "title": "arborio rice-I-03-GRN-RC-11",
+      "uid": "bltabb40b2d39092356",
+      "gousto_uuid": "bb51d719-e967-4d16-9c58-168797f7957e",
+      "name": "arborio rice",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/arborio-rice-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/arborio-rice-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/arborio-rice-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/arborio-rice-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/arborio-rice-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "150g portobello mushrooms",
+      "title": "portobello mushrooms-I-05-FVG-MS-02-01",
+      "uid": "blt5047e53b7c9a3a25",
+      "gousto_uuid": "59906132-ec20-4ef6-b3b0-372f679ddafb",
+      "name": "portobello mushrooms",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/portobello-mushrooms-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/portobello-mushrooms-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/portobello-mushrooms-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/portobello-mushrooms-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/portobello-mushrooms-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 vegetable stock cube",
+      "title": "vegetable stock pot-I-06-SML-SC-05",
+      "uid": "blt22b2a05e06531155",
+      "gousto_uuid": "13e2dcd7-fa65-4e8d-a062-43d78801ad36",
+      "name": "vegetable stock pot",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "celery"
+          }
+        ]
+      }
+    },
+    {
+      "label": "30g pecan nuts",
+      "title": "pecan nuts-I-04-NUT-NT-04-30",
+      "uid": "blt20ec3cb5acc70a9a",
+      "gousto_uuid": "8c35e441-16ad-426a-b4e9-ee20000decd4",
+      "name": "pecan nuts",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pecan-nuts-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pecan-nuts-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pecan-nuts-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pecan-nuts-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pecan-nuts-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "nut"
+          },
+          {
+            "title": null,
+            "slug": "peanut"
+          },
+          {
+            "title": null,
+            "slug": "sesame"
+          }
+        ]
+      }
+    },
+    {
+      "label": "2 shallots",
+      "title": "shallot-I-02-SVG-VG-10",
+      "uid": "blt011a15790b863f51",
+      "gousto_uuid": "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+      "name": "shallot",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "4 garlic cloves",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Boil</strong> a kettle and wash the spinach in a colander</p>\r\n<p><strong>Peel</strong> and chop the shallots finely</p>\r\n<p><strong>Peel</strong> and grate (or chop) the garlic cloves</p>\r\n<p><strong>Dissolve</strong> the stock cube<span class=\"text-danger\">(s)</span> with 800ml<span class=\"text-danger\"> (1.4L)</span> of boiled water</p>\r\n<p><strong>Re-boil</strong> the kettle (for step 2)</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Heat</strong> a large wide-based pan (preferably non-stick) on a medium heat with 1 tbsp <span class=\"text-danger\">(2 tbsp)</span> of olive oil</p>\r\n<p><strong>When</strong> hot, add the shallot with a pinch of salt, then cook on a medium low heat for 2 min, until softened but not coloured</p>\r\n<p><strong>Meanwhile</strong>, pour the boiled water over the spinach in the colander so that it wilts (leaving to cool until step 7)</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> the rice and 2/3 of the garlic to the shallot pan and mix well</p>\r\n<p><strong>Add</strong> 1/3 of the stock to the rice and stir continuously with a wooden spoon until the stock is absorbed</p>\r\n<p><strong>Continue</strong> to add the stock, a ladle at a time, stirring continuously for 15-20 min, until all the stock is absorbed and the rice is cooked</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Meanwhile</strong>, heat another wide-based pan on a medium heat</p>\r\n<p><strong>When</strong> hot, add the pecan nuts and cook for 5 min, or until slightly darkened in colour</p>\r\n<p><strong>Once</strong> toasted, transfer to a pestle and mortar (or processor) and reserve the pan for step 5</p>\r\n<p><strong>Meanwhile</strong>, cut the mushrooms into 1/2cm thick slices</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Place</strong> the reserved pan on a medium high heat with 1 tbsp <span class=\"text-danger\">(2 tbsp)</span> of olive oil</p>\r\n<p><strong>When</strong> hot, add the mushrooms and a pinch of salt</p>\r\n<p><strong>Cook</strong> them on either side for 3 min, or until golden and caramelised</p>\r\n<p>Tip: Do this in batches as overcrowding prevents proper browning</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> the remaining garlic, 3 tbsp <span class=\"text-danger\">(6 tbsp)</span> of olive oil (preferably extra virgin) and a large pinch of salt to the pestle and mortar (or processor) with the nuts</p>\r\n<p><strong>Tip:</strong> Omit the raw garlic if you're not keen on that strong flavour</p>\r\n<p><strong>Bash</strong> in a pestle and mortar (or blitz) until you have a coarse nutty oil</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Squeeze</strong> the excess moisture out of the cooled spinach over the sink</p>\r\n<p><strong>Chop</strong> the spinach finely</p>\r\n<p><strong>Add</strong> the wilted spinach to the risotto and stir through thoroughly</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/421.-step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Stir</strong> in half the pecan oil, reserving the rest for garnish</p>\r\n<p><strong>Season</strong> the risotto with salt and pepper to your taste</p>\r\n<p><strong>Serve</strong> the risotto with the mushrooms on top and the pecan oil drizzled over</p>\r\n<p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "nut",
+      "slug": "nut"
+    },
+    {
+      "title": "peanut",
+      "slug": "peanut"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    },
+    {
+      "title": "celery",
+      "slug": "celery"
+    }
+  ],
+  "seo": {
+    "title": "Garlic Risotto",
+    "description": "This iron-packed Popeye-inspired green risotto is flavoured with spinach and garlic, topped with meaty caramelised mushrooms and finished with toasted pecan oil.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/421.GreenRisottoV.jpg"
+  },
+  "tags": [],
+  "uid": "blt0e37301dab8ad3e8",
+  "_version": 54,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 158,
+      "energy_kj": 672,
+      "fat_mg": 4716,
+      "fat_saturates_mg": 655,
+      "carbs_mg": 26450,
+      "carbs_sugars_mg": 927,
+      "fibre_mg": 1409,
+      "protein_mg": 4092,
+      "salt_mg": 790,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 445,
+      "energy_kj": 1889,
+      "fat_mg": 13253,
+      "fat_saturates_mg": 1841,
+      "carbs_mg": 74326,
+      "carbs_sugars_mg": 2606,
+      "fibre_mg": 3961,
+      "protein_mg": 11499,
+      "salt_mg": 2222,
+      "net_weight_mg": 281000
+    }
+  },
+  "portion_sizes": null
+}

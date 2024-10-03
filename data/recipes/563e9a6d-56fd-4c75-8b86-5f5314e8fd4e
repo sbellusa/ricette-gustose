@@ -1,0 +1,888 @@
+{
+  "url": "/10-min-thai-king-prawn-squash-noodles",
+  "title": "Thai-Style King Prawn & Squash Noodles",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Dairy-Free ",
+      "url": "/dairy-free",
+      "uid": "bltba0f45afb7165184"
+    },
+    {
+      "title": null,
+      "url": null,
+      "uid": "blt54538aae1331442b"
+    },
+    {
+      "title": "10-Minute Meals",
+      "url": "/10-minute-meals",
+      "uid": "blt464f71fb1a92c640"
+    }
+  ],
+  "gousto_id": "2906",
+  "gousto_uid": "563e9a6d-56fd-4c75-8b86-5f5314e8fd4e",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-2768-2-10-Min-Thai-King-Prawn--Squash-Noodles3149-1586956823041-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-2768-2-10-Min-Thai-King-Prawn--Squash-Noodles3149-1586956823041-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-2768-2-10-Min-Thai-King-Prawn--Squash-Noodles3149-1586956823041-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-2768-2-10-Min-Thai-King-Prawn--Squash-Noodles3149-1586956823041-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-2768-2-10-Min-Thai-King-Prawn--Squash-Noodles3149-1586956823041-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 6717
+  },
+  "description": "For zingy Thai-style noodles, you'll simmer butternut squash and succulent king prawns in a spicy coconut and lime leaf sauce. Once that's done, chuck in your noodles and tuck in!",
+  "prep_times": {
+    "for_2": 10,
+    "for_4": 10
+  },
+  "cuisine": {
+    "slug": "thai",
+    "title": "Thai"
+  },
+  "ingredients": [
+    {
+      "label": "15g crispy onions ",
+      "title": "crispy onions-IQ-08-SAU-PT-06-02",
+      "uid": "bltbfc2a08372035226",
+      "gousto_uuid": "61499436-65ce-4e9a-8e7b-72882f1121a8",
+      "name": "crispy onions",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Fried-onion-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Fried-onion-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Fried-onion-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Fried-onion-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Fried-onion-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 dried lime leaf",
+      "title": "dried lime leaf-I-06-SML-DL-03",
+      "uid": "blt94aaffea935d4429",
+      "gousto_uuid": "9b8fd616-cb80-451a-b1c7-f1933ed4c488",
+      "name": "dried lime leaf",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-kaffir-lime-leaves-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-kaffir-lime-leaves-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-kaffir-lime-leaves-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-kaffir-lime-leaves-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-kaffir-lime-leaves-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "200g rice noodles",
+      "title": "rice noodles-I-03-GRN-PA-57",
+      "uid": "blt4f823f41c697cdfc",
+      "gousto_uuid": "a1b1ce2a-34c1-4775-8907-1b765ea2a6d8",
+      "name": "rice noodles",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-thai-rice-noodles-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-thai-rice-noodles-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-thai-rice-noodles-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-thai-rice-noodles-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-thai-rice-noodles-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "15ml rice vinegar\t",
+      "title": "rice vinegar-I-08-SAU-LS-28",
+      "uid": "blt7a7555dc13581d6f",
+      "gousto_uuid": "d6d25e38-aefd-4e18-972b-fe0eb9378ca8",
+      "name": "rice vinegar",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-rice-vinegar-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-rice-vinegar-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-rice-vinegar-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-rice-vinegar-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-rice-vinegar-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "160g butternut squash cubes",
+      "title": "butternut squash cubes-I-05-FVG-LF-51",
+      "uid": "bltb15c33db6880f075",
+      "gousto_uuid": "88852431-ad79-4030-a171-252206c931f7",
+      "name": "butternut squash cubes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butternut-cubes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butternut-cubes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butternut-cubes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butternut-cubes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butternut-cubes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "171g raw peeled king prawns",
+      "title": "raw peeled king prawns-IQ-10-MPF-SE-48",
+      "uid": "blt01cf20ef6ca28e39",
+      "gousto_uuid": "48c7b19a-f68a-4b5d-91ca-cab712024589",
+      "name": "raw peeled king prawns",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/raw-peeled-king-prawns-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/raw-peeled-king-prawns-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/raw-peeled-king-prawns-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/raw-peeled-king-prawns-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/raw-peeled-king-prawns-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "crustacean"
+          },
+          {
+            "title": null,
+            "slug": "mollusc"
+          }
+        ]
+      }
+    },
+    {
+      "label": "5.5g vegetable stock mix",
+      "title": "vegetable stock mix-I-06-SML-SC-26",
+      "uid": "blt0ca5e580e2d973c5",
+      "gousto_uuid": "166bfad3-d300-465d-b61c-fef4d2965904",
+      "name": "vegetable stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1/2 tsp dried chilli flakes",
+      "title": "dried chilli flakes-I-06-SML-CL-03",
+      "uid": "bltc941509f43a536f0",
+      "gousto_uuid": "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+      "name": "dried chilli flakes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "15g ginger & garlic paste",
+      "title": "ginger & garlic paste-I-08-SAU-PS-50",
+      "uid": "blteecc3ed8350d1be1",
+      "gousto_uuid": "66613362-e511-4465-b1a4-9992a919b5d0",
+      "name": "ginger & garlic paste",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "25g solid creamed coconut",
+      "title": "solid creamed coconut-I-06-SML-CO-13",
+      "uid": "bltb15d406b19839742",
+      "gousto_uuid": "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+      "name": "solid creamed coconut",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "5g coriander",
+      "title": "coriander-I-07-HBS-PL-13-5",
+      "uid": "blt3a65180ebd9eb3aa",
+      "gousto_uuid": "b7839655-6d73-40c2-a235-30ea290a9c56",
+      "name": "coriander",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Before you begin...</strong></p><p>Get all your ingredients and equipment ready</p><p>Skim through these steps, then wash your fruit and veg</p><p>Note: Equipment and pan sizes vary. Make sure you cook food thoroughly (even if it takes you a little longer than 10 min)</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-1616427580324-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-1616427580324-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-1616427580324-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-1616427580324-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-1616427580324-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Now, let's get started!</strong></p><p>Boil a full kettle</p><p>Add the <strong>butternut squash cubes </strong>to a heatproof bowl</p><p>Cover the bowl with <strong>cling film</strong> and pierce a few holes in the top</p><p>Put the bowl in the <strong>microwave</strong> and cook for 3-4 min or until the squash cubes are fork-tender</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1586957031205-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1586957031205-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1586957031205-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1586957031205-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1586957031205-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, add the <strong>rice noodles</strong> to a pot and cover them with<strong> boiled water </strong>until fully submerged</p><p>Bring to the boil over a high heat and cook for 7-8 min or until tender</p><p>Once done, drain, stir through a drizzle of <strong>vegetable oil </strong>and set aside</p><p>Tip: The oil will stop the noodles from sticking together!</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1586957035691-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1586957035691-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1586957035691-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1586957035691-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1586957035691-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Whilst the noodles are cooking, dissolve the <strong>vegetable stock mix </strong>in 200ml<span class=\"text-danger\"> [400ml]</span> <strong>boiled water </strong>with the <strong>creamed coconut</strong> – this is your <strong>coconut stock</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1586957040215-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1586957040215-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1586957040215-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1586957040215-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1586957040215-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>olive oil </strong>over a medium high heat</p><p>Once hot, add the <strong>ginger & garlic paste</strong> and<strong> chilli flakes</strong> (can't handle the heat? Go easy!) to the pan and cook for 30 secs or until fragrant</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1586957044886-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1586957044886-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1586957044886-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1586957044886-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1586957044886-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Drain the <strong>king prawns</strong>,<strong> </strong>then add them to the pan with the <strong>coconut stock </strong>and <strong>butternut</strong> <strong>squash cubes</strong></p><p>Give everything a good mix up and cook for 4-5 min or until the prawns are cooked through</p><p>Note: Please make sure you cook your prawns thoroughly (until piping hot!) as cooking equipment varies</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1586957048518-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1586957048518-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1586957048518-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1586957048518-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1586957048518-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Whilst the prawns are cooking, chop the <strong>coriander</strong> roughly, including the stalks (reserve some leaves for garnish!)</p><p>Add the <strong>chopped coriander</strong>,<strong> rice vinegar </strong>and<strong> lime leaf<span class=\"text-danger\">[ves]</span></strong> to the pan and mix everything together – these are your <strong>Thai-style king prawns & squash</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1586957052715-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1586957052715-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1586957052715-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1586957052715-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1586957052715-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>rice noodles</strong> in bowls and top with the <strong>Thai-style king prawns & squash</strong></p><p>Sprinkle over the <strong>crispy onions</strong> and garnish with the <strong>reserved coriander leaves</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "crustacean",
+      "slug": "crustacean"
+    },
+    {
+      "title": "mollusc",
+      "slug": "mollusc"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    }
+  ],
+  "seo": {
+    "title": "10-Min Thai King Prawn & Squash Noodles",
+    "description": "For zingy Thai-style noodles in 10 min, you'll simmer butternut squash and succulent king prawns in a spicy coconut and kaffir lime leaf sauce. Once that's done, chuck your noodles in, sprinkle with coriander and tuck in!",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/R-2768-2-10-Min-Thai-King-Prawn--Squash-Noodles3149-1586956823041.jpg"
+  },
+  "tags": [],
+  "uid": "blt8c431319fc29395c",
+  "_version": 5926,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 164,
+      "energy_kj": 620,
+      "fat_mg": 5367,
+      "fat_saturates_mg": 3921,
+      "carbs_mg": 21899,
+      "carbs_sugars_mg": 2424,
+      "fibre_mg": 1830,
+      "protein_mg": 6932,
+      "salt_mg": 698,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 422,
+      "energy_kj": 1592,
+      "fat_mg": 13782,
+      "fat_saturates_mg": 10068,
+      "carbs_mg": 56227,
+      "carbs_sugars_mg": 6226,
+      "fibre_mg": 4700,
+      "protein_mg": 17798,
+      "salt_mg": 1793,
+      "net_weight_mg": 256750
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "b7839655-6d73-40c2-a235-30ea290a9c56",
+          "code": "I-07-HBS-PL-13-5",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "9b8fd616-cb80-451a-b1c7-f1933ed4c488",
+          "code": "I-06-SML-DL-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d6d25e38-aefd-4e18-972b-fe0eb9378ca8",
+          "code": "I-08-SAU-LS-28",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "61499436-65ce-4e9a-8e7b-72882f1121a8",
+          "code": "IQ-08-SAU-PT-06-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+          "code": "I-06-SML-CO-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "66613362-e511-4465-b1a4-9992a919b5d0",
+          "code": "I-08-SAU-PS-50",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+          "code": "I-06-SML-CL-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "88852431-ad79-4030-a171-252206c931f7",
+          "code": "I-05-FVG-LF-51",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "48c7b19a-f68a-4b5d-91ca-cab712024589",
+          "code": "IQ-10-MPF-SE-48",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "a1b1ce2a-34c1-4775-8907-1b765ea2a6d8",
+          "code": "I-03-GRN-PA-57",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "b7839655-6d73-40c2-a235-30ea290a9c56",
+          "code": "I-07-HBS-PL-13-5",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "9b8fd616-cb80-451a-b1c7-f1933ed4c488",
+          "code": "I-06-SML-DL-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d6d25e38-aefd-4e18-972b-fe0eb9378ca8",
+          "code": "I-08-SAU-LS-28",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "61499436-65ce-4e9a-8e7b-72882f1121a8",
+          "code": "IQ-08-SAU-PT-06-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+          "code": "I-06-SML-CO-13",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "66613362-e511-4465-b1a4-9992a919b5d0",
+          "code": "I-08-SAU-PS-50",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+          "code": "I-06-SML-CL-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "88852431-ad79-4030-a171-252206c931f7",
+          "code": "I-05-FVG-LF-51",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "48c7b19a-f68a-4b5d-91ca-cab712024589",
+          "code": "IQ-10-MPF-SE-48",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "a1b1ce2a-34c1-4775-8907-1b765ea2a6d8",
+          "code": "I-03-GRN-PA-57",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    }
+  ]
+}

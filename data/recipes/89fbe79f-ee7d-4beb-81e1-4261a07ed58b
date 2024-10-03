@@ -1,0 +1,934 @@
+{
+  "url": "/truffled-mushroom-pizza-with-rocket",
+  "title": "Truffled Mushroom Pizza With Salad",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Vegetarian Recipes ",
+      "url": "/vegetarian-recipes",
+      "uid": "blta762d7d1d30213a2"
+    },
+    {
+      "title": "Vegetarian",
+      "url": "/vegetarian",
+      "uid": "blt5cc8b5413c283f12"
+    }
+  ],
+  "gousto_id": "2175",
+  "gousto_uid": "89fbe79f-ee7d-4beb-81e1-4261a07ed58b",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2052--Truffled-Mushroom-Pizza-With-Rocket-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2052--Truffled-Mushroom-Pizza-With-Rocket-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2052--Truffled-Mushroom-Pizza-With-Rocket-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2052--Truffled-Mushroom-Pizza-With-Rocket-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2052--Truffled-Mushroom-Pizza-With-Rocket-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 4933
+  },
+  "description": "Top flame-baked bases with flavours inspired by Northern Italy, like truffle-infused chestnut mushrooms, tomato sauce and melty mozzarella. Finish with shavings of Italian hard cheese and rocket to serve. Delicioso! ",
+  "prep_times": {
+    "for_2": 30,
+    "for_4": 35
+  },
+  "cuisine": {
+    "slug": "italian",
+    "title": "Italian"
+  },
+  "ingredients": [
+    {
+      "label": "Tomato paste (32g) x2",
+      "title": "tomato paste-I-08-SAU-PS-37",
+      "uid": "blt56af6f93c8c97b3f",
+      "gousto_uuid": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+      "name": "tomato paste",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Rocket (20g)",
+      "title": "rocket-I-05-FVG-FG-05-02",
+      "uid": "blt099d234cf96a670d",
+      "gousto_uuid": "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+      "name": "rocket",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Italian hard cheese (20g)",
+      "title": "Italian hard cheese-I-09-DAI-CH-41",
+      "uid": "blteef8db6635d96ea9",
+      "gousto_uuid": "d5fc7e99-0340-4983-a486-e4f18ce5483b",
+      "name": "Italian hard cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/35g-Italian-hard-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/35g-Italian-hard-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/35g-Italian-hard-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/35g-Italian-hard-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/35g-Italian-hard-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Flame-baked pizza bases (2pcs)",
+      "title": "flame-baked pizza bases-I-11-BRD-BR-53",
+      "uid": "blt06d90388514ddb85",
+      "gousto_uuid": "cf47c4bc-28d2-48f8-beb2-1de1e1cb1e05",
+      "name": "flame-baked pizza bases",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-pizza-bases-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-pizza-bases-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-pizza-bases-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-pizza-bases-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-pizza-bases-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Truffle flavoured extra virgin olive oil (8ml) x2",
+      "title": "truffle flavoured extra virgin olive oil-I-08-SAU-LS-19",
+      "uid": "blta95196b75865dd60",
+      "gousto_uuid": "2bc52963-20d0-455c-9de6-90f6f9b84a70",
+      "name": "truffle flavoured extra virgin olive oil",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/truffle-oil-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/truffle-oil-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/truffle-oil-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/truffle-oil-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/truffle-oil-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Chestnut mushrooms (80g)",
+      "title": "chestnut mushrooms-I-05-FVG-MS-14",
+      "uid": "blt84b661d1daf4e25f",
+      "gousto_uuid": "b03e9a68-9ad1-4cc3-bde3-5823be6468c2",
+      "name": "chestnut mushrooms",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-chestnut-mushrooms-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-chestnut-mushrooms-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-chestnut-mushrooms-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-chestnut-mushrooms-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-chestnut-mushrooms-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Mozzarella (125g)",
+      "title": "mozzarella-I-09-DAI-CH-06",
+      "uid": "bltc60ef78862781ea1",
+      "gousto_uuid": "d93301c4-2563-4b9d-b829-991800ca87b4",
+      "name": "mozzarella",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mozzarella-ball-125g-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mozzarella-ball-125g-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mozzarella-ball-125g-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mozzarella-ball-125g-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mozzarella-ball-125g-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Garlic clove",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Sugar",
+      "slug": "sugar"
+    },
+    {
+      "title": "Water",
+      "slug": "water"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 200°C/ 180°C (fan)/ gas 6</p><p>Put a large baking tray (or two!) in the oven to heat up (this will stop the pizza bottoms from going soggy!)</p><p>Peel and finely chop (or grate) your <strong>garlic</strong></p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add your <strong>tomato paste</strong> to a bowl with the <strong>chopped garlic</strong> and a generous pinch of <strong>salt</strong>, <strong>pepper</strong> and <strong>sugar</strong></p><p>Add 5 tbsp<span class=\"text-danger\"> <span class=\"text-purple\">[7 1/2 tbsp]</span> [10 tbsp]<strong> </span>cold water </strong>and give everything a good mix up – this is your<strong> tomato sauce</strong></p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Drain your <strong>mozzarella</strong>, then pat and squeeze as much liquid out as you can with kitchen paper</p><p>Tear the <strong>drained mozzarella</strong> into rough, bite-sized pieces</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Slice your <strong>chestnut mushrooms </strong>finely and add them to a bowl</p><p>Drizzle over <strong>half</strong> of your <strong>truffle oil</strong> (save the rest for later!)</p><p>Add a generous drizzle of <strong>olive oil</strong> and a pinch of <strong>salt</strong> and stir it all together until evenly coated in the oil</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Remove the heated tray[s] from the oven and add your <strong>pizza base[s]</strong></p><p>Divide the<strong> tomato sauce</strong> between the pizza base[s]<strong> </strong>and spread it evenly all over with the back of a spoon</p><p>Top with the <strong>torn mozzarella</strong></p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the<strong> sliced truffle coated mushrooms</strong> and put the tray[s] in the oven for 13-15 min or until the cheese has melted and the base is crisp – this is your<strong> truffled mushroom pizza</strong></p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, peel <strong>half</strong> your <strong>Italian hard cheese</strong> until you end up with a pile of cheese shavings</p><p>Grate the <strong>remaining Italian hard cheese</strong></p><p>Wash your <strong>salad</strong>, then pat it dry with kitchen paper</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2052.-step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the<strong> truffled mushroom pizza</strong> topped with your <strong>Italian hard cheese shavings</strong> and the <strong>grated Italian hard cheese</strong>, add the <strong>salad</strong> to the side with a drizzle of <strong>olive oil</strong></p><p>Drizzle the <strong>remaining truffle oil</strong> all over and season with a grind of <strong>black pepper</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    }
+  ],
+  "seo": {
+    "title": "Truffled Mushroom Pizza With Rocket",
+    "description": "Top flame-baked bases with flavours inspired by Northern Italy, like truffle-infused chestnut mushrooms, tomato sauce and melty mozzarella. Finish with shavings of Italian hard cheese and rocket to serve. Delicioso! ",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/2052--Truffled-Mushroom-Pizza-With-Rocket.jpg"
+  },
+  "tags": [],
+  "uid": "blte020189a5c9ea720",
+  "_version": 3702,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 227,
+      "energy_kj": 961,
+      "fat_mg": 9200,
+      "fat_saturates_mg": 3418,
+      "carbs_mg": 29119,
+      "carbs_sugars_mg": 3185,
+      "fibre_mg": 1658,
+      "protein_mg": 8744,
+      "salt_mg": 643,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 719,
+      "energy_kj": 3033,
+      "fat_mg": 29029,
+      "fat_saturates_mg": 10786,
+      "carbs_mg": 91872,
+      "carbs_sugars_mg": 10051,
+      "fibre_mg": 5234,
+      "protein_mg": 27590,
+      "salt_mg": 2031,
+      "net_weight_mg": 315500
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 1,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "d5fc7e99-0340-4983-a486-e4f18ce5483b",
+          "code": "I-09-DAI-CH-41",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b03e9a68-9ad1-4cc3-bde3-5823be6468c2",
+          "code": "I-05-FVG-MS-14",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "cf47c4bc-28d2-48f8-beb2-1de1e1cb1e05",
+          "code": "I-11-BRD-BR-53",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d93301c4-2563-4b9d-b829-991800ca87b4",
+          "code": "I-09-DAI-CH-06",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+          "code": "I-05-FVG-FG-05-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+          "code": "I-08-SAU-PS-37",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "2bc52963-20d0-455c-9de6-90f6f9b84a70",
+          "code": "I-08-SAU-LS-19",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "d5fc7e99-0340-4983-a486-e4f18ce5483b",
+          "code": "I-09-DAI-CH-41",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b03e9a68-9ad1-4cc3-bde3-5823be6468c2",
+          "code": "I-05-FVG-MS-14",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "cf47c4bc-28d2-48f8-beb2-1de1e1cb1e05",
+          "code": "I-11-BRD-BR-53",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d93301c4-2563-4b9d-b829-991800ca87b4",
+          "code": "I-09-DAI-CH-06",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+          "code": "I-05-FVG-FG-05-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+          "code": "I-08-SAU-PS-37",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "2bc52963-20d0-455c-9de6-90f6f9b84a70",
+          "code": "I-08-SAU-LS-19",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 3,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "d5fc7e99-0340-4983-a486-e4f18ce5483b",
+          "code": "I-09-DAI-CH-41",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "b03e9a68-9ad1-4cc3-bde3-5823be6468c2",
+          "code": "I-05-FVG-MS-14",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "cf47c4bc-28d2-48f8-beb2-1de1e1cb1e05",
+          "code": "I-11-BRD-BR-53",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d93301c4-2563-4b9d-b829-991800ca87b4",
+          "code": "I-09-DAI-CH-06",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+          "code": "I-05-FVG-FG-05-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+          "code": "I-08-SAU-PS-37",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "2bc52963-20d0-455c-9de6-90f6f9b84a70",
+          "code": "I-08-SAU-LS-19",
+          "quantities": {
+            "in_box": 3
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "d5fc7e99-0340-4983-a486-e4f18ce5483b",
+          "code": "I-09-DAI-CH-41",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "b03e9a68-9ad1-4cc3-bde3-5823be6468c2",
+          "code": "I-05-FVG-MS-14",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "cf47c4bc-28d2-48f8-beb2-1de1e1cb1e05",
+          "code": "I-11-BRD-BR-53",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d93301c4-2563-4b9d-b829-991800ca87b4",
+          "code": "I-09-DAI-CH-06",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+          "code": "I-05-FVG-FG-05-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+          "code": "I-08-SAU-PS-37",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "2bc52963-20d0-455c-9de6-90f6f9b84a70",
+          "code": "I-08-SAU-LS-19",
+          "quantities": {
+            "in_box": 4
+          }
+        }
+      ]
+    },
+    {
+      "portions": 5,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "d5fc7e99-0340-4983-a486-e4f18ce5483b",
+          "code": "I-09-DAI-CH-41",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "b03e9a68-9ad1-4cc3-bde3-5823be6468c2",
+          "code": "I-05-FVG-MS-14",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "cf47c4bc-28d2-48f8-beb2-1de1e1cb1e05",
+          "code": "I-11-BRD-BR-53",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "d93301c4-2563-4b9d-b829-991800ca87b4",
+          "code": "I-09-DAI-CH-06",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+          "code": "I-05-FVG-FG-05-02",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+          "code": "I-08-SAU-PS-37",
+          "quantities": {
+            "in_box": 5
+          }
+        },
+        {
+          "id": "2bc52963-20d0-455c-9de6-90f6f9b84a70",
+          "code": "I-08-SAU-LS-19",
+          "quantities": {
+            "in_box": 5
+          }
+        }
+      ]
+    }
+  ]
+}

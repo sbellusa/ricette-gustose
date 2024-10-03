@@ -1,0 +1,722 @@
+{
+  "url": "/teriyaki-tofu-noodles",
+  "title": "Teriyaki Tofu Noodles",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Vegetarian Recipes ",
+      "url": "/vegetarian-recipes",
+      "uid": "blta762d7d1d30213a2"
+    },
+    {
+      "title": "Tofu Recipes",
+      "url": "/tofu-recipes",
+      "uid": "blt76cd951eb1bee273"
+    },
+    {
+      "title": "Noodle Recipes",
+      "url": "/noodle-recipes",
+      "uid": "blt7f33009f11474984"
+    },
+    {
+      "title": "Japanese Recipes",
+      "url": "/japanese-recipes",
+      "uid": "blt1454ad35d4c1c60d"
+    },
+    {
+      "title": "Asian Recipes",
+      "url": "/asian-recipes",
+      "uid": "blt06809a58f9ff72c3"
+    }
+  ],
+  "gousto_id": "322",
+  "gousto_uid": "33095a03-8f37-4ec4-b5e0-5bfef63e75c1",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/335.TeriyakiTofuV-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/335.TeriyakiTofuV-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/335.TeriyakiTofuV-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/335.TeriyakiTofuV-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/335.TeriyakiTofuV-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 687
+  },
+  "description": "Teriyaki is a salty-sweet Japanese sauce made with fresh ginger, sesame, lime, soy sauce, sugar and chilli. It’s the perfect way to spruce up a meal with a zingy dash of oriental flavour. ",
+  "prep_times": {
+    "for_2": 30,
+    "for_4": 30
+  },
+  "cuisine": {
+    "slug": "japanese",
+    "title": "Japanese"
+  },
+  "ingredients": [
+    {
+      "label": "2 tbsp toasted sesame oil",
+      "title": "toasted sesame oil-I-08-SAU-LS-21",
+      "uid": "blt6adc4db1b9ef9a88",
+      "gousto_uuid": "72982858-24a0-499b-a4d9-6aae84e53645",
+      "name": "toasted sesame oil",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sesame"
+          },
+          {
+            "title": null,
+            "slug": "fish"
+          },
+          {
+            "title": null,
+            "slug": "peanut"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          },
+          {
+            "title": null,
+            "slug": "nut"
+          },
+          {
+            "title": null,
+            "slug": "celery"
+          },
+          {
+            "title": null,
+            "slug": "mustard"
+          }
+        ]
+      }
+    },
+    {
+      "label": "200g tofu",
+      "title": "plain tofu-I-09-DAI-TF-02",
+      "uid": "blt76fbc5ef22202d6f",
+      "gousto_uuid": "3d2328cc-da90-47e1-9553-4debba1d551c",
+      "name": "plain tofu",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-organic-tofu-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-organic-tofu-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-organic-tofu-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-organic-tofu-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-organic-tofu-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "100g runner beans",
+      "title": "Runner beans-IQ-05-FVG-PD-04-01",
+      "uid": "blt67b341ae45f66d76",
+      "gousto_uuid": "cde0f4ed-57dd-4c9d-b7b2-d756c7313a1d",
+      "name": "Runner beans",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/flat-helda-beans-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/flat-helda-beans-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/flat-helda-beans-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/flat-helda-beans-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/flat-helda-beans-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "10g toasted sesame seeds",
+      "title": "sesame seeds-IQ-06-SML-SD-01-01",
+      "uid": "blt6f47621f926d0612",
+      "gousto_uuid": "a35e4452-e2cd-4dea-9840-ecd3d5063a6c",
+      "name": "sesame seeds",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sesame-seeds-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sesame-seeds-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sesame-seeds-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sesame-seeds-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sesame-seeds-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sesame"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1/2 tsp chilli flakes",
+      "title": "Fiery chilli flakes-I-06-SML-CL-01-01",
+      "uid": "blta9a7faf7a2297ef2",
+      "gousto_uuid": "33bd974f-cad4-4cc0-9956-1f6cfb5ff2ca",
+      "name": "Fiery chilli flakes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chilli-flakes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chilli-flakes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chilli-flakes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chilli-flakes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chilli-flakes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "15g root ginger",
+      "title": "ginger-IQ-06-SML-OT-03-01",
+      "uid": "blt286d3a9819caba5f",
+      "gousto_uuid": "90ea17bd-204c-4ded-9dac-12df03f265d6",
+      "name": "ginger",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "3 soy sauce sachets (24ml)",
+      "title": "soy sauce-I-06-SML-OT-05",
+      "uid": "bltaa4a46c7cb59b000",
+      "gousto_uuid": "3c07d126-f655-437c-aa1d-c38dbbae0398",
+      "name": "soy sauce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 lime",
+      "title": "lime-I-05-FVG-FV-11",
+      "uid": "blteca16c5afda2f93e",
+      "gousto_uuid": "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+      "name": "lime",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "3 wheat noodle nests (150g)",
+      "title": "wheat noodles-IQ-03-GRN-PA-09-01",
+      "uid": "blt5f71dd960e0fc8a7",
+      "gousto_uuid": "5973aac9-a2ed-412d-835d-a633f928578e",
+      "name": "wheat noodles",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/wheat-noodle-nests-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/wheat-noodle-nests-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/wheat-noodle-nests-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/wheat-noodle-nests-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/wheat-noodle-nests-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "egg"
+          }
+        ]
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Sugar",
+      "slug": "sugar"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Boil</strong> a kettle</p>\r\n<p><strong>Peel&nbsp;</strong>the ginger (scrape the skin off with a teaspoon) and finely chop (or grate)</p>\r\n<p><strong>Zest</strong> and juice the lime<span class=\"text-danger\">(s)</span></p>\r\n<p><strong>Combine</strong> the ginger, zest and lime juice in a bowl</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> the soy sauce, sesame oil, 2 tbsp <span class=\"text-danger\">(4 tbsp)</span>&nbsp;sugar (preferably brown) and the chilli flakes&nbsp;(can't handle the heat? Go easy!)</p>\r\n<p><strong>Mix</strong> well- this is your teryaki sauce</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Remove</strong> the tofu from its packaging and pat dry with kitchen paper</p>\r\n<p><strong>Cut</strong>&nbsp;in half and cut each half into 9 cubes</p>\r\n<p><strong>Trim </strong>the beans and slice them finely</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> the sesame seeds and the tofu to a sandwich bag</p>\r\n<p><strong>Shake</strong> the bag so that the sesame seeds stick to the tofu</p>\r\n<p>Tip: If you don't have a sandwich bag, just add them to a bowl and toss with your hands</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> the noodles and the beans to a large pot of salted boiling water&nbsp;</p>\r\n<p><strong>Cook</strong>&nbsp;for 7-9 min over a medium-high heat</p>\r\n<p><strong>Once</strong> cooked, drain and rinse under a little cold water (this prevents the noodles sticking together)</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Heat&nbsp;</strong>a large, wide-based pan (preferably non-stick) with 2-3 tbsp vegetable oil</p>\r\n<p><strong>Once </strong>hot, add the tofu and cook over a medium-high heat for 8-10 min, turning occasionally for even golden colouring</p>\r\n<p><strong>Once </strong>golden, transfer the tofu to kitchen paper and season generously with salt and pepper</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Return</strong> the pan to a medium heat</p>\r\n<p><strong>Add</strong> the teryaki sauce and whisk for approx. 2-3 min until it's reduced by half into a glaze</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/335-step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Serve</strong> the noodles and beans with the tofu and teriyaki glaze spooned over</p>\r\n<p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "egg",
+      "slug": "egg"
+    },
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    },
+    {
+      "title": "mustard",
+      "slug": "mustard"
+    }
+  ],
+  "seo": {
+    "title": "Teriyaki Tofu Noodles",
+    "description": "Teriyaki is a salty-sweet Japanese sauce made with fresh ginger, sesame, lime, soy sauce, sugar and chilli. It’s the perfect way to spruce up a meal with a zingy dash of oriental flavour. ",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/335.TeriyakiTofuV.jpg"
+  },
+  "tags": [],
+  "uid": "blt1db37d61f793a14a",
+  "_version": 56,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 169,
+      "energy_kj": 708,
+      "fat_mg": 7730,
+      "fat_saturates_mg": 1287,
+      "carbs_mg": 15307,
+      "carbs_sugars_mg": 1267,
+      "fibre_mg": 2791,
+      "protein_mg": 8593,
+      "salt_mg": 858,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 601,
+      "energy_kj": 2515,
+      "fat_mg": 27442,
+      "fat_saturates_mg": 4569,
+      "carbs_mg": 54340,
+      "carbs_sugars_mg": 4501,
+      "fibre_mg": 9910,
+      "protein_mg": 30508,
+      "salt_mg": 3046,
+      "net_weight_mg": 355000
+    }
+  },
+  "portion_sizes": null
+}

@@ -1,0 +1,1473 @@
+{
+  "url": "/coconut-and-mango-dal-with-fluffy-rice",
+  "title": "Coconut & Mango Dal With Fluffy Rice",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "5861",
+  "gousto_uid": "7c893ad1-3946-43d8-9657-6934a613fe86",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5706---Dal--Mango-Chutney4282-1684232652460-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5706---Dal--Mango-Chutney4282-1684232652460-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5706---Dal--Mango-Chutney4282-1684232652460-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5706---Dal--Mango-Chutney4282-1684232652460-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5706---Dal--Mango-Chutney4282-1684232652460-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 4056
+  },
+  "description": "Get ready for a dal-icious dinner. You’ll simmer red lentils with creamy coconut and fresh mango sauce then top with cooling yoghurt. Serve with fluffy rice, fresh mango, mint and chilli and dive in. All Health Hub recipes meet one of these criteria: <600 calories, 3 of your 5/day, or a source of protein",
+  "prep_times": {
+    "for_2": 40,
+    "for_4": 45
+  },
+  "cuisine": {
+    "slug": "indian",
+    "title": "Indian"
+  },
+  "ingredients": [
+    {
+      "label": "Tomato paste (32g)",
+      "title": "tomato paste-I-08-SAU-PS-37",
+      "uid": "blt56af6f93c8c97b3f",
+      "gousto_uuid": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+      "name": "tomato paste",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Tomato paste (16g) x0",
+      "title": "tomato paste-I-08-SAU-PS-36",
+      "uid": "blt5fa8ca0463cfd067",
+      "gousto_uuid": "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+      "name": "tomato paste",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Mango",
+      "title": "mango-I-05-FVG-FV-25",
+      "uid": "blt1ddfdb2ca38c93b7",
+      "gousto_uuid": "584febeb-7e36-495c-89e8-33ac4d8ea624",
+      "name": "mango",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mango-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mango-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mango-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mango-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mango-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Natural yoghurt (80g)",
+      "title": "natural yoghurt-I-09-DAI-CR-13",
+      "uid": "blt8d35001e30a0bf2b",
+      "gousto_uuid": "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+      "name": "natural yoghurt",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Red chilli",
+      "title": "red chilli-I-05-FVG-FV-06",
+      "uid": "blt9449c22aa5aa8996",
+      "gousto_uuid": "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+      "name": "red chilli",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "White basmati rice (65g) x0",
+      "title": "white basmati rice-IQ-03-GRN-RC-28-04",
+      "uid": "blt7fc5b6c531a878cf",
+      "gousto_uuid": "1b567531-3d45-4705-97a5-e2056fa33b9f",
+      "name": "white basmati rice",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Curry powder (0.5tbsp)",
+      "title": "curry powder-I-06-SML-DL-40",
+      "uid": "blt4b51a2f777ee25cf",
+      "gousto_uuid": "425972b7-82d8-447d-94d0-b5690e6c65cc",
+      "name": "curry powder",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Vegetable stock mix (11g)",
+      "title": "vegetable stock mix-I-06-SML-SC-27",
+      "uid": "bltebbd714d321e7e43",
+      "gousto_uuid": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+      "name": "vegetable stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Vegetable stock mix (5.5g) x0",
+      "title": "vegetable stock mix-I-06-SML-SC-26",
+      "uid": "blt0ca5e580e2d973c5",
+      "gousto_uuid": "166bfad3-d300-465d-b61c-fef4d2965904",
+      "name": "vegetable stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "White basmati rice (130g)",
+      "title": "white basmati rice-IQ-03-GRN-RC-28-02",
+      "uid": "blteb8900921e2e4621",
+      "gousto_uuid": "c5e03db6-ecd9-49da-afc3-957be2cad1fd",
+      "name": "white basmati rice",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Ginger & garlic paste (15g)",
+      "title": "ginger & garlic paste-I-08-SAU-PS-50",
+      "uid": "blteecc3ed8350d1be1",
+      "gousto_uuid": "66613362-e511-4465-b1a4-9992a919b5d0",
+      "name": "ginger & garlic paste",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Solid creamed coconut (25g)",
+      "title": "solid creamed coconut-I-06-SML-CO-13",
+      "uid": "bltb15d406b19839742",
+      "gousto_uuid": "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+      "name": "solid creamed coconut",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Spinach (80g)",
+      "title": "spinach-I-05-FVG-FG-02-03",
+      "uid": "blte6edae427c7fa86f",
+      "gousto_uuid": "d240500f-9c26-4286-88bc-6be3e774e96b",
+      "name": "spinach",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Mint (5g)",
+      "title": "mint-I-07-HBS-PL-17",
+      "uid": "blt8de9b80032929da9",
+      "gousto_uuid": "5a446609-a9e0-420e-af4e-da2fa9f91f81",
+      "name": "mint",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Mint-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Mint-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Mint-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Mint-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Mint-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Brown onion",
+      "title": "brown onion-I-02-SVG-VG-07",
+      "uid": "blt8f3ebc667e318aad",
+      "gousto_uuid": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Sultanas (30g)",
+      "title": "sultanas-IQ-04-NUT-DF-04-03",
+      "uid": "bltb330fbbf928754bb",
+      "gousto_uuid": "274dea3a-0316-4b3f-ac8a-7fbf2d03ad9d",
+      "name": "sultanas",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sultanas-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sultanas-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sultanas-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sultanas-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sultanas-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Red lentils (100g)",
+      "title": "red lentils-IQ-03-GRN-SV-05-01",
+      "uid": "blt6a506c8f3d3c8e7f",
+      "gousto_uuid": "8795f6b2-fb22-494e-9fd5-82fa9f80e868",
+      "name": "red lentils",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-red-lentils-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-red-lentils-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-red-lentils-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-red-lentils-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-red-lentils-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    },
+    {
+      "title": "Water",
+      "slug": "water"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Peel and finely dice your <strong>brown</strong> <strong>onion[s]</strong></p><p>Heat a large, wide-based pan (preferably non-stick with a matching lid) with a small drizzle of <strong>vegetable oil</strong> over a medium heat</p><p>Once hot, add the <strong>diced onion</strong> with a pinch of <strong>salt </strong>and cook for 5-6 min or until softened</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1684497854598-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1684497854598-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1684497854598-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1684497854598-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1684497854598-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Boil a kettle</p><p>Chop your <strong>creamed coconut</strong> roughly (if required!)</p><p>Slice your <strong>red chilli[es] </strong>finely</p><p>Rinse your<strong> red lentils </strong>under <strong>cold running water</strong></p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1684497857456-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1684497857456-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1684497857456-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1684497857456-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1684497857456-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Top, tail and peel your <strong>mango[es]</strong></p><p>Stand the <strong>mango[es]</strong> upright and very carefully slice the flesh away from the stone</p><p>Tip: If you feel resistance against your knife, it means you are hitting the stone!</p><p>Dice the <strong>mango flesh</strong> finely, discarding the stone[s]</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1684497867487-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1684497867487-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1684497867487-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1684497867487-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1684497867487-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the onion has softened, add your <strong>ginger & garlic paste</strong> to the pan with your <strong>curry powder</strong> and<strong> </strong>the<strong> rinsed red lentils</strong></p><p>Cook for 1 min or until fragrant</p><p>Once fragrant, add your <strong>tomato paste </strong>with <strong>half</strong> the <strong>sliced chilli</strong> (can't handle the heat? Go easy!),<strong> half </strong>the<strong> diced mango </strong>(you'll use the rest later!) and the<strong> chopped creamed coconut</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1684497864220-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1684497864220-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1684497864220-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1684497864220-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1684497864220-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add 450ml <span class=\"text-purple\">[675ml]</span> <span class=\"text-danger\">[900ml]</span> <strong>boiled water </strong>with<strong> </strong>your <strong>vegetable stock mix</strong>, <strong>sultanas</strong> and a pinch of <strong>salt</strong> and <strong>pepper</strong></p><p>Bring to the boil over a high heat</p><p>Once boiling, reduce the heat to medium and cook, covered, for 15-20 min, stirring occasionally, until thickened – this is your <strong>coconut & mango dal</strong></p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1684497871029-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1684497871029-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1684497871029-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1684497871029-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1684497871029-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, add your <strong>basmati rice</strong> and 300ml <span class=\"text-purple\">[390ml]</span> <span class=\"text-danger\">[600ml]</span> <strong>cold water</strong> to a pot with a lid and bring to the boil over a high heat</p><p>Once boiling, reduce the heat to very low and cook, covered, for 10-12 min or until all the water has absorbed and the rice is cooked</p><p>Once cooked, remove from the heat and keep covered until serving</p><p>Strip your <strong>mint leaves</strong> from their stems and chop them roughly, discard the stems</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1684497875882-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1684497875882-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1684497875882-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1684497875882-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1684497875882-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Combine the <strong>chopped mint</strong> with the <strong>remaining diced mango</strong>,<strong> </strong>the <strong>remaining chilli </strong>(not a fan of spice? Just add a little!)<strong> </strong>and a pinch of <strong>salt </strong>and<strong> pepper </strong>– this is your <strong>spicy</strong> <strong>mango & mint</strong></p><p>Once the dal is ready, wash your <strong>spinach </strong>and pat dry with kitchen paper, then add it to the pan and give everything a good mix up until the spinach has wilted – this is your <strong>coconut & mango dal</strong></p><p>Fluff the<strong> basmati rice</strong> with a fork</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1684497878444-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1684497878444-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1684497878444-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1684497878444-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1684497878444-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>coconut & mango dal </strong>with the<strong> fluffy rice</strong> to the side</p><p>Tip: For fancy presentation, press the rice into a bowl and turn out</p><p>Drizzle over your <strong>natural yoghurt</strong> and top with the <strong>spicy</strong> <strong>mango & mint</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    }
+  ],
+  "seo": {
+    "title": "Coconut and Mango Dal with Fluffy Rice",
+    "description": "Get ready for a dal-icious dinner. You’ll simmer red lentils with creamy coconut and fresh mango sauce then top with cooling yoghurt. Serve with fluffy rice, fresh mango, mint and chilli and dive in.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/5706---Dal--Mango-Chutney4282-1684232652460.jpg"
+  },
+  "tags": [],
+  "uid": "blt28dc3b4e60633561",
+  "_version": 4121,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 146,
+      "energy_kj": 619,
+      "fat_mg": 3061,
+      "fat_saturates_mg": 2093,
+      "carbs_mg": 23738,
+      "carbs_sugars_mg": 7045,
+      "fibre_mg": 3388,
+      "protein_mg": 5602,
+      "salt_mg": 436,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 667,
+      "energy_kj": 2824,
+      "fat_mg": 13966,
+      "fat_saturates_mg": 9548,
+      "carbs_mg": 108284,
+      "carbs_sugars_mg": 32138,
+      "fibre_mg": 15456,
+      "protein_mg": 25554,
+      "salt_mg": 1989,
+      "net_weight_mg": 456150
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 1,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+          "code": "I-02-SVG-VG-07",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "425972b7-82d8-447d-94d0-b5690e6c65cc",
+          "code": "I-06-SML-DL-40",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "66613362-e511-4465-b1a4-9992a919b5d0",
+          "code": "I-08-SAU-PS-50",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "584febeb-7e36-495c-89e8-33ac4d8ea624",
+          "code": "I-05-FVG-FV-25",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "5a446609-a9e0-420e-af4e-da2fa9f91f81",
+          "code": "I-07-HBS-PL-17",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+          "code": "I-09-DAI-CR-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+          "code": "I-05-FVG-FV-06",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8795f6b2-fb22-494e-9fd5-82fa9f80e868",
+          "code": "IQ-03-GRN-SV-05-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+          "code": "I-06-SML-CO-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d240500f-9c26-4286-88bc-6be3e774e96b",
+          "code": "I-05-FVG-FG-02-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "274dea3a-0316-4b3f-ac8a-7fbf2d03ad9d",
+          "code": "IQ-04-NUT-DF-04-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+          "code": "I-08-SAU-PS-36",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "1b567531-3d45-4705-97a5-e2056fa33b9f",
+          "code": "IQ-03-GRN-RC-28-04",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+          "code": "I-02-SVG-VG-07",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "425972b7-82d8-447d-94d0-b5690e6c65cc",
+          "code": "I-06-SML-DL-40",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "66613362-e511-4465-b1a4-9992a919b5d0",
+          "code": "I-08-SAU-PS-50",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "584febeb-7e36-495c-89e8-33ac4d8ea624",
+          "code": "I-05-FVG-FV-25",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "5a446609-a9e0-420e-af4e-da2fa9f91f81",
+          "code": "I-07-HBS-PL-17",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+          "code": "I-09-DAI-CR-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+          "code": "I-05-FVG-FV-06",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8795f6b2-fb22-494e-9fd5-82fa9f80e868",
+          "code": "IQ-03-GRN-SV-05-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+          "code": "I-06-SML-CO-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d240500f-9c26-4286-88bc-6be3e774e96b",
+          "code": "I-05-FVG-FG-02-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "274dea3a-0316-4b3f-ac8a-7fbf2d03ad9d",
+          "code": "IQ-04-NUT-DF-04-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+          "code": "I-08-SAU-PS-37",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "c5e03db6-ecd9-49da-afc3-957be2cad1fd",
+          "code": "IQ-03-GRN-RC-28-02",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 3,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+          "code": "I-02-SVG-VG-07",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "425972b7-82d8-447d-94d0-b5690e6c65cc",
+          "code": "I-06-SML-DL-40",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "66613362-e511-4465-b1a4-9992a919b5d0",
+          "code": "I-08-SAU-PS-50",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "584febeb-7e36-495c-89e8-33ac4d8ea624",
+          "code": "I-05-FVG-FV-25",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "5a446609-a9e0-420e-af4e-da2fa9f91f81",
+          "code": "I-07-HBS-PL-17",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+          "code": "I-09-DAI-CR-13",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+          "code": "I-05-FVG-FV-06",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8795f6b2-fb22-494e-9fd5-82fa9f80e868",
+          "code": "IQ-03-GRN-SV-05-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+          "code": "I-06-SML-CO-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d240500f-9c26-4286-88bc-6be3e774e96b",
+          "code": "I-05-FVG-FG-02-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "274dea3a-0316-4b3f-ac8a-7fbf2d03ad9d",
+          "code": "IQ-04-NUT-DF-04-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+          "code": "I-08-SAU-PS-36",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+          "code": "I-08-SAU-PS-37",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "c5e03db6-ecd9-49da-afc3-957be2cad1fd",
+          "code": "IQ-03-GRN-RC-28-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "1b567531-3d45-4705-97a5-e2056fa33b9f",
+          "code": "IQ-03-GRN-RC-28-04",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+          "code": "I-02-SVG-VG-07",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "425972b7-82d8-447d-94d0-b5690e6c65cc",
+          "code": "I-06-SML-DL-40",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "66613362-e511-4465-b1a4-9992a919b5d0",
+          "code": "I-08-SAU-PS-50",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "584febeb-7e36-495c-89e8-33ac4d8ea624",
+          "code": "I-05-FVG-FV-25",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "5a446609-a9e0-420e-af4e-da2fa9f91f81",
+          "code": "I-07-HBS-PL-17",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+          "code": "I-09-DAI-CR-13",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+          "code": "I-05-FVG-FV-06",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8795f6b2-fb22-494e-9fd5-82fa9f80e868",
+          "code": "IQ-03-GRN-SV-05-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+          "code": "I-06-SML-CO-13",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d240500f-9c26-4286-88bc-6be3e774e96b",
+          "code": "I-05-FVG-FG-02-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "274dea3a-0316-4b3f-ac8a-7fbf2d03ad9d",
+          "code": "IQ-04-NUT-DF-04-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+          "code": "I-08-SAU-PS-37",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "c5e03db6-ecd9-49da-afc3-957be2cad1fd",
+          "code": "IQ-03-GRN-RC-28-02",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 5,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+          "code": "I-02-SVG-VG-07",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "425972b7-82d8-447d-94d0-b5690e6c65cc",
+          "code": "I-06-SML-DL-40",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "66613362-e511-4465-b1a4-9992a919b5d0",
+          "code": "I-08-SAU-PS-50",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "584febeb-7e36-495c-89e8-33ac4d8ea624",
+          "code": "I-05-FVG-FV-25",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "5a446609-a9e0-420e-af4e-da2fa9f91f81",
+          "code": "I-07-HBS-PL-17",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+          "code": "I-09-DAI-CR-13",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+          "code": "I-05-FVG-FV-06",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "8795f6b2-fb22-494e-9fd5-82fa9f80e868",
+          "code": "IQ-03-GRN-SV-05-01",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+          "code": "I-06-SML-CO-13",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d240500f-9c26-4286-88bc-6be3e774e96b",
+          "code": "I-05-FVG-FG-02-03",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "274dea3a-0316-4b3f-ac8a-7fbf2d03ad9d",
+          "code": "IQ-04-NUT-DF-04-03",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+          "code": "I-08-SAU-PS-36",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+          "code": "I-08-SAU-PS-37",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "c5e03db6-ecd9-49da-afc3-957be2cad1fd",
+          "code": "IQ-03-GRN-RC-28-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "1b567531-3d45-4705-97a5-e2056fa33b9f",
+          "code": "IQ-03-GRN-RC-28-04",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    }
+  ]
+}

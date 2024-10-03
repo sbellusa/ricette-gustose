@@ -1,0 +1,732 @@
+{
+  "url": "/cheesy-tuna-sweetcorn-pasta-bake",
+  "title": "Cheesy Tuna & Sweetcorn Pasta Bake",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Family Classics",
+      "url": "/family-classics",
+      "uid": "blt40d209adee75b921"
+    },
+    {
+      "title": "Fish Recipes",
+      "url": "/fish-recipes",
+      "uid": "bltc04cab7baf142a2b"
+    },
+    {
+      "title": null,
+      "url": null,
+      "uid": "bltaf39e8cdab7b454a"
+    }
+  ],
+  "gousto_id": "1809",
+  "gousto_uid": "6be4176b-f789-4cff-901c-ab16a09f8451",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1756-Cheesy-Tuna--Sweetcorn-Pasta-Bake-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1756-Cheesy-Tuna--Sweetcorn-Pasta-Bake-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1756-Cheesy-Tuna--Sweetcorn-Pasta-Bake-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1756-Cheesy-Tuna--Sweetcorn-Pasta-Bake-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1756-Cheesy-Tuna--Sweetcorn-Pasta-Bake-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 785
+  },
+  "description": "This cheesy tuna pasta bake is super simple and super comforting. You'll make a béchamel sauce with a hint of Dijon mustard, and stir through tortiglioni pasta, tinned tuna and sweetcorn for this yummy family fave. Topped with a two-cheese crumb, and served with a balsamic-dressed red gem salad to the side.",
+  "prep_times": {
+    "for_2": 30,
+    "for_4": 35
+  },
+  "cuisine": {
+    "slug": "american",
+    "title": "American"
+  },
+  "ingredients": [
+    {
+      "label": "40g mature cheddar",
+      "title": "cheddar cheese-I-09-DAI-CH-02",
+      "uid": "bltcf8784004b8281e0",
+      "gousto_uuid": "aed1561d-bae6-487b-a645-4125a6829119",
+      "name": "cheddar cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "150g tortiglioni pasta",
+      "title": "tortiglioni-IQ-03-GRN-PA-20-01",
+      "uid": "blt3d0508ca027819ef",
+      "gousto_uuid": "99d1eeed-7b6f-404a-9393-64101debcba7",
+      "name": "tortiglioni",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tortiglioni-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tortiglioni-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tortiglioni-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tortiglioni-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tortiglioni-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "5.5g Dijon mustard",
+      "title": "Dijon mustard pot-I-06-SML-TRK-21",
+      "uid": "bltb011c49abf07165f",
+      "gousto_uuid": "5b1d8875-b9bd-4cf5-a0c1-42652c41dcb4",
+      "name": "Dijon mustard pot",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Dijon-mustard-18g-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Dijon-mustard-18g-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Dijon-mustard-18g-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Dijon-mustard-18g-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Dijon-mustard-18g-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "mustard"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 can of sweetcorn (198g)",
+      "title": "canned sweetcorn-I-01-CAN-VC-24",
+      "uid": "bltad95182f174129d0",
+      "gousto_uuid": "48fca538-c1e4-40ff-b82b-5c588a76fa10",
+      "name": "canned sweetcorn",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sweetcorn-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sweetcorn-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sweetcorn-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sweetcorn-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sweetcorn-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "35g grated Italian hard cheese",
+      "title": "grated italian hard cheese-I-09-DAI-CH-16",
+      "uid": "blt622fe960c8485c4a",
+      "gousto_uuid": "8e1376e4-7802-466b-9801-58d3d6de22ce",
+      "name": "grated italian hard cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 balsamic vinegar sachet (15ml)",
+      "title": "balsamic vinegar-I-08-SAU-LS-15",
+      "uid": "blt36b3f7d5608537b7",
+      "gousto_uuid": "8357c090-d832-41bc-a458-b13600637e1b",
+      "name": "balsamic vinegar",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sulphites"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 can of tuna (160g)",
+      "title": "canned tuna-I-01-CAN-VC-15",
+      "uid": "blt1c2a498bdc319bd9",
+      "gousto_uuid": "91ff0bd9-aca6-4336-b0a0-512a8f40e460",
+      "name": "canned tuna",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tin-of-tuna-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tin-of-tuna-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tin-of-tuna-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tin-of-tuna-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tin-of-tuna-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "fish"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 red gem lettuce",
+      "title": "gem lettuce-I-05-FVG-LF-27",
+      "uid": "blt0370757ff1eae599",
+      "gousto_uuid": "28a5242e-1332-4a23-aa12-f75e4fd694fd",
+      "name": "gem lettuce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-gem-lettuce-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-gem-lettuce-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-gem-lettuce-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-gem-lettuce-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-gem-lettuce-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "30g panko breadcrumbs",
+      "title": "panko breadcrumbs-IQ-07-GRN-FL-07-01",
+      "uid": "blt17ec6d57c62774c9",
+      "gousto_uuid": "9ad5f266-6a86-432e-9750-6069db11686a",
+      "name": "panko breadcrumbs",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 brown onion",
+      "title": "brown onion-I-02-SVG-VG-07",
+      "uid": "blt8f3ebc667e318aad",
+      "gousto_uuid": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Butter",
+      "slug": "butter"
+    },
+    {
+      "title": "Flour",
+      "slug": "flour"
+    },
+    {
+      "title": "Milk",
+      "slug": "milk"
+    },
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 220°C/ 200°C (fan)/ 425°F/ Gas 7</p>\n<p>Boil a kettle</p>\n<p>Add the <strong>tortiglioni</strong> to a pot of <strong>boiled water</strong> with a large pinch of<strong> salt</strong> and bring to the boil over a high heat</p>\n<p>Cook the<strong> tortiglioni</strong> for 8-10 min or until cooked with a slight <span class=\"text-highlight\">bite and once done, drain the <strong>tortiglioni</strong>, reserving a cup of the <strong>starchy pasta water</strong></span></p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, peel and finely chop the <strong>brown onion<span class=\"text-danger\">[s]</span></strong></p>\n<p>Heat a large, wide-based pan (preferably non-stick) with 30g <span class=\"text-danger\">[60g]</span><strong> butter</strong> over a medium heat</p>\n<p>Once melted, add the <strong>chopped onion</strong> and cook for 5-6 min or until softened</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, drain the <strong>tuna</strong></p>\n<p>Drain the<strong> sweetcorn</strong></p>\n<p>Grate the <strong>cheddar cheese</strong></p>\n<p>Combine the <strong>grated cheddar</strong> with the <strong>panko breadcrumbs</strong> and <strong>grated Italian hard cheese</strong> in a small bowl – this is your<strong> cheesy topping</strong></p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the onion has softened, add 30g <span class=\"text-danger\">[60g]</span> <strong>flour</strong> to the pan and stir with a wooden spoon for 1 min or until the onion is fully coated in the flour</p>\n<p>Gradually whisk 350ml<span class=\"text-danger\"> [700ml]</span> <strong>milk</strong> into the pan, a little at a time and cook for 5 min or until a smooth, thick sauce remains – this is your <strong>béchamel sauce</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the<strong> Dijon mustard</strong> to the <strong>béchamel sauce</strong> with a generous pinch of <strong>salt</strong> and <strong>pepper</strong></p>\n<p>Add the <strong>drained tortiglioni</strong> to the<strong> béchamel sauce</strong> with the <strong>drained tuna</strong> and<strong> sweetcorn</strong></p>\n<p>Add a splash of <strong>starchy pasta water</strong> and give everything a good mix up – this is your <strong>pasta mixture</strong></p>\n<p>Tip: add enough water so that it <span class=\"text-highlight\">feels saucy, as this</span> will continue to thicken in the oven!</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Transfer the <strong>pasta mixture</strong> to an <strong>oven-proof dish</strong> and sprinkle over the <strong>cheesy topping</strong></p>\n<p>Put the dish in the oven for 15 min or until bubbling and golden</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Wash then shred the <strong>red gem<span class=\"text-danger\">[s]</span></strong> finely</p>\n<p>Meanwhile, combine the <strong>balsamic vinegar</strong> with 2 tbsp<span class=\"text-danger\"> [4 tbsp]</span> <strong>olive oil</strong> and a pinch of<strong> salt</strong> and <strong>pepper</strong> – this is your <strong>dressing</strong></p>\n<p> </p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1756.-step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the<strong> tuna pasta bake</strong> with the <strong>shredded red gem</strong> to the side</p>\n<p>Drizzle the<strong> red gem</strong> with the<strong> dressing</strong></p>\n<p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "fish",
+      "slug": "fish"
+    },
+    {
+      "title": "sulphites",
+      "slug": "sulphites"
+    },
+    {
+      "title": "mustard",
+      "slug": "mustard"
+    }
+  ],
+  "seo": {
+    "title": "Cheesy Tuna & Sweetcorn Pasta Bake",
+    "description": "This cheesy tuna pasta bake is super simple and super comforting. You'll make a béchamel sauce with a hint of Dijon mustard, and stir through tortiglioni pasta, tinned tuna and sweetcorn for this yummy family fave. Topped with a two-cheese crumb, and served with a balsamic-dressed red gem salad to the side.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/1756-Cheesy-Tuna--Sweetcorn-Pasta-Bake.jpg"
+  },
+  "tags": [],
+  "uid": "blt7a538d502f28eed7",
+  "_version": 51,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 169,
+      "energy_kj": 711,
+      "fat_mg": 4059,
+      "fat_saturates_mg": 2183,
+      "carbs_mg": 21427,
+      "carbs_sugars_mg": 2545,
+      "fibre_mg": 1506,
+      "protein_mg": 11770,
+      "salt_mg": 408,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 649,
+      "energy_kj": 2725,
+      "fat_mg": 15538,
+      "fat_saturates_mg": 8358,
+      "carbs_mg": 82013,
+      "carbs_sugars_mg": 9744,
+      "fibre_mg": 5766,
+      "protein_mg": 45051,
+      "salt_mg": 1563,
+      "net_weight_mg": 382750
+    }
+  },
+  "portion_sizes": null
+}

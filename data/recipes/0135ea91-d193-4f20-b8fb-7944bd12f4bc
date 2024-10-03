@@ -1,0 +1,829 @@
+{
+  "url": "/tofu-nuggets-bbq-beans-wedges",
+  "title": "Crispy Tofu Nuggets With BBQ Beans And Wedges",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Dairy-Free ",
+      "url": "/dairy-free",
+      "uid": "bltba0f45afb7165184"
+    },
+    {
+      "title": "Plant-Based",
+      "url": "/plant-based",
+      "uid": "bltbe1b1dc1446d6ab8"
+    },
+    {
+      "title": "Healthy Choices",
+      "url": "/healthy-choices",
+      "uid": "blt6481386f749a222a"
+    },
+    {
+      "title": "Vegetarian",
+      "url": "/vegetarian",
+      "uid": "blt5cc8b5413c283f12"
+    },
+    {
+      "title": "Vegan Recipes",
+      "url": "/vegan-recipes",
+      "uid": "blt780131ad80dc73ef"
+    }
+  ],
+  "gousto_id": "2129",
+  "gousto_uid": "0135ea91-d193-4f20-b8fb-7944bd12f4bc",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2010--Smoky-Meat-Free-Nuggets-BBQ-Beans--Wedges-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2010--Smoky-Meat-Free-Nuggets-BBQ-Beans--Wedges-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2010--Smoky-Meat-Free-Nuggets-BBQ-Beans--Wedges-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2010--Smoky-Meat-Free-Nuggets-BBQ-Beans--Wedges-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2010--Smoky-Meat-Free-Nuggets-BBQ-Beans--Wedges-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 5757
+  },
+  "description": "Whether you're six or sixty, crispy nuggets are always a treat. You’ll coat our tofu ones with panko breadcrumbs, then serve them with smoky homemade barbecue beans and potato wedges.",
+  "prep_times": {
+    "for_2": 30,
+    "for_4": 40
+  },
+  "cuisine": {
+    "slug": "american",
+    "title": "American"
+  },
+  "ingredients": [
+    {
+      "label": "60g panko breadcrumbs",
+      "title": "panko breadcrumbs-IQ-07-GRN-FL-09-02",
+      "uid": "blt07bfd21cc08de2be",
+      "gousto_uuid": "260e9953-719b-430a-b7ef-f2c6e0aa56a5",
+      "name": "panko breadcrumbs",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "32g tomato paste",
+      "title": "tomato paste-I-08-SAU-PS-37",
+      "uid": "blt56af6f93c8c97b3f",
+      "gousto_uuid": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+      "name": "tomato paste",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "40g BBQ sauce",
+      "title": "BBQ sauce-I-08-SAU-PS-62",
+      "uid": "blt3cbb8f0fc3de21ff",
+      "gousto_uuid": "2af82637-9ecc-464e-b659-5966276c7fc5",
+      "name": "BBQ sauce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Hickory-smoked-BBQ-sauce-sachet-80g-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Hickory-smoked-BBQ-sauce-sachet-80g-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Hickory-smoked-BBQ-sauce-sachet-80g-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Hickory-smoked-BBQ-sauce-sachet-80g-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Hickory-smoked-BBQ-sauce-sachet-80g-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "30ml vegan mayonnaise",
+      "title": "vegan mayonnaise-I-06-SML-OT-31",
+      "uid": "blt2f269ce1e4ba59e7",
+      "gousto_uuid": "b6a264f0-dbfb-4fee-ba15-c8e834030f49",
+      "name": "vegan mayonnaise",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "mustard"
+          }
+        ]
+      }
+    },
+    {
+      "label": "390g cannellini beans",
+      "title": "cannellini beans-I-01-CAN-VC-46",
+      "uid": "blt2697ff875cc2f7c3",
+      "gousto_uuid": "8b55c0be-856c-485e-87cf-59f0eaf5d4b0",
+      "name": "cannellini beans",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cannellini-beans-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cannellini-beans-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cannellini-beans-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cannellini-beans-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cannellini-beans-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "mollusc"
+          }
+        ]
+      }
+    },
+    {
+      "label": "11g vegetable stock mix",
+      "title": "vegetable stock mix-I-06-SML-SC-27",
+      "uid": "bltebbd714d321e7e43",
+      "gousto_uuid": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+      "name": "vegetable stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "3 white potatoes",
+      "title": "white potato-I-02-SVG-VG-01-09",
+      "uid": "bltab576a7ce0bc5a37",
+      "gousto_uuid": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "5g chives",
+      "title": "chives-I-07-HBS-PL-46",
+      "uid": "blt156c926a260fed3b",
+      "gousto_uuid": "be9c9106-c5ee-4e5e-b3df-37115df94a56",
+      "name": "chives",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-chives-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-chives-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-chives-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-chives-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-chives-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "280g plain tofu",
+      "title": "plain tofu-I-09-DAI-TF-02",
+      "uid": "blt76fbc5ef22202d6f",
+      "gousto_uuid": "3d2328cc-da90-47e1-9553-4debba1d551c",
+      "name": "plain tofu",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-organic-tofu-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-organic-tofu-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-organic-tofu-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-organic-tofu-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-organic-tofu-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Flour",
+      "slug": "flour"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Sugar",
+      "slug": "sugar"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7</p><p>Boil half a kettle</p><p>Cut the <strong>potatoes</strong> (skins on) into wedges</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>wedges </strong>to a baking tray with a drizzle of <strong>vegetable oil </strong>and a pinch of <strong>salt</strong></p><p>Give everything a good mix up and put the tray in the oven for 20-25 min or until golden and crisp</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>While the potato wedges are cooking, cut the <strong>tofu</strong> into 12<span class=\"text-danger\"> [24]</span><strong> </strong>nuggets</p><p>Press each <strong>tofu</strong> <strong>nugget </strong>dry with kitchen paper</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add a handful of <strong>flour</strong> to a plate</p><p>Combine the <strong>mayo</strong> with 1 tbsp <span class=\"text-danger\">[2 tbsp]</span> <strong>water</strong> in a bowl</p><p>Combine the <strong>panko breadcrumbs</strong> with 1 tbsp<span class=\"text-danger\"> [2 tbsp]</span> <strong>vegetable oil</strong> and a pinch of<strong> salt</strong> and <strong>pepper</strong> in a separate bowl – this is your <strong>breadcrumb mixture</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Coat the <strong>tofu nuggets</strong> in the <strong>flour</strong>, tap off the excess, then add them into the <strong>mayo</strong> until lightly coated</p><p>Press them into the <strong>breadcrumb mixture</strong> firmly to evenly coat all over</p><p>Add the <strong>breaded tofu nuggets</strong> to a separate baking tray and put the tray in the oven for 20-25 min or until golden and crispy – these are your <strong>crispy</strong> <strong>tofu nuggets</strong></p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, drain and rinse the <strong>cannellini beans</strong></p><p>Dissolve the <strong>vegetable stock mix</strong> in 150ml <span class=\"text-danger\">[250ml]</span><strong> boiled water</strong></p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>vegetable oil</strong> over a medium-high heat</p><p>Once hot, add the <strong>tomato paste</strong>, <strong>drained</strong> <strong>cannellini beans</strong>, <strong>vegetable stock</strong>,<strong> BBQ sauce</strong> and 1 tsp <span class=\"text-danger\">[2 tsp]</span> <strong>sugar</strong> and cook for 5-10 min or until thickened to a baked bean consistency – these are your<strong> BBQ beans</strong></p><p>Meanwhile, chop the <strong>chives</strong> finely</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2010.-step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the<strong> crispy tofu nuggets</strong> with the<strong> wedges</strong> and <strong>BBQ beans</strong> to the side</p><p>Garnish with the<strong> chopped chives</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "mustard",
+      "slug": "mustard"
+    },
+    {
+      "title": "mollusc",
+      "slug": "mollusc"
+    }
+  ],
+  "seo": {
+    "title": "Tofu Nuggets, BBQ Beans & Wedges",
+    "description": "Whether you're six or sixty, crispy nuggets are always a treat. You’ll coat our tofu ones with panko breadcrumbs, then serve them with smoky homemade barbecue beans and potato wedges.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/2010--Smoky-Meat-Free-Nuggets-BBQ-Beans--Wedges.jpg"
+  },
+  "tags": [],
+  "uid": "blt17462e73c089489b",
+  "_version": 2877,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 141,
+      "energy_kj": 593,
+      "fat_mg": 4769,
+      "fat_saturates_mg": 569,
+      "carbs_mg": 15918,
+      "carbs_sugars_mg": 2502,
+      "fibre_mg": 2996,
+      "protein_mg": 7869,
+      "salt_mg": 481,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 697,
+      "energy_kj": 2932,
+      "fat_mg": 23559,
+      "fat_saturates_mg": 2815,
+      "carbs_mg": 78638,
+      "carbs_sugars_mg": 12360,
+      "fibre_mg": 14801,
+      "protein_mg": 38877,
+      "salt_mg": 2378,
+      "net_weight_mg": 494000
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+          "code": "I-02-SVG-VG-01-09",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "3d2328cc-da90-47e1-9553-4debba1d551c",
+          "code": "I-09-DAI-TF-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b6a264f0-dbfb-4fee-ba15-c8e834030f49",
+          "code": "I-06-SML-OT-31",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+          "code": "I-08-SAU-PS-37",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8b55c0be-856c-485e-87cf-59f0eaf5d4b0",
+          "code": "I-01-CAN-VC-46",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "2af82637-9ecc-464e-b659-5966276c7fc5",
+          "code": "I-08-SAU-PS-62",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "be9c9106-c5ee-4e5e-b3df-37115df94a56",
+          "code": "I-07-HBS-PL-46",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "260e9953-719b-430a-b7ef-f2c6e0aa56a5",
+          "code": "IQ-07-GRN-FL-09-02",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+          "code": "I-02-SVG-VG-01-09",
+          "quantities": {
+            "in_box": 6
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "3d2328cc-da90-47e1-9553-4debba1d551c",
+          "code": "I-09-DAI-TF-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "b6a264f0-dbfb-4fee-ba15-c8e834030f49",
+          "code": "I-06-SML-OT-31",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+          "code": "I-08-SAU-PS-37",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "8b55c0be-856c-485e-87cf-59f0eaf5d4b0",
+          "code": "I-01-CAN-VC-46",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "2af82637-9ecc-464e-b659-5966276c7fc5",
+          "code": "I-08-SAU-PS-62",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "be9c9106-c5ee-4e5e-b3df-37115df94a56",
+          "code": "I-07-HBS-PL-46",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "260e9953-719b-430a-b7ef-f2c6e0aa56a5",
+          "code": "IQ-07-GRN-FL-09-02",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,717 @@
+{
+  "url": "/butternut-squash-bacon-soup",
+  "title": "Butternut Squash & Bacon Soup",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Bacon Recipes",
+      "url": "/bacon-recipes",
+      "uid": "bltf58b3cec3b6d5148"
+    },
+    {
+      "title": "Beef & Pork",
+      "url": "/beef-pork",
+      "uid": "blt139a776cc9eef76c"
+    }
+  ],
+  "gousto_id": "2454",
+  "gousto_uid": "979d3ab9-4ca5-4361-a647-b2d7087688d1",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2322---Butternut-Squash--Bacon-Soup-1293-1571154691589-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2322---Butternut-Squash--Bacon-Soup-1293-1571154691589-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2322---Butternut-Squash--Bacon-Soup-1293-1571154691589-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2322---Butternut-Squash--Bacon-Soup-1293-1571154691589-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2322---Butternut-Squash--Bacon-Soup-1293-1571154691589-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 4280
+  },
+  "description": "For this warm and cosy bowl, you'll blitz sweet and tender butternut squash into a creamy soup. To serve, garnish with crispy bacon, chilli-cheese croutons and a dollop of clotted cream. Soup-er!",
+  "prep_times": {
+    "for_2": 40,
+    "for_4": 50
+  },
+  "cuisine": {
+    "slug": "british",
+    "title": "British"
+  },
+  "ingredients": [
+    {
+      "label": "11g chicken stock mix",
+      "title": "chicken stock mix-I-06-SML-SC-23",
+      "uid": "bltf5b0933acb6199f9",
+      "gousto_uuid": "26a9d0f7-4abc-4337-afdd-7f17f2464084",
+      "name": "chicken stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 whole butternut squash",
+      "title": "whole butternut squash-I-05-FVG-FV-23",
+      "uid": "blt15ab4f6c617df6b7",
+      "gousto_uuid": "135a58fe-8ee2-4a2d-975a-be85a331fd16",
+      "name": "whole butternut squash",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-whole-butternut-squash-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-whole-butternut-squash-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-whole-butternut-squash-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-whole-butternut-squash-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-whole-butternut-squash-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "90g Jolly Good smoked streaky bacon",
+      "title": "smoked streaky bacon-I-10-MPF-PM-55",
+      "uid": "blt6f494b9071a7f631",
+      "gousto_uuid": "8df922d2-0c1d-46f1-af84-5e6991b4ec6f",
+      "name": "smoked streaky bacon",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-streaky-bacon3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-streaky-bacon3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-streaky-bacon3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-streaky-bacon3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-streaky-bacon3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "30g grated Italian hard cheese",
+      "title": "grated Italian hard cheese-I-09-DAI-CH-42",
+      "uid": "blt3eb104a464573b1e",
+      "gousto_uuid": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+      "name": "grated Italian hard cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "2 ciabattas",
+      "title": "ciabatta-I-11-BRD-BR-59",
+      "uid": "blt73884d86e278cf95",
+      "gousto_uuid": "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+      "name": "ciabatta",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-ciabatta-rolls-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-ciabatta-rolls-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-ciabatta-rolls-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-ciabatta-rolls-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-ciabatta-rolls-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1/2 tsp dried chilli flakes",
+      "title": "dried chilli flakes-I-06-SML-CL-03",
+      "uid": "bltc941509f43a536f0",
+      "gousto_uuid": "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+      "name": "dried chilli flakes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 white potato",
+      "title": "white potato-I-02-SVG-VG-01-09",
+      "uid": "bltab576a7ce0bc5a37",
+      "gousto_uuid": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "15g pumpkin seeds ",
+      "title": "pumpkin seeds-IQ-04-NUT-SD-01-07",
+      "uid": "blt24f87924fd924304",
+      "gousto_uuid": "d64156bb-3a9e-48c8-8531-af0db943c61b",
+      "name": "pumpkin seeds",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Pumpkin-seeds-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Pumpkin-seeds-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Pumpkin-seeds-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Pumpkin-seeds-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Pumpkin-seeds-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "40g Cornish clotted cream",
+      "title": "Cornish clotted cream-IQ-09-DAI-CR-11",
+      "uid": "bltb6c2aac2a163f459",
+      "gousto_uuid": "488d5751-dcff-4985-88c0-bf745ff54904",
+      "name": "Cornish clotted cream",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "2 garlic cloves",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 brown onion",
+      "title": "brown onion-I-02-SVG-VG-07",
+      "uid": "blt8f3ebc667e318aad",
+      "gousto_uuid": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7</p><p>Peel the <strong>butternut squash<span class=\"text-danger\">[es]</span></strong> and cut in half using a sharp knife</p><p>Tip: Drizzle the knife with a little vegetable oil for easier chopping!</p><p>Scoop out the seeds with a spoon and discard</p><p>Chop the <strong>butternut squash</strong> into small, bite-sized pieces</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>chopped butternut squash</strong> to a baking tray with a generous drizzle of <strong>vegetable oil</strong> and a pinch of <strong>salt</strong> and <strong>pepper</strong></p><p>Give everything a good mix up and put the tray in the oven for 25 min or until softened and starting to brown</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>While the butternut squash is cooking, chop the<strong> streaky bacon</strong> finely</p><p>Heat a large, dry, pot over a medium-high heat</p><p>Once hot, add the<strong> chopped bacon</strong> and cook for 4-5 min, stirring occasionally, until golden and crisp</p><p>Once crisp, transfer the bacon to <strong>kitchen paper</strong> and reserve the pot</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, boil a full kettle</p><p>Peel and finely chop the <strong>brown onion<span class=\"text-danger\">[s]</span></strong></p><p>Peel and finely slice (don't chop!) the <strong>garlic</strong></p><p>Dissolve the<strong> chicken stock mix</strong> in 650ml <span class=\"text-danger\">[1.3L]</span> <strong>boiled water</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Return the reserved pot to a medium heat</p><p>Once hot, add the <strong>chopped onion</strong> and <strong>sliced garlic</strong> and cook for 4-5 min or until beginning to soften</p><p>Meanwhile, peel the<strong> potato<span class=\"text-danger\">[es]</span></strong> and chop into small bite-sized pieces</p><p>Once the onion has softened, add the <strong>chicken stock</strong> and <strong>chopped potato</strong> and bring to the boil over a high heat</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the stock is boiling, cook for 10-12 min or until the potato is beginning to break down</p><p>Line a baking tray with <strong>non-stick baking paper</strong></p><p>Tear the <strong>ciabattas</strong> into rough, bite-sized pieces and add them to the tray</p><p>Sprinkle over the <strong>grated Italian hard cheese</strong>, <strong>pumpkin seeds</strong> and <strong>chilli flakes</strong> (can't handle the heat? Go easy!) and put the tray in the oven for 4-5 min or until golden – these are your <strong>chilli-cheese croutons</strong></p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the potato has started to break down, add the<strong> roasted butternut squash</strong> to the pot and blend with a<strong> (stick) blender</strong> until a smooth soup remains</p><p>Tip: Add a splash more water if your soup is looking a little thick!</p><p>Taste for seasoning, adding a little more <strong>salt</strong> and <strong>pepper</strong> if needed – this is your<strong> butternut squash soup</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/R2322Step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>butternut squash soup</strong> in bowls with a dollop of <strong>clotted cream</strong></p><p>Top with the <strong>crispy bacon</strong> and <strong>chilli-cheese croutons</strong></p><p>Season with a grind of <strong>black pepper</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    }
+  ],
+  "seo": {
+    "title": "Butternut Squash & Bacon Soup",
+    "description": "For this warm and cosy bowl, you'll blitz sweet and tender butternut squash into a creamy soup. To serve, garnish with crispy bacon, chilli-cheese croutons and a dollop of clotted cream. Soup-er!",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/2322---Butternut-Squash--Bacon-Soup-1293-1571154691589.jpg"
+  },
+  "tags": [],
+  "uid": "blt1120fddf62f271df",
+  "_version": 1990,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 140,
+      "energy_kj": 589,
+      "fat_mg": 6653,
+      "fat_saturates_mg": 3091,
+      "carbs_mg": 15224,
+      "carbs_sugars_mg": 3524,
+      "fibre_mg": 843,
+      "protein_mg": 5300,
+      "salt_mg": 681,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 713,
+      "energy_kj": 2990,
+      "fat_mg": 33732,
+      "fat_saturates_mg": 15676,
+      "carbs_mg": 77187,
+      "carbs_sugars_mg": 17871,
+      "fibre_mg": 4276,
+      "protein_mg": 26876,
+      "salt_mg": 3453,
+      "net_weight_mg": 507000
+    }
+  },
+  "portion_sizes": null
+}

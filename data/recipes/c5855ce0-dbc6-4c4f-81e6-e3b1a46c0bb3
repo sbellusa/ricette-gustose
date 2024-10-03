@@ -1,0 +1,670 @@
+{
+  "url": "/venetian-risotto-with-squid-ink-pan-fried-cod",
+  "title": "Venetian Risotto With Squid Ink & Pan-Fried Cod",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": null,
+      "url": null,
+      "uid": "blt54538aae1331442b"
+    },
+    {
+      "title": "Fish Recipes",
+      "url": "/fish-recipes",
+      "uid": "bltc04cab7baf142a2b"
+    },
+    {
+      "title": "Gluten-Free ",
+      "url": "/gluten-free",
+      "uid": "blt05a40818b6dba670"
+    },
+    {
+      "title": "Gluten Free Recipes",
+      "url": "/gluten-free-recipes",
+      "uid": "bltd38409eebe22a089"
+    },
+    {
+      "title": "Cod Recipes",
+      "url": "/cod-recipes",
+      "uid": "bltd9fa6a3e12ac43e2"
+    }
+  ],
+  "gousto_id": "2219",
+  "gousto_uid": "c5855ce0-dbc6-4c4f-81e6-e3b1a46c0bb3",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2089.-Cod-With-Squid-Ink-Risotto-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2089.-Cod-With-Squid-Ink-Risotto-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2089.-Cod-With-Squid-Ink-Risotto-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2089.-Cod-With-Squid-Ink-Risotto-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2089.-Cod-With-Squid-Ink-Risotto-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 666
+  },
+  "description": "Risòto col néro is a signature dish of Venetian cuisine. The dramatic colouring reflects the culture of the city and its relationship with the sea. The squid ink gives it a deliciously subtle flavour, perfectly paired with delicate flaky cod and zingy lemon. (Gluten-free, suitable for coeliacs.)",
+  "prep_times": {
+    "for_2": 35,
+    "for_4": 40
+  },
+  "cuisine": {
+    "slug": "italian",
+    "title": "Italian"
+  },
+  "ingredients": [
+    {
+      "label": "20g wild rocket",
+      "title": "rocket-I-05-FVG-FG-05-02",
+      "uid": "blt099d234cf96a670d",
+      "gousto_uuid": "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+      "name": "rocket",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "4g squid ink",
+      "title": "squid ink-I-10-MPF-SE-43",
+      "uid": "bltfb40c15c8d14c6e2",
+      "gousto_uuid": "466165e4-44f0-43fc-b0f6-48ff3b7f9256",
+      "name": "squid ink",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/4g-squid-ink-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/4g-squid-ink-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/4g-squid-ink-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/4g-squid-ink-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/4g-squid-ink-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "mollusc"
+          },
+          {
+            "title": null,
+            "slug": "crustacean"
+          },
+          {
+            "title": null,
+            "slug": "fish"
+          },
+          {
+            "title": null,
+            "slug": "milk"
+          },
+          {
+            "title": null,
+            "slug": "celery"
+          },
+          {
+            "title": null,
+            "slug": "sulphites"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 Knorr vegetable stock cube",
+      "title": "vegetable stock cube-I-06-SML-SC-07",
+      "uid": "blt341de213f4bef56b",
+      "gousto_uuid": "bf27431e-20b0-4068-9873-46db06be35ab",
+      "name": "vegetable stock cube",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Vegetable-stock-cube-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Vegetable-stock-cube-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Vegetable-stock-cube-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Vegetable-stock-cube-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Vegetable-stock-cube-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "celery"
+          }
+        ]
+      }
+    },
+    {
+      "label": "2 x 110g cod fillets",
+      "title": "cod fillets-IQ-10-MPF-SE-01-01",
+      "uid": "blt4b10eeb3eaefc675",
+      "gousto_uuid": "36ee321e-acbe-4fd6-919a-a01ba1670905",
+      "name": "cod fillets",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cod-fillets-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cod-fillets-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cod-fillets-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cod-fillets-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cod-fillets-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "fish"
+          }
+        ]
+      }
+    },
+    {
+      "label": "2 garlic cloves",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "160g arborio rice",
+      "title": "arborio rice-IQ-03-GRN-RC-01-01",
+      "uid": "blt1f89530e34a891d4",
+      "gousto_uuid": "b3a3d0bd-570e-456d-b9f8-99b303d1b46c",
+      "name": "arborio rice",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/arborio-rice-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/arborio-rice-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/arborio-rice-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/arborio-rice-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/arborio-rice-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 brown onion",
+      "title": "brown onion-I-02-SVG-VG-07",
+      "uid": "blt8f3ebc667e318aad",
+      "gousto_uuid": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 lemon",
+      "title": "lemon-I-02-SVG-SF-03",
+      "uid": "blte823ccfd82fc22c7",
+      "gousto_uuid": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+      "name": "lemon",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Butter",
+      "slug": "butter"
+    },
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Boil a kettle</p>\n<p>Peel and dice the <strong>brown onion<span class=\"text-danger\">[s]</span></strong></p>\n<p>Heat a large, wide-based pan (preferably non-stick) with a generous drizzle of <strong>olive oil</strong> over a medium heat</p>\n<p>Once hot, add the <strong>diced onion</strong> with a pinch of <strong>salt</strong> and cook for 4-5 min or until softened</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, peel and finely slice (don't chop!) the <strong>garlic</strong></p>\n<p>Dissolve the <strong>Knorr vegetable stock cube<span class=\"text-danger\">[s]</span></strong> in 700ml <span class=\"text-danger\">[1.3L]</span> <strong>boiled water</strong></p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the onion has softened, add the<strong> sliced garlic </strong>and<strong> arborio rice</strong> and cook for 1-2 min or until coated in the oil and lightly toasted (this is known in Italian as tostatura!)</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the rice has toasted, add the <strong>vegetable</strong> <strong>stock</strong>, a ladle at a time, then add the <strong>squid ink </strong>stirring continuously for 20-25 min or until all the stock has been absorbed and the rice is cooked with a slight bite (this is known as al denté!)</p>\n<p>Tip: Add a splash more water and keep cooking if the rice needs more time!</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>While the rice is cooking, cut the <strong>lemon<span class=\"text-danger\">[s]</span></strong> in half</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the rice has been cooking for 15-20 mins, heat a separate, large, wide-based pan (preferably non-stick) with a knob of <strong>butter</strong> and a drizzle of <strong>vegetable oil</strong> over a medium-high heat</p>\n<p>Once hot, add the <strong>cod</strong> <strong>fillets</strong> to the pan and cook for 4 min, carefully flipping once halfway through, then season with a pinch of <strong>salt</strong></p>\n<p>Tip: Your fish is cooked once it flakes easily!</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the rice is cooked, stir through a generous knob of <strong>butter</strong> and the <strong>juice</strong> of 1/2 <span class=\"text-danger\">[1]</span> <strong>lemon</strong> – this is your<strong> risotto with squid ink</strong></p>\n<p>Wash and drain the<strong> wild rocket </strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2089.-step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Cut the<strong> remaining lemon</strong> into wedges</p>\n<p>Serve the<strong> pan-fried cod </strong>over the<strong> risotto with squid ink</strong> and garnish with the <strong>washed</strong> <strong>rocket</strong> and a <strong>lemon wedge</strong></p>\n<p>Drizzle the <strong>rocket</strong> with a little<strong> olive oil</strong></p>\n<p>Buon appetito!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "fish",
+      "slug": "fish"
+    },
+    {
+      "title": "celery",
+      "slug": "celery"
+    },
+    {
+      "title": "mollusc",
+      "slug": "mollusc"
+    },
+    {
+      "title": "crustacean",
+      "slug": "crustacean"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "sulphites",
+      "slug": "sulphites"
+    }
+  ],
+  "seo": {
+    "title": "Venetian Risotto With Squid Ink & Pan-Fried Cod",
+    "description": "Risòto col néro is a signature dish of Venetian cuisine. The dramatic colouring reflects the culture of the city and its relationship with the sea. The squid ink gives it a deliciously subtle flavour, perfectly paired with delicate flaky cod and zingy lemon. (Gluten-free, suitable for coeliacs.)",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/2089.-Cod-With-Squid-Ink-Risotto.jpg"
+  },
+  "tags": [],
+  "uid": "blt20fa6889266e65d3",
+  "_version": 53,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 134,
+      "energy_kj": 574,
+      "fat_mg": 968,
+      "fat_saturates_mg": 420,
+      "carbs_mg": 25728,
+      "carbs_sugars_mg": 1440,
+      "fibre_mg": 1203,
+      "protein_mg": 8538,
+      "salt_mg": 1109,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 407,
+      "energy_kj": 1743,
+      "fat_mg": 2938,
+      "fat_saturates_mg": 1275,
+      "carbs_mg": 78087,
+      "carbs_sugars_mg": 4373,
+      "fibre_mg": 3653,
+      "protein_mg": 25915,
+      "salt_mg": 3367,
+      "net_weight_mg": 303500
+    }
+  },
+  "portion_sizes": null
+}

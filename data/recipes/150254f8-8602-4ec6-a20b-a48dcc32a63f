@@ -1,0 +1,759 @@
+{
+  "url": "/chilli-chicken-ramen",
+  "title": "Chilli Chicken Ramen",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Dairy-Free ",
+      "url": "/dairy-free",
+      "uid": "bltba0f45afb7165184"
+    },
+    {
+      "title": "Chicken",
+      "url": "/chicken",
+      "uid": "blt84f37ae679edc7e6"
+    },
+    {
+      "title": null,
+      "url": null,
+      "uid": "bltb7a6b9970241dc48"
+    },
+    {
+      "title": "Chicken Recipes",
+      "url": "/chicken-recipes",
+      "uid": "blt7efd940d5b4a3c2e"
+    }
+  ],
+  "gousto_id": "2383",
+  "gousto_uid": "150254f8-8602-4ec6-a20b-a48dcc32a63f",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2251---Chilli-Chicken-Ramen_Wagamamas-1703-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2251---Chilli-Chicken-Ramen_Wagamamas-1703-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2251---Chilli-Chicken-Ramen_Wagamamas-1703-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2251---Chilli-Chicken-Ramen_Wagamamas-1703-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2251---Chilli-Chicken-Ramen_Wagamamas-1703-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 6121
+  },
+  "description": "We’ve teamed up with wagamama to recreate the nation’s fave ramen in your own home! You’ll infuse chicken stock with Sriracha sauce for a spicy ramen base then top it with chilli, red onion, coriander, spring onion and lime – then slurp!",
+  "prep_times": {
+    "for_2": 25,
+    "for_4": 30
+  },
+  "cuisine": {
+    "slug": "asian",
+    "title": "Asian"
+  },
+  "ingredients": [
+    {
+      "label": "1 red chilli",
+      "title": "red chilli-I-05-FVG-FV-06",
+      "uid": "blt9449c22aa5aa8996",
+      "gousto_uuid": "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+      "name": "red chilli",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "3 Sriracha hot chilli sauce sachets (24ml)",
+      "title": "sriracha hot chilli sauce-I-06-SML-OT-13",
+      "uid": "bltb7aeaccca98dd922",
+      "gousto_uuid": "8ab4090b-1e9f-4761-abdb-c3911390a80a",
+      "name": "sriracha hot chilli sauce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sriracha-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sriracha-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sriracha-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sriracha-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sriracha-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "peanut"
+          },
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "fish"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          },
+          {
+            "title": null,
+            "slug": "mustard"
+          },
+          {
+            "title": null,
+            "slug": "sesame"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 Kallo chicken stock cube",
+      "title": "chicken stock cube-I-06-SML-SC-11",
+      "uid": "bltefe7b42950a3ab54",
+      "gousto_uuid": "c62b5629-bd1d-4e24-bdc2-955772c3e82a",
+      "name": "chicken stock cube",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-kallo-chicken-stock-cube-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-kallo-chicken-stock-cube-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-kallo-chicken-stock-cube-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-kallo-chicken-stock-cube-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-kallo-chicken-stock-cube-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "celery"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 soy sauce sachet (15ml)",
+      "title": "soy sauce-I-06-SML-OT-14",
+      "uid": "blt3a79c2be8bfcc885",
+      "gousto_uuid": "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+      "name": "soy sauce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "130g medium egg noodles",
+      "title": "medium egg noodles-IQ-03-GRN-PA-29-01",
+      "uid": "blt68fce47e8cf2db4b",
+      "gousto_uuid": "79726a93-662e-4d29-adc6-f346aa6c49f8",
+      "name": "medium egg noodles",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/130g-thick-egg-noodles-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/130g-thick-egg-noodles-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/130g-thick-egg-noodles-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/130g-thick-egg-noodles-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/130g-thick-egg-noodles-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "egg"
+          },
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "10g coriander",
+      "title": "coriander-I-07-HBS-PL-13",
+      "uid": "blt0c3cb2b678b3b373",
+      "gousto_uuid": "44417cd2-bdb0-48e2-b6a3-b75bdd8ba6b7",
+      "name": "coriander",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 large British chicken breast fillet",
+      "title": "chicken breast fillet-I-10-MPF-PO-29",
+      "uid": "blt9ccb566f9e9935d2",
+      "gousto_uuid": "61b32cd0-ca40-4e89-9039-c3e32a2cc30d",
+      "name": "chicken breast fillet",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-large-british-chicken-breast-fillet-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-large-british-chicken-breast-fillet-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-large-british-chicken-breast-fillet-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-large-british-chicken-breast-fillet-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-large-british-chicken-breast-fillet-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 spring onion",
+      "title": "spring onion-I-07-HBS-PL-10",
+      "uid": "blt7f30073f4f7cf590",
+      "gousto_uuid": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+      "name": "spring onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "15g fresh root ginger",
+      "title": "ginger-IQ-06-SML-OT-03-01",
+      "uid": "blt286d3a9819caba5f",
+      "gousto_uuid": "90ea17bd-204c-4ded-9dac-12df03f265d6",
+      "name": "ginger",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1/2 lime",
+      "title": "lime-I-05-FVG-FV-11",
+      "uid": "blteca16c5afda2f93e",
+      "gousto_uuid": "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+      "name": "lime",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 red onion",
+      "title": "red onion-I-02-SVG-VG-05",
+      "uid": "bltc69ae0a09122a2b4",
+      "gousto_uuid": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 220°C/ 200°C (fan)/ 425°F/ Gas 7</p><p>Boil a kettle</p><p>Peel (scrape the skin off with a teaspoon) and finely grate the <strong>ginger</strong>, then combine it in a bowl with the<strong> soy sauce</strong> – this is your <strong>ginger soy marinade</strong></p><p>Place your hand flat onto the <strong>chicken breast<span class=\"text-danger\">[s] </span></strong>and slice in half as if you were cutting a burger bun, so you are left with 2 <span class=\"text-danger\">[4]</span> thinner pieces</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>sliced chicken</strong> to the <strong>ginger soy marinade</strong> and give everything a good mix up</p><p>Line a baking tray with <strong>baking paper</strong></p><p>Add the <strong>chicken</strong> to the tray and put the tray in the oven for 12-15 min or until cooked through (no pink meat!)</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>While the chicken is cooking, peel and slice the <strong>red onion<span class=\"text-danger\">[s] </span></strong>(as finely as you can!)</p><p>Slice the <strong>red chilli<span class=\"text-danger\">[es]</span></strong> finely</p><p>Tip: Deseed them if you can't handle the heat!</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Trim, then slice the <strong>spring onion<span class=\"text-danger\">[s] </span></strong>finely</p><p>Cut 1/2 <span class=\"text-danger\">[1]</span> <strong>lime </strong>into wedges</p><p>Pick the <strong>coriander leaves</strong> from the stalks</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Dissolve the <strong>Kallo chicken stock cube<span class=\"text-danger\">[s]</span></strong> and <strong>Sriracha hot chilli sauce</strong> in 500ml<span class=\"text-danger\"> [1L]</span> <strong>boiled water </strong>– this is your<strong> spicy ramen base</strong></p><p>Add the <strong>spicy ramen base</strong> to a pot over a very-low heat and cook for 5-6 min or until warmed through</p><p>Re-boil a kettle</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>medium egg noodles</strong> to a separate pot and cover them with <strong>boiled water</strong> until fully submerged</p><p>Bring to the boil over a high heat and cook for 5-6 min or until cooked with a slight bite</p><p>Once done, drain and set aside</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once cooked, remove the <strong>cooked chicken</strong> from the oven and slice it finely</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2251-Step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>drained noodles</strong> to deep bowls and pour over the <strong>spicy ramen base</strong></p><p>Top with the<strong> sliced chicken, sliced red chilli </strong>(can't handle the heat? Go easy!), a handful of <strong>sliced</strong> <strong>red onion</strong>, <strong>spring onion</strong>, <strong>coriander leaves</strong> and a<strong> lime wedge</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "egg",
+      "slug": "egg"
+    },
+    {
+      "title": "celery",
+      "slug": "celery"
+    },
+    {
+      "title": "mustard",
+      "slug": "mustard"
+    }
+  ],
+  "seo": {
+    "title": "Chilli Chicken Ramen",
+    "description": "We’ve teamed up with wagamama to recreate the nation’s fave ramen in your own home! You’ll infuse chicken stock with Sriracha sauce for a spicy ramen base then top it with chilli, red onion, coriander, spring onion and lime – then slurp!",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/2251---Chilli-Chicken-Ramen_Wagamamas-1703.jpg"
+  },
+  "tags": [],
+  "uid": "blt97c1d2e1449abd64",
+  "_version": 77,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 128,
+      "energy_kj": 544,
+      "fat_mg": 1295,
+      "fat_saturates_mg": 460,
+      "carbs_mg": 15758,
+      "carbs_sugars_mg": 2760,
+      "fibre_mg": 1714,
+      "protein_mg": 13359,
+      "salt_mg": 1371,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 459,
+      "energy_kj": 1946,
+      "fat_mg": 4631,
+      "fat_saturates_mg": 1647,
+      "carbs_mg": 56338,
+      "carbs_sugars_mg": 9867,
+      "fibre_mg": 6128,
+      "protein_mg": 47761,
+      "salt_mg": 4902,
+      "net_weight_mg": 357500
+    }
+  },
+  "portion_sizes": null
+}

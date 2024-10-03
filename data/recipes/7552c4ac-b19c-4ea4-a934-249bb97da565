@@ -1,0 +1,792 @@
+{
+  "url": "/mild-creamy-smoky-fish-curry",
+  "title": "Mild & Creamy Smoky Fish Curry",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Fish Recipes",
+      "url": "/fish-recipes",
+      "uid": "bltc04cab7baf142a2b"
+    },
+    {
+      "title": "Gluten Free Recipes",
+      "url": "/gluten-free-recipes",
+      "uid": "bltd38409eebe22a089"
+    }
+  ],
+  "gousto_id": "1562",
+  "gousto_uid": "7552c4ac-b19c-4ea4-a934-249bb97da565",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1578-Creamy-Korma-Style-Smoky-Fish-Curry-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1578-Creamy-Korma-Style-Smoky-Fish-Curry-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1578-Creamy-Korma-Style-Smoky-Fish-Curry-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1578-Creamy-Korma-Style-Smoky-Fish-Curry-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1578-Creamy-Korma-Style-Smoky-Fish-Curry-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 249
+  },
+  "description": "This classic korma has a smoky fish twist. You'll cook smoked basa in a simply spiced curry sauce with ground almonds and natural yoghurt to give it a creamy richness. Paired with sultana rice for sweet bursts of flavour, this is a curry that the whole family will love! (Gluten-free, suitable for coeliacs).",
+  "prep_times": {
+    "for_2": 25,
+    "for_4": 30
+  },
+  "cuisine": {
+    "slug": "indian",
+    "title": "Indian"
+  },
+  "ingredients": [
+    {
+      "label": "1 tbsp korma curry powder",
+      "title": "korma curry powder-IQ-06-SML-MX-06-01",
+      "uid": "blt419be23762734462",
+      "gousto_uuid": "c5a44840-feb8-44f8-a575-bcb12cdf72b8",
+      "name": "korma curry powder",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "130g basmati rice",
+      "title": "basmati rice-I-03-GRN-RC-13",
+      "uid": "blta5401caadde061d5",
+      "gousto_uuid": "6c70646e-8f37-4bca-a7de-6e8ae2b260cb",
+      "name": "basmati rice",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basmati-rice-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basmati-rice-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basmati-rice-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basmati-rice-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basmati-rice-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "80g natural yoghurt",
+      "title": "natural yoghurt-IQ-09-DAI-CR-13-02",
+      "uid": "blt2fc9b7dd71015222",
+      "gousto_uuid": "7ddc4685-69db-437c-9d79-0aec1eee1d0f",
+      "name": "natural yoghurt",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1/2 vegetable stock cube",
+      "title": "vegetable stock cube-I-06-SML-SC-07",
+      "uid": "blt341de213f4bef56b",
+      "gousto_uuid": "bf27431e-20b0-4068-9873-46db06be35ab",
+      "name": "vegetable stock cube",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Vegetable-stock-cube-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Vegetable-stock-cube-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Vegetable-stock-cube-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Vegetable-stock-cube-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Vegetable-stock-cube-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "celery"
+          }
+        ]
+      }
+    },
+    {
+      "label": "2 x 100g smoked basa fillets",
+      "title": "smoked basa fillets-IQ-10-MPF-SE-34",
+      "uid": "blt40badd935398ffcd",
+      "gousto_uuid": "6081d5f4-0961-4dee-b1e9-2e3bda8415bd",
+      "name": "smoked basa fillets",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-basa-fillets-24-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-basa-fillets-24-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-basa-fillets-24-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-basa-fillets-24-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-basa-fillets-24-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "fish"
+          }
+        ]
+      }
+    },
+    {
+      "label": "5g coriander",
+      "title": "coriander-I-07-HBS-PL-13-5",
+      "uid": "blt3a65180ebd9eb3aa",
+      "gousto_uuid": "b7839655-6d73-40c2-a235-30ea290a9c56",
+      "name": "coriander",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 tsp garam masala",
+      "title": "garam masala-IQ-06-SML-MX-19-01",
+      "uid": "bltdfb41791977a47c7",
+      "gousto_uuid": "3adb6a00-8676-4a49-9008-3859d2eef6c1",
+      "name": "garam masala",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garam-masala-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garam-masala-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garam-masala-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garam-masala-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garam-masala-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 bag of ground almonds",
+      "title": "ground almonds-I-06-SML-OT-07-30",
+      "uid": "blt0ed50314763132f5",
+      "gousto_uuid": "6f14a307-7819-4838-8bf3-89fb0354a8c4",
+      "name": "ground almonds",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-bag-of-ground-almonds-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-bag-of-ground-almonds-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-bag-of-ground-almonds-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-bag-of-ground-almonds-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-bag-of-ground-almonds-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "nut"
+          },
+          {
+            "title": null,
+            "slug": "sesame"
+          },
+          {
+            "title": null,
+            "slug": "peanut"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 garlic clove",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "15g fresh root ginger",
+      "title": "ginger-IQ-06-SML-OT-03-01",
+      "uid": "blt286d3a9819caba5f",
+      "gousto_uuid": "90ea17bd-204c-4ded-9dac-12df03f265d6",
+      "name": "ginger",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 brown onion",
+      "title": "brown onion-I-02-SVG-VG-07",
+      "uid": "blt8f3ebc667e318aad",
+      "gousto_uuid": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "30g sultanas",
+      "title": "sultanas-IQ-04-NUT-DF-04-03",
+      "uid": "bltb330fbbf928754bb",
+      "gousto_uuid": "274dea3a-0316-4b3f-ac8a-7fbf2d03ad9d",
+      "name": "sultanas",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sultanas-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sultanas-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sultanas-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sultanas-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sultanas-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Butter",
+      "slug": "butter"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Sugar",
+      "slug": "sugar"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Boil a kettle</p>\r\n<p>Peel and finely slice the <strong>brown onion<span class=\"text-danger\">[s]</span></strong></p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a wide-based pan (preferably non-stick)&nbsp;with a knob of <strong>butter</strong> and a drizzle of <strong>vegetable oil</strong> over a low heat</p>\r\n<p>Once hot, add the <strong>sliced onion</strong> with a pinch of <strong>salt</strong> and cook for 8-10 min or until softened</p>\r\n<p>&nbsp;</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, add the <strong>basmati rice</strong>, <strong>sultanas</strong> and 300ml <span class=\"text-danger\">[600ml]</span><strong> cold water</strong> to a pot with a lid and bring to the boil over a high heat</p>\r\n<p>Once boiling, reduce the heat to very low and cook, covered, for 10-12 min or until all the water has absorbed and the rice is cooked &ndash; this is your <strong>sultana rice</strong></p>\r\n<p>&nbsp;</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Dissolve&nbsp;1/2 <span class=\"text-danger\">[1]</span>&nbsp;<strong>vegetable stock cube</strong> in 250ml <span class=\"text-danger\">[450ml]</span> of <strong>boiled water</strong></p>\r\n<p>Peel and finely chop (or grate) the <strong>garlic</strong></p>\r\n<p>Peel (scrape the skin off with a teaspoon) and finely chop (or grate) the <strong>ginger</strong></p>\r\n<p>Once the<strong> onions</strong> have softened, add the <strong>garam masala</strong>, <strong>korma curry powder</strong>, <strong>chopped ginger</strong> and <strong>garlic</strong>&nbsp;and cook for 1-2 min or until fragrant</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once fragrant, add the <strong>vegetable stock</strong> and cook for 3-5 min or until the liquid has reduced slightly</p>\r\n<p>Meanwhile, cut the <strong>smoked basa fillets</strong> into rough bite-sized pieces&nbsp;</p>\r\n<p>Once slightly reduced, add the <strong>ground almonds</strong> and <strong>chopped smoked basa</strong> to the pan with a pinch of <strong>sugar</strong></p>\r\n<p>Cook, covered, for 4-5 min or until the <strong>basa</strong> is fully cooked&nbsp;</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, chop the <strong>coriander</strong>&nbsp;roughly (including the stalks)</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the <strong>basa</strong> is cooked through,&nbsp;add the <strong>natural</strong>&nbsp;<strong>yoghurt</strong> and cook for a further 1 min, season with a generous grind of <strong>black pepper</strong>&nbsp;&ndash; this is your <strong>smoky</strong>&nbsp;<strong>fish curry</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1578.-step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>smoky fish curry</strong> with the&nbsp;<strong>sultana rice</strong> to the side</p>\r\n<p>Garnish with the<strong> chopped&nbsp;coriander</strong></p>\r\n<p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "peanut",
+      "slug": "peanut"
+    },
+    {
+      "title": "nut",
+      "slug": "nut"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    },
+    {
+      "title": "fish",
+      "slug": "fish"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "celery",
+      "slug": "celery"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    }
+  ],
+  "seo": {
+    "title": "Mild & Creamy Smoky Fish Curry",
+    "description": "This classic korma has a smoky fish twist. You'll cook smoked basa in a simply spiced curry sauce with ground almonds and natural yoghurt to give it a creamy richness. Paired with sultana rice for sweet bursts of flavour, this is a curry that the whole family will love! (Gluten-free, suitable for coeliacs).",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/1578-Creamy-Korma-Style-Smoky-Fish-Curry.jpg"
+  },
+  "tags": [],
+  "uid": "bltdaeba21e15a977cb",
+  "_version": 47,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 179,
+      "energy_kj": 759,
+      "fat_mg": 4599,
+      "fat_saturates_mg": 1299,
+      "carbs_mg": 25740,
+      "carbs_sugars_mg": 5585,
+      "fibre_mg": 1750,
+      "protein_mg": 10158,
+      "salt_mg": 1445,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 533,
+      "energy_kj": 2251,
+      "fat_mg": 13626,
+      "fat_saturates_mg": 3849,
+      "carbs_mg": 76255,
+      "carbs_sugars_mg": 16547,
+      "fibre_mg": 5185,
+      "protein_mg": 30096,
+      "salt_mg": 4283,
+      "net_weight_mg": 296250
+    }
+  },
+  "portion_sizes": null
+}

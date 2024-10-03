@@ -1,0 +1,734 @@
+{
+  "url": "/creamy-chicken-chilaquiles",
+  "title": "Creamy Chicken Chilaquiles",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Chicken",
+      "url": "/chicken",
+      "uid": "blt84f37ae679edc7e6"
+    },
+    {
+      "title": "Flavours of Mexico",
+      "url": "/flavours-of-mexico",
+      "uid": "blt5ae71c14d112b19a"
+    }
+  ],
+  "gousto_id": "2719",
+  "gousto_uid": "59be1a22-f949-4659-8197-616e549a4900",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2587_Chicken-Chilaquiles-With-Chipotle-Crema-1360_SQUARE_AW-1593522606176-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2587_Chicken-Chilaquiles-With-Chipotle-Crema-1360_SQUARE_AW-1593522606176-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2587_Chicken-Chilaquiles-With-Chipotle-Crema-1360_SQUARE_AW-1593522606176-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2587_Chicken-Chilaquiles-With-Chipotle-Crema-1360_SQUARE_AW-1593522606176-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2587_Chicken-Chilaquiles-With-Chipotle-Crema-1360_SQUARE_AW-1593522606176-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 913
+  },
+  "description": "Chilaquiles (pronounced chil-ey-qill-les) is a Mexican staple which traditionally saw leftover tortillas from the night before reinvigorated with tangy salsas, tender meats, vegetables and cheese. Delicioso!",
+  "prep_times": {
+    "for_2": 25,
+    "for_4": 30
+  },
+  "cuisine": {
+    "slug": "mexican",
+    "title": "Mexican"
+  },
+  "ingredients": [
+    {
+      "label": "1 tomato paste sachet (32g)",
+      "title": "tomato paste-I-08-SAU-PS-37",
+      "uid": "blt56af6f93c8c97b3f",
+      "gousto_uuid": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+      "name": "tomato paste",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 chipotle paste sachet (20g)",
+      "title": "chipotle paste-I-08-SAU-PS-53",
+      "uid": "blt9257590c97c6f727",
+      "gousto_uuid": "4795ad08-e3d0-4275-b2df-8b27c88772cf",
+      "name": "chipotle paste",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-chipotle-paste-sachet-20g-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-chipotle-paste-sachet-20g-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-chipotle-paste-sachet-20g-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-chipotle-paste-sachet-20g-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-chipotle-paste-sachet-20g-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 x 125g British chicken breast fillets",
+      "title": "British chicken breast portions-I-10-MPF-PO-45",
+      "uid": "blt74bdd7e596c869f4",
+      "gousto_uuid": "1eef05cd-1b5c-45ca-8a9c-f3bb72d70947",
+      "name": "British chicken breast portions",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chicken-breast-edit-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chicken-breast-edit-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chicken-breast-edit-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chicken-breast-edit-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chicken-breast-edit-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "30g Greek feta cheese",
+      "title": "feta-I-09-DAI-CH-19",
+      "uid": "blt71b19936ef21ada2",
+      "gousto_uuid": "9b191c6b-e6ec-41bb-9195-40b2cd147d3b",
+      "name": "feta",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-greek-feta-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-greek-feta-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-greek-feta-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-greek-feta-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-greek-feta-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 pot of soured cream (100g)",
+      "title": "soured cream-I-09-DAI-CR-25",
+      "uid": "blt3aa35913b7d45f30",
+      "gousto_uuid": "8d119114-4fa0-4c2d-ab59-13229a29a840",
+      "name": "soured cream",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pot-of-soured-cream-100g-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pot-of-soured-cream-100g-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pot-of-soured-cream-100g-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pot-of-soured-cream-100g-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pot-of-soured-cream-100g-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "125g seasonal radishes",
+      "title": "radishes-I-05-FVG-FV-17",
+      "uid": "blt244d12dfc57bb6d9",
+      "gousto_uuid": "29efe189-b584-424e-9f22-732933024097",
+      "name": "radishes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/125g-radishes-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/125g-radishes-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/125g-radishes-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/125g-radishes-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/125g-radishes-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1/2 tsp cayenne pepper",
+      "title": "cayenne pepper-IQ-06-SML-IN-07-01",
+      "uid": "blt28eaccfc855c5488",
+      "gousto_uuid": "524108d4-f4f7-47ef-83ec-14c118182ecb",
+      "name": "cayenne pepper",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/12-tsp-cayenne-pepper-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/12-tsp-cayenne-pepper-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/12-tsp-cayenne-pepper-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/12-tsp-cayenne-pepper-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/12-tsp-cayenne-pepper-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 tsp smoked paprika",
+      "title": "smoked paprika-IQ-06-SML-IN-03-01",
+      "uid": "blt3a9a69d4a4dd5e2e",
+      "gousto_uuid": "0f28dc8b-632e-4f96-8c6b-f607001ce044",
+      "name": "smoked paprika",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "6 white tortilla wraps",
+      "title": "tortilla wrap-I-11-BRD-BR-06",
+      "uid": "bltedc1f0d9e88a4eb0",
+      "gousto_uuid": "f2598802-6ee6-4fd8-a11b-1442f8e4defb",
+      "name": "tortilla wrap",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/white-wraps-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/white-wraps-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/white-wraps-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/white-wraps-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/white-wraps-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 soy sauce sachet (8g)",
+      "title": "soy sauce-I-06-SML-OT-05",
+      "uid": "bltaa4a46c7cb59b000",
+      "gousto_uuid": "3c07d126-f655-437c-aa1d-c38dbbae0398",
+      "name": "soy sauce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 red onion",
+      "title": "red onion-I-02-SVG-VG-05",
+      "uid": "bltc69ae0a09122a2b4",
+      "gousto_uuid": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 200°C/ 180°C (fan)/ 395°F/ Gas 6</p><p>Add the <strong>chicken breasts </strong>to a baking tray</p><p>Drizzle the <strong>chicken breasts</strong> with <strong>olive oil</strong> and sprinkle over the <strong>smoked paprika</strong>, <strong>cayenne pepper</strong> (can't handle the heat? Go easy!) and a pinch of <strong>salt</strong> and <strong>pepper</strong></p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1595957343583-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1595957343583-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1595957343583-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1595957343583-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1595957343583-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Put the tray in the oven for 15-20 min or until the chicken is cooked through</p><p>Whilst the chicken is cooking, peel and finely dice the <strong>red onion<span class=\"text-danger\">[s]</span></strong></p><p>Boil a kettle</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1595957347892-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1595957347892-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1595957347892-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1595957347892-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1595957347892-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>vegetable oil </strong>over a medium heat</p><p>Once hot, add the <strong>most</strong> of the <strong>diced red onion</strong> (save some for garnish!) with a pinch of <strong>salt</strong> and cook for 5 min or until softened</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1595957354758-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1595957354758-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1595957354758-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1595957354758-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1595957354758-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Slice the <strong>radishes</strong> roughly</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1595957359680-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1595957359680-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1595957359680-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1595957359680-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1595957359680-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the onion has softened, add the<strong> tomato paste</strong>,<strong> chipotle paste</strong>,<strong> soy sauce </strong>and 150ml <span class=\"text-danger\">[250ml]</span> <strong>boiled water </strong>to the pan and cook for 3-4 min or until thickened</p><p>Once thickened, stir through the <strong>sour cream </strong>and cook for 1-2 min further – this is your <strong>creamy chipotle salsa</strong></p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1595957364398-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1595957364398-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1595957364398-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1595957364398-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1595957364398-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Slice the <strong>tortillas</strong> into strips</p><p>Tip: Stack them for speed!</p><p>Add the <strong>tortilla strips</strong> to a baking tray (or two!), drizzle them with <strong>vegetable oil</strong> and put the tray<span class=\"text-danger\">[s]</span> in the oven for 8-10 min or until golden and crispy</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1595957413473-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1595957413473-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1595957413473-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1595957413473-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1595957413473-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Slice the <strong>cooked chicken</strong> into cubes</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1595957418758-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1595957418758-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1595957418758-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1595957418758-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1595957418758-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>tortilla strips </strong>on plates and spoon over the <strong>creamy chipotle salsa</strong></p><p>Top with the<strong> chicken, sliced radishes</strong>, <strong>remaining</strong> <strong>diced red onion </strong>and crumble over the <strong>feta</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "soya",
+      "slug": "soya"
+    }
+  ],
+  "seo": {
+    "title": "Creamy Chicken Chilaquiles",
+    "description": "Chilaquiles (pronounced chil-ey-qill-les) is a Mexican staple which traditionally saw leftover tortillas from the night before reinvigorated with tangy salsas, tender meats, vegetables and cheese. Delicioso!",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://s3-eu-west-1.amazonaws.com/s3-gousto-production-media/cms/mood-image/2587_Chicken-Chilaquiles-With-Chipotle-Crema-1360_SQUARE_AW-1593522606176.jpg"
+  },
+  "tags": [],
+  "uid": "bltd4d5ed9ced8f75ed",
+  "_version": 60,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 149,
+      "energy_kj": 627,
+      "fat_mg": 4659,
+      "fat_saturates_mg": 2862,
+      "carbs_mg": 16362,
+      "carbs_sugars_mg": 2961,
+      "fibre_mg": 1637,
+      "protein_mg": 9842,
+      "salt_mg": 537,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 640,
+      "energy_kj": 2694,
+      "fat_mg": 20001,
+      "fat_saturates_mg": 12288,
+      "carbs_mg": 70236,
+      "carbs_sugars_mg": 12712,
+      "fibre_mg": 7028,
+      "protein_mg": 42250,
+      "salt_mg": 2306,
+      "net_weight_mg": 429250
+    }
+  },
+  "portion_sizes": null
+}

@@ -1,0 +1,684 @@
+{
+  "url": "/feta-kale-cannelloni",
+  "title": "Feta & Kale Cannelloni",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Vegetarian Recipes ",
+      "url": "/vegetarian-recipes",
+      "uid": "blta762d7d1d30213a2"
+    },
+    {
+      "title": "Pasta Recipes",
+      "url": "/pasta-recipes",
+      "uid": "blt637b2a42a268b2b1"
+    },
+    {
+      "title": "Italian Recipes",
+      "url": "/italian-recipes",
+      "uid": "blt7306e62f2a9906c9"
+    },
+    {
+      "title": "Vegetarian",
+      "url": "/vegetarian",
+      "uid": "blt5cc8b5413c283f12"
+    },
+    {
+      "title": "Kale Recipes",
+      "url": "/kale-recipes",
+      "uid": "blt5a0fc2da5931c0ab"
+    }
+  ],
+  "gousto_id": "806",
+  "gousto_uid": "c418770a-d014-4f74-84bf-89cbcdbeebb1",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/822---Feta--Kale-Cannelloni-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/822---Feta--Kale-Cannelloni-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/822---Feta--Kale-Cannelloni-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/822---Feta--Kale-Cannelloni-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/822---Feta--Kale-Cannelloni-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 161
+  },
+  "description": "This comforting veggie dish lets you roll lasagne sheets into kale and feta cannelloni tubes which are topped with creamy bechamel and melty cheddar. It comes with a fresh side salad of cherry tomatoes, mint, and basil. ",
+  "prep_times": {
+    "for_2": 45,
+    "for_4": 45
+  },
+  "cuisine": {
+    "slug": "italian",
+    "title": "Italian"
+  },
+  "ingredients": [
+    {
+      "label": "40g Irish mature cheddar ",
+      "title": "cheddar cheese-I-09-DAI-CH-02",
+      "uid": "bltcf8784004b8281e0",
+      "gousto_uuid": "aed1561d-bae6-487b-a645-4125a6829119",
+      "name": "cheddar cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "100g Greek Feta Cheese Cypressa",
+      "title": "greek feta cheese-I-09-DAI-CH-21",
+      "uid": "bltda5c8545cb24cd42",
+      "gousto_uuid": "ec84aa78-180f-4427-9b9e-aa3d26bb102a",
+      "name": "greek feta cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-greek-feta-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-greek-feta-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-greek-feta-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-greek-feta-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-greek-feta-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "10g fresh mint ",
+      "title": "mint-I-07-HBS-PL-18",
+      "uid": "blt4917b824e9da6a94",
+      "gousto_uuid": "30a51d70-fcaf-4ed8-975d-9c0599d8492a",
+      "name": "mint",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Mint-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Mint-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Mint-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Mint-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Mint-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "6 lasagne verdi sheets",
+      "title": "lasagne sheets-IQ-03-GRN-PA-12-01",
+      "uid": "blt8a42c9b5341ac2de",
+      "gousto_uuid": "c86de01e-9c9b-4325-9c7a-5c900843680d",
+      "name": "lasagne sheets",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/6-lasagne-sheets-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/6-lasagne-sheets-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/6-lasagne-sheets-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/6-lasagne-sheets-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/6-lasagne-sheets-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "egg"
+          }
+        ]
+      }
+    },
+    {
+      "label": "20g fresh basil ",
+      "title": "basil-I-07-HBS-PL-34",
+      "uid": "bltb1bbad82eb75824b",
+      "gousto_uuid": "b77e899d-b35c-4d2e-9811-ea29fa7bfa84",
+      "name": "basil",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "200g kale",
+      "title": "shredded kale-I-05-FVG-LF-10",
+      "uid": "bltdeaa30a2bfc1fa33",
+      "gousto_uuid": "e8531dd6-78e9-4a03-84f6-973e1afb0968",
+      "name": "shredded kale",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/kale-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/kale-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/kale-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/kale-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/kale-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "250g cherry tomatoes ",
+      "title": "cherry tomatoes-I-05-FVG-FV-02-04",
+      "uid": "blt45689303fed45d62",
+      "gousto_uuid": "f56ddebd-04ab-40ec-8bb5-d87c08a236db",
+      "name": "cherry tomatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 shallot",
+      "title": "shallot-I-02-SVG-VG-10",
+      "uid": "blt011a15790b863f51",
+      "gousto_uuid": "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+      "name": "shallot",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 garlic clove",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Butter",
+      "slug": "butter"
+    },
+    {
+      "title": "Flour",
+      "slug": "flour"
+    },
+    {
+      "title": "Milk",
+      "slug": "milk"
+    },
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 200&deg;C/ 180&deg;C (fan)/ 400&deg;F/ Gas 6</p>\r\n<p>Boil a kettle</p>\r\n<p>Peel and finely chop the <strong>shallot</strong><span class=\"text-danger\"><strong>[s]</strong></span><strong>&nbsp;</strong></p>\r\n<p>Peel and finely chop (or grate) the <strong>garlic </strong></p>\r\n<p>Strip the <strong>basil</strong> leaves from the stalks, chop the stalks finely and set the leaves aside for later</p>\r\n<p><span style=\"font-family: Lato; font-size: 15px; white-space: pre-wrap;\">&nbsp;</span></p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a large pot of boiled water over a high heat with a drizzle of&nbsp;<strong>olive oil</strong>&nbsp;</p>\r\n<p>Once boiling, add the <strong>lasagne sheets </strong>one at a time with a drizzle of <strong>olive oil</strong> in between them<strong>&nbsp;</strong>(this prevents them sticking together)</p>\r\n<p>Cook them for 5-7 min or until they've softened but not fully cooked and once drained, lay the <strong>lasagne sheets</strong> out separately, so they don't overlap each other</p>\r\n<p>&nbsp;</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, strip the <strong>kale</strong> leaves from&nbsp;their tough inner stalks and chop them finely, discarding the stalks</p>\r\n<p>Heat a pan (preferably non-stick) with a matching lid over a medium heat with a drizzle of <strong>olive oil</strong></p>\r\n<p>Once hot, add the <strong>shallot&nbsp;</strong>and cook for 3 min or until softened</p>\r\n<p>Add the <strong>garlic</strong> and&nbsp;<strong>kale</strong></p>\r\n<p>Cover with a lid and cook for 5 min or until the kale has wilted</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, add 30g <span class=\"text-danger\">[60g]</span>&nbsp;<strong>butter</strong> to a pot over a medium heat</p>\r\n<p>Once melted, add 30g <span class=\"text-danger\">[60g]</span> <strong>flour</strong> and stir for 2-3 min until a sandy coloured paste is formed - this is your <strong>roux</strong></p>\r\n<p>Stir 400ml <span class=\"text-danger\">[800ml]</span>&nbsp;<strong>milk</strong> gradually into the roux</p>\r\n<p>Whisk&nbsp;constantly for 4 min or until a smooth, thick sauce remains, then remove from the heat, add the&nbsp;<strong>basil</strong>&nbsp;<strong>stalks</strong> and a pinch of <strong>salt </strong>and<strong> pepper</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Grate the <strong>cheddar&nbsp;</strong>and set aside</p>\r\n<p>Crumble the <strong>feta</strong> into the softened&nbsp;<strong>kale&nbsp;</strong></p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Lightly oil an <strong>oven-proof dish</strong>&nbsp;</p>\r\n<p>Divide the<strong> kale and feta mixture</strong>&nbsp;between the lasagne sheets, then roll the filled<strong> lasagne sheets</strong>&nbsp;up tightly like a cigar - this is your <strong>canelloni&nbsp;</strong></p>\r\n<p>Add the <strong>canelloni</strong> to your <strong>oven-proof&nbsp;dish</strong> with the seams facing down, pour the <strong>sauce</strong> over and top with the<strong> grated cheddar&nbsp;</strong></p>\r\n<p>Put the dish in the oven for 15-20 min or until golden brown&nbsp;</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, chop the<strong> cherry</strong>&nbsp;<strong>tomatoes</strong> in half&nbsp;</p>\r\n<p>Strip the <strong>mint</strong> leaves from their stems</p>\r\n<p>Chop the <strong>mint</strong> and&nbsp;<strong>basil</strong> leaves together, roughly</p>\r\n<p>Mix the chopped&nbsp;<strong>tomatoes </strong>and&nbsp;chopped <strong>herbs</strong>&nbsp;together with a splash of <strong>olive oil </strong>and a&nbsp;pinch of&nbsp;<strong>salt </strong>and <strong>pepper</strong> - this is your <strong>side salad</strong></p>\r\n<p>&nbsp;</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/822.-step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once cooked, allow the cannelloni&nbsp;to cool slightly before serving as it will be extremely hot</p>\r\n<p>Serve with the salad to the side</p>\r\n<p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "egg",
+      "slug": "egg"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    }
+  ],
+  "seo": {
+    "title": "Feta & Kale Cannelloni",
+    "description": "This comforting veggie dish lets you roll lasagne sheets into kale and feta cannelloni tubes which are topped with creamy bechamel and melty cheddar. It comes with a fresh side salad of cherry tomatoes, mint, and basil. ",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/822---Feta--Kale-Cannelloni.jpg"
+  },
+  "tags": [],
+  "uid": "bltaef832a53ffee042",
+  "_version": 53,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 133,
+      "energy_kj": 564,
+      "fat_mg": 6111,
+      "fat_saturates_mg": 3585,
+      "carbs_mg": 13328,
+      "carbs_sugars_mg": 2290,
+      "fibre_mg": 833,
+      "protein_mg": 6768,
+      "salt_mg": 492,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 478,
+      "energy_kj": 2016,
+      "fat_mg": 21818,
+      "fat_saturates_mg": 12800,
+      "carbs_mg": 47584,
+      "carbs_sugars_mg": 8178,
+      "fibre_mg": 2975,
+      "protein_mg": 24162,
+      "salt_mg": 1759,
+      "net_weight_mg": 357000
+    }
+  },
+  "portion_sizes": null
+}

@@ -1,0 +1,897 @@
+{
+  "url": "/fiery-jerk-spiced-pork-sweet-potato-mash",
+  "title": "Fiery Jerk-Spiced Pork & Sweet Potato Mash",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "7355",
+  "gousto_uid": "8a428821-2781-494a-a5cf-7c25611983d2",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/7199_Jerk-Spiced-Pork--Sweet-Potato-Mash-0412-1719908390435-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/7199_Jerk-Spiced-Pork--Sweet-Potato-Mash-0412-1719908390435-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/7199_Jerk-Spiced-Pork--Sweet-Potato-Mash-0412-1719908390435-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/7199_Jerk-Spiced-Pork--Sweet-Potato-Mash-0412-1719908390435-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/7199_Jerk-Spiced-Pork--Sweet-Potato-Mash-0412-1719908390435-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 3315
+  },
+  "description": "Give healthy eating a kick with sticky jerk-spiced pork. You’ll coat juicy pork steaks in jerk paste before pan frying till charred. Serve up with sweet potato mash, creamy slaw and more jerk sauce to finish. High in protein. Protein contributes to a growth in muscle mass",
+  "prep_times": {
+    "for_2": 20,
+    "for_4": 20
+  },
+  "cuisine": {
+    "slug": "caribbean",
+    "title": "Caribbean"
+  },
+  "ingredients": [
+    {
+      "label": "British pork loin steak (150g) x0",
+      "title": "British pork loin steak-I-10-MPF-PM-70",
+      "uid": "bltea303440ea54cfbd",
+      "gousto_uuid": "ab004d3d-d6a8-4cba-a3b5-dfc902478d68",
+      "name": "British pork loin steak",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/135-pork-loin-steak-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/135-pork-loin-steak-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/135-pork-loin-steak-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/135-pork-loin-steak-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/135-pork-loin-steak-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Mayonnaise (30ml)",
+      "title": "mayonnaise-I-06-SML-OT-19",
+      "uid": "bltf17730c6307389b6",
+      "gousto_uuid": "34869527-4715-40aa-93c3-2a616d203aa9",
+      "name": "mayonnaise",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "egg"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Chicken stock mix (5.5g)",
+      "title": "chicken stock mix-I-06-SML-SC-22",
+      "uid": "blt6a0082697a1a5681",
+      "gousto_uuid": "dec1c16e-4785-40e7-b689-69721141bad6",
+      "name": "chicken stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Jerk paste (24g)",
+      "title": "jerk paste-I-08-SAU-PS-78",
+      "uid": "blted1d5350fa79ff9f",
+      "gousto_uuid": "441d5ee1-5788-4e1b-a31a-970653c68bc6",
+      "name": "jerk paste",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/jerk-paste-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/jerk-paste-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/jerk-paste-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/jerk-paste-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/jerk-paste-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "British pork loin steaks (300g)",
+      "title": "British pork loin steaks-I-10-MPF-ME-17",
+      "uid": "blta65ac503b7f0ffb3",
+      "gousto_uuid": "17efa7a1-3994-45d2-9baf-3515ef275359",
+      "name": "British pork loin steaks",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pork-loin-steaks-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pork-loin-steaks-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pork-loin-steaks-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pork-loin-steaks-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pork-loin-steaks-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Carrot & cabbage slaw mix (160g)",
+      "title": "carrot & cabbage slaw mix-I-05-FVG-LF-60",
+      "uid": "blt6cf5d1b80b20fe71",
+      "gousto_uuid": "4366001c-0c31-41c9-b051-f5ddb2e73677",
+      "name": "carrot & cabbage slaw mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Mixed-Slaw-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Mixed-Slaw-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Mixed-Slaw-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Mixed-Slaw-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Mixed-Slaw-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Sweet potato x2",
+      "title": "sweet potato-I-02-SVG-VG-06-02",
+      "uid": "blt5f24d6fc60e3058d",
+      "gousto_uuid": "ce0c4ad4-1d62-4c44-be99-31a7da1f064d",
+      "name": "sweet potato",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sweet-potato-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sweet-potato-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sweet-potato-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sweet-potato-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sweet-potato-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "White wine vinegar (15ml)",
+      "title": "white wine vinegar-I-08-SAU-LS-14",
+      "uid": "bltfa7cb0db872c783e",
+      "gousto_uuid": "ef566c78-5df6-49d9-8356-68789149176f",
+      "name": "white wine vinegar",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Butter",
+      "slug": "butter"
+    },
+    {
+      "title": "Flour",
+      "slug": "flour"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Sugar",
+      "slug": "sugar"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    },
+    {
+      "title": "Water",
+      "slug": "water"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Before you start cooking, take your <strong>pork steak</strong> out of the fridge, open the packet and let it adjust to room temperature, then boil a kettle</p><p>Peel and chop your <strong>sweet potato[es]</strong> into bite-sized pieces</p><p>Add the <strong>chopped sweet potato</strong> to a pot of <strong>boiled water</strong> over a high heat and bring to the boil</p><p>Cook for 10-12 min or until fork-tender</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1719319944072-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1719319944072-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1719319944072-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1719319944072-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1719319944072-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add your <strong>pork loin steak[s]</strong> to a bowl with <strong>half </strong>your <strong>jerk paste</strong>,<strong> half </strong>your<strong> white wine vinegar </strong>(you'll use the rest later!) and 1 tsp <span class=\"text-purple\">[1 1/2 tsp]</span> <span class=\"text-danger\">[2 tsp] </span><strong>flour</strong></p><p>Add a pinch of<strong> salt </strong>and<strong> pepper</strong> and give everything a good mix up – this is your <strong>jerk-spiced pork</strong></p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1719319950753-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1719319950753-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1719319950753-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1719319950753-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1719319950753-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a large, wide-based pan (preferably non-stick) over a medium-high heat with a small drizzle of <strong>vegetable oil</strong></p><p>Once hot, add the <strong>jerk-spiced pork</strong> and cook for 5-6 min on each side or until slightly charred and cooked through (no pink meat!)</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1719319958272-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1719319958272-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1719319958272-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1719319958272-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1719319958272-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>While the pork is cooking, reboil half a kettle</p><p>Combine your <strong>carrot & cabbage slaw mix </strong>with your <strong>mayo</strong> and the <strong>remaining white wine vinegar</strong></p><p>Add a pinch of <strong>salt </strong>and <strong>pepper</strong> and give everything a good mix up – this is your <strong>slaw</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1719319962576-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1719319962576-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1719319962576-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1719319962576-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1719319962576-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Dissolve your <strong>chicken stock mix</strong> in 150ml <span class=\"text-purple\">[200ml]</span> <span class=\"text-danger\">[250ml] </span><strong>boiled water </strong>with the <strong>remaining jerk paste</strong>,<strong> </strong>a pinch of <strong>sugar</strong> and a generous pinch of <strong>salt </strong>and <strong>pepper </strong>– this is your<strong> jerk-spiced stock</strong></p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1719319969421-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1719319969421-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1719319969421-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1719319969421-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1719319969421-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the potatoes are tender, drain, return them to the pot</p><p>Add a small knob of <strong>butter</strong> and a pinch of <strong>salt</strong> to the potatoes and mash them until smooth – this is your <strong>sweet potato mash</strong></p><p>Cover with a lid to keep warm until serving</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1719319982458-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1719319982458-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1719319982458-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1719319982458-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1719319982458-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the pork is done, transfer the <strong>cooked steak</strong> to a clean chopping board (reserve the pan!) and leave to rest for 2 min</p><p>Return the reserved pan to a medium-heat with 1 tsp <span class=\"text-purple\">[1 1/2 tsp]</span> <span class=\"text-danger\">[2 tsp] </span><strong>flour </strong>and stir for 30 secs</p><p>Gradually stir in the <strong>jerk-spiced stock </strong>and cook for 2 min or until a smooth, thick sauce remains – this is your <strong>jerk-spiced sauce</strong></p><p>Tip: Scrape any bits from the bottom of the pan as this will add extra flavour to the sauce!</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1723624486768-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1723624486768-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1723624486768-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1723624486768-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1723624486768-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Slice the <strong>rested pork</strong></p><p>Serve the <strong>sliced pork</strong> with the <strong>sweet potato mash </strong>and<strong> slaw </strong>to the side</p><p>Drizzle the <strong>jerk-spiced sauce </strong>over the <strong>sliced pork</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "egg",
+      "slug": "egg"
+    }
+  ],
+  "seo": {
+    "title": "Fiery Jerk-Spiced Pork & Sweet Potato Mash",
+    "description": "Give healthy eating a kick with sticky jerk-spiced pork. You’ll coat juicy pork steaks in jerk paste before pan frying till charred. Serve up with sweet potato mash, creamy slaw and more jerk sauce to finish.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/7199_Jerk-Spiced-Pork--Sweet-Potato-Mash-0412-1719908390435.jpg"
+  },
+  "tags": [],
+  "uid": "blt9af8082cfe5391ac",
+  "_version": 3323,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 139,
+      "energy_kj": 584,
+      "fat_mg": 7783,
+      "fat_saturates_mg": 2266,
+      "carbs_mg": 11110,
+      "carbs_sugars_mg": 3743,
+      "fibre_mg": 1629,
+      "protein_mg": 6949,
+      "salt_mg": 365,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 650,
+      "energy_kj": 2731,
+      "fat_mg": 36370,
+      "fat_saturates_mg": 10592,
+      "carbs_mg": 51913,
+      "carbs_sugars_mg": 17490,
+      "fibre_mg": 7616,
+      "protein_mg": 32473,
+      "salt_mg": 1709,
+      "net_weight_mg": 467250
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 1,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "ab004d3d-d6a8-4cba-a3b5-dfc902478d68",
+          "code": "I-10-MPF-PM-70",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4366001c-0c31-41c9-b051-f5ddb2e73677",
+          "code": "I-05-FVG-LF-60",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "dec1c16e-4785-40e7-b689-69721141bad6",
+          "code": "I-06-SML-SC-22",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "441d5ee1-5788-4e1b-a31a-970653c68bc6",
+          "code": "I-08-SAU-PS-78",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "34869527-4715-40aa-93c3-2a616d203aa9",
+          "code": "I-06-SML-OT-19",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ce0c4ad4-1d62-4c44-be99-31a7da1f064d",
+          "code": "I-02-SVG-VG-06-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ef566c78-5df6-49d9-8356-68789149176f",
+          "code": "I-08-SAU-LS-14",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "17efa7a1-3994-45d2-9baf-3515ef275359",
+          "code": "I-10-MPF-ME-17",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4366001c-0c31-41c9-b051-f5ddb2e73677",
+          "code": "I-05-FVG-LF-60",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "dec1c16e-4785-40e7-b689-69721141bad6",
+          "code": "I-06-SML-SC-22",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "441d5ee1-5788-4e1b-a31a-970653c68bc6",
+          "code": "I-08-SAU-PS-78",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "34869527-4715-40aa-93c3-2a616d203aa9",
+          "code": "I-06-SML-OT-19",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ce0c4ad4-1d62-4c44-be99-31a7da1f064d",
+          "code": "I-02-SVG-VG-06-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ef566c78-5df6-49d9-8356-68789149176f",
+          "code": "I-08-SAU-LS-14",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 3,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "ab004d3d-d6a8-4cba-a3b5-dfc902478d68",
+          "code": "I-10-MPF-PM-70",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "17efa7a1-3994-45d2-9baf-3515ef275359",
+          "code": "I-10-MPF-ME-17",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4366001c-0c31-41c9-b051-f5ddb2e73677",
+          "code": "I-05-FVG-LF-60",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "dec1c16e-4785-40e7-b689-69721141bad6",
+          "code": "I-06-SML-SC-22",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "441d5ee1-5788-4e1b-a31a-970653c68bc6",
+          "code": "I-08-SAU-PS-78",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "34869527-4715-40aa-93c3-2a616d203aa9",
+          "code": "I-06-SML-OT-19",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ce0c4ad4-1d62-4c44-be99-31a7da1f064d",
+          "code": "I-02-SVG-VG-06-02",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "ef566c78-5df6-49d9-8356-68789149176f",
+          "code": "I-08-SAU-LS-14",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "17efa7a1-3994-45d2-9baf-3515ef275359",
+          "code": "I-10-MPF-ME-17",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4366001c-0c31-41c9-b051-f5ddb2e73677",
+          "code": "I-05-FVG-LF-60",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "dec1c16e-4785-40e7-b689-69721141bad6",
+          "code": "I-06-SML-SC-22",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "441d5ee1-5788-4e1b-a31a-970653c68bc6",
+          "code": "I-08-SAU-PS-78",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "34869527-4715-40aa-93c3-2a616d203aa9",
+          "code": "I-06-SML-OT-19",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ce0c4ad4-1d62-4c44-be99-31a7da1f064d",
+          "code": "I-02-SVG-VG-06-02",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "ef566c78-5df6-49d9-8356-68789149176f",
+          "code": "I-08-SAU-LS-14",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 5,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "ab004d3d-d6a8-4cba-a3b5-dfc902478d68",
+          "code": "I-10-MPF-PM-70",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "17efa7a1-3994-45d2-9baf-3515ef275359",
+          "code": "I-10-MPF-ME-17",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4366001c-0c31-41c9-b051-f5ddb2e73677",
+          "code": "I-05-FVG-LF-60",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "dec1c16e-4785-40e7-b689-69721141bad6",
+          "code": "I-06-SML-SC-22",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "441d5ee1-5788-4e1b-a31a-970653c68bc6",
+          "code": "I-08-SAU-PS-78",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "34869527-4715-40aa-93c3-2a616d203aa9",
+          "code": "I-06-SML-OT-19",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "ce0c4ad4-1d62-4c44-be99-31a7da1f064d",
+          "code": "I-02-SVG-VG-06-02",
+          "quantities": {
+            "in_box": 5
+          }
+        },
+        {
+          "id": "ef566c78-5df6-49d9-8356-68789149176f",
+          "code": "I-08-SAU-LS-14",
+          "quantities": {
+            "in_box": 3
+          }
+        }
+      ]
+    }
+  ]
+}

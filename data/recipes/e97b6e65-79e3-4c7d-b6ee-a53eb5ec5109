@@ -1,0 +1,1380 @@
+{
+  "url": "/teriyaki-aubergine-donburi",
+  "title": "Teriyaki Aubergine Donburi",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Vegetarian Recipes ",
+      "url": "/vegetarian-recipes",
+      "uid": "blta762d7d1d30213a2"
+    },
+    {
+      "title": "Rice Recipes",
+      "url": "/rice-recipes",
+      "uid": "blt7d4da6bbb3711078"
+    },
+    {
+      "title": "Lighter",
+      "url": "/lighter",
+      "uid": "blt74e6f3cf5fe273c1"
+    },
+    {
+      "title": "Japanese Recipes",
+      "url": "/japanese-recipes",
+      "uid": "blt1454ad35d4c1c60d"
+    },
+    {
+      "title": "Asian Recipes",
+      "url": "/asian-recipes",
+      "uid": "blt06809a58f9ff72c3"
+    },
+    {
+      "title": "Vegetarian",
+      "url": "/vegetarian",
+      "uid": "blt5cc8b5413c283f12"
+    },
+    {
+      "title": "Vegan Recipes",
+      "url": "/vegan-recipes",
+      "uid": "blt780131ad80dc73ef"
+    }
+  ],
+  "gousto_id": "1002",
+  "gousto_uid": "e97b6e65-79e3-4c7d-b6ee-a53eb5ec5109",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1018_Teriyaki-Aubergine-Donburi-V_003_0-1686064446093-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1018_Teriyaki-Aubergine-Donburi-V_003_0-1686064446093-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1018_Teriyaki-Aubergine-Donburi-V_003_0-1686064446093-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1018_Teriyaki-Aubergine-Donburi-V_003_0-1686064446093-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1018_Teriyaki-Aubergine-Donburi-V_003_0-1686064446093-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 1573
+  },
+  "description": "Teriyaki is a Japanese glaze made from soy sauce, sugar, mirin (a type of sweet Japanese rice wine) and garlic. You'll smother juicy chunks of aubergine in the glaze and serve alongside crispy kale seaweed, zingy radish slaw and fluffy rice, creating the ultimate rice bowl!",
+  "prep_times": {
+    "for_2": 20,
+    "for_4": 25
+  },
+  "cuisine": {
+    "slug": "asian",
+    "title": "Asian"
+  },
+  "ingredients": [
+    {
+      "label": "0 white basmati rice",
+      "title": "white basmati rice-IQ-03-GRN-RC-28-03",
+      "uid": "blt50a137129505b95e",
+      "gousto_uuid": "10c033ea-4d86-4744-8d88-d51dea5d2e21",
+      "name": "white basmati rice",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "5g toasted sesame seeds",
+      "title": "toasted sesame seeds-I-06-SML-SD-14",
+      "uid": "blt4de0adaefa6dd032",
+      "gousto_uuid": "c4363e48-068d-4650-b2c3-afba8d801197",
+      "name": "toasted sesame seeds",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-toasted-sesame-seeds-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-toasted-sesame-seeds-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-toasted-sesame-seeds-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-toasted-sesame-seeds-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-toasted-sesame-seeds-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sesame"
+          },
+          {
+            "title": null,
+            "slug": "fish"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          },
+          {
+            "title": null,
+            "slug": "nut"
+          },
+          {
+            "title": null,
+            "slug": "celery"
+          },
+          {
+            "title": null,
+            "slug": "mustard"
+          }
+        ]
+      }
+    },
+    {
+      "label": "15ml rice vinegar",
+      "title": "rice vinegar-I-08-SAU-LS-28",
+      "uid": "blt7a7555dc13581d6f",
+      "gousto_uuid": "d6d25e38-aefd-4e18-972b-fe0eb9378ca8",
+      "name": "rice vinegar",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-rice-vinegar-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-rice-vinegar-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-rice-vinegar-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-rice-vinegar-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-rice-vinegar-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "25g agave nectar",
+      "title": "agave nectar-I-01-CAN-LQ-07",
+      "uid": "blt222c1aa64995a6b3",
+      "gousto_uuid": "eeb593a0-6ae3-43cb-b5d4-e4f7a60eaa80",
+      "name": "agave nectar",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "30ml vegan mayonnaise",
+      "title": "vegan mayonnaise-I-06-SML-OT-31",
+      "uid": "blt2f269ce1e4ba59e7",
+      "gousto_uuid": "b6a264f0-dbfb-4fee-ba15-c8e834030f49",
+      "name": "vegan mayonnaise",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "mustard"
+          }
+        ]
+      }
+    },
+    {
+      "label": "0 soy sauce",
+      "title": "soy sauce-I-06-SML-OT-14",
+      "uid": "blt3a79c2be8bfcc885",
+      "gousto_uuid": "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+      "name": "soy sauce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "100g basmati rice",
+      "title": "white basmati rice-IQ-03-GRN-RC-28-01",
+      "uid": "bltca6be0f644725e43",
+      "gousto_uuid": "17539a8a-b808-4c93-b53d-a21d91136575",
+      "name": "white basmati rice",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "30ml soy sauce\t ",
+      "title": "soy sauce-I-06-SML-OT-15",
+      "uid": "bltdb27bbac781f8209",
+      "gousto_uuid": "d516304e-cb6e-42a9-8d0a-0e0d9477a800",
+      "name": "soy sauce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "15ml mirin ",
+      "title": "mirin-I-08-SAU-LS-26",
+      "uid": "blt108f8fe12128371f",
+      "gousto_uuid": "d9327456-b80e-4ea2-9d4a-3137c5d1471c",
+      "name": "mirin",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mirin-sachet-15ml-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mirin-sachet-15ml-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mirin-sachet-15ml-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mirin-sachet-15ml-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mirin-sachet-15ml-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "120g shredded kale",
+      "title": "shredded kale-I-05-FVG-LF-33",
+      "uid": "blt24c5ea56bc4adb5f",
+      "gousto_uuid": "11baaa51-960f-4f5b-82d4-20c6c6219445",
+      "name": "shredded kale",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-shredded-kale-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-shredded-kale-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-shredded-kale-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-shredded-kale-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-shredded-kale-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "125g radishes",
+      "title": "radishes-I-05-FVG-FV-17",
+      "uid": "blt244d12dfc57bb6d9",
+      "gousto_uuid": "29efe189-b584-424e-9f22-732933024097",
+      "name": "radishes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/125g-radishes-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/125g-radishes-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/125g-radishes-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/125g-radishes-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/125g-radishes-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 spring onion",
+      "title": "spring onion-I-07-HBS-PL-10",
+      "uid": "blt7f30073f4f7cf590",
+      "gousto_uuid": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+      "name": "spring onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 garlic cloves",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 aubergines ",
+      "title": "aubergine-I-05-FVG-FV-01",
+      "uid": "blt0468004242ef90dc",
+      "gousto_uuid": "5cac128e-7775-463a-8ddd-87a2f1588003",
+      "name": "aubergine",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/aubergine-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/aubergine-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/aubergine-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/aubergine-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/aubergine-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Sugar",
+      "slug": "sugar"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    },
+    {
+      "title": "Water",
+      "slug": "water"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 180°C/ 160°C (fan)/ gas 4</p><p>Trim the green stalk[s] off your <strong>aubergine[s]</strong><span class=\"text-danger\"> </span>and discard, then chop into bite-sized pieces</p><p>Peel and finely chop (or grate) your <strong>garlic</strong></p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-copy-11-1680704072420-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-copy-11-1680704072420-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-copy-11-1680704072420-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-copy-11-1680704072420-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-copy-11-1680704072420-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add your <strong>basmati</strong> <strong>rice</strong> and 250ml <span class=\"text-purple\">[375ml]</span><span class=\"text-danger\"> [500ml] </span><strong>cold</strong> <strong>water</strong> to a pot with a lid and bring to the boil over a high heat</p><p>Once boiling, reduce the heat to very low and cook, covered, for 10-12 min or until all the water has absorbed and the rice is cooked</p><p>Once cooked, remove from the heat and keep covered until serving</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-copy-10-1680704080694-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-copy-10-1680704080694-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-copy-10-1680704080694-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-copy-10-1680704080694-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-copy-10-1680704080694-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, add your <strong>shredded kale</strong> to a large baking tray with your <strong>toasted sesame seeds</strong>, a pinch of <strong>salt</strong>, 1 tsp <span class=\"text-purple\">[1 1/2 tsp]</span> <span class=\"text-danger\">[2 tsp] </span><strong>sugar</strong> and a drizzle of <strong>vegetable oil</strong></p><p>Give everything a good mix up and put the tray in the oven for 10-12 min or until crispy – this is your <strong>kale seaweed</strong></p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-copy-9-1680704086873-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-copy-9-1680704086873-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-copy-9-1680704086873-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-copy-9-1680704086873-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-copy-9-1680704086873-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a large, wide-based pan (preferably non-stick) with a generous drizzle of<strong> vegetable oil</strong> over a high heat</p><p>Once hot, add the<strong> chopped</strong> <strong>aubergine </strong>and cook for 6-7 min or until it's beginning to brown</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-copy-7-1680704090707-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-copy-7-1680704090707-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-copy-7-1680704090707-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-copy-7-1680704090707-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-copy-7-1680704090707-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Whilst the aubergine is cooking, trim, then slice your <strong>spring onion[s]</strong> finely, keeping the whites and greens separate</p><p>Top, tail and grate your <strong>radishes</strong></p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-copy-6-1680704094496-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-copy-6-1680704094496-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-copy-6-1680704094496-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-copy-6-1680704094496-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-copy-6-1680704094496-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the aubergine has browned, reduce the heat to medium, add the<strong> chopped garlic</strong> and cook for 1 min</p><p>Add your <strong>soy sauce</strong>, <strong>agave</strong> and <strong>mirin</strong> and cook for 2 min or until a sticky sauce has formed – this is your <strong>teriyaki aubergine</strong></p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-copy-7-1680704098705-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-copy-7-1680704098705-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-copy-7-1680704098705-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-copy-7-1680704098705-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-copy-7-1680704098705-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Combine the<strong> grated radishes </strong>and <strong>spring onion whites </strong>(reserve the greens for garnish!) in a bowl with your <strong>vegan mayo</strong> and <strong>rice vinegar</strong></p><p>Give everything a good mix up – this is your<strong> radish slaw</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-copy-9-1680704102857-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-copy-9-1680704102857-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-copy-9-1680704102857-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-copy-9-1680704102857-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-copy-9-1680704102857-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Divide the <strong>basmati</strong> <strong>rice</strong> between bowls with the<strong> teriyaki aubergine</strong>,<strong> radish slaw</strong> and <strong>kale seaweed</strong> to the side</p><p>Garnish with the<strong> sliced spring onion greens</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    },
+    {
+      "title": "mustard",
+      "slug": "mustard"
+    },
+    {
+      "title": "fish",
+      "slug": "fish"
+    },
+    {
+      "title": "nut",
+      "slug": "nut"
+    },
+    {
+      "title": "celery",
+      "slug": "celery"
+    }
+  ],
+  "seo": {
+    "title": "Teriyaki Aubergine Donburi",
+    "description": "Teriyaki is a Japanese glaze made from soy sauce, sugar, mirin (a type of sweet Japanese rice wine) and garlic. You'll smother juicy chunks of aubergine in the stuff and serve them alongside crispy kale seaweed, creamy double radish slaw and fluffy rice, creating the ultimate rice bowl!",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/1018_Teriyaki-Aubergine-Donburi-V_003_0-1686064446093.jpg"
+  },
+  "tags": [],
+  "uid": "bltfc1795725d3f9d6a",
+  "_version": 1062,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 87,
+      "energy_kj": 369,
+      "fat_mg": 3054,
+      "fat_saturates_mg": 301,
+      "carbs_mg": 12113,
+      "carbs_sugars_mg": 4055,
+      "fibre_mg": 1382,
+      "protein_mg": 2381,
+      "salt_mg": 510,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 432,
+      "energy_kj": 1824,
+      "fat_mg": 15076,
+      "fat_saturates_mg": 1489,
+      "carbs_mg": 59781,
+      "carbs_sugars_mg": 20016,
+      "fibre_mg": 6825,
+      "protein_mg": 11755,
+      "salt_mg": 2521,
+      "net_weight_mg": 493500
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 1,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "eeb593a0-6ae3-43cb-b5d4-e4f7a60eaa80",
+          "code": "I-01-CAN-LQ-07",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "5cac128e-7775-463a-8ddd-87a2f1588003",
+          "code": "I-05-FVG-FV-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d9327456-b80e-4ea2-9d4a-3137c5d1471c",
+          "code": "I-08-SAU-LS-26",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "29efe189-b584-424e-9f22-732933024097",
+          "code": "I-05-FVG-FV-17",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d6d25e38-aefd-4e18-972b-fe0eb9378ca8",
+          "code": "I-08-SAU-LS-28",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "11baaa51-960f-4f5b-82d4-20c6c6219445",
+          "code": "I-05-FVG-LF-33",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+          "code": "I-06-SML-OT-14",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+          "code": "I-07-HBS-PL-10",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "c4363e48-068d-4650-b2c3-afba8d801197",
+          "code": "I-06-SML-SD-14",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b6a264f0-dbfb-4fee-ba15-c8e834030f49",
+          "code": "I-06-SML-OT-31",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "10c033ea-4d86-4744-8d88-d51dea5d2e21",
+          "code": "IQ-03-GRN-RC-28-03",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "eeb593a0-6ae3-43cb-b5d4-e4f7a60eaa80",
+          "code": "I-01-CAN-LQ-07",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "5cac128e-7775-463a-8ddd-87a2f1588003",
+          "code": "I-05-FVG-FV-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d9327456-b80e-4ea2-9d4a-3137c5d1471c",
+          "code": "I-08-SAU-LS-26",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "29efe189-b584-424e-9f22-732933024097",
+          "code": "I-05-FVG-FV-17",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d6d25e38-aefd-4e18-972b-fe0eb9378ca8",
+          "code": "I-08-SAU-LS-28",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "11baaa51-960f-4f5b-82d4-20c6c6219445",
+          "code": "I-05-FVG-LF-33",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d516304e-cb6e-42a9-8d0a-0e0d9477a800",
+          "code": "I-06-SML-OT-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+          "code": "I-07-HBS-PL-10",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "c4363e48-068d-4650-b2c3-afba8d801197",
+          "code": "I-06-SML-SD-14",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b6a264f0-dbfb-4fee-ba15-c8e834030f49",
+          "code": "I-06-SML-OT-31",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "17539a8a-b808-4c93-b53d-a21d91136575",
+          "code": "IQ-03-GRN-RC-28-01",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 3,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "eeb593a0-6ae3-43cb-b5d4-e4f7a60eaa80",
+          "code": "I-01-CAN-LQ-07",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "5cac128e-7775-463a-8ddd-87a2f1588003",
+          "code": "I-05-FVG-FV-01",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "d9327456-b80e-4ea2-9d4a-3137c5d1471c",
+          "code": "I-08-SAU-LS-26",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "29efe189-b584-424e-9f22-732933024097",
+          "code": "I-05-FVG-FV-17",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d6d25e38-aefd-4e18-972b-fe0eb9378ca8",
+          "code": "I-08-SAU-LS-28",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "11baaa51-960f-4f5b-82d4-20c6c6219445",
+          "code": "I-05-FVG-LF-33",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+          "code": "I-06-SML-OT-14",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d516304e-cb6e-42a9-8d0a-0e0d9477a800",
+          "code": "I-06-SML-OT-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+          "code": "I-07-HBS-PL-10",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "c4363e48-068d-4650-b2c3-afba8d801197",
+          "code": "I-06-SML-SD-14",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b6a264f0-dbfb-4fee-ba15-c8e834030f49",
+          "code": "I-06-SML-OT-31",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "17539a8a-b808-4c93-b53d-a21d91136575",
+          "code": "IQ-03-GRN-RC-28-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "10c033ea-4d86-4744-8d88-d51dea5d2e21",
+          "code": "IQ-03-GRN-RC-28-03",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "eeb593a0-6ae3-43cb-b5d4-e4f7a60eaa80",
+          "code": "I-01-CAN-LQ-07",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "5cac128e-7775-463a-8ddd-87a2f1588003",
+          "code": "I-05-FVG-FV-01",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "d9327456-b80e-4ea2-9d4a-3137c5d1471c",
+          "code": "I-08-SAU-LS-26",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "29efe189-b584-424e-9f22-732933024097",
+          "code": "I-05-FVG-FV-17",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d6d25e38-aefd-4e18-972b-fe0eb9378ca8",
+          "code": "I-08-SAU-LS-28",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "11baaa51-960f-4f5b-82d4-20c6c6219445",
+          "code": "I-05-FVG-LF-33",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d516304e-cb6e-42a9-8d0a-0e0d9477a800",
+          "code": "I-06-SML-OT-15",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+          "code": "I-07-HBS-PL-10",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "c4363e48-068d-4650-b2c3-afba8d801197",
+          "code": "I-06-SML-SD-14",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "b6a264f0-dbfb-4fee-ba15-c8e834030f49",
+          "code": "I-06-SML-OT-31",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "17539a8a-b808-4c93-b53d-a21d91136575",
+          "code": "IQ-03-GRN-RC-28-01",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 5,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "eeb593a0-6ae3-43cb-b5d4-e4f7a60eaa80",
+          "code": "I-01-CAN-LQ-07",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "5cac128e-7775-463a-8ddd-87a2f1588003",
+          "code": "I-05-FVG-FV-01",
+          "quantities": {
+            "in_box": 5
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 5
+          }
+        },
+        {
+          "id": "d9327456-b80e-4ea2-9d4a-3137c5d1471c",
+          "code": "I-08-SAU-LS-26",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "29efe189-b584-424e-9f22-732933024097",
+          "code": "I-05-FVG-FV-17",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "d6d25e38-aefd-4e18-972b-fe0eb9378ca8",
+          "code": "I-08-SAU-LS-28",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "11baaa51-960f-4f5b-82d4-20c6c6219445",
+          "code": "I-05-FVG-LF-33",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+          "code": "I-06-SML-OT-14",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d516304e-cb6e-42a9-8d0a-0e0d9477a800",
+          "code": "I-06-SML-OT-15",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+          "code": "I-07-HBS-PL-10",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "c4363e48-068d-4650-b2c3-afba8d801197",
+          "code": "I-06-SML-SD-14",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "b6a264f0-dbfb-4fee-ba15-c8e834030f49",
+          "code": "I-06-SML-OT-31",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "17539a8a-b808-4c93-b53d-a21d91136575",
+          "code": "IQ-03-GRN-RC-28-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "10c033ea-4d86-4744-8d88-d51dea5d2e21",
+          "code": "IQ-03-GRN-RC-28-03",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    }
+  ]
+}

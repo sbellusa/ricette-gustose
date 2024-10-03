@@ -1,0 +1,653 @@
+{
+  "url": "/warm-greek-salad",
+  "title": "Warm Greek Salad ",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Vegetarian Recipes ",
+      "url": "/vegetarian-recipes",
+      "uid": "blta762d7d1d30213a2"
+    },
+    {
+      "title": "Gluten Free Recipes",
+      "url": "/gluten-free-recipes",
+      "uid": "bltd38409eebe22a089"
+    }
+  ],
+  "gousto_id": "261",
+  "gousto_uid": "82ab91e3-be4b-4bdf-9b8a-1093faea0d11",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/270---Warm-Greek-Salad-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/270---Warm-Greek-Salad-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/270---Warm-Greek-Salad-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/270---Warm-Greek-Salad-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/270---Warm-Greek-Salad-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 848
+  },
+  "description": "This warm Greek salad has all the elements of the summery classic; red onion, tomatoes, herbs and feta, but is served as a warm salad rather than cold. Rustic ciabatta croutons add crunch and the salad is finished with the citrusy spice 'sumac', for a zingy finish.",
+  "prep_times": {
+    "for_2": 15,
+    "for_4": 15
+  },
+  "cuisine": {
+    "slug": "mediterranean",
+    "title": "Mediterranean"
+  },
+  "ingredients": [
+    {
+      "label": "1 tomato",
+      "title": "tomato-I-05-FVG-FV-09",
+      "uid": "bltadd0f9d489140d4c",
+      "gousto_uuid": "5c14a222-aa12-4d98-a108-106ca1693363",
+      "name": "tomato",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 tbsp dried oregano",
+      "title": "dried oregano-I-06-SML-DL-13",
+      "uid": "blt9a461ef8d78d0081",
+      "gousto_uuid": "ece53615-bf08-4aa2-ade8-54fcbc7476f1",
+      "name": "dried oregano",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "200g Greek Feta Cheese Cypressa",
+      "title": "greek feta cheese-I-09-DAI-CH-21",
+      "uid": "bltda5c8545cb24cd42",
+      "gousto_uuid": "ec84aa78-180f-4427-9b9e-aa3d26bb102a",
+      "name": "greek feta cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-greek-feta-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-greek-feta-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-greek-feta-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-greek-feta-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-greek-feta-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "15ml red wine vinegar",
+      "title": "red wine vinegar-I-08-SAU-LS-13",
+      "uid": "blt8407e6fbf8d8d9c5",
+      "gousto_uuid": "3982abce-0437-40bc-950c-bc4990c45d9a",
+      "name": "red wine vinegar",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sulphites"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 green pepper",
+      "title": "green pepper-I-05-FVG-FV-05",
+      "uid": "blt05df52beb3362a64",
+      "gousto_uuid": "7900a9b4-1033-4594-9a9f-ba1dbdbdf52d",
+      "name": "green pepper",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-pepper-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-pepper-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-pepper-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-pepper-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-pepper-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 tsp lemony sumac ",
+      "title": "ground sumac-IQ-06-SML-IN-06-01",
+      "uid": "blt7031e2e1457653b0",
+      "gousto_uuid": "e5aaa894-2a07-454d-b892-6f308d653cec",
+      "name": "ground sumac",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-sumac-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-sumac-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-sumac-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-sumac-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-sumac-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "30g pitted black olives",
+      "title": "pitted black olives-IQ-08-SAU-PT-02-01",
+      "uid": "bltdaecf7af64e289ee",
+      "gousto_uuid": "d7201c59-09e8-4e6c-b18f-1f9a52b487cb",
+      "name": "pitted black olives",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pitted-black-olives-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pitted-black-olives-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pitted-black-olives-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pitted-black-olives-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pitted-black-olives-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 ciabatta rolls",
+      "title": "ciabatta rolls-IQ-11-BRD-BR-11",
+      "uid": "blt16bdcda8ce6fdba4",
+      "gousto_uuid": "d73b3dc9-2fff-4b58-a952-336e35c9722d",
+      "name": "ciabatta rolls",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ciabatta-roll-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ciabatta-roll-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ciabatta-roll-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ciabatta-roll-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ciabatta-roll-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 red onion",
+      "title": "red onion-I-02-SVG-VG-05",
+      "uid": "bltc69ae0a09122a2b4",
+      "gousto_uuid": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 200°C/ 180°C (fan)/ gas 6</p><p>Tear the <strong>ciabatta rolls</strong> up into bite-size pieces and add them to a baking tray</p><p>Drizzle them with <strong>olive oi</strong>l and season with <strong>salt</strong> and <strong>pepper</strong></p><p>Put them in the oven for 10-12 min or until crispy</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, peel and cut the<strong> red onion<span class=\"text-danger\">[s]</span></strong> into wedges, then separate the layers into 'petals'</p><p>Deseed the <strong>green pepper<span class=\"text-danger\">[s]</span></strong> (scrape the seeds and pith out with a teaspoon) and cut into thin strips</p><p>Cut the <strong>tomato<span class=\"text-danger\">[es]</span></strong> into wedges</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-2pepper-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-2pepper-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-2pepper-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-2pepper-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-2pepper-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a large pan wide-based pan (preferably non-stick) with a matching lid, with 1-2 tbsp <strong>olive oil</strong> over a high heat</p><p>Once hot, add the<strong> onion</strong> and 1 tbsp <span class=\"text-danger\">[2 tbsp]</span> <strong>water</strong> and cook, covered, for 3 min</p><p>Remove the lid and add the<strong> sliced green pepper</strong></p><p>Cook, covered, for a further 10 min or until browned (add a little water if too dry)</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-3pepper-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-3pepper-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-3pepper-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-3pepper-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-3pepper-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, add the<strong> tomatoes</strong> to a separate baking tray</p><p>Add the <strong>feta</strong> to the same tray</p><p>Sprinkle both with<strong> dried oregano</strong> and bake for 5 min, or until the feta is hot and softened</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, chop the <strong>black olives</strong> coarsely</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>red wine vinegar</strong> and 2 tbsp <span class=\"text-danger\">[4 tbsp] </span><strong>olive oil</strong> (preferably extra virgin) to a large salad bowl with a large pinch of both <strong>salt</strong> and <strong>pepper</strong></p><p>Whisk to make a dressing and add the <strong>chopped olives</strong></p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>cooked green pepper</strong>,<strong> onion</strong>, <strong>tomato</strong> and <strong>crispy ciabatta</strong> to the mixing bowl and give everything a gentle mix up</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-7pepper-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-7pepper-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-7pepper-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-7pepper-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/270_step-7pepper-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>warm feta</strong> over the salad</p><p>Sprinkle the <strong>sumac</strong> over</p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "wheat-gluten",
+      "slug": "wheat-gluten"
+    },
+    {
+      "title": "sulphites",
+      "slug": "sulphites"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    }
+  ],
+  "seo": {
+    "title": "Warm Greek Salad ",
+    "description": "This warm Greek salad has all the elements of the summery classic; red onion, tomatoes, herbs and feta, but is served as a warm salad rather than cold. Rustic ciabatta croutons add crunch and the salad is finished with the citrusy spice 'sumac', for a zingy finish.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/270---Warm-Greek-Salad.jpg"
+  },
+  "tags": [],
+  "uid": "blt5c1f54ed11e589b8",
+  "_version": 50,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 152,
+      "energy_kj": 638,
+      "fat_mg": 8876,
+      "fat_saturates_mg": 4677,
+      "carbs_mg": 11789,
+      "carbs_sugars_mg": 2258,
+      "fibre_mg": 1519,
+      "protein_mg": 6629,
+      "salt_mg": 1043,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 532,
+      "energy_kj": 2223,
+      "fat_mg": 30891,
+      "fat_saturates_mg": 16279,
+      "carbs_mg": 41027,
+      "carbs_sugars_mg": 7861,
+      "fibre_mg": 5287,
+      "protein_mg": 23072,
+      "salt_mg": 3632,
+      "net_weight_mg": 348000
+    }
+  },
+  "portion_sizes": null
+}

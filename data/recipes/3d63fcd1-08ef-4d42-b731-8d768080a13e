@@ -1,0 +1,702 @@
+{
+  "url": "/mediterranean-fish-with-cannellini-bean-mash",
+  "title": "Mediterranean Fish With Cannellini Bean Mash",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Fish Recipes",
+      "url": "/fish-recipes",
+      "uid": "bltc04cab7baf142a2b"
+    },
+    {
+      "title": "Healthy Choices",
+      "url": "/healthy-choices",
+      "uid": "blt6481386f749a222a"
+    }
+  ],
+  "gousto_id": "1940",
+  "gousto_uid": "3d63fcd1-08ef-4d42-b731-8d768080a13e",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1858-Mediterranean-Fish-With-Cannellini-Bean-Mash-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1858-Mediterranean-Fish-With-Cannellini-Bean-Mash-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1858-Mediterranean-Fish-With-Cannellini-Bean-Mash-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1858-Mediterranean-Fish-With-Cannellini-Bean-Mash-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1858-Mediterranean-Fish-With-Cannellini-Bean-Mash-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 360
+  },
+  "description": "Think mash has to mean potatoes? Think again! For this comforting low-carb version, you'll cook cannellini beans with garlic and olive oil with before mashing till smooth – and not a spud in sight! You'll serve it with white fish steamed over a simple cherry tomato & balsamic sauce, finishing with basil. Bellissimo!",
+  "prep_times": {
+    "for_2": 25,
+    "for_4": 30
+  },
+  "cuisine": {
+    "slug": "italian",
+    "title": "Italian"
+  },
+  "ingredients": [
+    {
+      "label": "5g basil",
+      "title": "basil-I-07-HBS-PL-23",
+      "uid": "bltf719958334d8b893",
+      "gousto_uuid": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+      "name": "basil",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 balsamic vinegar sachet (15ml)",
+      "title": "balsamic vinegar-I-08-SAU-LS-15",
+      "uid": "blt36b3f7d5608537b7",
+      "gousto_uuid": "8357c090-d832-41bc-a458-b13600637e1b",
+      "name": "balsamic vinegar",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sulphites"
+          }
+        ]
+      }
+    },
+    {
+      "label": "2 x 100g basa fillets",
+      "title": "basa fillets-IQ-10-MPF-SE-33",
+      "uid": "blt18cc4cce4b2e4ba4",
+      "gousto_uuid": "d6bb4d30-38c2-4ba7-855c-ff639be62605",
+      "name": "basa fillets",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basa-fillets-2pcs-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basa-fillets-2pcs-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basa-fillets-2pcs-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basa-fillets-2pcs-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basa-fillets-2pcs-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "fish"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 can of cannellini beans",
+      "title": "cannellini beans-I-01-CAN-VC-18",
+      "uid": "bltf34634c93a727f52",
+      "gousto_uuid": "d43c9f94-533f-47f4-bc0d-f9a776ba7d7e",
+      "name": "cannellini beans",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cannellini-beans-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cannellini-beans-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cannellini-beans-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cannellini-beans-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cannellini-beans-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1/2 vegetable stock cube",
+      "title": "vegetable stock cube-I-06-SML-SC-07",
+      "uid": "blt341de213f4bef56b",
+      "gousto_uuid": "bf27431e-20b0-4068-9873-46db06be35ab",
+      "name": "vegetable stock cube",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Vegetable-stock-cube-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Vegetable-stock-cube-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Vegetable-stock-cube-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Vegetable-stock-cube-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Vegetable-stock-cube-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "celery"
+          }
+        ]
+      }
+    },
+    {
+      "label": "250g cherry tomatoes",
+      "title": "cherry tomatoes-I-05-FVG-FV-02-04",
+      "uid": "blt45689303fed45d62",
+      "gousto_uuid": "f56ddebd-04ab-40ec-8bb5-d87c08a236db",
+      "name": "cherry tomatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 garlic cloves",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 tbsp tomato paste",
+      "title": "tomato paste-IQ-08-SAU-PS-06-03",
+      "uid": "bltd8ba4edfd56eecde",
+      "gousto_uuid": "0c639b02-f740-4a3c-9c12-6d1dd90b07a0",
+      "name": "tomato paste",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-Tomato-paste-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-Tomato-paste-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-Tomato-paste-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-Tomato-paste-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-Tomato-paste-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sulphites"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 brown onion",
+      "title": "brown onion-I-02-SVG-VG-07",
+      "uid": "blt8f3ebc667e318aad",
+      "gousto_uuid": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Boil a kettle</p>\n<p>Peel and finely chop the <strong>brown onion<span class=\"text-danger\">[s]</span></strong></p>\n<p>Peel and finely chop (or grate) the <strong>garlic</strong></p>\n<p>Chop the <strong>cherry tomatoes</strong> in half</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a wide-based pan (preferably non-stick) with 1/2 tbsp <span class=\"text-danger\">[1 tbsp]</span> <strong>olive oil</strong> over a medium heat</p>\n<p>Once hot, add the <strong>sliced onion</strong> with a pinch of <strong>salt</strong> and cook for 5-6 min or until softened</p>\n<p> </p>\n<p> </p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, dissolve 1/2 <span class=\"text-danger\">[1]</span> <strong>vegetable stock cube</strong> i<span class=\"text-highlight\">n 150ml <span class=\"text-danger\">[250ml]</span> </span><strong>boiled water </strong></p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once softened, add half the <strong>chopped garlic</strong> and <strong>tomato paste</strong> and cook for 1-2 min or until fragrant</p>\n<p>Once fragrant, add the <strong>chopped cherry tomatoes</strong>, <strong>vegetable stock</strong> and <strong>balsamic vinegar </strong>and cook, covered, for 5-6 min or until the cherry tomatoes are starting to break down </p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the <strong>cherry tomatoes</strong> are starting to break do<span class=\"text-highlight\">wn, a</span>dd the <strong>basa fillets</strong> to the pan</p>\n<p>Season the <strong>basa fillets</strong> with a grind of <strong>black pepper</strong></p>\n<p>Cook, covered, for a further 6-8 min or until the fish is cooked through</p>\n<p>Tip: your fish is cooked when it turns opaque and flakes easily</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, drain and rinse the <strong>cannellini beans</strong></p>\n<p>Heat a medium-sized pot over a medium heat with 1 tbsp <span class=\"text-danger\">[2 tbsp]</span> <strong>olive oil</strong></p>\n<p>Once hot, add the remaining <strong>chopped garlic</strong> and the <strong>drained cannellini beans</strong> and cook for 1-2 min or until warmed through and fragrant </p>\n<p>Once warmed through, mash until smooth and season with a generous pinch of <strong>salt</strong></p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Chop the<strong> basil</strong> finely, including the stalks </p>\n<p> </p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1858.-step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>Mediterranean fish</strong> with the <strong>cannellini bean mash</strong> to the side</p>\n<p>Garnish with the <strong>chopped basil</strong></p>\n<p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "sulphites",
+      "slug": "sulphites"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "crustacean",
+      "slug": "crustacean"
+    },
+    {
+      "title": "egg",
+      "slug": "egg"
+    },
+    {
+      "title": "fish",
+      "slug": "fish"
+    },
+    {
+      "title": "peanut",
+      "slug": "peanut"
+    },
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "nut",
+      "slug": "nut"
+    },
+    {
+      "title": "celery",
+      "slug": "celery"
+    },
+    {
+      "title": "mustard",
+      "slug": "mustard"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    },
+    {
+      "title": "lupin",
+      "slug": "lupin"
+    },
+    {
+      "title": "mollusc",
+      "slug": "mollusc"
+    }
+  ],
+  "seo": {
+    "title": "Mediterranean Fish With Cannellini Bean Mash",
+    "description": "Think mash has to mean potatoes? Think again! For this comforting low-carb version, you'll cook cannellini beans with garlic and olive oil with before mashing till smooth – and not a spud in sight! You'll serve it with white fish steamed over a simple cherry tomato & balsamic sauce, finishing with basil. Bellissimo!",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/1858-Mediterranean-Fish-With-Cannellini-Bean-Mash.jpg"
+  },
+  "tags": [],
+  "uid": "blt51b34fc331de30fa",
+  "_version": 48,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 71,
+      "energy_kj": 303,
+      "fat_mg": 1068,
+      "fat_saturates_mg": 428,
+      "carbs_mg": 7537,
+      "carbs_sugars_mg": 1585,
+      "fibre_mg": 3642,
+      "protein_mg": 6595,
+      "salt_mg": 577,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 356,
+      "energy_kj": 1501,
+      "fat_mg": 5283,
+      "fat_saturates_mg": 2121,
+      "carbs_mg": 37272,
+      "carbs_sugars_mg": 7839,
+      "fibre_mg": 18012,
+      "protein_mg": 32617,
+      "salt_mg": 2857,
+      "net_weight_mg": 494500
+    }
+  },
+  "portion_sizes": null
+}

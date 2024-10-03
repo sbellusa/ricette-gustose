@@ -1,0 +1,478 @@
+{
+  "url": "/roasted-pepper-penne",
+  "title": "Roasted Pepper Penne",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "50",
+  "gousto_uid": "15338436-51e4-45f3-b691-fb40e99390a3",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/65.Roasted-PepperPenneV-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/65.Roasted-PepperPenneV-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/65.Roasted-PepperPenneV-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/65.Roasted-PepperPenneV-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/65.Roasted-PepperPenneV-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 271
+  },
+  "description": "A departure from Italian pesto, we've taken inspiration from the distinctive flavours of South American; substituting the basil with coriander, the pine nuts with hazelnuts, adding in some red pepper, chilli and a dash of lime. Party pesto!",
+  "prep_times": {
+    "for_2": 30,
+    "for_4": 50
+  },
+  "cuisine": {
+    "slug": "fusion",
+    "title": "Fusion"
+  },
+  "ingredients": [
+    {
+      "label": "1 bag of hazelnuts",
+      "title": "hazelnuts-I-04-NUT-NT-07-30",
+      "uid": "blt4239d2a08bbcad6f",
+      "gousto_uuid": "b42f0c06-1463-4db2-a016-914838751d27",
+      "name": "hazelnuts",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/hazelnuts-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/hazelnuts-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/hazelnuts-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/hazelnuts-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/hazelnuts-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "nut"
+          },
+          {
+            "title": null,
+            "slug": "peanut"
+          },
+          {
+            "title": null,
+            "slug": "sesame"
+          }
+        ]
+      }
+    },
+    {
+      "label": "20g fresh coriander",
+      "title": "coriander-I-07-HBS-PL-14",
+      "uid": "bltce212fcf81be04a2",
+      "gousto_uuid": "5caf8124-d067-4539-bbb1-fcfdf5facc21",
+      "name": "coriander",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 garlic cloves",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 lime",
+      "title": "lime-I-05-FVG-FV-11",
+      "uid": "blteca16c5afda2f93e",
+      "gousto_uuid": "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+      "name": "lime",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 red peppers",
+      "title": "red pepper-I-05-FVG-FV-07",
+      "uid": "blt0f5f2591749c88e3",
+      "gousto_uuid": "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+      "name": "red pepper",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "30g rennet-free parmesan",
+      "title": "Rennet-free parmesan cheese-IQ-09-DAI-CH-09-01",
+      "uid": "bltb905d571c4731157",
+      "gousto_uuid": "bc02d245-d50f-4780-a241-46afbfe06e1f",
+      "name": "Rennet-free parmesan cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rennet-free-parmesan-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rennet-free-parmesan-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rennet-free-parmesan-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rennet-free-parmesan-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rennet-free-parmesan-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 tsp chilli flakes",
+      "title": "Fiery chilli flakes-I-06-SML-CL-01-02",
+      "uid": "blt16c3d0b1b7a26e1a",
+      "gousto_uuid": "1f05525c-907a-4914-ba0a-6c62538bdb58",
+      "name": "Fiery chilli flakes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chilli-flakes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chilli-flakes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chilli-flakes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chilli-flakes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chilli-flakes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "200",
+      "title": "Penne-IQ-03-GRN-PA-04-01",
+      "uid": "blt1aaf8e400b1cdef6",
+      "gousto_uuid": "296e2f7b-2401-4043-92fc-8a27f6ec322e",
+      "name": "Penne",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/penne-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/penne-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/penne-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/penne-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/penne-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Boil</strong> a kettle (used in step 5)</p>\r\n<p><strong>Preheat</strong> the oven to 200&deg;C/ 180&deg;C (fan)/ 400&deg;F/ Gas 6</p>",
+      "order": 1,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Chop</strong> the coriander roughly</p>\r\n<p><strong>Deseed</strong> the red peppers and cut into squares</p>\r\n<p><strong>Crush</strong> the garlic with the side of a knife, peel it and chop roughly</p>",
+      "order": 2,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Place</strong> the red peppers on an oven-proof tray</p>\r\n<p><strong>Sprinkle</strong> with the garlic, 2-3 tbsp of olive oil and salt to your taste</p>\r\n<p><strong>Mix</strong> well to ensure that the peppers are well coated</p>\r\n<p><strong>Place</strong> in the oven for 15 min or until the peppers are soft</p>",
+      "order": 3,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Meanwhile</strong>, grate the parmesan</p>",
+      "order": 4,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Cook</strong> the pasta in a pot of boiling water and salt (optional) for 8 min or until the pasta is cooked to your taste, stirring occasionally, then drain</p>",
+      "order": 5,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Put</strong> a pan on medium-high heat and dry roast (no oil needed) the hazelnuts for approx. 5 min or until well browned</p>\r\n<p><strong>Keep</strong> stirring and adjust the heat if necessary to prevent burning</p>",
+      "order": 6,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Put</strong> the coriander, red peppers, garlic, hazelnuts, 1/2 of the red chilli flakes, the juice of 1/2 the <span class=\"text-danger\">(whole)</span> lime and 2 tbsp <span class=\"text-danger\">(4 tbsp)</span> of olive oil in a blender or pestle and mortar</p>\r\n<p><strong>Blend</strong> to a rough paste, add the grated parmesan and season to your taste</p>\r\n<p><strong>Add</strong> more chilli flakes if desired, tasting after each addition</p>",
+      "order": 7,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Combine</strong> the pesto and the pasta in the pan</p>\r\n<p><strong>Season</strong> with lime juice to your taste and serve</p>\r\n<p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "wheat-gluten",
+      "slug": "wheat-gluten"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "nut",
+      "slug": "nut"
+    },
+    {
+      "title": "peanut",
+      "slug": "peanut"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    }
+  ],
+  "seo": {
+    "title": "Roasted Pepper Penne",
+    "description": "A departure from Italian pesto, we've taken inspiration from the distinctive flavours of South American; substituting the basil with coriander, the pine nuts with hazelnuts, adding in some red pepper, chilli and a dash of lime. Party pesto!",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/65.Roasted-PepperPenneV.jpg"
+  },
+  "tags": [],
+  "uid": "bltb303d2c77cb5b301",
+  "_version": 52,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 164,
+      "energy_kj": 690,
+      "fat_mg": 4830,
+      "fat_saturates_mg": 354,
+      "carbs_mg": 25394,
+      "carbs_sugars_mg": 2719,
+      "fibre_mg": 2582,
+      "protein_mg": 6317,
+      "salt_mg": 81,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 545,
+      "energy_kj": 2293,
+      "fat_mg": 16036,
+      "fat_saturates_mg": 1178,
+      "carbs_mg": 84309,
+      "carbs_sugars_mg": 9029,
+      "fibre_mg": 8575,
+      "protein_mg": 20974,
+      "salt_mg": 271,
+      "net_weight_mg": 332000
+    }
+  },
+  "portion_sizes": null
+}

@@ -1,0 +1,783 @@
+{
+  "url": "/smoky-pork-portobello-stroganoff",
+  "title": "Smoky Pork & Portobello Stroganoff ",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Pork Recipes",
+      "url": "/pork-recipes",
+      "uid": "bltf0761ae94eddf574"
+    },
+    {
+      "title": "Speedy",
+      "url": "/20-minute-meals",
+      "uid": "blt1e13dbcfaccb8007"
+    }
+  ],
+  "gousto_id": "1322",
+  "gousto_uid": "560fd76d-aa29-4db5-8393-2756b9952653",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1338-Smoky-Pork--Portobello-Stroganoff--x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1338-Smoky-Pork--Portobello-Stroganoff--x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1338-Smoky-Pork--Portobello-Stroganoff--x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1338-Smoky-Pork--Portobello-Stroganoff--x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1338-Smoky-Pork--Portobello-Stroganoff--x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 1271
+  },
+  "description": "This classic dish is said to have been invented in 1891 when a French chef entered it into a Russian cooking contest. Needless to say he won, and the rest is history. Our diced pork mushroom version is deliciously indulgent yet surprisingly easy to make. Stroga-nom! (Gluten-free, suitable for coeliacs).",
+  "prep_times": {
+    "for_2": 20,
+    "for_4": 25
+  },
+  "cuisine": {
+    "slug": "russian",
+    "title": "Russian"
+  },
+  "ingredients": [
+    {
+      "label": "1 balsamic vinegar sachet (15ml)",
+      "title": "balsamic vinegar-IQ-08-SAU-LS-15",
+      "uid": "blt6bbba9d113d1bc1d",
+      "gousto_uuid": "6a710175-599d-400b-b4b6-0e9ed29e4986",
+      "name": "balsamic vinegar",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sulphites"
+          }
+        ]
+      }
+    },
+    {
+      "label": "150g portobello mushrooms",
+      "title": "portobello mushrooms-I-05-FVG-MS-02-01",
+      "uid": "blt5047e53b7c9a3a25",
+      "gousto_uuid": "59906132-ec20-4ef6-b3b0-372f679ddafb",
+      "name": "portobello mushrooms",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/portobello-mushrooms-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/portobello-mushrooms-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/portobello-mushrooms-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/portobello-mushrooms-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/portobello-mushrooms-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "130g basmati rice",
+      "title": "basmati rice-I-03-GRN-RC-13",
+      "uid": "blta5401caadde061d5",
+      "gousto_uuid": "6c70646e-8f37-4bca-a7de-6e8ae2b260cb",
+      "name": "basmati rice",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basmati-rice-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basmati-rice-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basmati-rice-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basmati-rice-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basmati-rice-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 beef stock cube",
+      "title": "beef stock cube-I-06-SML-SC-06",
+      "uid": "bltb1f3eed579e14bf1",
+      "gousto_uuid": "6e2bf024-2e0a-4e87-bc15-785e4314b903",
+      "name": "beef stock cube",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Beef-stock-cube-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Beef-stock-cube-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Beef-stock-cube-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Beef-stock-cube-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Beef-stock-cube-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "celery"
+          }
+        ]
+      }
+    },
+    {
+      "label": "250g British hand-diced pork",
+      "title": "diced pork-I-10-MPF-ME-431",
+      "uid": "bltf5f7a2ebe431362b",
+      "gousto_uuid": "73660d60-b986-4c1b-8be1-3f612e2c7627",
+      "name": "diced pork",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/200g-British-hand-diced-pork-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/200g-British-hand-diced-pork-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/200g-British-hand-diced-pork-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/200g-British-hand-diced-pork-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/200g-British-hand-diced-pork-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "5g parsley",
+      "title": "parsley-I-07-HBS-PL-25-5",
+      "uid": "blt0bdf06c69f0591e4",
+      "gousto_uuid": "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+      "name": "parsley",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 tsp smoked paprika",
+      "title": "smoked paprika-IQ-06-SML-IN-03-01",
+      "uid": "blt3a9a69d4a4dd5e2e",
+      "gousto_uuid": "0f28dc8b-632e-4f96-8c6b-f607001ce044",
+      "name": "smoked paprika",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "40g Cornish clotted cream",
+      "title": "Cornish clotted cream-IQ-09-DAI-CR-11",
+      "uid": "bltb6c2aac2a163f459",
+      "gousto_uuid": "488d5751-dcff-4985-88c0-bf745ff54904",
+      "name": "Cornish clotted cream",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 tsp Dijon mustard",
+      "title": "dijon mustard-IQ-08-SAU-CD-01-01",
+      "uid": "bltfdb2199edd196167",
+      "gousto_uuid": "e8b5e492-5853-4b08-b9e0-e1717ab866ff",
+      "name": "dijon mustard",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dijon-mustard-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dijon-mustard-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dijon-mustard-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dijon-mustard-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dijon-mustard-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "mustard"
+          },
+          {
+            "title": null,
+            "slug": "sulphites"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 tbsp tomato paste",
+      "title": "tomato paste-IQ-08-SAU-PS-06-03",
+      "uid": "bltd8ba4edfd56eecde",
+      "gousto_uuid": "0c639b02-f740-4a3c-9c12-6d1dd90b07a0",
+      "name": "tomato paste",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-Tomato-paste-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-Tomato-paste-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-Tomato-paste-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-Tomato-paste-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-Tomato-paste-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sulphites"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 brown onion",
+      "title": "brown onion-I-02-SVG-VG-07",
+      "uid": "blt8f3ebc667e318aad",
+      "gousto_uuid": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Butter",
+      "slug": "butter"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Add the <strong>basmati rice</strong> and 300ml <span class=\"text-danger\">[600ml]</span> <strong>cold water</strong> to a pot with a lid and bring to the boil over a high heat</p>\r\n<p>Once boiling, reduce the heat to very low and cook, covered, for 10-15 min or until all the water has absorbed and the rice is cooked</p>\r\n<p>Once cooked, remove from the heat and keep covered until serving</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>vegetable oil</strong> over a high heat</p>\r\n<p>Once hot, add the <strong>diced pork</strong> and cook for 1-2 min or until golden</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Boil a kettle</p>\r\n<p>Peel and finely slice the <strong>brown&nbsp;onion<span class=\"text-danger\">[s]</span></strong></p>\r\n<p>Slice the <strong>portobello mushrooms</strong></p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the <strong>pork</strong> is brown, transfer it to a bowl and return the pan to a medium heat with a knob of <strong>butter</strong></p>\r\n<p>Add the <strong>sliced onion</strong> and <strong>mushroom</strong> and cook for 6-7 min or until starting to caramelise</p>\r\n<p>Add the <strong>balsamic vinegar</strong>&nbsp;and cook for 1 min further</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile,&nbsp;dissolve the <strong>beef stock cube<span class=\"text-danger\">[s]</span></strong> and<strong> tomato paste</strong> in 175ml <span class=\"text-danger\">[350ml]</span> <strong>boiled water</strong></p>\r\n<p>Add the <strong>smoked paprika</strong>&nbsp;and <strong>beef stock</strong> to the pan and cook for 3-4 min or until thickened&nbsp;&nbsp;</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, chop the <strong>parsley</strong> finely, including the stalks</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the sauce has thickened, add the <strong>clotted cream</strong>,&nbsp;<strong>Dijon mustard </strong>and<strong> browned pork </strong>and cook for 2-3 min or until the<strong> pork </strong>is cooked through and the sauce is thick and glossy<strong>&nbsp;</strong>&nbsp;</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1338.-step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>pork &amp; portobello stroganoff</strong> over the <strong>rice</strong></p>\r\n<p>Garnish with the <strong>chopped parsley</strong></p>\r\n<p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "mustard",
+      "slug": "mustard"
+    },
+    {
+      "title": "sulphites",
+      "slug": "sulphites"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "crustacean",
+      "slug": "crustacean"
+    },
+    {
+      "title": "egg",
+      "slug": "egg"
+    },
+    {
+      "title": "fish",
+      "slug": "fish"
+    },
+    {
+      "title": "peanut",
+      "slug": "peanut"
+    },
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "nut",
+      "slug": "nut"
+    },
+    {
+      "title": "celery",
+      "slug": "celery"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    },
+    {
+      "title": "lupin",
+      "slug": "lupin"
+    },
+    {
+      "title": "mollusc",
+      "slug": "mollusc"
+    }
+  ],
+  "seo": {
+    "title": "Smoky Pork & Portobello Stroganoff ",
+    "description": "This classic dish is said to have been invented in 1891 when a French chef entered it into a Russian cooking contest. Needless to say he won, and the rest is history. Our diced pork mushroom version is deliciously indulgent yet surprisingly easy to make. Stroga-nom! (Gluten-free, suitable for coeliacs).",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/1338-Smoky-Pork--Portobello-Stroganoff-.jpg"
+  },
+  "tags": [],
+  "uid": "blt2e190922b6dbe0af",
+  "_version": 53,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 183,
+      "energy_kj": 774,
+      "fat_mg": 6662,
+      "fat_saturates_mg": 3278,
+      "carbs_mg": 18209,
+      "carbs_sugars_mg": 1423,
+      "fibre_mg": 792,
+      "protein_mg": 13855,
+      "salt_mg": 807,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 629,
+      "energy_kj": 2651,
+      "fat_mg": 22804,
+      "fat_saturates_mg": 11219,
+      "carbs_mg": 62322,
+      "carbs_sugars_mg": 4873,
+      "fibre_mg": 2714,
+      "protein_mg": 47419,
+      "salt_mg": 2765,
+      "net_weight_mg": 342250
+    }
+  },
+  "portion_sizes": null
+}

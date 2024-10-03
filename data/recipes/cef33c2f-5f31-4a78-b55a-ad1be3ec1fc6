@@ -1,0 +1,962 @@
+{
+  "url": "/salmon-a-la-meuniere",
+  "title": "Salmon A La Meunière",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "3591",
+  "gousto_uid": "cef33c2f-5f31-4a78-b55a-ad1be3ec1fc6",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3450---Salmon-A-La-Meuniere-1621355292623-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3450---Salmon-A-La-Meuniere-1621355292623-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3450---Salmon-A-La-Meuniere-1621355292623-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3450---Salmon-A-La-Meuniere-1621355292623-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3450---Salmon-A-La-Meuniere-1621355292623-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 1066
+  },
+  "description": "French cooking is all about simple flavours at their finest. You'll pan-fry salmon until golden and serve over garlic mash. Garnish with a lemon and caper brown butter sauce for a rich citrus finish. Bon appétit!",
+  "prep_times": {
+    "for_2": 30,
+    "for_4": 35
+  },
+  "cuisine": {
+    "slug": "french",
+    "title": "French"
+  },
+  "ingredients": [
+    {
+      "label": "Spinach (120g)",
+      "title": "spinach-I-05-FVG-FG-02-04",
+      "uid": "bltd7c3d53d5b7edea2",
+      "gousto_uuid": "e329fbb2-795e-457b-838e-4734e2691d32",
+      "name": "spinach",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Skin on salmon fillet x0",
+      "title": "skin on salmon fillet-IQ-10-MPF-SE-64",
+      "uid": "blt6ef8a7ff8c2f8a14",
+      "gousto_uuid": "5d6b3f91-55f6-429e-b7cf-004b74520249",
+      "name": "skin on salmon fillet",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/salmon-fillets-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/salmon-fillets-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/salmon-fillets-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/salmon-fillets-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/salmon-fillets-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "fish"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Capers (20g)",
+      "title": "capers-I-08-SAU-PT-18",
+      "uid": "blt3f174a617f165f0f",
+      "gousto_uuid": "2d57a305-e832-4831-bc1e-4b0840373bdd",
+      "name": "capers",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/capers-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/capers-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/capers-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/capers-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/capers-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Skin on salmon fillets (2pcs)",
+      "title": "skin on salmon fillets-IQ-10-MPF-SE-44",
+      "uid": "blt9841850f67971cd5",
+      "gousto_uuid": "ad9a92c9-f5b3-49ce-a582-be130ba3908b",
+      "name": "skin on salmon fillets",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-salmon-fillets-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-salmon-fillets-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-salmon-fillets-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-salmon-fillets-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-salmon-fillets-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "fish"
+          }
+        ]
+      }
+    },
+    {
+      "label": "White potato x3",
+      "title": "white potato-I-02-SVG-VG-01-09",
+      "uid": "bltab576a7ce0bc5a37",
+      "gousto_uuid": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Spinach (80g) x0",
+      "title": "spinach-I-05-FVG-FG-02-03",
+      "uid": "blte6edae427c7fa86f",
+      "gousto_uuid": "d240500f-9c26-4286-88bc-6be3e774e96b",
+      "name": "spinach",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Parsley (5g) x0",
+      "title": "parsley-I-07-HBS-PL-25-5",
+      "uid": "blt0bdf06c69f0591e4",
+      "gousto_uuid": "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+      "name": "parsley",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Parsley (10g)",
+      "title": "parsley-I-07-HBS-PL-25",
+      "uid": "bltea262efbf1ed9532",
+      "gousto_uuid": "2ad9f7c1-18f7-4974-b647-95059a432969",
+      "name": "parsley",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Garlic clove x3",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Lemon",
+      "title": "lemon-I-02-SVG-SF-03",
+      "uid": "blte823ccfd82fc22c7",
+      "gousto_uuid": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+      "name": "lemon",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Butter",
+      "slug": "butter"
+    },
+    {
+      "title": "Flour",
+      "slug": "flour"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Boil a kettle</p><p>Cut your<strong> potatoes</strong> (skins on) into large, bite-sized pieces</p><p>Peel your <strong>garlic</strong></p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1663068048439-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1663068048439-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1663068048439-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1663068048439-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1663068048439-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>chopped potatoes</strong> and <strong>peeled garlic</strong> to a pot of plenty of <strong>boiled water </strong>with a pinch of <strong>salt</strong> and bring to the boil over a high heat</p><p>Once boiling, cook for 12-15 min or until fork-tender</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1663067941020-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1663067941020-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1663067941020-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1663067941020-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1663067941020-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Cut your <strong>lemon[s]</strong> into wedges</p><p>Add the juice of <strong>half</strong> your <strong>lemon wedges </strong>to a small bowl</p><p>Chop your <strong>parsley</strong> finely, including the stalks</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1663067950623-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1663067950623-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1663067950623-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1663067950623-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1663067950623-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add 3 tbsp<span class=\"text-danger\"> <span class=\"text-purple\">[4 1/2 tbsp]</span> [6 tbsp]</span> <strong>flour</strong> to a large plate with with a large pinch of <strong>salt</strong> and <strong>pepper</strong></p><p>Press your <strong>salmon fillet[s]</strong> into the<strong> </strong>flour so the fish is evenly coated, shaking off any excess</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1663067965304-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1663067965304-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1663067965304-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1663067965304-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1663067965304-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Wash your <strong>spinach</strong>, then pat it dry with kitchen paper</p><p>Once the potatoes are fork-tender, add the<strong> spinach</strong> to the pot and cook for a further 1 min or until the spinach has wilted</p><p>Drain everything and return to the pot and mash together with a knob of <strong>butter </strong>– this is your <strong>garlic</strong> <strong>mash</strong></p><p>Season generously with <strong>salt</strong> and <strong>pepper</strong>, then cover with a lid to keep warm until serving</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1663067958593-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1663067958593-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1663067958593-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1663067958593-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1663067958593-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a large, wide-based pan (preferably non-stick) with 1 tbsp<span class=\"text-danger\"> <span class=\"text-purple\">[1 1/2 tbsp]</span> [2 tbsp] </span><strong>vegetable oil </strong>over a medium-high heat</p><p>Once hot, add the <strong>coated salmon</strong> and and cook for 9-10 min, turning once halfway, or until golden and cooked through</p><p>Tip: Your fish is cooked when it turns opaque and flakes easily</p><p>Once done, transfer the <strong>salmon</strong> to a plate, cover loosely with<strong> tin foil</strong> and set aside</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1663067967563-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1663067967563-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1663067967563-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1663067967563-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1663067967563-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Wipe the pan clean with kitchen paper and return it to a medium heat</p><p>Add 30g <span class=\"text-purple\">[45g]</span><span class=\"text-danger\"> [60g] </span><strong>butter</strong> to the pan and heat until melted, foaming and lightly browned, swirling the pan around, for approx. 1 min</p><p>Remove the pan from the heat and add the<strong> lemon juice</strong>, <strong>capers</strong> and <strong>chopped</strong> <strong>parsley </strong>and gently stir it all together – this is your <strong>lemon-caper butter</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1663067968683-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1663067968683-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1663067968683-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1663067968683-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1663067968683-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>cooked salmon </strong>over the <strong>garlic mash</strong> and spoon the <strong>lemon-caper butter</strong> all over</p><p>Serve the <strong>remaining lemon wedges </strong>to the side</p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "fish",
+      "slug": "fish"
+    }
+  ],
+  "seo": {
+    "title": "Salmon A La Meunière",
+    "description": "French cooking is all about simple flavours at their finest. You'll pan-fry salmon until golden and serve over garlic mash. Garnish with a lemon and caper brown butter sauce for a rich citrus finish. Bon appétit!",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/3450---Salmon-A-La-Meuniere-1621355292623.jpg"
+  },
+  "tags": [],
+  "uid": "blte321c9e0274bce48",
+  "_version": 1117,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 99,
+      "energy_kj": 417,
+      "fat_mg": 4560,
+      "fat_saturates_mg": 924,
+      "carbs_mg": 8066,
+      "carbs_sugars_mg": 514,
+      "fibre_mg": 1187,
+      "protein_mg": 6982,
+      "salt_mg": 112,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 392,
+      "energy_kj": 1646,
+      "fat_mg": 17969,
+      "fat_saturates_mg": 3642,
+      "carbs_mg": 31782,
+      "carbs_sugars_mg": 2029,
+      "fibre_mg": 4680,
+      "protein_mg": 27511,
+      "salt_mg": 443,
+      "net_weight_mg": 394000
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 1,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "2d57a305-e832-4831-bc1e-4b0840373bdd",
+          "code": "I-08-SAU-PT-18",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+          "code": "I-02-SVG-SF-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+          "code": "I-07-HBS-PL-25-5",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "5d6b3f91-55f6-429e-b7cf-004b74520249",
+          "code": "IQ-10-MPF-SE-64",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d240500f-9c26-4286-88bc-6be3e774e96b",
+          "code": "I-05-FVG-FG-02-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+          "code": "I-02-SVG-VG-01-09",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "2d57a305-e832-4831-bc1e-4b0840373bdd",
+          "code": "I-08-SAU-PT-18",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+          "code": "I-02-SVG-SF-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "2ad9f7c1-18f7-4974-b647-95059a432969",
+          "code": "I-07-HBS-PL-25",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ad9a92c9-f5b3-49ce-a582-be130ba3908b",
+          "code": "IQ-10-MPF-SE-44",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "e329fbb2-795e-457b-838e-4734e2691d32",
+          "code": "I-05-FVG-FG-02-04",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+          "code": "I-02-SVG-VG-01-09",
+          "quantities": {
+            "in_box": 3
+          }
+        }
+      ]
+    },
+    {
+      "portions": 3,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "2d57a305-e832-4831-bc1e-4b0840373bdd",
+          "code": "I-08-SAU-PT-18",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 5
+          }
+        },
+        {
+          "id": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+          "code": "I-02-SVG-SF-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "2ad9f7c1-18f7-4974-b647-95059a432969",
+          "code": "I-07-HBS-PL-25",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "5d6b3f91-55f6-429e-b7cf-004b74520249",
+          "code": "IQ-10-MPF-SE-64",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ad9a92c9-f5b3-49ce-a582-be130ba3908b",
+          "code": "IQ-10-MPF-SE-44",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "e329fbb2-795e-457b-838e-4734e2691d32",
+          "code": "I-05-FVG-FG-02-04",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+          "code": "I-02-SVG-VG-01-09",
+          "quantities": {
+            "in_box": 5
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "2d57a305-e832-4831-bc1e-4b0840373bdd",
+          "code": "I-08-SAU-PT-18",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 6
+          }
+        },
+        {
+          "id": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+          "code": "I-02-SVG-SF-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "2ad9f7c1-18f7-4974-b647-95059a432969",
+          "code": "I-07-HBS-PL-25",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ad9a92c9-f5b3-49ce-a582-be130ba3908b",
+          "code": "IQ-10-MPF-SE-44",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "e329fbb2-795e-457b-838e-4734e2691d32",
+          "code": "I-05-FVG-FG-02-04",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+          "code": "I-02-SVG-VG-01-09",
+          "quantities": {
+            "in_box": 6
+          }
+        }
+      ]
+    },
+    {
+      "portions": 5,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "2d57a305-e832-4831-bc1e-4b0840373bdd",
+          "code": "I-08-SAU-PT-18",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 8
+          }
+        },
+        {
+          "id": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+          "code": "I-02-SVG-SF-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "2ad9f7c1-18f7-4974-b647-95059a432969",
+          "code": "I-07-HBS-PL-25",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "5d6b3f91-55f6-429e-b7cf-004b74520249",
+          "code": "IQ-10-MPF-SE-64",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ad9a92c9-f5b3-49ce-a582-be130ba3908b",
+          "code": "IQ-10-MPF-SE-44",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "e329fbb2-795e-457b-838e-4734e2691d32",
+          "code": "I-05-FVG-FG-02-04",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+          "code": "I-02-SVG-VG-01-09",
+          "quantities": {
+            "in_box": 8
+          }
+        }
+      ]
+    }
+  ]
+}

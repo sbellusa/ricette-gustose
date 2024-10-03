@@ -1,0 +1,635 @@
+{
+  "url": "/honey-baked-gammon",
+  "title": "Honey Baked Gammon",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Pork Recipes",
+      "url": "/pork-recipes",
+      "uid": "bltf0761ae94eddf574"
+    }
+  ],
+  "gousto_id": "387",
+  "gousto_uid": "175c7bd5-2bde-48bf-bbc6-7acbdcb8e9e2",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/412.HoneyBakedGammon-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/412.HoneyBakedGammon-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/412.HoneyBakedGammon-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/412.HoneyBakedGammon-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/412.HoneyBakedGammon-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 1365
+  },
+  "description": "Gammon is essentially uncooked ham. It's taken from the hind of pork leg and is salt-cured in the same way as bacon. Usually the preserve of Christmas, we thought we'd break the rules and enjoy ours midweek with a honey-mustard glaze.",
+  "prep_times": {
+    "for_2": 60,
+    "for_4": 60
+  },
+  "cuisine": {
+    "slug": "british",
+    "title": "British"
+  },
+  "ingredients": [
+    {
+      "label": "1 x 300g British baby gammon joint",
+      "title": "gammon joint-I-10-MPF-PM-221",
+      "uid": "blt0adcd1ef61041f20",
+      "gousto_uuid": "e59818ea-d3b8-4f14-b003-ad09c319e457",
+      "name": "gammon joint",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-gammon-joint-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-gammon-joint-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-gammon-joint-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-gammon-joint-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-gammon-joint-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 honey pot (28g)",
+      "title": "honey-I-01-CAN-LQ-06",
+      "uid": "bltc92f99bd088d381a",
+      "gousto_uuid": "79f3354b-1c07-4ead-a173-f97e8cddd843",
+      "name": "honey",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "400g potatoes",
+      "title": "potatoes-I-02-SVG-VG-01-04",
+      "uid": "blt9a854f6d88c0b7d0",
+      "gousto_uuid": "d3d0d01e-fd04-4393-bfd6-603fb5e030e8",
+      "name": "potatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "100g corn salad",
+      "title": "lambs lettuce-I-05-FVG-FG-04",
+      "uid": "blt83c0206d5ea59674",
+      "gousto_uuid": "0735ac32-103f-4058-b385-8a7aa6660114",
+      "name": "lambs lettuce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/corn-lettuce-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/corn-lettuce-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/corn-lettuce-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/corn-lettuce-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/corn-lettuce-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 tbsp wholegrain mustard",
+      "title": "wholegrain mustard-IQ-08-SAU-CD-04-04",
+      "uid": "bltce3cf122846f94d9",
+      "gousto_uuid": "137766d6-0887-48c9-9b1e-cbc00c992c44",
+      "name": "wholegrain mustard",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/wholegrain-mustard-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/wholegrain-mustard-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/wholegrain-mustard-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/wholegrain-mustard-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/wholegrain-mustard-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "mustard"
+          },
+          {
+            "title": null,
+            "slug": "sulphites"
+          },
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "2 mayonnaise sachets (52ml)",
+      "title": "free-range mayonnaise-I-06-SML-OT-06",
+      "uid": "blt8f28a2887647c82e",
+      "gousto_uuid": "3db9921e-922a-41d5-9f89-adbab2f3fd42",
+      "name": "free-range mayonnaise",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/mayonnaise-sachet-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/mayonnaise-sachet-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/mayonnaise-sachet-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/mayonnaise-sachet-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/mayonnaise-sachet-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "mustard"
+          },
+          {
+            "title": null,
+            "slug": "egg"
+          }
+        ]
+      }
+    },
+    {
+      "label": "30g dried cranberries",
+      "title": "dried cranberries-IQ-04-NUT-DF-02-01",
+      "uid": "blt369edb226e44dd5f",
+      "gousto_uuid": "e89eccef-6606-4529-bf66-346d735b2785",
+      "name": "dried cranberries",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/IQ-04-NUT-DF-02-01-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/IQ-04-NUT-DF-02-01-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/IQ-04-NUT-DF-02-01-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/IQ-04-NUT-DF-02-01-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/IQ-04-NUT-DF-02-01-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Boil a kettle</p>\r\n<p>Preheat the oven to 220&deg;C/ 200&deg;C (fan)/ 425&deg;F/ Gas 7</p>\r\n<p>Heat a dry pan (preferably non-stick) over a high heat</p>\r\n<p>Once hot, add the<strong> baby gammon joint<span class=\"text-danger\">[s]</span></strong>&nbsp;and cook on all sides until browned (this is known as searing) for approx. 5 min&nbsp;</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, combine the <strong>honey</strong> with half of the<strong>&nbsp;mustard</strong>, reserving&nbsp;the remaining mustard for step 5</p>\r\n<p>Cover the <strong>cranberries</strong> in enough boiled water to cover them and set&nbsp;them aside, this rehydrates them so they plump up a little&nbsp;</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Place the seared <strong>gammon</strong> in a tin foil package, folding up the edges to keep the juices in&nbsp;</p>\r\n<p>Pour the <strong>honey mustard</strong> mixture over the gammon</p>\r\n<p>Place the tray in the oven for 30-40min&nbsp;</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, cut the <strong>potatoes</strong> (skins on) into bite-size pieces&nbsp;</p>\r\n<p>Place&nbsp;the potatoes on a separate baking tray and drizzle with 2 tbsp <span class=\"text-danger\">[4 tbsp]</span>&nbsp;<strong>vegetable oil</strong> and season with a pinch of <strong>salt</strong> and <strong>pepper</strong></p>\r\n<p>Put&nbsp;the potatoes in the oven for 25-30 min or until crispy and golden</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Combine the remaining<strong>&nbsp;mustard</strong> with the <strong>mayonnaise</strong> and set aside until serving - this is your <strong>wholegrain mustard mayo</strong></p>\r\n<p>Grab a tea, or take some time to clear up while the gammon and potatoes tick away&nbsp;</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Remove the cooked <strong>gammon</strong> from the oven and allow it to rest on a clean chopping board for 5 min</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Drain the plumped <strong>cranberries</strong> and mix them through the <strong>salad</strong>, with a little<strong> olive oil</strong> and <strong>salt</strong> and <strong>pepper</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/412.-step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Slice the rested <strong>gammon</strong> finely with a&nbsp;sharp knife</p>\r\n<p>Serve the <strong>gammon</strong> with the <strong>honey mustard juices</strong> spooned over</p>\r\n<p>Serve the <strong>roasted potatoes</strong>, <strong>cranberry salad</strong> and <strong>wholegrain mustard mayo</strong>&nbsp;to the side</p>\r\n<p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "peanut",
+      "slug": "peanut"
+    },
+    {
+      "title": "nut",
+      "slug": "nut"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    },
+    {
+      "title": "mustard",
+      "slug": "mustard"
+    },
+    {
+      "title": "egg",
+      "slug": "egg"
+    },
+    {
+      "title": "sulphites",
+      "slug": "sulphites"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "crustacean",
+      "slug": "crustacean"
+    },
+    {
+      "title": "fish",
+      "slug": "fish"
+    },
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "celery",
+      "slug": "celery"
+    },
+    {
+      "title": "lupin",
+      "slug": "lupin"
+    },
+    {
+      "title": "mollusc",
+      "slug": "mollusc"
+    }
+  ],
+  "seo": {
+    "title": "Honey Baked Gammon",
+    "description": "Gammon is essentially uncooked ham. It's taken from the hind of pork leg and is salt-cured in the same way as bacon. Usually the preserve of Christmas, we thought we'd break the rules and enjoy ours midweek with a honey-mustard glaze.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/412.HoneyBakedGammon.jpg"
+  },
+  "tags": [],
+  "uid": "blt1486fffd31676269",
+  "_version": 55,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 138,
+      "energy_kj": 597,
+      "fat_mg": 6964,
+      "fat_saturates_mg": 1153,
+      "carbs_mg": 13189,
+      "carbs_sugars_mg": 4748,
+      "fibre_mg": 1377,
+      "protein_mg": 6994,
+      "salt_mg": 869,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 659,
+      "energy_kj": 2835,
+      "fat_mg": 33046,
+      "fat_saturates_mg": 5471,
+      "carbs_mg": 62584,
+      "carbs_sugars_mg": 22530,
+      "fibre_mg": 6534,
+      "protein_mg": 33189,
+      "salt_mg": 4124,
+      "net_weight_mg": 474500
+    }
+  },
+  "portion_sizes": null
+}

@@ -1,0 +1,676 @@
+{
+  "url": "/veggie-gnocchi-ragu",
+  "title": "Veggie Gnocchi Ragu ",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Vegetarian Recipes ",
+      "url": "/vegetarian-recipes",
+      "uid": "blta762d7d1d30213a2"
+    },
+    {
+      "title": "Pasta Recipes",
+      "url": "/pasta-recipes",
+      "uid": "blt637b2a42a268b2b1"
+    },
+    {
+      "title": "Egg Recipes",
+      "url": "/egg-recipes",
+      "uid": "blt5dda42d228864a9d"
+    },
+    {
+      "title": "Italian Recipes",
+      "url": "/italian-recipes",
+      "uid": "blt7306e62f2a9906c9"
+    }
+  ],
+  "gousto_id": "316",
+  "gousto_uid": "d3b08975-6cfb-4d16-8782-e445a3d2fa95",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/332.VeggieGnocchiRagu(V)-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/332.VeggieGnocchiRagu(V)-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/332.VeggieGnocchiRagu(V)-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/332.VeggieGnocchiRagu(V)-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/332.VeggieGnocchiRagu(V)-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 356
+  },
+  "description": "Our Gnocchi Ragu is made with soy mince, which creates a quick, simple and flavourful veggie Bolognese alternative for meat-free feasting. By roasting the broccoli, you intensify the flavour without losing any of the nutrients in boiling. You can also cook the gnocchi on the same tray - use two if you can’t fit it all on!",
+  "prep_times": {
+    "for_2": 45,
+    "for_4": 45
+  },
+  "cuisine": {
+    "slug": "italian",
+    "title": "Italian"
+  },
+  "ingredients": [
+    {
+      "label": "1 tbsp balsamic vinegar",
+      "title": "balsamic vinegar-IQ-08-SAU-LS-15",
+      "uid": "blt6bbba9d113d1bc1d",
+      "gousto_uuid": "6a710175-599d-400b-b4b6-0e9ed29e4986",
+      "name": "balsamic vinegar",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sulphites"
+          }
+        ]
+      }
+    },
+    {
+      "label": "200g gnocchi",
+      "title": "potato gnocchi-I-09-DAI-PA-01",
+      "uid": "bltb51281f90a406f73",
+      "gousto_uuid": "cff47702-2639-4631-a8bb-b8f6655df521",
+      "name": "potato gnocchi",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Gnocchi.2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Gnocchi.2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Gnocchi.2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Gnocchi.2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Gnocchi.2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "2 vegetable stock cubes",
+      "title": "vegetable stock pot-I-06-SML-SC-05",
+      "uid": "blt22b2a05e06531155",
+      "gousto_uuid": "13e2dcd7-fa65-4e8d-a062-43d78801ad36",
+      "name": "vegetable stock pot",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "celery"
+          }
+        ]
+      }
+    },
+    {
+      "label": "3 garlic cloves",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 tin of chopped tomatoes",
+      "title": "chopped tomatoes-I-01-CAN-VC-05",
+      "uid": "blta5d2c4e86715fcb4",
+      "gousto_uuid": "ee37092d-ace7-429f-a48d-a78b3fe56505",
+      "name": "chopped tomatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 tsp dried oregano",
+      "title": "Italian dried oregano-I-06-SML-DL-04-01",
+      "uid": "blt561665c8eda19f00",
+      "gousto_uuid": "e1047c85-f3f9-4ba5-bcaa-8c3f90c33e46",
+      "name": "Italian dried oregano",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-oregano-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-oregano-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-oregano-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-oregano-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-oregano-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 broccoli",
+      "title": "broccoli-I-05-FVG-LF-14",
+      "uid": "blt95c9488ebbfd05de",
+      "gousto_uuid": "82587901-67fd-4ff5-9b21-2f3670f02927",
+      "name": "broccoli",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/broccoli-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/broccoli-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/broccoli-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/broccoli-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/broccoli-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "45g veggie mince",
+      "title": "meat free mince-IQ-03-GRN-PA-11-01",
+      "uid": "blt591653e4f4263fad",
+      "gousto_uuid": "1d2c87d9-ce91-4e02-939b-fd251f28e708",
+      "name": "meat free mince",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/veggie-mince-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/veggie-mince-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/veggie-mince-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/veggie-mince-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/veggie-mince-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 red onion",
+      "title": "red onion-I-02-SVG-VG-05",
+      "uid": "bltc69ae0a09122a2b4",
+      "gousto_uuid": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Sugar",
+      "slug": "sugar"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Preheat</strong> the oven to 220&deg;C/ 200&deg;C (fan)/ 425&deg;F/ Gas 7</p>\r\n<p><strong>Boil</strong> a kettle </p>\r\n<p><strong>Combine</strong> 250ml <span class=\"text-danger\">(400ml)</span> of boiled water with the vegetable stock cubes and whisk to combine </p>\r\n<p><strong>Add</strong> the veggie mince to the stock and leave to soak until step 5</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Peel</strong> and finely dice the red onion<span class=\"text-danger\">(s)</span></p>\r\n<p><strong>Peel</strong> and grate (or finely chop) the garlic cloves</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Cut</strong> the broccoli into small florets</p>\r\n<p><strong>Place</strong> the florets on one oven tray and the gnocchi on a separate oven tray, drizzle both trays with 1-2 tbsp of olive oil</p>\r\n<p><strong>Season</strong> to your taste with salt and pepper and put them in the oven until the broccoli is crisp and the gnocchi cooked (approx. 20 min)</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Heat</strong> a wide-based pan with 2 tbsp <span class=\"text-danger\">(3 tbsp)</span> of olive oil</p>\r\n<p><strong>When</strong> hot, add the red onion with a pinch of salt and cook on a medium-low heat for 8-10 min or until softened and starting to caramelise</p>\r\n<p><strong>Once</strong> caramelised, add the garlic and cook for a further min, stirring constantly</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> the soaked veggie mince to the softened onion and stir fry on a high heat for 2 min</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> the tin<span class=\"text-danger\">(s)</span> of chopped tomatoes and bring to the boil</p>\r\n<p><strong>Once</strong> boiling, lower to a medium heat and reduce by half (approx. 10 min) or until it's thickened and combined</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> the balsamic vinegar and 1/2 tsp (1 tsp) of sugar and the dried oregano to the tomato sauce </p>\r\n<p><strong>Mix</strong> well, season with pepper and once it's reached a bolognese consistency, remove from the heat</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/332.-step7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Serve</strong> the veggie ragu with the gnocchi and broccoli scattered over the top</p>\r\n<p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "soybeans",
+      "slug": "soybeans"
+    },
+    {
+      "title": "celery",
+      "slug": "celery"
+    },
+    {
+      "title": "sulphites",
+      "slug": "sulphites"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    }
+  ],
+  "seo": {
+    "title": "Veggie Gnocchi Ragu ",
+    "description": "Our Gnocchi Ragu is made with soy mince, which creates a quick, simple and flavourful veggie Bolognese alternative for meat-free feasting. By roasting the broccoli, you intensify the flavour without losing any of the nutrients in boiling. You can also cook the gnocchi on the same tray - use two if you can’t fit it all on!",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/332.VeggieGnocchiRagu(V).jpg"
+  },
+  "tags": [],
+  "uid": "blt999f26ca1664ece8",
+  "_version": 67,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 88,
+      "energy_kj": 373,
+      "fat_mg": 673,
+      "fat_saturates_mg": 317,
+      "carbs_mg": 14911,
+      "carbs_sugars_mg": 1824,
+      "fibre_mg": 2610,
+      "protein_mg": 5303,
+      "salt_mg": 1193,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 645,
+      "energy_kj": 2736,
+      "fat_mg": 4933,
+      "fat_saturates_mg": 2324,
+      "carbs_mg": 109225,
+      "carbs_sugars_mg": 13367,
+      "fibre_mg": 19122,
+      "protein_mg": 38848,
+      "salt_mg": 8741,
+      "net_weight_mg": 732500
+    }
+  },
+  "portion_sizes": null
+}

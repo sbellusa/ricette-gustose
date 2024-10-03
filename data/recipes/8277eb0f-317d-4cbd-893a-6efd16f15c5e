@@ -1,0 +1,761 @@
+{
+  "url": "/red-pepper-paneer-coconut-curry",
+  "title": "Red Pepper, Paneer & Coconut Curry",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Vegetarian Recipes ",
+      "url": "/vegetarian-recipes",
+      "uid": "blta762d7d1d30213a2"
+    },
+    {
+      "title": "Rice Recipes",
+      "url": "/rice-recipes",
+      "uid": "blt7d4da6bbb3711078"
+    },
+    {
+      "title": "Curry Recipes",
+      "url": "/curry-recipes",
+      "uid": "bltf92aa4e76cfebf85"
+    },
+    {
+      "title": "Indian Recipes",
+      "url": "/indian-recipes",
+      "uid": "blt851c16bcc6ebcdae"
+    },
+    {
+      "title": "Gluten Free Recipes",
+      "url": "/gluten-free-recipes",
+      "uid": "bltd38409eebe22a089"
+    }
+  ],
+  "gousto_id": "724",
+  "gousto_uid": "8277eb0f-317d-4cbd-893a-6efd16f15c5e",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/740---Red-Pepper-Paneer--Coconut-Curry2-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/740---Red-Pepper-Paneer--Coconut-Curry2-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/740---Red-Pepper-Paneer--Coconut-Curry2-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/740---Red-Pepper-Paneer--Coconut-Curry2-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/740---Red-Pepper-Paneer--Coconut-Curry2-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 389
+  },
+  "description": "Paneer is a mild Indian cheese, similar in texture to halloumi, but without the saltiness. This fragrant curry combines slow cooked red pepper, red onion, ginger, garlic and Indian spices to create an unusual but sweet curry, tempered with coconut cream and fresh coriander. Served with lemongrass steamed basmati rice.",
+  "prep_times": {
+    "for_2": 30,
+    "for_4": 30
+  },
+  "cuisine": {
+    "slug": "indian",
+    "title": "Indian"
+  },
+  "ingredients": [
+    {
+      "label": "150g fragrant basmati rice",
+      "title": "basmati rice-I-03-GRN-RC-13",
+      "uid": "blta5401caadde061d5",
+      "gousto_uuid": "6c70646e-8f37-4bca-a7de-6e8ae2b260cb",
+      "name": "basmati rice",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basmati-rice-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basmati-rice-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basmati-rice-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basmati-rice-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basmati-rice-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 flecked coconut cream sachet (50g)",
+      "title": "coconut cream-I-06-SML-CO-10",
+      "uid": "blt3dcef8c27946dda7",
+      "gousto_uuid": "3ca7bedd-5f44-48cc-afa4-c16d2092dc42",
+      "name": "coconut cream",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 lemongrass stem",
+      "title": "fresh lemongrass stalk-I-07-HBS-PL-40",
+      "uid": "blt77cb1bbb2dd44b40",
+      "gousto_uuid": "2476df32-b40f-4b37-8362-18bf91f454dd",
+      "name": "fresh lemongrass stalk",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-fresh-lemongrass-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-fresh-lemongrass-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-fresh-lemongrass-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-fresh-lemongrass-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-fresh-lemongrass-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 vegetable stock cube",
+      "title": "vegetable stock pot-I-06-SML-SC-05",
+      "uid": "blt22b2a05e06531155",
+      "gousto_uuid": "13e2dcd7-fa65-4e8d-a062-43d78801ad36",
+      "name": "vegetable stock pot",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "celery"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 tbsp home blend curry powder",
+      "title": "curry powder-IQ-06-SML-MX-04-08",
+      "uid": "bltfe29cd8b66b20bba",
+      "gousto_uuid": "a2fd33ad-2d61-4bf7-8d6e-e42715ecba05",
+      "name": "curry powder",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "250g traditional paneer",
+      "title": "paneer cheese-I-09-DAI-CH-14",
+      "uid": "bltb889eb6f35201193",
+      "gousto_uuid": "c9197950-b207-474d-8ae0-1fa9fa241425",
+      "name": "paneer cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Paneer1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Paneer1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Paneer1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Paneer1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Paneer1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 spring onion",
+      "title": "spring onion-I-07-HBS-PL-10",
+      "uid": "blt7f30073f4f7cf590",
+      "gousto_uuid": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+      "name": "spring onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 tsp black nigella seeds",
+      "title": "nigella seeds-IQ-06-SML-SD-11",
+      "uid": "blt67879732bfb7bd6c",
+      "gousto_uuid": "addb83ba-de3d-4567-9114-471a73395085",
+      "name": "nigella seeds",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/nigella-seeds.2jpg-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/nigella-seeds.2jpg-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/nigella-seeds.2jpg-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/nigella-seeds.2jpg-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/nigella-seeds.2jpg-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 garlic clove",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 knob of fresh root ginger (15g)",
+      "title": "ginger-IQ-06-SML-OT-03-01",
+      "uid": "blt286d3a9819caba5f",
+      "gousto_uuid": "90ea17bd-204c-4ded-9dac-12df03f265d6",
+      "name": "ginger",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 red pepper",
+      "title": "red pepper-I-05-FVG-FV-07",
+      "uid": "blt0f5f2591749c88e3",
+      "gousto_uuid": "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+      "name": "red pepper",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 red onion",
+      "title": "red onion-I-02-SVG-VG-05",
+      "uid": "bltc69ae0a09122a2b4",
+      "gousto_uuid": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Sugar",
+      "slug": "sugar"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Cut the <strong>pepper<span class=\"text-danger\">[s]</span></strong> in half and deseed&nbsp;(scrape the pith out with a teaspoon), then cut into thin strips&nbsp;</p>\r\n<p>Peel and&nbsp;slice the <strong>onion<span class=\"text-danger\">[s]</span></strong>&nbsp;finely</p>\r\n<p>Boil a kettle</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Chop the <strong>paneer</strong> into bite-size pieces&nbsp;</p>\r\n<p>Heat a large, wide-based pan (preferably non-stick) with a matching lid and a drizzle of&nbsp;<strong>vegetable oil</strong> over a medium-high heat</p>\r\n<p>Once hot, add the<strong> paneer</strong> and cook for 2-3 min, turning occasionally until golden, then transfer to a plate and set aside, reserving the pan</p>\r\n<p>&nbsp;</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Return the pan to a medium-high heat - if it's looking a little dry add a drizzle of <strong>vegetable oil</strong></p>\r\n<p>Once hot, add the <strong>pepper</strong>,&nbsp;<strong>onion</strong> and a large pinch of<strong> salt</strong> and <strong>sugar</strong> and cook for 3 min, then reduce the heat to low and cook for 15 min or until softened and caramelised</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><span class=\"text-highlight\">Meanwhile, place the <strong>coconut cream sachet[s]</strong> in a mug and cover with boiled water</span></p>\r\n<p><span class=\"text-highlight\">Peel the <strong>ginger</strong> (scrape the skin off with a teaspoon) and the<strong> garlic</strong>, then finely chop (or grate) both</span></p>\r\n<p><span class=\"text-highlight\">Bash the <strong>lemongrass</strong>, cut it down the middle lengthways, remove the tough outer leaves (keep for step 5) and chop the innards finely&nbsp;</span></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>rice</strong>,&nbsp;350ml <span class=\"text-danger\">[700ml]</span> <strong>water</strong> and the <strong>outer lemongrass leaves</strong> to a pot with a matching lid and bring to the boil over a high heat</p>\r\n<p>Once boiling, reduce the heat to very low&nbsp;and cook, covered,&nbsp;for 10-15 min or until the water is absorbed and the rice is cooked</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><span class=\"text-highlight\">Once softened, add the&nbsp;<strong>garlic</strong>, <strong>lemongrass innards</strong>, <strong>ginger</strong>,&nbsp;<strong>curry powder</strong> and <strong>nigella seeds</strong> to the onion and peppers, increase the heat to medium and cook for 2 min</span></p>\r\n<p>Add 300ml <span class=\"text-danger\">[600ml]</span> <strong>boiled</strong> <strong>water</strong>&nbsp;to the pan with the <strong>coconut cream </strong>and 1/2<span class=\"text-danger\"> [1]</span> <strong>stock cube</strong>, then stir to combine</p>\r\n<p>Cover and cook&nbsp;for 3-4 min or until a curry sauce forms&nbsp;</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740.-step--6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, trim then slice the<strong> spring onion<span class=\"text-danger\">[s]</span></strong> finely&nbsp;</p>\r\n<p>Return the <strong>paneer</strong> to the pan, stir to coat&nbsp;it in the&nbsp;sauce and warm through</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740__step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740__step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740__step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740__step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/740__step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Remove and discard the lemongrass leaves from the rice</p>\r\n<p>Serve the paneer curry over the&nbsp;rice</p>\r\n<p>Garnish with the spring onion</p>\r\n<p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "celery",
+      "slug": "celery"
+    }
+  ],
+  "seo": {
+    "title": "Red Pepper, Paneer & Coconut Curry",
+    "description": "Paneer is a mild Indian cheese, similar in texture to halloumi, but without the saltiness. This fragrant curry combines slow cooked red pepper, red onion, ginger, garlic and Indian spices to create an unusual but sweet curry, tempered with coconut cream and fresh coriander. Served with lemongrass steamed basmati rice.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/740---Red-Pepper-Paneer--Coconut-Curry2.jpg"
+  },
+  "tags": [],
+  "uid": "blt214709596e1f2c3e",
+  "_version": 51,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 253,
+      "energy_kj": 1056,
+      "fat_mg": 14728,
+      "fat_saturates_mg": 10515,
+      "carbs_mg": 20807,
+      "carbs_sugars_mg": 3918,
+      "fibre_mg": 2670,
+      "protein_mg": 10061,
+      "salt_mg": 880,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 928,
+      "energy_kj": 3873,
+      "fat_mg": 54018,
+      "fat_saturates_mg": 38566,
+      "carbs_mg": 76311,
+      "carbs_sugars_mg": 14370,
+      "fibre_mg": 9793,
+      "protein_mg": 36902,
+      "salt_mg": 3229,
+      "net_weight_mg": 366750
+    }
+  },
+  "portion_sizes": null
+}

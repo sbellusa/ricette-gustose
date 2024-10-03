@@ -1,0 +1,422 @@
+{
+  "url": "/pork-with-parsnip-mash",
+  "title": "Pork with Parsnip Mash",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "266",
+  "gousto_uid": "8e579efc-6ff3-4551-95dc-d72a6c18804a",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/275.PorkWithButterbeanAndParsnipMash-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/275.PorkWithButterbeanAndParsnipMash-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/275.PorkWithButterbeanAndParsnipMash-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/275.PorkWithButterbeanAndParsnipMash-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/275.PorkWithButterbeanAndParsnipMash-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 574
+  },
+  "description": "Succulent pork tenderloin and feathery white bean and parsnip mash mingle with feisty cumin seeds and tangy leek in this lighter, less conventional take on a British classic. Welcome to the outer limits of food!",
+  "prep_times": {
+    "for_2": 25,
+    "for_4": 25
+  },
+  "cuisine": {
+    "slug": "british",
+    "title": "British"
+  },
+  "ingredients": [
+    {
+      "label": "2 x 125g British pork tenderloins",
+      "title": "pork tenderloin-I-10-MPF-ME-191",
+      "uid": "bltcfc5d54351af1d00",
+      "gousto_uuid": "78cb7339-d8fb-4b78-9aeb-07ddc66288fd",
+      "name": "pork tenderloin",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-pork-tenderloin-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-pork-tenderloin-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-pork-tenderloin-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-pork-tenderloin-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-pork-tenderloin-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 chicken stock cube ",
+      "title": "chicken stock cube-I-06-SML-SC-08",
+      "uid": "blta2fd41dccba5257f",
+      "gousto_uuid": "9375f43b-9967-49f2-875a-f905f2b4c701",
+      "name": "chicken stock cube",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Chicken-stock-cube.new-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Chicken-stock-cube.new-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Chicken-stock-cube.new-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Chicken-stock-cube.new-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Chicken-stock-cube.new-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "celery"
+          }
+        ]
+      }
+    },
+    {
+      "label": "2 leeks",
+      "title": "leek-I-05-FVG-LF-03",
+      "uid": "blt8f2a845b088489d2",
+      "gousto_uuid": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+      "name": "leek",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 tsp cumin seeds",
+      "title": "cumin seeds-IQ-06-SML-SD-02-06",
+      "uid": "blte40d394249d7154d",
+      "gousto_uuid": "33870eab-a2cf-477e-972e-02586b290011",
+      "name": "cumin seeds",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-cumin-seeds-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-cumin-seeds-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-cumin-seeds-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-cumin-seeds-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-cumin-seeds-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 tin of butter beans",
+      "title": "butter beans-I-01-CAN-VC-17",
+      "uid": "blt721a09eb85baf9bd",
+      "gousto_uuid": "6345f002-157d-40ef-82ce-8e2291d45f4c",
+      "name": "butter beans",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butter-beans-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butter-beans-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butter-beans-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butter-beans-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butter-beans-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 garlic cloves",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "300g parsnips",
+      "title": "parsnips-IQ-02-SVG-VG-03-03",
+      "uid": "blt12035284ebbeb8c9",
+      "gousto_uuid": "bb826c2c-e727-44ed-a6fd-3eb585f2defb",
+      "name": "parsnips",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/parsnip-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/parsnip-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/parsnip-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/parsnip-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/parsnip-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Butter",
+      "slug": "butter"
+    },
+    {
+      "title": "Milk",
+      "slug": "milk"
+    },
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Preheat</strong> the oven to 220&deg;C/ 200&deg;C (fan)/ 425&deg;F/ Gas 7 </p>\r\n<p><strong>Boil</strong> a kettle (used in step 3)<br /><br /><strong>Place</strong> the pork on an oven-proof tray and season with salt</p>",
+      "order": 1,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Put</strong> in the oven for 15-20 min or until cooked through to your preference</p>\r\n<p><strong>Once</strong> done, remove from the oven and cover well to rest until serving</p>",
+      "order": 2,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Peel</strong> the parsnips, remove and discard the root ends</p>\r\n<p><strong>Dice</strong> into 1cm cubes and transfer to a medium pot</p>\r\n<p><strong>Add</strong> just enough boiling water to cover the parsnip and return to a boil on a high heat with the lid on</p>\r\n<p><strong>Boil</strong> for 10-12 min, or until easily pierced with a fork</p>",
+      "order": 3,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Meanwhile</strong>, cut the leeks in half lengthwise and wash carefully to remove any grit from between the leaves, discarding the tough tops</p>\r\n<p><strong>Discard</strong> the root ends and slice into thin half-moons</p>\r\n<p><strong>Crush</strong> the garlic with the side of a knife, peel it and chop finely</p>",
+      "order": 4,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> 1-2 tbsp of olive oil to a small pot with a matching lid on a medium heat</p>\r\n<p><strong>Once</strong> hot, add the garlic and leek and cook for 1 min</p>\r\n<p><strong>Add</strong> 1/2 <span class=\"text-danger\">(1)</span> stock cube (reserve the rest for step 7) and 120ml <span class=\"text-danger\">(240ml)</span> of boiling water<br />Cover, lower to a simmer and cook for 4-6 min, or until the leeks are tender</p>",
+      "order": 5,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Drain</strong> and rinse the beans</p>\r\n<p><strong>Add</strong> them to the parsnip pot and cook for 1 min, or until starting to break apart</p>\r\n<p><strong>Drain</strong> the parsnips and beans, reserving a little cooking water from the pot</p>",
+      "order": 6,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Return</strong> the parnsip and beans to the pot and place on the hob on a simmer</p>\r\n<p><strong>Add</strong> the cumin, a dash of milk, 15g <span class=\"text-danger\">(30g)</span> of butter, and the remaining 1/2 <span class=\"text-danger\">(1)</span> stock cube</p>\r\n<p><strong>Mash</strong> with a masher or fork until smooth</p>",
+      "order": 7,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Slice</strong> the pork into 0.5cm thick medallions</p>\r\n<p><strong>Serve</strong> the mash and leeks with the pork medallions on top</p>\r\n<p><strong>Drizzle</strong> over any leftover meat juices from the tray </p>\r\n<p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "celery",
+      "slug": "celery"
+    }
+  ],
+  "seo": {
+    "title": "Pork with Parsnip Mash",
+    "description": "Succulent pork tenderloin and feathery white bean and parsnip mash mingle with feisty cumin seeds and tangy leek in this lighter, less conventional take on a British classic. Welcome to the outer limits of food!",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/275.PorkWithButterbeanAndParsnipMash.jpg"
+  },
+  "tags": [],
+  "uid": "blt69e467adb7663d64",
+  "_version": 48,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 66,
+      "energy_kj": 282,
+      "fat_mg": 896,
+      "fat_saturates_mg": 219,
+      "carbs_mg": 7839,
+      "carbs_sugars_mg": 2582,
+      "fibre_mg": 3878,
+      "protein_mg": 6258,
+      "salt_mg": 343,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 527,
+      "energy_kj": 2228,
+      "fat_mg": 7079,
+      "fat_saturates_mg": 1730,
+      "carbs_mg": 61895,
+      "carbs_sugars_mg": 20389,
+      "fibre_mg": 30618,
+      "protein_mg": 49408,
+      "salt_mg": 2713,
+      "net_weight_mg": 789500
+    }
+  },
+  "portion_sizes": null
+}

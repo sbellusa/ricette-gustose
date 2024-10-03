@@ -1,0 +1,863 @@
+{
+  "url": "/thanksgiving-squash-loaf-with-almond-green-beans",
+  "title": "Thanksgiving Squash Loaf With Almond Green Beans",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "3900",
+  "gousto_uid": "508b7f13-f729-405c-90c2-6cb5fe12d765",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3756---Thanksgiving-Squash-Veggie-Loaf-W.-Almond-Green-Beans_24-1632482970355-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3756---Thanksgiving-Squash-Veggie-Loaf-W.-Almond-Green-Beans_24-1632482970355-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3756---Thanksgiving-Squash-Veggie-Loaf-W.-Almond-Green-Beans_24-1632482970355-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3756---Thanksgiving-Squash-Veggie-Loaf-W.-Almond-Green-Beans_24-1632482970355-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3756---Thanksgiving-Squash-Veggie-Loaf-W.-Almond-Green-Beans_24-1632482970355-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 878
+  },
+  "description": "For a turkey-free twist to your Thanksgiving dinner, look no further than our flavour-packed veggie loaf. You'll stuff it with squash, lentils and cheese, before serving with decadent mashed potato, herby almond-topped green beans and gravy.",
+  "prep_times": {
+    "for_2": 60,
+    "for_4": 65
+  },
+  "cuisine": {
+    "slug": "american",
+    "title": "American"
+  },
+  "ingredients": [
+    {
+      "label": "160g trimmed fine green beans",
+      "title": "fine green beans-I-05-FVG-PD-01-15",
+      "uid": "blt2760e2b59b9a8fc2",
+      "gousto_uuid": "ab46b9da-8d7b-4c4b-a8d4-cd09ff944f06",
+      "name": "fine green beans",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-trimmed-fine-green-beans-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-trimmed-fine-green-beans-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-trimmed-fine-green-beans-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-trimmed-fine-green-beans-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-trimmed-fine-green-beans-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "40g cheddar cheese",
+      "title": "cheddar cheese-I-09-DAI-CH-02",
+      "uid": "bltcf8784004b8281e0",
+      "gousto_uuid": "aed1561d-bae6-487b-a645-4125a6829119",
+      "name": "cheddar cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "50g soft cheese",
+      "title": "soft cheese-I-09-DAI-CR-15",
+      "uid": "blt5d5a607d98da4457",
+      "gousto_uuid": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+      "name": "soft cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "160g butternut squash cubes",
+      "title": "butternut squash cubes-I-05-FVG-LF-51",
+      "uid": "bltb15c33db6880f075",
+      "gousto_uuid": "88852431-ad79-4030-a171-252206c931f7",
+      "name": "butternut squash cubes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butternut-cubes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butternut-cubes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butternut-cubes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butternut-cubes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butternut-cubes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "185g canned green lentils",
+      "title": "green lentils-I-01-CAN-VC-34",
+      "uid": "blt46bbb6fe01c65914",
+      "gousto_uuid": "4e3542f7-8923-423e-88b4-ad16be59da55",
+      "name": "green lentils",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-lentils-400g-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-lentils-400g-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-lentils-400g-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-lentils-400g-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-lentils-400g-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "30g panko breadcrumbs",
+      "title": "panko breadcrumbs-IQ-07-GRN-FL-09-01",
+      "uid": "blt0a0073cbb9b46ccf",
+      "gousto_uuid": "bd9a0571-27e5-48ee-a951-f2beeaa1099a",
+      "name": "panko breadcrumbs",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "15ml Henderson's Relish ",
+      "title": "Henderson's Relish-I-08-SAU-HD-03",
+      "uid": "bltf3888be38553dc9c",
+      "gousto_uuid": "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+      "name": "Henderson's Relish",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Hendersons-Relish-New-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Hendersons-Relish-New-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Hendersons-Relish-New-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Hendersons-Relish-New-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Hendersons-Relish-New-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "15g flaked almonds",
+      "title": "flaked almonds-I-04-NUT-NT-01-15",
+      "uid": "bltdf1bce5835521a70",
+      "gousto_uuid": "d8804139-1bf9-4d73-a4e2-7524669a198c",
+      "name": "flaked almonds",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/flaked-almonds-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/flaked-almonds-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/flaked-almonds-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/flaked-almonds-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/flaked-almonds-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "nut"
+          },
+          {
+            "title": null,
+            "slug": "peanut"
+          },
+          {
+            "title": null,
+            "slug": "sesame"
+          }
+        ]
+      }
+    },
+    {
+      "label": "4 white potatoes",
+      "title": "white potato-I-02-SVG-VG-01-09",
+      "uid": "bltab576a7ce0bc5a37",
+      "gousto_uuid": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 carrot",
+      "title": "carrot-I-05-FVG-VG-02",
+      "uid": "bltecb864411e0c0684",
+      "gousto_uuid": "4cd305c4-d372-4d9f-8110-dae88209ce57",
+      "name": "carrot",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "30ml soy sauce",
+      "title": "soy sauce-I-06-SML-OT-15",
+      "uid": "bltdb27bbac781f8209",
+      "gousto_uuid": "d516304e-cb6e-42a9-8d0a-0e0d9477a800",
+      "name": "soy sauce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "5g thyme",
+      "title": "thyme-I-07-HBS-PL-27",
+      "uid": "bltb384c356068db77a",
+      "gousto_uuid": "b69a875d-2105-4280-9890-7a3fba1afa14",
+      "name": "thyme",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-thyme-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-thyme-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-thyme-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-thyme-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-thyme-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 garlic cloves",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 brown onion",
+      "title": "brown onion-I-02-SVG-VG-07",
+      "uid": "blt8f3ebc667e318aad",
+      "gousto_uuid": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Butter",
+      "slug": "butter"
+    },
+    {
+      "title": "Flour",
+      "slug": "flour"
+    },
+    {
+      "title": "Milk",
+      "slug": "milk"
+    },
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7 and boil a kettle</p><p>Peel and finely chop the <strong>brown onion<span class=\"text-danger\">[s] </span></strong>and <strong>garlic</strong></p><p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>vegetable oil</strong> over a medium-high heat</p><p>Once hot, add the <strong>chopped onion</strong> and <strong>garlic</strong> and cook for 4-5 min or until beginning to soften</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1635264208591-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1635264208591-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1635264208591-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1635264208591-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1635264208591-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Whilst the onion is softening, top, tail and dice the <strong>carrot<span class=\"text-danger\">[s]</span></strong> finely, then drain and rinse the<strong> green lentils </strong>and grate the <strong>cheddar cheese</strong></p><p>Once the onion has softened, add the <strong>diced carrot</strong>,<strong> butternut squash cubes</strong>, <strong>drained lentils</strong>, 2/3 of the <strong>panko breadcrumbs</strong>,<strong> half</strong> the <strong>soy sauce </strong>(you'll use the rest later!) and the <strong>grated cheese </strong>to the pan</p><p>Give everything a good mix up until fully combined – this is your <strong>veggie loaf mixture</strong></p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1635264212019-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1635264212019-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1635264212019-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1635264212019-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1635264212019-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Line a <strong>loaf tin</strong> (23 x13 x7cm) with <strong>non-stick baking paper</strong> and grease with <strong>vegetable oil</strong></p><p>Add the <strong>veggie loaf</strong> <strong>mixture</strong> to the prepared tin, pressing down into the corners and smoothing the top over with a spatula</p><p>Put the tin in the oven for 40 min or until browned and firm in the middle, reserve the pan – this is your <strong>squash loaf</strong></p><p>Tip: If you don't have a loaf tin, shape into a log instead!</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1635264214887-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1635264214887-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1635264214887-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1635264214887-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1635264214887-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>While the veggie loaf is in the oven, peel the <strong>potatoes</strong> and chop them into large, bite-sized pieces</p><p>Add the <strong>chopped potatoes</strong> to a pot with plenty of <strong>boiled water</strong> and a generous pinch of <strong>salt </strong>and bring to the boil over a high heat</p><p>Once boiling, reduce the heat to medium and cook for 12-15 min or until fork-tender</p><p>Once done, drain and return to the pot to steam dry</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1635264218281-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1635264218281-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1635264218281-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1635264218281-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1635264218281-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, strip the <strong>thyme leaves</strong> from their stems and chop them roughly, discard the stems</p><p>Return the reserved pan to a medium heat with a drizzle of <strong>olive oil</strong> and once hot, add the <strong>chopped</strong> <strong>thyme</strong>, <strong>flaked almonds</strong> and <strong>remaining panko breadcrumbs</strong></p><p>Season with a pinch of<strong> salt</strong> and <strong>pepper</strong> and cook for 2-3 min or until lightly golden, then transfer to a small bowl, reserving the pan – this is your<strong> herby almond crumb</strong></p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1635264221070-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1635264221070-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1635264221070-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1635264221070-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1635264221070-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Return the reserved pan to a medium heat with a knob of <strong>butter</strong></p><p>Once melted, add 2 tsp <span class=\"text-danger\">[4 tsp]</span> <strong>flour</strong> and cook for 30 secs or until a sandy paste forms</p><p>Whisk in 250ml<span class=\"text-danger\"> [400ml] </span><strong>boiled water </strong>with the <strong>Henderson's Relish</strong>,<strong> remaining soy sauce </strong>and a generous grind of <strong>black pepper</strong>, and cook for 4-5 min or until thickened (this can be quickly reheated before serving!) – this is your <strong>gravy</strong></p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1635264224043-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1635264224043-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1635264224043-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1635264224043-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1635264224043-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Cut 1 <span class=\"text-danger\">[2]</span> piece<span class=\"text-danger\">[s]</span> of <strong>tin foil</strong> approx. the size of an A3 sheet of paper, then lay the <strong>green beans </strong>in the middle with a knob of <strong>butter</strong>, 1 tbsp <span class=\"text-danger\">[2 tbsp] </span><strong>water </strong>and a pinch of <strong>salt</strong></p><p>Scrunch the edges of the foil around the beans to form sealed parcel<span class=\"text-danger\">[s]</span> and put in the oven for 10-12 min or until the beans are tender with a slight bite</p><p>Return the <strong>drained</strong> <strong>potatoes</strong> to a low heat with the <strong>soft cheese</strong> and a splash of <strong>milk</strong>,<strong> </strong>season with a generous pinch of <strong>salt</strong> and mash until smooth</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1635264226848-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1635264226848-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1635264226848-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1635264226848-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1635264226848-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Gently turn the <strong>squash loaf </strong>out onto a chopping board, let it cool slightly, then slice thickly</p><p>Serve the <strong>squash loaf slices </strong>with the<strong> creamy mash </strong>and<strong> green beans </strong>to the side</p><p>Top the beans with the <strong>herby almond crumb</strong> and drizzle over the <strong>gravy</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "nut",
+      "slug": "nut"
+    },
+    {
+      "title": "peanut",
+      "slug": "peanut"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    }
+  ],
+  "seo": {
+    "title": "Thanksgiving Squash Loaf With Almond Green Beans",
+    "description": "For a turkey-free twist to your Thanksgiving dinner, look no further than our flavour-packed veggie loaf. You'll stuff it with squash, lentils and cheese, before serving with decadent mashed potato, herby almond-topped green beans and gravy.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://s3-eu-west-1.amazonaws.com/s3-gousto-production-media/cms/mood-image/3756---Thanksgiving-Squash-Veggie-Loaf-W.-Almond-Green-Beans_24-1632482970355.jpg"
+  },
+  "tags": [],
+  "uid": "blt1988f0510e892546",
+  "_version": 916,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 93,
+      "energy_kj": 387,
+      "fat_mg": 3136,
+      "fat_saturates_mg": 1554,
+      "carbs_mg": 12655,
+      "carbs_sugars_mg": 2431,
+      "fibre_mg": 1653,
+      "protein_mg": 3452,
+      "salt_mg": 471,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 567,
+      "energy_kj": 2354,
+      "fat_mg": 19054,
+      "fat_saturates_mg": 9445,
+      "carbs_mg": 76881,
+      "carbs_sugars_mg": 14770,
+      "fibre_mg": 10043,
+      "protein_mg": 20972,
+      "salt_mg": 2866,
+      "net_weight_mg": 607500
+    }
+  },
+  "portion_sizes": null
+}

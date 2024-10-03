@@ -1,0 +1,962 @@
+{
+  "url": "/spaghetti-meat-free-mince-meatballs",
+  "title": "Spaghetti & Meat-Free Mince Meatballs",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Healthy Choices",
+      "url": "/healthy-choices",
+      "uid": "blt6481386f749a222a"
+    },
+    {
+      "title": "Vegetarian",
+      "url": "/vegetarian",
+      "uid": "blt5cc8b5413c283f12"
+    },
+    {
+      "title": "Mince Recipes",
+      "url": "/mince-recipes",
+      "uid": "blt8ebe9cd2e0123c7c"
+    }
+  ],
+  "gousto_id": "2601",
+  "gousto_uid": "9202b918-f1e7-4cb3-8f37-ee5d781bfbc6",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2469---Spaghetti--Meatless-Meatballs-4563-1574079885503-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2469---Spaghetti--Meatless-Meatballs-4563-1574079885503-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2469---Spaghetti--Meatless-Meatballs-4563-1574079885503-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2469---Spaghetti--Meatless-Meatballs-4563-1574079885503-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2469---Spaghetti--Meatless-Meatballs-4563-1574079885503-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 1437
+  },
+  "description": "You won't miss the meat in these banging meatballs! Shape Meatless Farm mince into balls and chuck them into a classic tomato sauce. Scoop on wholewheat spaghetti, sprinkle a bit of cheddar and basil, and it's done. A classic!",
+  "prep_times": {
+    "for_2": 25,
+    "for_4": 30
+  },
+  "cuisine": {
+    "slug": "italian",
+    "title": "Italian"
+  },
+  "ingredients": [
+    {
+      "label": "5g basil",
+      "title": "basil-I-07-HBS-PL-23",
+      "uid": "bltf719958334d8b893",
+      "gousto_uuid": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+      "name": "basil",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "40g cheddar cheese",
+      "title": "cheddar cheese-I-09-DAI-CH-02",
+      "uid": "bltcf8784004b8281e0",
+      "gousto_uuid": "aed1561d-bae6-487b-a645-4125a6829119",
+      "name": "cheddar cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "200g Meatless Farm mince",
+      "title": "Meatless Farm mince-IQ-10-MPF-VE-05-01",
+      "uid": "blt45bd120d09f02835",
+      "gousto_uuid": "a7dd92ac-2528-4101-93c4-78b70aaf4733",
+      "name": "Meatless Farm mince",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Meat-free-mince-200g-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Meat-free-mince-200g-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Meat-free-mince-200g-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Meat-free-mince-200g-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Meat-free-mince-200g-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "16g tomato paste ",
+      "title": "tomato paste-I-08-SAU-PS-36",
+      "uid": "blt5fa8ca0463cfd067",
+      "gousto_uuid": "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+      "name": "tomato paste",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "200g finely chopped tomatoes",
+      "title": "finely chopped tomatoes-I-01-CAN-VC-50",
+      "uid": "blt269c8bc966804e9e",
+      "gousto_uuid": "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+      "name": "finely chopped tomatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "11g vegetable stock mix",
+      "title": "vegetable stock mix-I-06-SML-SC-27",
+      "uid": "bltebbd714d321e7e43",
+      "gousto_uuid": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+      "name": "vegetable stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "190g wholewheat spaghetti",
+      "title": "wholewheat spaghetti-I-03-GRN-PA-39",
+      "uid": "blt63a6856db10897da",
+      "gousto_uuid": "f573562e-5501-464a-99b4-af1aa35795e3",
+      "name": "wholewheat spaghetti",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/190g-wholewheat-spaghetti-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/190g-wholewheat-spaghetti-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/190g-wholewheat-spaghetti-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/190g-wholewheat-spaghetti-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/190g-wholewheat-spaghetti-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "egg"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 tsp dried basil",
+      "title": "dried basil-I-06-SML-DL-18",
+      "uid": "bltff02573d08c29139",
+      "gousto_uuid": "8f225055-491a-4b53-9a69-ac7e4810d725",
+      "name": "dried basil",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-basil-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-basil-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-basil-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-basil-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-basil-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "15ml balsamic vinegar ",
+      "title": "balsamic vinegar-I-08-SAU-LS-15",
+      "uid": "blt36b3f7d5608537b7",
+      "gousto_uuid": "8357c090-d832-41bc-a458-b13600637e1b",
+      "name": "balsamic vinegar",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sulphites"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 carrot",
+      "title": "carrot-I-05-FVG-VG-02",
+      "uid": "bltecb864411e0c0684",
+      "gousto_uuid": "4cd305c4-d372-4d9f-8110-dae88209ce57",
+      "name": "carrot",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 garlic clove",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 brown onion",
+      "title": "brown onion-I-02-SVG-VG-07",
+      "uid": "blt8f3ebc667e318aad",
+      "gousto_uuid": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Sugar",
+      "slug": "sugar"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Add the <strong>meat-free mince</strong> and <strong>dried basil</strong> to a bowl with a generous grind of <strong>pepper</strong></p><p>Using clean hands, give everything a good mix up until fully combined</p><p>Divide the mince mixture into 10 <span class=\"text-danger\">[20]</span> and shape into meatballs – these are your <strong>meat-free mince meatballs</strong></p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Peel and finely chop the <strong>brown onion<span class=\"text-danger\">[s]</span></strong></p><p>Top, tail, peel and grate the<strong> carrot<span class=\"text-danger\">[s]</span></strong></p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a large, wide-based pan (preferably non-stick with a matching lid) with 1 tbsp <span class=\"text-danger\">[2 tbsp]</span> <strong>olive oil</strong> over a medium-high heat</p><p>Once hot, add the <strong>meat-free mince meatballs </strong>and cook for 3 min, turning occasionally, until browned all over</p><p>Once browned, transfer the <strong>browned</strong> <strong>meat-free mince meatballs </strong>to a plate and set aside</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Return the pan to a medium heat</p><p>Tip: Add a drizzle of olive oil if your pan is looking a little dry!</p><p>Once hot, add the <strong>chopped onion </strong>and <strong>grated carrot </strong>with a pinch of <strong>salt </strong>and cook for 5 min or until beginning to soften</p><p>Boil a kettle</p><p>Peel and finely chop (or grate) the <strong>garlic</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>wholewheat spaghetti </strong>to a pot of <strong>boiled water</strong> with a large pinch of salt and bring to the boil over a high heat</p><p>Cook the <strong>wholewheat spaghetti</strong> for 8-10 min or until cooked with a slight bite</p><p>Once done, drain the <strong>cooked wholewheat spaghetti </strong>and return it to the pot</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Dissolve the <strong>vegetable stock mix</strong> in 200ml <span class=\"text-danger\">[300ml] </span><strong>boiled water</strong></p><p>Once the carrot and onion have softened, add the<strong> chopped garlic </strong>and cook for 30 secs</p><p>Add the<strong> chopped tomatoes</strong>, <strong>tomato paste</strong>, <strong>vegetable stock</strong>, <strong>balsamic vinegar</strong> and 1 tsp <span class=\"text-danger\">[2 tsp]</span> <strong>sugar </strong>and stir it all together</p><p>Add the <strong>browned meat-free mince meatballs</strong> and cook, covered, for 7-8 min or until cooked through</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Whilst everything is cooking, chop the<strong> basil</strong> roughly, including the stalks</p><p>Once the meat-free mince meatballs are cooked through, add the <strong>drained wholewheat spaghetti</strong> to the pan and give everything a good mix up until the sauce begins to stick to the pasta – this is your <strong>spaghetti & meat-free mince meatballs</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2469Step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>spaghetti & meat-free mince meatballs</strong></p><p>Top with the <strong>grated Italian hard cheese</strong>, <strong>chopped basil</strong> and season with a grind of <strong>black pepper</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "sulphites",
+      "slug": "sulphites"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "egg",
+      "slug": "egg"
+    },
+    {
+      "title": "soya",
+      "slug": "soya"
+    }
+  ],
+  "seo": {
+    "title": "Spaghetti & Meat-Free Mince Meatballs",
+    "description": "\"You won't miss the meat in these banging meatballs! Shape Meatless Farm mince into balls and chuck them into a classic tomato sauce. Scoop on wholewheat spaghetti, sprinkle a bit of cheddar and basil, and it's done. A classic!\"",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/2469---Spaghetti--Meatless-Meatballs-4563-1574079885503.jpg"
+  },
+  "tags": [],
+  "uid": "bltb77c52d87f0e58fe",
+  "_version": 536,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 159,
+      "energy_kj": 680,
+      "fat_mg": 4583,
+      "fat_saturates_mg": 2010,
+      "carbs_mg": 19559,
+      "carbs_sugars_mg": 3843,
+      "fibre_mg": 3587,
+      "protein_mg": 9376,
+      "salt_mg": 600,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 688,
+      "energy_kj": 2937,
+      "fat_mg": 19779,
+      "fat_saturates_mg": 8675,
+      "carbs_mg": 84400,
+      "carbs_sugars_mg": 16584,
+      "fibre_mg": 15481,
+      "protein_mg": 40459,
+      "salt_mg": 2591,
+      "net_weight_mg": 431500
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+          "code": "I-02-SVG-VG-07",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "aed1561d-bae6-487b-a645-4125a6829119",
+          "code": "I-09-DAI-CH-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+          "code": "I-07-HBS-PL-23",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4cd305c4-d372-4d9f-8110-dae88209ce57",
+          "code": "I-05-FVG-VG-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8357c090-d832-41bc-a458-b13600637e1b",
+          "code": "I-08-SAU-LS-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+          "code": "I-08-SAU-PS-36",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "a7dd92ac-2528-4101-93c4-78b70aaf4733",
+          "code": "IQ-10-MPF-VE-05-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8f225055-491a-4b53-9a69-ac7e4810d725",
+          "code": "I-06-SML-DL-18",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "f573562e-5501-464a-99b4-af1aa35795e3",
+          "code": "I-03-GRN-PA-39",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+          "code": "I-01-CAN-VC-50",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+          "code": "I-02-SVG-VG-07",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "aed1561d-bae6-487b-a645-4125a6829119",
+          "code": "I-09-DAI-CH-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+          "code": "I-07-HBS-PL-23",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4cd305c4-d372-4d9f-8110-dae88209ce57",
+          "code": "I-05-FVG-VG-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "8357c090-d832-41bc-a458-b13600637e1b",
+          "code": "I-08-SAU-LS-15",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+          "code": "I-08-SAU-PS-36",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "a7dd92ac-2528-4101-93c4-78b70aaf4733",
+          "code": "IQ-10-MPF-VE-05-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "8f225055-491a-4b53-9a69-ac7e4810d725",
+          "code": "I-06-SML-DL-18",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "f573562e-5501-464a-99b4-af1aa35795e3",
+          "code": "I-03-GRN-PA-39",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+          "code": "I-01-CAN-VC-50",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    }
+  ]
+}

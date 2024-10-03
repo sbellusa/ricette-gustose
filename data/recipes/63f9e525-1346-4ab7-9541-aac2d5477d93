@@ -1,0 +1,1300 @@
+{
+  "url": "/cheesy-risotto-slow-roast-tomatoes",
+  "title": "Cheesy Risotto With Slow-Roast Tomatoes",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Family Classics",
+      "url": "/family-classics",
+      "uid": "blt40d209adee75b921"
+    },
+    {
+      "title": "Vegetarian Recipes ",
+      "url": "/vegetarian-recipes",
+      "uid": "blta762d7d1d30213a2"
+    },
+    {
+      "title": "Rice Recipes",
+      "url": "/rice-recipes",
+      "uid": "blt7d4da6bbb3711078"
+    },
+    {
+      "title": "Italian Recipes",
+      "url": "/italian-recipes",
+      "uid": "blt7306e62f2a9906c9"
+    },
+    {
+      "title": "Vegetarian",
+      "url": "/vegetarian",
+      "uid": "blt5cc8b5413c283f12"
+    },
+    {
+      "title": "Gluten-Free ",
+      "url": "/gluten-free",
+      "uid": "blt05a40818b6dba670"
+    },
+    {
+      "title": "Gluten Free Recipes",
+      "url": "/gluten-free-recipes",
+      "uid": "bltd38409eebe22a089"
+    }
+  ],
+  "gousto_id": "577",
+  "gousto_uid": "63f9e525-1346-4ab7-9541-aac2d5477d93",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/593-2_Cheesy-Risotto-With-Slow-Roast-Tomatoes_001_0-1683036565105-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/593-2_Cheesy-Risotto-With-Slow-Roast-Tomatoes_001_0-1683036565105-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/593-2_Cheesy-Risotto-With-Slow-Roast-Tomatoes_001_0-1683036565105-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/593-2_Cheesy-Risotto-With-Slow-Roast-Tomatoes_001_0-1683036565105-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/593-2_Cheesy-Risotto-With-Slow-Roast-Tomatoes_001_0-1683036565105-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 5520
+  },
+  "description": "After minimal chopping and a bit of stirring, you'll serve up a golden, cheesy risotto topped with roasted cherry tomatoes and a sprinkle of chives. ",
+  "prep_times": {
+    "for_2": 40,
+    "for_4": 50
+  },
+  "cuisine": {
+    "slug": "italian",
+    "title": "Italian"
+  },
+  "ingredients": [
+    {
+      "label": "80g cheddar cheese",
+      "title": "cheddar cheese-I-09-DAI-CH-02",
+      "uid": "bltcf8784004b8281e0",
+      "gousto_uuid": "aed1561d-bae6-487b-a645-4125a6829119",
+      "name": "cheddar cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "0 cherry tomatoes",
+      "title": "cherry tomatoes-I-05-FVG-FV-02-08",
+      "uid": "blt60df91997e03dd15",
+      "gousto_uuid": "b3374bc8-0097-449f-9ac6-b53299104e11",
+      "name": "cherry tomatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "160g arborio rice",
+      "title": "arborio rice-IQ-03-GRN-RC-26-01",
+      "uid": "blta60f059a7379b5c7",
+      "gousto_uuid": "a749d8cc-add6-4cb1-99df-6ca05a9436fa",
+      "name": "arborio rice",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-arborio-rice-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-arborio-rice-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-arborio-rice-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-arborio-rice-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-arborio-rice-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "11g vegetable stock mix",
+      "title": "vegetable stock mix-I-06-SML-SC-27",
+      "uid": "bltebbd714d321e7e43",
+      "gousto_uuid": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+      "name": "vegetable stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "0 vegetable stock mix",
+      "title": "vegetable stock mix-I-06-SML-SC-26",
+      "uid": "blt0ca5e580e2d973c5",
+      "gousto_uuid": "166bfad3-d300-465d-b61c-fef4d2965904",
+      "name": "vegetable stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1/2 tsp ground turmeric",
+      "title": "ground turmeric-I-06-SML-DL-14",
+      "uid": "blt37b4da4bd600ecc3",
+      "gousto_uuid": "abb2d5af-131e-4e82-9546-705ab185cc37",
+      "name": "ground turmeric",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "10.5g wholegrain mustard",
+      "title": "wholegrain mustard-I-06-SML-TRK-23",
+      "uid": "blt747b1d9216d12cbd",
+      "gousto_uuid": "4cad21de-c673-4385-82b7-78aaca9c8367",
+      "name": "wholegrain mustard",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-tbsp-wholegrain-mustard-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-tbsp-wholegrain-mustard-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-tbsp-wholegrain-mustard-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-tbsp-wholegrain-mustard-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-tbsp-wholegrain-mustard-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "mustard"
+          }
+        ]
+      }
+    },
+    {
+      "label": "0 Chinese rice wine",
+      "title": "Chinese rice wine-I-08-SAU-LS-30",
+      "uid": "blt6accad9549cb3cb5",
+      "gousto_uuid": "3484b3bc-d97e-4b98-b132-7ead51932d79",
+      "name": "Chinese rice wine",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chinese-rice-wine-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chinese-rice-wine-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chinese-rice-wine-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chinese-rice-wine-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chinese-rice-wine-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "0 chives",
+      "title": "chives-I-07-HBS-PL-46",
+      "uid": "blt156c926a260fed3b",
+      "gousto_uuid": "be9c9106-c5ee-4e5e-b3df-37115df94a56",
+      "name": "chives",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-chives-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-chives-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-chives-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-chives-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-chives-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "30ml Chinese rice wine",
+      "title": "Chinese rice wine-I-08-SAU-LS-31",
+      "uid": "bltbaf5e5024489d933",
+      "gousto_uuid": "f2217fd7-f969-4d05-82fd-136b9eb966e3",
+      "name": "Chinese rice wine",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chinese-rice-wine-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chinese-rice-wine-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chinese-rice-wine-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chinese-rice-wine-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chinese-rice-wine-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 leek ",
+      "title": "leek-I-05-FVG-LF-03",
+      "uid": "blt8f2a845b088489d2",
+      "gousto_uuid": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+      "name": "leek",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "40g Cornish clotted cream ",
+      "title": "Cornish clotted cream-IQ-09-DAI-CR-11",
+      "uid": "bltb6c2aac2a163f459",
+      "gousto_uuid": "488d5751-dcff-4985-88c0-bf745ff54904",
+      "name": "Cornish clotted cream",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "250g cherry tomatoes ",
+      "title": "cherry tomatoes-I-05-FVG-FV-02-04",
+      "uid": "blt45689303fed45d62",
+      "gousto_uuid": "f56ddebd-04ab-40ec-8bb5-d87c08a236db",
+      "name": "cherry tomatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 garlic cloves ",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Butter",
+      "slug": "butter"
+    },
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Sugar",
+      "slug": "sugar"
+    },
+    {
+      "title": "Water",
+      "slug": "water"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 180°C/ 160°C (fan)/ gas 6</p><p>Add your <strong>cherry tomatoes</strong> to a baking tray (use <strong>tin foil</strong> to avoid mess!)</p><p>Drizzle them with <strong>olive oil</strong>, then season with a pinch of both <strong>salt</strong> and <strong>sugar</strong></p><p>Put the tray in the oven to roast for 30 min</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, boil a kettle</p><p>Chop your<strong> leek[s]</strong> in half lengthways, wash thoroughly to remove any grit</p><p>Top, tail and slice finely, discarding the root end[s]</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Dissolve your <strong>vegetable stock mix </strong>in 600ml <span class=\"text-purple\">[900ml] </span><span class=\"text-danger\">[1.2L]</span> <strong>boiled water</strong></p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a large, wide-based pan (preferably non-stick) with 2 tbsp<span class=\"text-danger\"> <span class=\"text-purple\">[3 tbsp]</span> [4 tbsp] </span>tbsp <strong>olive oil </strong>and a knob of <strong>butter</strong> over a medium heat</p><p>Once hot, add the <strong>sliced leek</strong> and cook for 4 min until softened</p><p>Meanwhile, peel and finely chop (or grate) your <strong>garlic</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once softened, add your <strong>arborio rice</strong>, <strong>chopped garlic</strong> and your <strong>ground turmeric</strong> to the pan and cook for 1 min</p><p>Add your <strong>Chinese rice wine</strong> and your <strong>wholegrain mustard</strong>, then cook for a further 1 min</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add<strong> </strong>1/3<strong> </strong>of the <strong>vegetable</strong> <strong>stock</strong> and stir continuously with a wooden spoon until it has been absorbed</p><p>Continue to add the <strong>remaining</strong> <strong>vegetable</strong> <strong>stock</strong>, a ladle at a time, stirring continuously for 15-20 min, until all the stock is absorbed and the rice is cooked – this is your <strong>risotto</strong></p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, grate your <strong>cheddar cheese</strong></p><p>Chop your <strong>chives</strong> finely</p><p>Once cooked, remove the <strong>risotto</strong> from the heat and stir in the <strong>grated cheddar</strong>, <strong>clotted cream </strong>and<strong> half</strong> of the<strong> chopped</strong> <strong>chives </strong>then season with <strong>black</strong> <strong>pepper</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/593.-step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>cheesy risotto</strong> with the <strong>slow-roast tomatoes</strong> and garnish with the <strong>remaining</strong> <strong>chopped chives</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "mustard",
+      "slug": "mustard"
+    }
+  ],
+  "seo": {
+    "title": "Cheesy Risotto & Slow-Roast Tomatoes",
+    "description": "After minimal chopping and a bit of stirring, you'll serve up a golden, cheesy risotto topped with roasted cherry tomatoes and a sprinkle of chopped chives. Cheesy-peasy! ",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/593-2_Cheesy-Risotto-With-Slow-Roast-Tomatoes_001_0-1683036565105.jpg"
+  },
+  "tags": [],
+  "uid": "blt83e719c762250b85",
+  "_version": 3610,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 147,
+      "energy_kj": 619,
+      "fat_mg": 6543,
+      "fat_saturates_mg": 3929,
+      "carbs_mg": 17261,
+      "carbs_sugars_mg": 2700,
+      "fibre_mg": 1850,
+      "protein_mg": 4686,
+      "salt_mg": 559,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 675,
+      "energy_kj": 2834,
+      "fat_mg": 29937,
+      "fat_saturates_mg": 17976,
+      "carbs_mg": 78972,
+      "carbs_sugars_mg": 12356,
+      "fibre_mg": 8465,
+      "protein_mg": 21443,
+      "salt_mg": 2560,
+      "net_weight_mg": 457500
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 1,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "3484b3bc-d97e-4b98-b132-7ead51932d79",
+          "code": "I-08-SAU-LS-30",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "488d5751-dcff-4985-88c0-bf745ff54904",
+          "code": "IQ-09-DAI-CR-11",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "a749d8cc-add6-4cb1-99df-6ca05a9436fa",
+          "code": "IQ-03-GRN-RC-26-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "aed1561d-bae6-487b-a645-4125a6829119",
+          "code": "I-09-DAI-CH-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b3374bc8-0097-449f-9ac6-b53299104e11",
+          "code": "I-05-FVG-FV-02-08",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "be9c9106-c5ee-4e5e-b3df-37115df94a56",
+          "code": "I-07-HBS-PL-46",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "abb2d5af-131e-4e82-9546-705ab185cc37",
+          "code": "I-06-SML-DL-14",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+          "code": "I-05-FVG-LF-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4cad21de-c673-4385-82b7-78aaca9c8367",
+          "code": "I-06-SML-TRK-23",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "f2217fd7-f969-4d05-82fd-136b9eb966e3",
+          "code": "I-08-SAU-LS-31",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "488d5751-dcff-4985-88c0-bf745ff54904",
+          "code": "IQ-09-DAI-CR-11",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "a749d8cc-add6-4cb1-99df-6ca05a9436fa",
+          "code": "IQ-03-GRN-RC-26-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "aed1561d-bae6-487b-a645-4125a6829119",
+          "code": "I-09-DAI-CH-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "f56ddebd-04ab-40ec-8bb5-d87c08a236db",
+          "code": "I-05-FVG-FV-02-04",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "be9c9106-c5ee-4e5e-b3df-37115df94a56",
+          "code": "I-07-HBS-PL-46",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "abb2d5af-131e-4e82-9546-705ab185cc37",
+          "code": "I-06-SML-DL-14",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+          "code": "I-05-FVG-LF-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4cad21de-c673-4385-82b7-78aaca9c8367",
+          "code": "I-06-SML-TRK-23",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 3,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "f2217fd7-f969-4d05-82fd-136b9eb966e3",
+          "code": "I-08-SAU-LS-31",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "488d5751-dcff-4985-88c0-bf745ff54904",
+          "code": "IQ-09-DAI-CR-11",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "a749d8cc-add6-4cb1-99df-6ca05a9436fa",
+          "code": "IQ-03-GRN-RC-26-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "aed1561d-bae6-487b-a645-4125a6829119",
+          "code": "I-09-DAI-CH-02",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "f56ddebd-04ab-40ec-8bb5-d87c08a236db",
+          "code": "I-05-FVG-FV-02-04",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b3374bc8-0097-449f-9ac6-b53299104e11",
+          "code": "I-05-FVG-FV-02-08",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "be9c9106-c5ee-4e5e-b3df-37115df94a56",
+          "code": "I-07-HBS-PL-46",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "abb2d5af-131e-4e82-9546-705ab185cc37",
+          "code": "I-06-SML-DL-14",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+          "code": "I-05-FVG-LF-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4cad21de-c673-4385-82b7-78aaca9c8367",
+          "code": "I-06-SML-TRK-23",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "f2217fd7-f969-4d05-82fd-136b9eb966e3",
+          "code": "I-08-SAU-LS-31",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "488d5751-dcff-4985-88c0-bf745ff54904",
+          "code": "IQ-09-DAI-CR-11",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "a749d8cc-add6-4cb1-99df-6ca05a9436fa",
+          "code": "IQ-03-GRN-RC-26-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "aed1561d-bae6-487b-a645-4125a6829119",
+          "code": "I-09-DAI-CH-02",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "f56ddebd-04ab-40ec-8bb5-d87c08a236db",
+          "code": "I-05-FVG-FV-02-04",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "be9c9106-c5ee-4e5e-b3df-37115df94a56",
+          "code": "I-07-HBS-PL-46",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "abb2d5af-131e-4e82-9546-705ab185cc37",
+          "code": "I-06-SML-DL-14",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+          "code": "I-05-FVG-LF-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4cad21de-c673-4385-82b7-78aaca9c8367",
+          "code": "I-06-SML-TRK-23",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 5,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "f2217fd7-f969-4d05-82fd-136b9eb966e3",
+          "code": "I-08-SAU-LS-31",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "488d5751-dcff-4985-88c0-bf745ff54904",
+          "code": "IQ-09-DAI-CR-11",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "a749d8cc-add6-4cb1-99df-6ca05a9436fa",
+          "code": "IQ-03-GRN-RC-26-01",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "aed1561d-bae6-487b-a645-4125a6829119",
+          "code": "I-09-DAI-CH-02",
+          "quantities": {
+            "in_box": 5
+          }
+        },
+        {
+          "id": "f56ddebd-04ab-40ec-8bb5-d87c08a236db",
+          "code": "I-05-FVG-FV-02-04",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "b3374bc8-0097-449f-9ac6-b53299104e11",
+          "code": "I-05-FVG-FV-02-08",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "be9c9106-c5ee-4e5e-b3df-37115df94a56",
+          "code": "I-07-HBS-PL-46",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 5
+          }
+        },
+        {
+          "id": "abb2d5af-131e-4e82-9546-705ab185cc37",
+          "code": "I-06-SML-DL-14",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+          "code": "I-05-FVG-LF-03",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4cad21de-c673-4385-82b7-78aaca9c8367",
+          "code": "I-06-SML-TRK-23",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    }
+  ]
+}

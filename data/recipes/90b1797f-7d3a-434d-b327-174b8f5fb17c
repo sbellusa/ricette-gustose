@@ -1,0 +1,965 @@
+{
+  "url": "/spiced-beef-koftas-with-roasted-veg-bulgur",
+  "title": "Spiced Beef Koftas With Roasted Veg Bulgur ",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "4749",
+  "gousto_uid": "90b1797f-7d3a-434d-b327-174b8f5fb17c",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4604-Spiced-Beef-Koftas-04-1655209324229-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4604-Spiced-Beef-Koftas-04-1655209324229-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4604-Spiced-Beef-Koftas-04-1655209324229-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4604-Spiced-Beef-Koftas-04-1655209324229-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4604-Spiced-Beef-Koftas-04-1655209324229-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 995
+  },
+  "description": "Inspired by the punchy flavours of the Middle East, you’ll serve up succulent spiced beef koftas on a bed of aromatic bulgur wheat and roasted veg. Finish with a generous spoonful of garlicky yoghurt.",
+  "prep_times": {
+    "for_2": 30,
+    "for_4": 35
+  },
+  "cuisine": {
+    "slug": "middle-eastern",
+    "title": "Middle Eastern"
+  },
+  "ingredients": [
+    {
+      "label": "11g chicken stock mix",
+      "title": "chicken stock mix-I-06-SML-SC-23",
+      "uid": "bltf5b0933acb6199f9",
+      "gousto_uuid": "26a9d0f7-4abc-4337-afdd-7f17f2464084",
+      "name": "chicken stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "80g natural yoghurt",
+      "title": "natural yoghurt-I-09-DAI-CR-13",
+      "uid": "blt8d35001e30a0bf2b",
+      "gousto_uuid": "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+      "name": "natural yoghurt",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 courgette",
+      "title": "courgette-I-05-FVG-FV-03",
+      "uid": "blt49ae7a50bc5644f9",
+      "gousto_uuid": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+      "name": "courgette",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "10g parsley & mint",
+      "title": "parsley & mint-I-07-HBS-PL-53",
+      "uid": "bltee7468bcca15fd71",
+      "gousto_uuid": "2ac378f2-fe4e-4525-85cb-7d72a08aabdb",
+      "name": "parsley & mint",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-parsley--mint-mix-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-parsley--mint-mix-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-parsley--mint-mix-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-parsley--mint-mix-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-parsley--mint-mix-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "250g British beef mince",
+      "title": "British beef mince-I-10-MPF-ME-403",
+      "uid": "blt8305fa2337511097",
+      "gousto_uuid": "a7f888da-1e74-4180-9550-f7c69dcc5872",
+      "name": "British beef mince",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "130g bulgur wheat",
+      "title": "bulgur wheat-IQ-03-GRN-FL-02-05",
+      "uid": "blt1191e65fcc1e43be",
+      "gousto_uuid": "6e605a3f-32b0-4c8a-9b3c-43dddd595d6f",
+      "name": "bulgur wheat",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-bulgur-wheat-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-bulgur-wheat-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-bulgur-wheat-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-bulgur-wheat-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-bulgur-wheat-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 tsp ground allspice",
+      "title": "ground allspice-IQ-06-SML-MX-03-02",
+      "uid": "blt4706dba4896afe65",
+      "gousto_uuid": "921cb217-c7fb-46b3-9e23-828df623b972",
+      "name": "ground allspice",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ground-allspice-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ground-allspice-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ground-allspice-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ground-allspice-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ground-allspice-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 tbsp baharat",
+      "title": "baharat-IQ-06-SML-MX-02-06",
+      "uid": "blt2282f834b396a7e8",
+      "gousto_uuid": "090ff430-2266-4d43-8584-d0f76fef0b91",
+      "name": "baharat",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-baharat-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-baharat-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-baharat-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-baharat-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-baharat-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 tsp ground cumin",
+      "title": "ground cumin-IQ-06-SML-IN-02-10",
+      "uid": "blt5b6e50b86a6bd128",
+      "gousto_uuid": "ccf39745-5047-48a5-9960-db7804f2409f",
+      "name": "ground cumin",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ground-cumin-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ground-cumin-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ground-cumin-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ground-cumin-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ground-cumin-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1/2 tsp ground cinnamon",
+      "title": "ground cinnamon-IQ-06-SML-IN-01-01",
+      "uid": "blt69266268d214e5f7",
+      "gousto_uuid": "6112870f-afe1-495a-bfcf-d6403f1fc7ec",
+      "name": "ground cinnamon",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-cinnamon-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-cinnamon-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-cinnamon-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-cinnamon-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-cinnamon-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "3 garlic cloves",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 red pepper",
+      "title": "red pepper-I-05-FVG-FV-07",
+      "uid": "blt0f5f2591749c88e3",
+      "gousto_uuid": "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+      "name": "red pepper",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 brown onion",
+      "title": "brown onion-I-02-SVG-VG-07",
+      "uid": "blt8f3ebc667e318aad",
+      "gousto_uuid": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 200°C/ 180°C (fan)/ gas 7 and boil half a kettle</p><p>Peel and finely chop (or grate) the <strong>garlic</strong></p><p>Heat a pot with a lid over a medium heat with a drizzle of <strong>olive oil</strong></p><p>Once hot, add<strong> half </strong>the<strong> chopped garlic </strong>(you'll use the rest later!) and cook for 1 min or until golden, then transfer to a small bowl and set aside, reserve the pot with the oil</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1654618154398-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1654618154398-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1654618154398-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1654618154398-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1654618154398-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Deseed the<strong> red pepper<span class=\"text-danger\">[s]</span></strong> (scrape the seeds and pith out with a teaspoon) and cut into bite-sized pieces</p><p>Top, tail and chop the <strong>courgette<span class=\"text-danger\">[s]</span></strong> into quarters lengthways, then chop into small bite-sized pieces</p><p>Grate 1/2 <span class=\"text-danger\">[1] </span><strong>brown</strong> <strong>onion</strong> and slice the <strong>remaining onion</strong> finely</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1654618160761-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1654618160761-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1654618160761-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1654618160761-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1654618160761-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the<strong> grated onion</strong>, <strong>beef mince</strong>,<strong> baharat</strong>, <strong>half </strong>of the <strong>cumin </strong>and a generous pinch of <strong>salt</strong> to a large bowl – this is your<strong> beef mix</strong></p><p><strong>Knead the beef mix </strong>thoroughly with clean hands for 2-3 min (this helps the mixture hold together when cooking), then shape into 6<span class=\"text-danger\"> [12] </span>koftas</p><p>Add the <strong>koftas</strong> to one side of a lightly oiled<strong> baking tray</strong></p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1654618157521-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1654618157521-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1654618157521-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1654618157521-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1654618157521-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>chopped pepper</strong>, <strong>chopped courgette </strong>and the <strong>remaining chopped garlic </strong>to the other side of the tray with a drizzle of <strong>olive oil </strong>and a pinch of <strong>salt </strong>and <strong>pepper</strong></p><p>Tip: Cooking for 4? Use 2 trays!</p><p>Give everything a good mix up and put the tray in the oven for 12-15 min or until cooked through</p><p>Meanwhile dissolve the <strong>chicken stock mix</strong> in 200ml<span class=\"text-danger\"> [400ml] </span><strong>boiled water</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1654618170762-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1654618170762-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1654618170762-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1654618170762-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1654618170762-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Return the reserved pot to a medium heat with the <strong>sliced onion </strong>and a pinch of <strong>salt </strong>and cook for 3-4 min or until softened</p><p>Tip: Add a splash of oil if your pan is looking a little dry!</p><p>Add the <strong>ground allspice</strong>, <strong>ground</strong> <strong>cinnamon </strong>and <strong>remaining cumin </strong>and cook for 1-2 min or until fragrant, then add the <strong>bulgur wheat </strong>and <strong>chicken</strong> <strong>stock</strong> and cook, covered, for 5-7 min or until the water has absorbed and the bulgur is cooked with a bite</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1654618178608-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1654618178608-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1654618178608-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1654618178608-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1654618178608-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>While the bulgur is cooking, chop the <strong>parsley</strong> finely, including the stalks (reserve a few leaves for garnish!)</p><p>Strip the <strong>mint leaves</strong> from their stems and chop them roughly, discard the stems</p><p>Once the bulgur is done, remove the pot from the heat and fluff with a fork</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1654618187697-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1654618187697-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1654618187697-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1654618187697-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1654618187697-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>natural yoghurt </strong>to the bowl with the <strong>golden garlic</strong> and season with a pinch of <strong>salt </strong>and <strong>pepper</strong></p><p>Mix to combine – this is your <strong>garlic yoghurt</strong></p><p>Add the <strong>roasted pepper &</strong> <strong>courgette</strong> to the <strong>fluffed bulgur</strong> with the <strong>chopped parsley </strong>and <strong>chopped mint </strong>– this is your <strong>roasted veg bulgur</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1654618197427-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1654618197427-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1654618197427-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1654618197427-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1654618197427-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>roasted veg bulgur </strong>and dollop the <strong>garlic yoghurt </strong>over the top</p><p>Top with the <strong>beef koftas </strong>and garnish with the <strong>reserved parsley leaves</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    }
+  ],
+  "seo": {
+    "title": "Spiced Beef Koftas With Roasted Veg Bulgur ",
+    "description": "Inspired by the punchy flavours of the Middle East, you’ll serve up succulent spiced beef koftas on a bed of aromatic bulgur wheat and roasted veg. Finish with a generous spoonful of garlicky yoghurt.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/4604-Spiced-Beef-Koftas-04-1655209324229.jpg"
+  },
+  "tags": [],
+  "uid": "bltb17fd757a1de587c",
+  "_version": 1055,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 132,
+      "energy_kj": 553,
+      "fat_mg": 4702,
+      "fat_saturates_mg": 1981,
+      "carbs_mg": 14690,
+      "carbs_sugars_mg": 3062,
+      "fibre_mg": 3922,
+      "protein_mg": 9147,
+      "salt_mg": 331,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 590,
+      "energy_kj": 2471,
+      "fat_mg": 20987,
+      "fat_saturates_mg": 8843,
+      "carbs_mg": 65556,
+      "carbs_sugars_mg": 13666,
+      "fibre_mg": 17504,
+      "protein_mg": 40821,
+      "salt_mg": 1481,
+      "net_weight_mg": 446250
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+          "code": "I-02-SVG-VG-07",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+          "code": "I-05-FVG-FV-07",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+          "code": "I-05-FVG-FV-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "6112870f-afe1-495a-bfcf-d6403f1fc7ec",
+          "code": "IQ-06-SML-IN-01-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ccf39745-5047-48a5-9960-db7804f2409f",
+          "code": "IQ-06-SML-IN-02-10",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "090ff430-2266-4d43-8584-d0f76fef0b91",
+          "code": "IQ-06-SML-MX-02-06",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "921cb217-c7fb-46b3-9e23-828df623b972",
+          "code": "IQ-06-SML-MX-03-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "2ac378f2-fe4e-4525-85cb-7d72a08aabdb",
+          "code": "I-07-HBS-PL-53",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "6e605a3f-32b0-4c8a-9b3c-43dddd595d6f",
+          "code": "IQ-03-GRN-FL-02-05",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "a7f888da-1e74-4180-9550-f7c69dcc5872",
+          "code": "I-10-MPF-ME-403",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+          "code": "I-09-DAI-CR-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "26a9d0f7-4abc-4337-afdd-7f17f2464084",
+          "code": "I-06-SML-SC-23",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+          "code": "I-02-SVG-VG-07",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+          "code": "I-05-FVG-FV-07",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 6
+          }
+        },
+        {
+          "id": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+          "code": "I-05-FVG-FV-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "6112870f-afe1-495a-bfcf-d6403f1fc7ec",
+          "code": "IQ-06-SML-IN-01-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ccf39745-5047-48a5-9960-db7804f2409f",
+          "code": "IQ-06-SML-IN-02-10",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "090ff430-2266-4d43-8584-d0f76fef0b91",
+          "code": "IQ-06-SML-MX-02-06",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "921cb217-c7fb-46b3-9e23-828df623b972",
+          "code": "IQ-06-SML-MX-03-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "2ac378f2-fe4e-4525-85cb-7d72a08aabdb",
+          "code": "I-07-HBS-PL-53",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "6e605a3f-32b0-4c8a-9b3c-43dddd595d6f",
+          "code": "IQ-03-GRN-FL-02-05",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "a7f888da-1e74-4180-9550-f7c69dcc5872",
+          "code": "I-10-MPF-ME-403",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+          "code": "I-09-DAI-CR-13",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "26a9d0f7-4abc-4337-afdd-7f17f2464084",
+          "code": "I-06-SML-SC-23",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    }
+  ]
+}

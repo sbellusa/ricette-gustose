@@ -1,0 +1,586 @@
+{
+  "url": "/smoky-basa-with-curried-corn-rice",
+  "title": "Smoky Basa With Curried Corn Rice ",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Rice Recipes",
+      "url": "/rice-recipes",
+      "uid": "blt7d4da6bbb3711078"
+    },
+    {
+      "title": "Fish Recipes",
+      "url": "/fish-recipes",
+      "uid": "bltc04cab7baf142a2b"
+    },
+    {
+      "title": "Gluten-Free ",
+      "url": "/gluten-free",
+      "uid": "blt05a40818b6dba670"
+    },
+    {
+      "title": "Gluten Free Recipes",
+      "url": "/gluten-free-recipes",
+      "uid": "bltd38409eebe22a089"
+    },
+    {
+      "title": "600 Calorie Meals",
+      "url": "/600-calorie-meals",
+      "uid": "blt8c64e2c4618dd89f"
+    }
+  ],
+  "gousto_id": "516",
+  "gousto_uid": "bee8339a-b6b5-4791-b9ed-74308f126c82",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/535---Smoky-Basa-With-Curried-Corn-Rice__-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/535---Smoky-Basa-With-Curried-Corn-Rice__-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/535---Smoky-Basa-With-Curried-Corn-Rice__-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/535---Smoky-Basa-With-Curried-Corn-Rice__-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/535---Smoky-Basa-With-Curried-Corn-Rice__-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 450
+  },
+  "description": "Smoked basa sits on top of a curried sweetcorn and buttered rice, smattered with fresh coriander. We don't mean to sound 'corny' but these smoky, curried, sweet flavours are warm and comforting to the max. And ready in 20 minutes!",
+  "prep_times": {
+    "for_2": 20,
+    "for_4": 25
+  },
+  "cuisine": {
+    "slug": "fusion",
+    "title": "Fusion"
+  },
+  "ingredients": [
+    {
+      "label": "1 tin of sweetcorn",
+      "title": "canned sweetcorn-I-01-CAN-VC-14",
+      "uid": "bltc87975169fa4d9b0",
+      "gousto_uuid": "c3baa9c5-d4fd-4d3f-8f5a-0da5b57a13b9",
+      "name": "canned sweetcorn",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sweetcorn-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sweetcorn-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sweetcorn-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sweetcorn-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sweetcorn-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "150g fragrant basmati rice ",
+      "title": "basmati rice-I-03-GRN-RC-13",
+      "uid": "blta5401caadde061d5",
+      "gousto_uuid": "6c70646e-8f37-4bca-a7de-6e8ae2b260cb",
+      "name": "basmati rice",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basmati-rice-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basmati-rice-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basmati-rice-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basmati-rice-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basmati-rice-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "10g fresh coriander",
+      "title": "coriander-I-07-HBS-PL-13",
+      "uid": "blt0c3cb2b678b3b373",
+      "gousto_uuid": "44417cd2-bdb0-48e2-b6a3-b75bdd8ba6b7",
+      "name": "coriander",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 smoked basa fillets",
+      "title": "smoked basa fillets-IQ-10-MPF-SE-34",
+      "uid": "blt40badd935398ffcd",
+      "gousto_uuid": "6081d5f4-0961-4dee-b1e9-2e3bda8415bd",
+      "name": "smoked basa fillets",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-basa-fillets-24-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-basa-fillets-24-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-basa-fillets-24-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-basa-fillets-24-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-basa-fillets-24-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "fish"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 tbsp home blend curry powdder",
+      "title": "curry powder-IQ-06-SML-MX-04-08",
+      "uid": "bltfe29cd8b66b20bba",
+      "gousto_uuid": "a2fd33ad-2d61-4bf7-8d6e-e42715ecba05",
+      "name": "curry powder",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 garlic clove",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 red onion",
+      "title": "red onion-I-02-SVG-VG-05",
+      "uid": "bltc69ae0a09122a2b4",
+      "gousto_uuid": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Butter",
+      "slug": "butter"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Peel and finely slice the <strong>red</strong>&nbsp;<strong>onion<span class=\"text-danger\">[s]&nbsp;</span></strong></p>\r\n<p>Heat a large, wide-based pan (preferably non-stick) with a matching lid with 1 tbsp<span class=\"text-danger\">&nbsp;[2 tbsp]</span>&nbsp;<strong>vegetable oil</strong> over a high heat</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once hot, add the <strong>sliced onions</strong> and <strong>curry powder</strong> with a big pinch of <strong>salt</strong>&nbsp;</p>\r\n<p>Reduce the heat to medium and cook for 5 min or until the onion has softened and caramelised slightly</p>\r\n<p>Meanwhile, preheat the grill to medium-high</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Chop the <strong>coriander</strong> finely, including the stalks</p>\r\n<p>&nbsp;</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Peel and grate the <strong>garlic</strong> into the onion</p>\r\n<p>Drain the <strong>sweetcorn</strong>, add it to the pan and cook for a further 2 min&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>basmati rice</strong> and stir to coat the grains in the spice</p>\r\n<p>Add 360ml <span class=\"text-danger\">[700ml]</span>&nbsp;<strong>water</strong> and bring to the boil over a high heat&nbsp;</p>\r\n<p>Once boiling, reduce the heat to very low, cover and cook for 10-15 min or until the water has absorbed and the rice is cooked</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile,&nbsp;add the <strong>smoked basa</strong> to a baking tray (use <strong>tin foil</strong> to avoid mess!)</p>\r\n<p>Place the <strong>fish</strong> under the grill for 7-10 min or until cooked through</p>\r\n<p>Tip: the fish is cooked when it puffs up slightly, turns opaque and flakes easily</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the rice has cooked, remove it from the heat</p>\r\n<p>Tip: add a splash or two of water if it looks too dry</p>\r\n<p>Add a large knob of <strong>butter</strong> and season very generously with <strong>salt</strong> and <strong>pepper</strong>&nbsp;</p>\r\n<p>Stir the <strong>chopped coriander</strong> through - this is your <strong>buttered corn rice</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/535__step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>fish</strong> over the <strong>buttered corn rice&nbsp;</strong></p>\r\n<p>Grind some <strong>pepper</strong> over&nbsp;</p>\r\n<p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "fish",
+      "slug": "fish"
+    }
+  ],
+  "seo": {
+    "title": "Smoky Basa With Curried Corn Rice ",
+    "description": "Smoked basa sits on top of a curried sweetcorn and buttered rice, smattered with fresh coriander. We don't mean to sound 'corny' but these smoky, curried, sweet flavours are warm and comforting to the max. And ready in 20 minutes!",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/535---Smoky-Basa-With-Curried-Corn-Rice__.jpg"
+  },
+  "tags": [],
+  "uid": "blt5bb209c2c218c52f",
+  "_version": 50,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 139,
+      "energy_kj": 591,
+      "fat_mg": 1492,
+      "fat_saturates_mg": 484,
+      "carbs_mg": 23577,
+      "carbs_sugars_mg": 2520,
+      "fibre_mg": 1575,
+      "protein_mg": 8900,
+      "salt_mg": 661,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 408,
+      "energy_kj": 1729,
+      "fat_mg": 4361,
+      "fat_saturates_mg": 1416,
+      "carbs_mg": 68904,
+      "carbs_sugars_mg": 7367,
+      "fibre_mg": 4603,
+      "protein_mg": 26013,
+      "salt_mg": 1934,
+      "net_weight_mg": 292250
+    }
+  },
+  "portion_sizes": null
+}

@@ -1,0 +1,961 @@
+{
+  "url": "/creamy-pesto-pea-pasta",
+  "title": "Creamy Pesto & Pea Farfalle",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "5538",
+  "gousto_uid": "f9f22f46-7cd7-426a-ba99-6489bb712f88",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-5383-2-Creamy-Pesto-Pasta-0038-1674554816316-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-5383-2-Creamy-Pesto-Pasta-0038-1674554816316-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-5383-2-Creamy-Pesto-Pasta-0038-1674554816316-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-5383-2-Creamy-Pesto-Pasta-0038-1674554816316-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-5383-2-Creamy-Pesto-Pasta-0038-1674554816316-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 8014
+  },
+  "description": "This hearty pesto pasta is super speedy. You’ll whip up an easy sauce, packed with pesto, soft cheese and peas before tossing in your pasta and giving everything a good stir. Finish with a sprinkle of grated cheese to serve.",
+  "prep_times": {
+    "for_2": 15,
+    "for_4": 20
+  },
+  "cuisine": {
+    "slug": "italian",
+    "title": "Italian"
+  },
+  "ingredients": [
+    {
+      "label": "40g cheddar cheese",
+      "title": "cheddar cheese-I-09-DAI-CH-02",
+      "uid": "bltcf8784004b8281e0",
+      "gousto_uuid": "aed1561d-bae6-487b-a645-4125a6829119",
+      "name": "cheddar cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "50g soft cheese",
+      "title": "soft cheese-I-09-DAI-CR-15",
+      "uid": "blt5d5a607d98da4457",
+      "gousto_uuid": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+      "name": "soft cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "45g traditional Italian pesto",
+      "title": "traditional Italian pesto-I-08-SAU-PS-71",
+      "uid": "bltf5b5feb83b73caab",
+      "gousto_uuid": "89dff518-1f85-45d5-819d-28ff8f724133",
+      "name": "traditional Italian pesto",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/45g-classic-basil-nut-pesto-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/45g-classic-basil-nut-pesto-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/45g-classic-basil-nut-pesto-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/45g-classic-basil-nut-pesto-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/45g-classic-basil-nut-pesto-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "11g vegetable stock mix",
+      "title": "vegetable stock mix-I-06-SML-SC-27",
+      "uid": "bltebbd714d321e7e43",
+      "gousto_uuid": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+      "name": "vegetable stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "0 vegetable stock mix",
+      "title": "vegetable stock mix-I-06-SML-SC-26",
+      "uid": "blt0ca5e580e2d973c5",
+      "gousto_uuid": "166bfad3-d300-465d-b61c-fef4d2965904",
+      "name": "vegetable stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "0 farfalle",
+      "title": "farfalle-IQ-03-GRN-PA-15-01",
+      "uid": "blt60da8838bb34a379",
+      "gousto_uuid": "1ff4910c-02aa-4140-a123-3e9fe37a2f2a",
+      "name": "farfalle",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/farfalle-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/farfalle-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/farfalle-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/farfalle-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/farfalle-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "160g blanched peas",
+      "title": "blanched peas-IQ-05-FVG-PD-13-01",
+      "uid": "blt732a710c86e7ffb1",
+      "gousto_uuid": "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+      "name": "blanched peas",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-peas-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-peas-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-peas-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-peas-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-peas-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "200g farfalle",
+      "title": "farfalle-IQ-03-GRN-PA-15-02",
+      "uid": "blt7c04f2bb6d26f381",
+      "gousto_uuid": "de1bcc40-64bb-49c4-9138-be3f5f3c5c7f",
+      "name": "farfalle",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/farfalle-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/farfalle-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/farfalle-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/farfalle-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/farfalle-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 garlic clove",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Flour",
+      "slug": "flour"
+    },
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Water",
+      "slug": "water"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Boil a kettle</p><p>Add your <strong>farfalle</strong> to a pot of <strong>boiled water </strong>with a pinch of <strong>salt </strong>and bring to the boil over a high heat</p><p>Cook for 8-10 min or until cooked with a slight bite</p><p>Once done, drain the <strong>farfalle</strong>, reserving a cup of the <strong>starchy pasta water</strong></p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1674562261687-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1674562261687-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1674562261687-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1674562261687-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1674562261687-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, peel and finely chop (or grate) your <strong>garlic</strong></p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1674562272141-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1674562272141-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1674562272141-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1674562272141-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1674562272141-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Dissolve your <strong>vegetable stock mix</strong> in 50ml <span class=\"text-purple\">[75ml]</span><span class=\"text-danger\"> [100ml]</span> <strong>boiled water</strong></p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1674562284742-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1674562284742-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1674562284742-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1674562284742-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1674562284742-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>olive oil </strong>over a medium-high heat</p><p>Once hot, add the <strong>chopped garlic </strong>and 1/2 tsp <span class=\"text-purple\">[3/4 tsp] </span><span class=\"text-danger\">[1 tsp]</span> <strong>flour</strong> and cook for 1-2 min or until fragrant</p><p>Once fragrant, add your <strong>soft cheese </strong>and a good grind of <strong>pepper </strong>and cook for 2 min or until the soft cheese has started to melt</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1674562295972-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1674562295972-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1674562295972-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1674562295972-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1674562295972-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once starting to melt, add your <strong>vegetable stock </strong>and cook for 1-2 min or until combined</p><p>Once combined, add your <strong>traditional Italian pesto </strong>and cook for a further 1-2 min or until creamy and starting to thicken</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1674562308300-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1674562308300-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1674562308300-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1674562308300-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1674562308300-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>While the sauce is cooking, grate your <strong>cheddar cheese</strong></p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1674562317153-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1674562317153-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1674562317153-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1674562317153-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1674562317153-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>drained pasta</strong>, <strong>blanched peas </strong>and a splash of<strong> starchy pasta water </strong>to the sauce and cook for a further 2-3 min, stirring constantly until fully combined – this is your <strong>creamy pesto & pea farfalle</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1674562329908-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1674562329908-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1674562329908-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1674562329908-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1674562329908-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>creamy pesto & pea farfalle</strong> topped with the <strong>grated cheese</strong></p><p>Season with a good grind of <strong>black pepper</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    }
+  ],
+  "seo": {
+    "title": "Creamy Pesto & Pea Pasta",
+    "description": "This hearty pesto pasta is super speedy. You’ll whip up an easy sauce, packed with pesto, soft cheese and peas before tossing in your pasta and giving everything a good stir. Finish with a sprinkle of grated cheese to serve.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/R-5383-2-Creamy-Pesto-Pasta-0038-1674554816316.jpg"
+  },
+  "tags": [],
+  "uid": "bltfcee7f1a4d3ebdc7",
+  "_version": 8066,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 266,
+      "energy_kj": 1122,
+      "fat_mg": 11039,
+      "fat_saturates_mg": 4265,
+      "carbs_mg": 34861,
+      "carbs_sugars_mg": 3337,
+      "fibre_mg": 3354,
+      "protein_mg": 9328,
+      "salt_mg": 1032,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 683,
+      "energy_kj": 2874,
+      "fat_mg": 28261,
+      "fat_saturates_mg": 10919,
+      "carbs_mg": 89245,
+      "carbs_sugars_mg": 8544,
+      "fibre_mg": 8587,
+      "protein_mg": 23882,
+      "salt_mg": 2643,
+      "net_weight_mg": 256000
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 1,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+          "code": "IQ-05-FVG-PD-13-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "aed1561d-bae6-487b-a645-4125a6829119",
+          "code": "I-09-DAI-CH-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "1ff4910c-02aa-4140-a123-3e9fe37a2f2a",
+          "code": "IQ-03-GRN-PA-15-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "89dff518-1f85-45d5-819d-28ff8f724133",
+          "code": "I-08-SAU-PS-71",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+          "code": "IQ-05-FVG-PD-13-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "aed1561d-bae6-487b-a645-4125a6829119",
+          "code": "I-09-DAI-CH-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "de1bcc40-64bb-49c4-9138-be3f5f3c5c7f",
+          "code": "IQ-03-GRN-PA-15-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "89dff518-1f85-45d5-819d-28ff8f724133",
+          "code": "I-08-SAU-PS-71",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 3,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+          "code": "IQ-05-FVG-PD-13-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "aed1561d-bae6-487b-a645-4125a6829119",
+          "code": "I-09-DAI-CH-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "1ff4910c-02aa-4140-a123-3e9fe37a2f2a",
+          "code": "IQ-03-GRN-PA-15-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "de1bcc40-64bb-49c4-9138-be3f5f3c5c7f",
+          "code": "IQ-03-GRN-PA-15-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "89dff518-1f85-45d5-819d-28ff8f724133",
+          "code": "I-08-SAU-PS-71",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+          "code": "IQ-05-FVG-PD-13-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "aed1561d-bae6-487b-a645-4125a6829119",
+          "code": "I-09-DAI-CH-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "de1bcc40-64bb-49c4-9138-be3f5f3c5c7f",
+          "code": "IQ-03-GRN-PA-15-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "89dff518-1f85-45d5-819d-28ff8f724133",
+          "code": "I-08-SAU-PS-71",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 5,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+          "code": "IQ-05-FVG-PD-13-01",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "aed1561d-bae6-487b-a645-4125a6829119",
+          "code": "I-09-DAI-CH-02",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "1ff4910c-02aa-4140-a123-3e9fe37a2f2a",
+          "code": "IQ-03-GRN-PA-15-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "de1bcc40-64bb-49c4-9138-be3f5f3c5c7f",
+          "code": "IQ-03-GRN-PA-15-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "89dff518-1f85-45d5-819d-28ff8f724133",
+          "code": "I-08-SAU-PS-71",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    }
+  ]
+}

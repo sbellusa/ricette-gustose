@@ -1,0 +1,654 @@
+{
+  "url": "/marmite-beef-onion-pastry-pie-with-peas",
+  "title": "Marmite Beef & Onion Pastry Pie With Peas",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "4162",
+  "gousto_uid": "cbbc563b-3d8e-40c4-9eae-4c43eb687d15",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4018_Marmite-Beef--Onion-Pastry-Pie-With-Peas--8117-1642094158739-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4018_Marmite-Beef--Onion-Pastry-Pie-With-Peas--8117-1642094158739-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4018_Marmite-Beef--Onion-Pastry-Pie-With-Peas--8117-1642094158739-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4018_Marmite-Beef--Onion-Pastry-Pie-With-Peas--8117-1642094158739-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4018_Marmite-Beef--Onion-Pastry-Pie-With-Peas--8117-1642094158739-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 1452
+  },
+  "description": "This beef and onion pie is slow cooked in Marmite-enriched gravy, so if you're a die-hard dark spread lover – this one's for you. Serve with a golden pastry topping, creamy mash and peas.",
+  "prep_times": {
+    "for_2": 90,
+    "for_4": 95
+  },
+  "cuisine": {
+    "slug": "british",
+    "title": "British"
+  },
+  "ingredients": [
+    {
+      "label": "5.5g beef stock mix",
+      "title": "beef stock mix-I-06-SML-SC-24",
+      "uid": "blt1df66bf5f36b8a1b",
+      "gousto_uuid": "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+      "name": "beef stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-powder-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-powder-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-powder-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-powder-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-powder-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "160g puff pastry",
+      "title": "puff pastry-IQ-11-BRD-BR-58-01",
+      "uid": "blt4d170d0945c4a665",
+      "gousto_uuid": "37caa7fe-6ab4-4f75-a675-2000e8086e15",
+      "name": "puff pastry",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/New-puff-pastry-placeholder2x-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/New-puff-pastry-placeholder2x-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/New-puff-pastry-placeholder2x-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/New-puff-pastry-placeholder2x-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/New-puff-pastry-placeholder2x-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "200g British diced beef",
+      "title": "British diced beef-I-10-MPF-ME-63",
+      "uid": "blt5fae1ead6a66e320",
+      "gousto_uuid": "7def959d-d4fb-4bc2-bc46-b678beab000c",
+      "name": "British diced beef",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-chuck-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-chuck-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-chuck-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-chuck-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-chuck-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "3 white potatoes",
+      "title": "white potato-I-02-SVG-VG-01-09",
+      "uid": "bltab576a7ce0bc5a37",
+      "gousto_uuid": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "160g blanched peas",
+      "title": "blanched peas-IQ-05-FVG-PD-13-01",
+      "uid": "blt732a710c86e7ffb1",
+      "gousto_uuid": "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+      "name": "blanched peas",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-peas-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-peas-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-peas-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-peas-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-peas-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 carrot",
+      "title": "carrot-I-05-FVG-VG-02",
+      "uid": "bltecb864411e0c0684",
+      "gousto_uuid": "4cd305c4-d372-4d9f-8110-dae88209ce57",
+      "name": "carrot",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "16g Marmite",
+      "title": "Marmite-I-06-SML-SC-09",
+      "uid": "blt9126a7801d180c6a",
+      "gousto_uuid": "23935a7d-bed7-4bb2-863d-9e826b549e47",
+      "name": "Marmite",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Marmite-pot-8g-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Marmite-pot-8g-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Marmite-pot-8g-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Marmite-pot-8g-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Marmite-pot-8g-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "celery"
+          },
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "2 shallots",
+      "title": "shallot-I-02-SVG-VG-10",
+      "uid": "blt011a15790b863f51",
+      "gousto_uuid": "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+      "name": "shallot",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 garlic clove",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Butter",
+      "slug": "butter"
+    },
+    {
+      "title": "Flour",
+      "slug": "flour"
+    },
+    {
+      "title": "Milk",
+      "slug": "milk"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Sugar",
+      "slug": "sugar"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 190°C/ 170°C (fan)/ gas 5</p><p>Boil a full kettle</p><p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>vegetable oil</strong> over a high heat</p><p>Season the <strong>diced beef</strong> with a pinch of <strong>salt</strong> and 1 tbsp <span class=\"text-danger\">[2 tbsp]</span> <strong>flour </strong>and give everything a good mix up until fully coated</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1643797888981-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1643797888981-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1643797888981-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1643797888981-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1643797888981-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once hot, add the <strong>coated beef </strong>to the pan and cook for 5 min or until nicely browned all over</p><p>While the beef is browning, peel and quarter the <strong>shallots</strong></p><p>Peel and finely chop (or grate) the <strong>garlic</strong></p><p>Top, tail, peel and chop the <strong>carrot<span class=\"text-danger\">[s]</span> </strong>roughly</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1643797896786-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1643797896786-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1643797896786-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1643797896786-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1643797896786-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Transfer the <strong>browned beef</strong> to a clean plate and return the pan to a medium-high heat</p><p>Once hot, add the <strong>chopped carrot</strong> and <strong>shallot quarters</strong> with a pinch of <strong>salt</strong> to the pan and cook for 3-4 min or until beginning to soften</p><p>Once slightly softened, add the <strong>chopped garlic</strong> with 1 tsp<span class=\"text-danger\"> [2 tsp]</span> <strong>flour</strong> and cook for 1-2 min further or until softened</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1643797916346-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1643797916346-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1643797916346-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1643797916346-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1643797916346-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, dissolve the <strong>Marmite</strong> and <strong>beef stock mix</strong> with 1 tsp <span class=\"text-danger\">[2 tsp] </span><strong>sugar</strong> in 300ml <span class=\"text-danger\">[550ml] </span><strong>boiled water</strong> – this is your <strong>Marmite stock</strong></p><p>Return the <strong>browned beef </strong>and any <strong>juices</strong> to the pan with the <strong>Marmite stock</strong> – this is your <strong>Marmite beef & onion filling</strong></p><p>Bring to the boil over a high heat, then transfer the <strong>Marmite beef & onion filling</strong> to an <strong>oven-proof dish</strong>, cover tightly with <strong>tin foil</strong> and put the dish in the oven for an initial hour or until the meat is tender</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1643797925522-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1643797925522-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1643797925522-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1643797925522-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1643797925522-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Remove the <strong>Marmite beef & onion filling</strong> from the oven after an initial hour and increase the heat to 220°C/ 200°C (fan)/ gas 7</p><p>Dust your work surface with a generous sprinkling of <strong>flour</strong>, then unwrap the <strong>puff pastry</strong> and roll it out to approx. 0.5cm thickness with a<strong> rolling pin</strong></p><p>Lay the <strong>puff pastry</strong> sheet over the pie dish and trim off any excess</p><p>Press the edges with a fork to seal the pastry to the dish and put the tray in the oven for 15-20 min or until puffed up and golden – this is your <strong>Marmite beef & onion pie </strong></p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1643797966594-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1643797966594-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1643797966594-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1643797966594-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1643797966594-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>While the pie is in the oven, boil a full kettle</p><p>Peel and chop the <strong>potatoes</strong> into small bite-sized pieces</p><p>Add the <strong>chopped potatoes</strong> to a pot with plenty of <strong>boiled water</strong> and bring to the boil over a high heat</p><p>Once boiling, reduce the heat to medium and cook for 12-15 min or until fork-tender, once done, drain and return to the pot to steam dry</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1643797993588-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1643797993588-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1643797993588-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1643797993588-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1643797993588-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Reboil half a kettle</p><p>Return the <strong>drained potatoes</strong> to a low heat with a knob of <strong>butter</strong> and a splash of <strong>milk</strong></p><p>Season with a pinch of <strong>salt</strong> and <strong>pepper</strong> and mash until smooth</p><p>Add the <strong>blanched peas</strong> to a colander and pour<strong> boiled water</strong> all over them to refresh them</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1643798026890-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1643798026890-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1643798026890-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1643798026890-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1643798026890-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>Marmite beef & onion pie</strong> with the <strong>mashed potato</strong> and <strong>refreshed</strong> <strong>peas</strong> to the side</p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "celery",
+      "slug": "celery"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    }
+  ],
+  "seo": {
+    "title": "Marmite Beef & Onion Pastry Pie With Peas",
+    "description": "This beef and onion pie is slow cooked in Marmite-enriched gravy, so if you're a die-hard dark spread lover – this one's for you. Serve with a golden pastry topping, creamy mash and peas.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://s3-eu-west-1.amazonaws.com/s3-gousto-production-media/cms/mood-image/4018_Marmite-Beef--Onion-Pastry-Pie-With-Peas--8117-1642094158739.jpg"
+  },
+  "tags": [],
+  "uid": "blt6269f274701933d2",
+  "_version": 1481,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 163,
+      "energy_kj": 686,
+      "fat_mg": 8153,
+      "fat_saturates_mg": 3547,
+      "carbs_mg": 15444,
+      "carbs_sugars_mg": 1970,
+      "fibre_mg": 1733,
+      "protein_mg": 7438,
+      "salt_mg": 456,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 742,
+      "energy_kj": 3108,
+      "fat_mg": 36917,
+      "fat_saturates_mg": 16062,
+      "carbs_mg": 69925,
+      "carbs_sugars_mg": 8921,
+      "fibre_mg": 7850,
+      "protein_mg": 33679,
+      "salt_mg": 2069,
+      "net_weight_mg": 452750
+    }
+  },
+  "portion_sizes": null
+}

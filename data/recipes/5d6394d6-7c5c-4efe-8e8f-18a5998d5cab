@@ -1,0 +1,666 @@
+{
+  "url": "/seeded-fish-lemonaise-british-asparagus",
+  "title": "Seeded Fish, Asparagus & Lemonaise",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": null,
+      "url": null,
+      "uid": "blt54538aae1331442b"
+    },
+    {
+      "title": "Fish Recipes",
+      "url": "/fish-recipes",
+      "uid": "bltc04cab7baf142a2b"
+    },
+    {
+      "title": "French Recipes",
+      "url": "/french-recipes",
+      "uid": "blteb85a9fa920a5dbc"
+    }
+  ],
+  "gousto_id": "1020",
+  "gousto_uid": "5d6394d6-7c5c-4efe-8e8f-18a5998d5cab",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1036-Seeded-Fish-Lemonaise--Asparagus-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1036-Seeded-Fish-Lemonaise--Asparagus-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1036-Seeded-Fish-Lemonaise--Asparagus-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1036-Seeded-Fish-Lemonaise--Asparagus-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1036-Seeded-Fish-Lemonaise--Asparagus-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 4588
+  },
+  "description": "Add extra crunch to breaded fish by coating your fillets in crunchy seeds and breadcrumbs. Pan-fry until golden, then serve with roasted asparagus, creamy mash and a zingy homemade 'lemonaise.'",
+  "prep_times": {
+    "for_2": 35,
+    "for_4": 50
+  },
+  "cuisine": {
+    "slug": "french",
+    "title": "French"
+  },
+  "ingredients": [
+    {
+      "label": "1 pine nut & seed mix sachet (30g)",
+      "title": "pine kernel & seed mix-I-04-NUT-DF-07",
+      "uid": "bltb8ad78aee78a171e",
+      "gousto_uuid": "d3e8b905-e330-4b72-a0d4-57a7eb0f5449",
+      "name": "pine kernel & seed mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pine-nut--seed-mix-sachet-30g-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pine-nut--seed-mix-sachet-30g-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pine-nut--seed-mix-sachet-30g-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pine-nut--seed-mix-sachet-30g-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pine-nut--seed-mix-sachet-30g-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sesame"
+          },
+          {
+            "title": null,
+            "slug": "peanut"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 mayonnaise sachet (50ml)",
+      "title": "mayonnaise-I-06-SML-OT-20",
+      "uid": "blt80cf1fc6cf10a03b",
+      "gousto_uuid": "c4a8b75e-f277-402a-aa5d-a98149cdcda5",
+      "name": "mayonnaise",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "egg"
+          }
+        ]
+      }
+    },
+    {
+      "label": "30g panko breadcrumbs",
+      "title": "panko breadcrumbs-IQ-07-GRN-FL-09-01",
+      "uid": "blt0a0073cbb9b46ccf",
+      "gousto_uuid": "bd9a0571-27e5-48ee-a951-f2beeaa1099a",
+      "name": "panko breadcrumbs",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "2 x 100g basa fillets",
+      "title": "basa fillets-IQ-10-MPF-SE-33",
+      "uid": "blt18cc4cce4b2e4ba4",
+      "gousto_uuid": "d6bb4d30-38c2-4ba7-855c-ff639be62605",
+      "name": "basa fillets",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basa-fillets-2pcs-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basa-fillets-2pcs-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basa-fillets-2pcs-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basa-fillets-2pcs-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basa-fillets-2pcs-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "fish"
+          }
+        ]
+      }
+    },
+    {
+      "label": "3 white potatoes",
+      "title": "white potato-I-02-SVG-VG-01-09",
+      "uid": "bltab576a7ce0bc5a37",
+      "gousto_uuid": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "120g asparagus spears",
+      "title": "asparagus spears-I-05-FVG-FG-10",
+      "uid": "blt7b28d3a11c93f4a0",
+      "gousto_uuid": "05dd714a-c4b0-4ad9-9786-a4e0f74e27fc",
+      "name": "asparagus spears",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Asparagus-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Asparagus-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Asparagus-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Asparagus-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Asparagus-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 British free-range egg",
+      "title": "British free range egg-IQ-06-SML-OT-01-01",
+      "uid": "bltb40819d6ebf4ef0d",
+      "gousto_uuid": "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+      "name": "British free range egg",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "egg"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 lemon",
+      "title": "lemon-I-02-SVG-SF-03",
+      "uid": "blte823ccfd82fc22c7",
+      "gousto_uuid": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+      "name": "lemon",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Butter",
+      "slug": "butter"
+    },
+    {
+      "title": "Flour",
+      "slug": "flour"
+    },
+    {
+      "title": "Milk",
+      "slug": "milk"
+    },
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 200°C/ 180°C (fan)/ 350°F/ Gas 4</p><p>Boil a kettle</p><p>Trim the woody ends off the <strong>asparagus spears</strong> and add them to a baking tray</p><p>Drizzle the <strong>trimmed asparagus</strong> with<strong> olive oil</strong> and season with a pinch of <strong>salt</strong>, then put the tray in the oven for 15-20 min or until the asparagus is tender</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, peel and chop the <strong>potatoes</strong> into bite-sized pieces</p><p>Add the <strong>chopped potatoes</strong> to a pot of <strong>boiled water</strong> with a pinch of <strong>salt</strong> over a high heat and cook for 10-15 min or until they're fork-tender</p><p>Once cooked, drain and return them to the pot</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, add the <strong>zest</strong> and <strong>juice</strong> of <strong>1/2</strong> <span class=\"text-danger\">[1]</span> <strong>lemon<span class=\"text-danger\">[s]</span></strong> to a small bowl</p><p>Add the <strong>mayo</strong> and a generous pinch of both <strong>salt</strong> and <strong>pepper</strong> to the bowl and give everything a good mix up – this is your <strong>lemonaise</strong></p><p>Cut the <strong>remaining lemon<span class=\"text-danger\">[s] </span></strong>into 2 <span class=\"text-danger\">[4] </span>wedges</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add 3 tbsp <span class=\"text-danger\">[6 tbsp]</span> <strong>flour </strong>to a plate</p><p>Crack the <strong>egg<span class=\"text-danger\">[s]</span></strong> into a shallow bowl and beat lightly with a fork</p><p>Combine the<strong> panko breadcrumbs</strong> and the<strong> pine nut & seed mix<span class=\"text-danger\"> </span></strong>in a large bowl with a generous pinch of <strong>salt</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Coat the <strong>basa</strong> <strong>fillets</strong> in the <strong>flour</strong>, tap off the excess, then dip them into the<strong> beaten egg</strong> and finally press them into the <strong>seed &</strong> <strong>breadcrumb mix</strong> firmly to coat everything evenly – these are your<strong> seeded fish fillets</strong></p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a large, wide-based pan (preferably non-stick) with 3 tbsp <span class=\"text-danger\">[6 tbsp]</span> <strong>vegetable oil </strong>over a medium-high heat</p><p>Once hot, add the <strong>seeded fish fillets</strong> and cook for 3-4 min on each side, or until golden and cooked through</p><p>Tip: Add some extra oil if your pan is looking dry</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Return the <strong>drained potatoes</strong> to a low heat and add a splash of <strong>milk</strong> and a large knob of <strong>butter</strong></p><p>Season with a generous pinch of<strong> salt</strong> and <strong>pepper</strong> and mash until smooth</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1036.-step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>seeded fish fillets</strong> over the <strong>mashed potato</strong> with the<strong> roasted asparagus</strong> and<strong> lemonaise</strong> to the side</p><p>Garnish with a <strong>lemon wedge</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "egg",
+      "slug": "egg"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "fish",
+      "slug": "fish"
+    },
+    {
+      "title": "peanut",
+      "slug": "peanut"
+    },
+    {
+      "title": "nut",
+      "slug": "nut"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    }
+  ],
+  "seo": {
+    "title": "Seeded Fish, Lemonaise & Asparagus",
+    "description": "Add extra crunch to breaded fish by coating your fillets in crunchy seeds and breadcrumbs. Pan-fry until golden, then serve with roasted asparagus, creamy mash and a zingy homemade 'lemonaise.'",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/1036-Seeded-Fish-Lemonaise--Asparagus.jpg"
+  },
+  "tags": [],
+  "uid": "bltdcaf098ef990543f",
+  "_version": 2788,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 134,
+      "energy_kj": 565,
+      "fat_mg": 7386,
+      "fat_saturates_mg": 1293,
+      "carbs_mg": 11139,
+      "carbs_sugars_mg": 1071,
+      "fibre_mg": 1315,
+      "protein_mg": 7131,
+      "salt_mg": 163,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 599,
+      "energy_kj": 2516,
+      "fat_mg": 32870,
+      "fat_saturates_mg": 5755,
+      "carbs_mg": 49570,
+      "carbs_sugars_mg": 4770,
+      "fibre_mg": 5855,
+      "protein_mg": 31735,
+      "salt_mg": 726,
+      "net_weight_mg": 445000
+    }
+  },
+  "portion_sizes": null
+}

@@ -1,0 +1,900 @@
+{
+  "url": "/classic-lean-spaghetti-meatballs",
+  "title": "Classic Lean Spaghetti & Meatballs",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "4203",
+  "gousto_uid": "0629c7d9-9570-4293-b1a7-e4d64d8ca0ec",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1757_Classic-Spaghetti-and-Meatballs_003_REEDIT_0-1683795743919-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1757_Classic-Spaghetti-and-Meatballs_003_REEDIT_0-1683795743919-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1757_Classic-Spaghetti-and-Meatballs_003_REEDIT_0-1683795743919-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1757_Classic-Spaghetti-and-Meatballs_003_REEDIT_0-1683795743919-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1757_Classic-Spaghetti-and-Meatballs_003_REEDIT_0-1683795743919-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 131
+  },
+  "description": "This classic Italian recipe is one for all ages! You'll mix British lean beef mince with grated Italian hard cheese to make tender meatballs, then let them bubble away in a rich tomato sauce. Top it all off with grated cheddar and let the slurping begin!",
+  "prep_times": {
+    "for_2": 40,
+    "for_4": 45
+  },
+  "cuisine": {
+    "slug": "italian",
+    "title": "Italian"
+  },
+  "ingredients": [
+    {
+      "label": "11g beef stock mix",
+      "title": "beef stock mix-I-06-SML-SC-25",
+      "uid": "blt49eeacb961fc8856",
+      "gousto_uuid": "8e096433-e7cf-4a14-95f0-c81730b98f56",
+      "name": "beef stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-powder-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-powder-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-powder-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-powder-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-powder-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "40g cheddar cheese",
+      "title": "cheddar cheese-I-09-DAI-CH-02",
+      "uid": "bltcf8784004b8281e0",
+      "gousto_uuid": "aed1561d-bae6-487b-a645-4125a6829119",
+      "name": "cheddar cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "30g grated Italian hard cheese",
+      "title": "grated Italian hard cheese-I-09-DAI-CH-42",
+      "uid": "blt3eb104a464573b1e",
+      "gousto_uuid": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+      "name": "grated Italian hard cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "30g panko breadcrumbs",
+      "title": "panko breadcrumbs-IQ-07-GRN-FL-09-01",
+      "uid": "blt0a0073cbb9b46ccf",
+      "gousto_uuid": "bd9a0571-27e5-48ee-a951-f2beeaa1099a",
+      "name": "panko breadcrumbs",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "190g spaghetti",
+      "title": "spaghetti-I-03-GRN-PA-40",
+      "uid": "blt24d85a164eaf8302",
+      "gousto_uuid": "8deb2d63-8771-4bd0-8a9b-55cf5d96a2bc",
+      "name": "spaghetti",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/spaghetti-190g-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/spaghetti-190g-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/spaghetti-190g-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/spaghetti-190g-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/spaghetti-190g-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "egg"
+          }
+        ]
+      }
+    },
+    {
+      "label": "250g British lean beef mince (<5% fat)",
+      "title": "British lean beef mince (<5% fat)-I-10-MPF-ME-60",
+      "uid": "blt03c2056006477dc6",
+      "gousto_uuid": "3453b382-e269-40c1-941a-42a13727987c",
+      "name": "British lean beef mince (<5% fat)",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "400g canned finely chopped tomatoes",
+      "title": "finely chopped tomatoes-I-01-CAN-VC-37",
+      "uid": "bltbf0a0077e7b2f9ec",
+      "gousto_uuid": "90087d91-857a-4d46-90a4-99dc37a5eef4",
+      "name": "finely chopped tomatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "15ml balsamic vinegar",
+      "title": "balsamic vinegar-I-08-SAU-LS-15",
+      "uid": "blt36b3f7d5608537b7",
+      "gousto_uuid": "8357c090-d832-41bc-a458-b13600637e1b",
+      "name": "balsamic vinegar",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sulphites"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 carrot",
+      "title": "carrot-I-05-FVG-VG-02",
+      "uid": "bltecb864411e0c0684",
+      "gousto_uuid": "4cd305c4-d372-4d9f-8110-dae88209ce57",
+      "name": "carrot",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 garlic cloves",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 brown onion",
+      "title": "brown onion-I-02-SVG-VG-07",
+      "uid": "blt8f3ebc667e318aad",
+      "gousto_uuid": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Sugar",
+      "slug": "sugar"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Add the<strong> lean beef mince</strong>, <strong>panko breadcrumbs</strong> and<strong> grated Italian hard cheese</strong> to a bowl with a generous pinch of <strong>salt</strong> and <strong>pepper</strong></p><p>Using clean hands, give everything a very good mix up until fully combined</p><p>Divide the <strong>lean beef mixture</strong> into 10 <span class=\"text-danger\">[20] </span>and roll into meatballs</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1682682936807-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1682682936807-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1682682936807-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1682682936807-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1682682936807-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Peel and finely chop the<strong> brown onion<span class=\"text-danger\">[s]</span></strong></p><p>Top, tail, peel and finely dice the <strong>carrot<span class=\"text-danger\">[s]</span></strong></p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1682682940709-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1682682940709-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1682682940709-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1682682940709-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1682682940709-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a large, wide-based pan (preferably non-stick with a matching lid) with a drizzle of <strong>vegetable oil</strong> over a medium-high heat</p><p>Once hot, add the<strong> meatballs</strong> and cook for 2 min, turning occasionally, until browned</p><p>Once browned, transfer the<strong> </strong>meatballs to a plate and set aside</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1682682947735-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1682682947735-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1682682947735-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1682682947735-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1682682947735-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Return the pan to a medium heat</p><p>Tip: Add a drizzle of oil if your pan is looking a little dry!</p><p>Once hot, add the <strong>diced carrot </strong>and<strong> chopped</strong> <strong>onion </strong>with a pinch of<strong> salt</strong> to the pan and cook for 5 min or until they begin to soften</p><p>Meanwhile, boil a kettle</p><p>Peel and finely chop (or grate) the <strong>garlic</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1682682956665-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1682682956665-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1682682956665-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1682682956665-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1682682956665-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the<strong> spaghetti</strong> to a pot of<strong> boiled water</strong> with a large pinch of<strong> salt</strong> and bring to the boil over a high heat</p><p>Cook the <strong>spaghetti</strong> for 8-10 min or until cooked with a slight bite</p><p>Once done, drain the<strong> spaghetti</strong> and return it to the pot</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1682682962793-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1682682962793-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1682682962793-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1682682962793-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1682682962793-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>While the spaghetti is cooking, dissolve the <strong>beef stock mix</strong> in 150ml <span class=\"text-danger\">[275ml]</span> <strong>boiled water</strong></p><p>Once the carrot and onion have softened, add the<strong> chopped garlic</strong> and cook for 30 secs</p><p>Add the <strong>chopped tomatoes</strong>, <strong>beef stock</strong>, <strong>balsamic vinegar</strong> and 1 tsp <span class=\"text-danger\">[2 tsp]</span> <strong>sugar</strong> and give everything a good mix up</p><p>Add the <strong>browned meatballs</strong> and cook, covered, for 12-15 min or until cooked through (no pink meat!)</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1682682970813-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1682682970813-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1682682970813-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1682682970813-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1682682970813-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, grate the <strong>cheddar cheese</strong></p><p>Once the meatballs are cooked through, add the <strong>drained spaghetti</strong> to the pan and give everything a good mix up until the sauce sticks to the pasta – this is your <strong>classic lean spaghetti & meatballs</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1682682975973-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1682682975973-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1682682975973-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1682682975973-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1682682975973-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>classic lean spaghetti & meatballs</strong> in bowls</p><p>Top with the<strong> grated cheddar </strong>and season with a grind of<strong> pepper</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "sulphites",
+      "slug": "sulphites"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "egg",
+      "slug": "egg"
+    }
+  ],
+  "seo": {
+    "title": "Classic Lean Spaghetti & Meatballs",
+    "description": "This classic Italian recipe is one for all ages! You'll mix British lean beef mince with grated Italian hard cheese to make tender meatballs, then let them bubble away in a rich tomato sauce. Top it all off with grated cheddar and let the slurping begin!",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/1757_Classic-Spaghetti-and-Meatballs_003_REEDIT_0-1683795743919.jpg"
+  },
+  "tags": [],
+  "uid": "blt52d98bec7c5a5523",
+  "_version": 165,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 137,
+      "energy_kj": 580,
+      "fat_mg": 3333,
+      "fat_saturates_mg": 1829,
+      "carbs_mg": 16887,
+      "carbs_sugars_mg": 3130,
+      "fibre_mg": 1204,
+      "protein_mg": 9776,
+      "salt_mg": 387,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 795,
+      "energy_kj": 3354,
+      "fat_mg": 19266,
+      "fat_saturates_mg": 10573,
+      "carbs_mg": 97607,
+      "carbs_sugars_mg": 18095,
+      "fibre_mg": 6963,
+      "protein_mg": 56506,
+      "salt_mg": 2242,
+      "net_weight_mg": 578000
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+          "code": "I-02-SVG-VG-07",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4cd305c4-d372-4d9f-8110-dae88209ce57",
+          "code": "I-05-FVG-VG-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "8e096433-e7cf-4a14-95f0-c81730b98f56",
+          "code": "I-06-SML-SC-25",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8357c090-d832-41bc-a458-b13600637e1b",
+          "code": "I-08-SAU-LS-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8deb2d63-8771-4bd0-8a9b-55cf5d96a2bc",
+          "code": "I-03-GRN-PA-40",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "3453b382-e269-40c1-941a-42a13727987c",
+          "code": "I-10-MPF-ME-60",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+          "code": "I-09-DAI-CH-42",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "bd9a0571-27e5-48ee-a951-f2beeaa1099a",
+          "code": "IQ-07-GRN-FL-09-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "90087d91-857a-4d46-90a4-99dc37a5eef4",
+          "code": "I-01-CAN-VC-37",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "aed1561d-bae6-487b-a645-4125a6829119",
+          "code": "I-09-DAI-CH-02",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+          "code": "I-02-SVG-VG-07",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4cd305c4-d372-4d9f-8110-dae88209ce57",
+          "code": "I-05-FVG-VG-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "8e096433-e7cf-4a14-95f0-c81730b98f56",
+          "code": "I-06-SML-SC-25",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "8357c090-d832-41bc-a458-b13600637e1b",
+          "code": "I-08-SAU-LS-15",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "8deb2d63-8771-4bd0-8a9b-55cf5d96a2bc",
+          "code": "I-03-GRN-PA-40",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "3453b382-e269-40c1-941a-42a13727987c",
+          "code": "I-10-MPF-ME-60",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+          "code": "I-09-DAI-CH-42",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "bd9a0571-27e5-48ee-a951-f2beeaa1099a",
+          "code": "IQ-07-GRN-FL-09-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "90087d91-857a-4d46-90a4-99dc37a5eef4",
+          "code": "I-01-CAN-VC-37",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "aed1561d-bae6-487b-a645-4125a6829119",
+          "code": "I-09-DAI-CH-02",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    }
+  ]
+}

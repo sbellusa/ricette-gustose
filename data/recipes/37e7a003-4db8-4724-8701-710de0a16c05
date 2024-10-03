@@ -1,0 +1,973 @@
+{
+  "url": "/crispy-tofu-with-pak-choi-peanut-sauce",
+  "title": "Crispy Tofu With Pak Choi & Peanut Sauce",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Dairy-Free ",
+      "url": "/dairy-free",
+      "uid": "bltba0f45afb7165184"
+    },
+    {
+      "title": "Healthy Choices",
+      "url": "/healthy-choices",
+      "uid": "blt6481386f749a222a"
+    },
+    {
+      "title": "Vegetarian",
+      "url": "/vegetarian",
+      "uid": "blt5cc8b5413c283f12"
+    },
+    {
+      "title": "World Food",
+      "url": "/world-food",
+      "uid": "blt3d294749a6bef9e6"
+    },
+    {
+      "title": "Vegan Recipes",
+      "url": "/vegan-recipes",
+      "uid": "blt780131ad80dc73ef"
+    },
+    {
+      "title": "Dairy Free Recipes",
+      "url": "/dairy-free-recipes",
+      "uid": "bltb208477429879b2c"
+    }
+  ],
+  "gousto_id": "1953",
+  "gousto_uid": "37e7a003-4db8-4724-8701-710de0a16c05",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-1865-2-Crispy-Tofu-With-Pak-Choi--Peanut-Sauce-2_0-1691578307026-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-1865-2-Crispy-Tofu-With-Pak-Choi--Peanut-Sauce-2_0-1691578307026-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-1865-2-Crispy-Tofu-With-Pak-Choi--Peanut-Sauce-2_0-1691578307026-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-1865-2-Crispy-Tofu-With-Pak-Choi--Peanut-Sauce-2_0-1691578307026-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-1865-2-Crispy-Tofu-With-Pak-Choi--Peanut-Sauce-2_0-1691578307026-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 5438
+  },
+  "description": "To whip up this Vietnamese-inspired dish, you'll serve up crispy tofu cubes on a bed of wholewheat noodles. To really wake up your taste buds, top with punchy peanut and lime pak choi before serving.",
+  "prep_times": {
+    "for_2": 30,
+    "for_4": 35
+  },
+  "cuisine": {
+    "slug": "vietnamese",
+    "title": "Vietnamese"
+  },
+  "ingredients": [
+    {
+      "label": "200g pak choi",
+      "title": "pak choi-I-05-FVG-LF-13",
+      "uid": "blt3de99812c6373aec",
+      "gousto_uuid": "b9ef6a50-3faf-42e7-83cf-b491c0b2622b",
+      "name": "pak choi",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/200g-Pak-choi-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/200g-Pak-choi-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/200g-Pak-choi-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/200g-Pak-choi-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/200g-Pak-choi-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 wholewheat noodle nest ",
+      "title": "wholewheat noodle nest-I-03-GRN-PA-46",
+      "uid": "blte1f4378130b62860",
+      "gousto_uuid": "54988fca-e84a-4973-a74e-c9653b260a44",
+      "name": "wholewheat noodle nest",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/3-wholewheat-noodle-nests-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/3-wholewheat-noodle-nests-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/3-wholewheat-noodle-nests-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/3-wholewheat-noodle-nests-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/3-wholewheat-noodle-nests-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "egg"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 red chilli",
+      "title": "red chilli-I-05-FVG-FV-06",
+      "uid": "blt9449c22aa5aa8996",
+      "gousto_uuid": "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+      "name": "red chilli",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 tbsp ground cumin",
+      "title": "ground cumin-I-06-SML-DL-31",
+      "uid": "bltee6f503dcf5ad4bf",
+      "gousto_uuid": "a5e93cfb-0ad1-48b3-b683-54f684f955f9",
+      "name": "ground cumin",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ground-cumin-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ground-cumin-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ground-cumin-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ground-cumin-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ground-cumin-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 tbsp cornflour",
+      "title": "cornflour-I-06-SML-DL-44",
+      "uid": "bltae49da48260eca03",
+      "gousto_uuid": "1dd3a011-a8dd-4804-b092-51da7f9c2f8d",
+      "name": "cornflour",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "15g fresh root ginger ",
+      "title": "fresh root ginger-I-06-SML-OT-25",
+      "uid": "bltc22d54e029ba9745",
+      "gousto_uuid": "43c515bb-1548-41df-b08e-f10fa8369172",
+      "name": "fresh root ginger",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "26g smooth peanut butter",
+      "title": "smooth peanut butter-I-01-CAN-LQ-08",
+      "uid": "blte57e8f8226b784d9",
+      "gousto_uuid": "80a2fb1b-cd5f-47ea-a9a0-508ccfea2629",
+      "name": "smooth peanut butter",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/26g-creamy-peanut-butter-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/26g-creamy-peanut-butter-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/26g-creamy-peanut-butter-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/26g-creamy-peanut-butter-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/26g-creamy-peanut-butter-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "peanut"
+          }
+        ]
+      }
+    },
+    {
+      "label": "30ml soy sauce ",
+      "title": "soy sauce-I-06-SML-OT-15",
+      "uid": "bltdb27bbac781f8209",
+      "gousto_uuid": "d516304e-cb6e-42a9-8d0a-0e0d9477a800",
+      "name": "soy sauce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "280g plain tofu",
+      "title": "plain tofu-I-09-DAI-TF-02",
+      "uid": "blt76fbc5ef22202d6f",
+      "gousto_uuid": "3d2328cc-da90-47e1-9553-4debba1d551c",
+      "name": "plain tofu",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-organic-tofu-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-organic-tofu-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-organic-tofu-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-organic-tofu-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-organic-tofu-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "5g coriander",
+      "title": "coriander-I-07-HBS-PL-13-5",
+      "uid": "blt3a65180ebd9eb3aa",
+      "gousto_uuid": "b7839655-6d73-40c2-a235-30ea290a9c56",
+      "name": "coriander",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 spring onion",
+      "title": "spring onion-I-07-HBS-PL-10",
+      "uid": "blt7f30073f4f7cf590",
+      "gousto_uuid": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+      "name": "spring onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 lime",
+      "title": "lime-I-05-FVG-FV-11",
+      "uid": "blteca16c5afda2f93e",
+      "gousto_uuid": "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+      "name": "lime",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Sugar",
+      "slug": "sugar"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Drain the<strong> tofu</strong> and pat it dry with<strong> </strong>kitchen paper</p><p>Cut the<strong> tofu</strong> into bite-sized cubes</p><p>Combine the<strong> ground cumin</strong> and <strong>cornflour</strong> in a large bowl, add a pinch of <strong>salt</strong> and give everything a good mix</p><p>Add the <strong>tofu cubes</strong> to the bowl and mix until everything is evenly coated</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Wash the <strong>pak choi</strong>, then pat it dry with kitchen paper</p><p>Cut the base off the <strong>pak choi</strong> and discard, then slice the rest finely</p><p>Peel (scrape the skin off with a teaspoon) and grate the <strong>ginger</strong></p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Boil a kettle</p><p>Heat a large, wide-based pan (preferably non-stick) with a generous drizzle of <strong>vegetable oil</strong></p><p>Once hot, add the <strong>coated tofu cubes</strong> and cook for 6-8 min, turning occasionally until crisp</p><p>Once the<strong> </strong>tofu is crisp, transfer it to kitchen paper and set aside (save the pan!) – this is your <strong>crispy tofu</strong></p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, add the <strong>wholewheat noodles</strong> to a pot and cover them with<strong> boiled water</strong> until fully submerged</p><p>Bring to the boil over a high heat and cook for 5 min until tender, then drain and return them to the pot until serving</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Return the reserved pan to a medium heat with a drizzle of <strong>vegetable oil</strong></p><p>Once hot, add the<strong> grated ginger</strong> and <strong>sliced</strong> <strong>pak choi</strong> and cook for 3-4 min or until the pak choi starts to soften</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>peanut butter</strong>, <strong>soy sauce</strong>, 1 tsp <span class=\"text-danger\">[2 tsp]</span> <strong>sugar</strong>, the juice of 1/2 <span class=\"text-danger\">[1] </span><strong>lime</strong> and 100ml<span class=\"text-danger\"> [150ml]</span> <strong>water</strong> to the pak choi and<strong> </strong>give everything a good mix up</p><p>Season with a pinch of <strong>salt</strong></p><p>Cook for a further 1 min, or until the liquid is well mixed and starts to thicken slightly – this is your <strong>pak choi & peanut sauce</strong></p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, chop the <strong>coriander</strong> finely, including the stalks</p><p>Trim, then slice the <strong>spring onion<span class=\"text-danger\">[s]</span> </strong>finely</p><p>Slice the <strong>red</strong> <strong>chilli<span class=\"text-danger\">[es]</span></strong> in half lengthways, deseed (scrape the seeds out with a teaspoon) and chop ﬁnely</p><p>Chop the <strong>remaining</strong> <strong>lime</strong> into wedges</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1865.-step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>crispy tofu</strong> and <strong>pak choi & peanut sauce</strong> over the<strong> wholewheat noodles</strong></p><p>Top with the<strong> chopped coriander</strong>, <strong>sliced</strong> <strong>spring onion </strong>and<strong> chopped chilli </strong>(can't handle the heat? Go easy!)</p><p>Garnish with a<strong> lime wedge</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "egg",
+      "slug": "egg"
+    },
+    {
+      "title": "peanut",
+      "slug": "peanut"
+    }
+  ],
+  "seo": {
+    "title": "Crispy Tofu With Pak Choi & Peanut Sauce",
+    "description": "To whip up this Vietnamese-inspired dish, you'll serve up crispy tofu cubes on a bed of wholewheat noodles. To really wake up your taste buds, top with punchy peanut and lime pak choi before serving.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/R-1865-2-Crispy-Tofu-With-Pak-Choi--Peanut-Sauce-2_0-1691578307026.jpg"
+  },
+  "tags": [],
+  "uid": "blt4dc06b60eeebfb7f",
+  "_version": 2624,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 120,
+      "energy_kj": 503,
+      "fat_mg": 5114,
+      "fat_saturates_mg": 700,
+      "carbs_mg": 8617,
+      "carbs_sugars_mg": 1140,
+      "fibre_mg": 2228,
+      "protein_mg": 9143,
+      "salt_mg": 676,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 461,
+      "energy_kj": 1928,
+      "fat_mg": 19589,
+      "fat_saturates_mg": 2681,
+      "carbs_mg": 33006,
+      "carbs_sugars_mg": 4370,
+      "fibre_mg": 8535,
+      "protein_mg": 35020,
+      "salt_mg": 2592,
+      "net_weight_mg": 383000
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+          "code": "I-05-FVG-FV-11",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+          "code": "I-05-FVG-FV-06",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+          "code": "I-07-HBS-PL-10",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "1dd3a011-a8dd-4804-b092-51da7f9c2f8d",
+          "code": "I-06-SML-DL-44",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "a5e93cfb-0ad1-48b3-b683-54f684f955f9",
+          "code": "I-06-SML-DL-31",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "54988fca-e84a-4973-a74e-c9653b260a44",
+          "code": "I-03-GRN-PA-46",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "43c515bb-1548-41df-b08e-f10fa8369172",
+          "code": "I-06-SML-OT-25",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b9ef6a50-3faf-42e7-83cf-b491c0b2622b",
+          "code": "I-05-FVG-LF-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "80a2fb1b-cd5f-47ea-a9a0-508ccfea2629",
+          "code": "I-01-CAN-LQ-08",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "3d2328cc-da90-47e1-9553-4debba1d551c",
+          "code": "I-09-DAI-TF-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d516304e-cb6e-42a9-8d0a-0e0d9477a800",
+          "code": "I-06-SML-OT-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b7839655-6d73-40c2-a235-30ea290a9c56",
+          "code": "I-07-HBS-PL-13-5",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+          "code": "I-05-FVG-FV-11",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+          "code": "I-05-FVG-FV-06",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+          "code": "I-07-HBS-PL-10",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "1dd3a011-a8dd-4804-b092-51da7f9c2f8d",
+          "code": "I-06-SML-DL-44",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "a5e93cfb-0ad1-48b3-b683-54f684f955f9",
+          "code": "I-06-SML-DL-31",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "54988fca-e84a-4973-a74e-c9653b260a44",
+          "code": "I-03-GRN-PA-46",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "43c515bb-1548-41df-b08e-f10fa8369172",
+          "code": "I-06-SML-OT-25",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "b9ef6a50-3faf-42e7-83cf-b491c0b2622b",
+          "code": "I-05-FVG-LF-13",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "80a2fb1b-cd5f-47ea-a9a0-508ccfea2629",
+          "code": "I-01-CAN-LQ-08",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "3d2328cc-da90-47e1-9553-4debba1d551c",
+          "code": "I-09-DAI-TF-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d516304e-cb6e-42a9-8d0a-0e0d9477a800",
+          "code": "I-06-SML-OT-15",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "b7839655-6d73-40c2-a235-30ea290a9c56",
+          "code": "I-07-HBS-PL-13-5",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    }
+  ]
+}

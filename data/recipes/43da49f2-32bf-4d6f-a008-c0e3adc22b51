@@ -1,0 +1,663 @@
+{
+  "url": "/turkey-koftas",
+  "title": "Turkey Koftas ",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Turkey Recipes",
+      "url": "/turkey-recipes",
+      "uid": "bltd28cb59abc038c9b"
+    },
+    {
+      "title": "Meatball Recipes",
+      "url": "/meatball-recipes",
+      "uid": "blt2cc1a95f9710a193"
+    }
+  ],
+  "gousto_id": "369",
+  "gousto_uid": "43da49f2-32bf-4d6f-a008-c0e3adc22b51",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/395.TurkeyKoftas-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/395.TurkeyKoftas-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/395.TurkeyKoftas-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/395.TurkeyKoftas-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/395.TurkeyKoftas-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 255
+  },
+  "description": "These lean turkey koftas are spiced with warm cumin and squeezed around skewers for easy shaping. The couscous is flavoured with carrot, toasted walnuts, sultanas and fresh coriander, and finished with a simple lemon dressing. Why not try testing these babies out on a barbecue for a kiss of smoke.",
+  "prep_times": {
+    "for_2": 30,
+    "for_4": 30
+  },
+  "cuisine": {
+    "slug": "israeli",
+    "title": "Israeli"
+  },
+  "ingredients": [
+    {
+      "label": "250g British turkey thigh mince",
+      "title": "British turkey thigh mince-I-10-MPF-PO-11",
+      "uid": "bltd14e2d76d031a16f",
+      "gousto_uuid": "db12490e-09e3-45f8-8ea2-7846fcd521a8",
+      "name": "British turkey thigh mince",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Ingredients-MinceTurkey_13857_edit-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Ingredients-MinceTurkey_13857_edit-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Ingredients-MinceTurkey_13857_edit-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Ingredients-MinceTurkey_13857_edit-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Ingredients-MinceTurkey_13857_edit-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "30g walnuts",
+      "title": "walnuts-I-04-NUT-NT-06-30",
+      "uid": "blt7b820fefea880251",
+      "gousto_uuid": "a4013afd-2344-4620-8c11-56b4fdc4f24e",
+      "name": "walnuts",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/walnuts-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/walnuts-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/walnuts-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/walnuts-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/walnuts-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "nut"
+          },
+          {
+            "title": null,
+            "slug": "peanut"
+          },
+          {
+            "title": null,
+            "slug": "sesame"
+          }
+        ]
+      }
+    },
+    {
+      "label": "30g breadcrumbs",
+      "title": "panko breadcrumbs-IQ-07-GRN-FL-07-01",
+      "uid": "blt17ec6d57c62774c9",
+      "gousto_uuid": "9ad5f266-6a86-432e-9750-6069db11686a",
+      "name": "panko breadcrumbs",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "20g fresh coriander",
+      "title": "coriander-I-07-HBS-PL-14",
+      "uid": "bltce212fcf81be04a2",
+      "gousto_uuid": "5caf8124-d067-4539-bbb1-fcfdf5facc21",
+      "name": "coriander",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 tbsp ground cumin",
+      "title": "Ground cumin seeds-I-06-SML-IN-02-04",
+      "uid": "bltfd8662c8061301d7",
+      "gousto_uuid": "67e7a622-d005-45a6-8608-3419f416e5b3",
+      "name": "Ground cumin seeds",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ground-cumin-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ground-cumin-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ground-cumin-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ground-cumin-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ground-cumin-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 spring onion",
+      "title": "spring onion-I-07-HBS-PL-10",
+      "uid": "blt7f30073f4f7cf590",
+      "gousto_uuid": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+      "name": "spring onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 garlic cloves",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "4 wodden skewers",
+      "title": "skewers-I-99-OTH-OT-01",
+      "uid": "blt7fcbac8dd948b5f1",
+      "gousto_uuid": "551b135e-3ca3-4d63-b219-23c9a068523d",
+      "name": "skewers",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Skewer-one-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Skewer-one-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Skewer-one-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Skewer-one-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Skewer-one-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "120g couscous",
+      "title": "couscous-IQ-03-GRN-FL-03-03",
+      "uid": "blt29322c298e84bdc1",
+      "gousto_uuid": "c22b05a4-f2db-4522-be07-2273a960b483",
+      "name": "couscous",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/couscous-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/couscous-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/couscous-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/couscous-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/couscous-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "2 tbsp tahini paste",
+      "title": "tahini-IQ-08-SAU-PS-03-02",
+      "uid": "bltc13785fc66200fca",
+      "gousto_uuid": "40c26b1c-9114-43dd-9b14-5c0d757a15b5",
+      "name": "tahini",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tahini-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tahini-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tahini-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tahini-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tahini-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sesame"
+          }
+        ]
+      }
+    },
+    {
+      "label": "200g carrots",
+      "title": "carrots-IQ-05-FVG-VG-01-05",
+      "uid": "bltd9d82b675531cf5a",
+      "gousto_uuid": "d81fc312-e991-4e23-8e40-da92856f9b27",
+      "name": "carrots",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "30g sultanas",
+      "title": "sultanas-IQ-04-NUT-DF-04-03",
+      "uid": "bltb330fbbf928754bb",
+      "gousto_uuid": "274dea3a-0316-4b3f-ac8a-7fbf2d03ad9d",
+      "name": "sultanas",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sultanas-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sultanas-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sultanas-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sultanas-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sultanas-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 lemon",
+      "title": "lemon-I-02-SVG-SF-03",
+      "uid": "blte823ccfd82fc22c7",
+      "gousto_uuid": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+      "name": "lemon",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Soak</strong> the skewers in cold water until step 2 (this prevents burning whilst cooking)<br /><br /><strong>Peel</strong> and very finely chop (or grate) the garlic</p>\r\n<p><strong>Add</strong> the garlic to a large mixing bowl with the turkey mince, breadcrumbs and ground cumin - season generously with salt and plenty of pepper</p>",
+      "order": 1,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Mix</strong> the mince well with clean hands</p>\r\n<p><strong>Divide</strong> the mixture into 4 <span class=\"text-danger\">(8)</span> equal portions and shape into hotdogs (using wet hands helps shape the mixture)</p>\r\n<p><strong>Carefully</strong> pierce the skewer through each hotdog, then squeeze the meat tightly around the skewers, so it covers 2/3rd of the skewer</p>\r\n<p><strong>These</strong> are your koftas for step 4</p>",
+      "order": 2,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Heat</strong> a very large wide based pan (preferably non-stick) on a medium heat</p>\r\n<p><strong>Add</strong> the walnuts and toast for 5-6 min or until starting to turn a darker colour, then remove from the heat (set them aside until step 6) whilst reserving the pan for the next step</p>",
+      "order": 3,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Boil</strong> a kettle for step 5</p>\r\n<p><strong>Place</strong> the pan over a medium heat with 1 tbsp <span class=\"text-danger\">(2 tbsp)</span> of vegetable oil, and when hot, add the koftas </p>\r\n<p><strong>Cook</strong> on all sides (total time approx. 13-16 min), or until browned and cooked through</p>",
+      "order": 4,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Meanwhile</strong>, add the couscous and sultanas to a large bowl with 200ml <span class=\"text-danger\">(400ml)</span> of boiled water and cover</p>\r\n<p><strong>Set</strong> aside for 10 min then fluff with a fork</p>\r\n<p><strong>Once</strong> fluffed, add the juice of 1/2 <span class=\"text-danger\">(1)</span> lemon with the spring onion, 3 tbsp <span class=\"text-danger\">(6 tbsp)</span> of olive oil and salt and pepper to your taste</p>\r\n<p><strong>Set</strong> aside for step 8</p>",
+      "order": 5,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Peel</strong> the carrots, discarding the root ends, and grate them into the couscous bowl</p>\r\n<p><strong>Chop</strong> the coriander finely (including the stalks), and add it to the bowl</p>\r\n<p><strong>Chop</strong> the toasted walnuts roughly, and add them to the bowl</p>\r\n<p><strong>Mix</strong> well with a fork and season with salt and pepper to your taste</p>",
+      "order": 6,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Combine</strong> the tahini with 50ml <span class=\"text-danger\">(100ml)</span> of boiled water and mix until smooth</p>\r\n<p><strong>Add</strong> the remaining lemon juice, 3 tbsp <span class=\"text-danger\">(6 tbsp)</span> of olive oil and season with salt and pepper to your taste - this is your tahini dressing</p>",
+      "order": 7,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Serve</strong> the koftas over the couscous with the tahini sauce drizzled over or to the side</p>\r\n<p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "peanut",
+      "slug": "peanut"
+    },
+    {
+      "title": "nut",
+      "slug": "nut"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    }
+  ],
+  "seo": {
+    "title": "Turkey Koftas ",
+    "description": "These lean turkey koftas are spiced with warm cumin and squeezed around skewers for easy shaping. The couscous is flavoured with carrot, toasted walnuts, sultanas and fresh coriander, and finished with a simple lemon dressing. Why not try testing these babies out on a barbecue for a kiss of smoke.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/395.TurkeyKoftas.jpg"
+  },
+  "tags": [],
+  "uid": "blt82df37f0c38b58af",
+  "_version": 53,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 116,
+      "energy_kj": 489,
+      "fat_mg": 4052,
+      "fat_saturates_mg": 676,
+      "carbs_mg": 13150,
+      "carbs_sugars_mg": 3334,
+      "fibre_mg": 769,
+      "protein_mg": 7836,
+      "salt_mg": 66,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 725,
+      "energy_kj": 3048,
+      "fat_mg": 25225,
+      "fat_saturates_mg": 4211,
+      "carbs_mg": 81859,
+      "carbs_sugars_mg": 20758,
+      "fibre_mg": 4788,
+      "protein_mg": 48784,
+      "salt_mg": 412,
+      "net_weight_mg": 622500
+    }
+  },
+  "portion_sizes": null
+}

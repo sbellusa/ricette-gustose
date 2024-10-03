@@ -1,0 +1,968 @@
+{
+  "url": "/tuna-mayo-sweetcorn-jacket-potato-with-salad",
+  "title": "Tuna Mayo & Sweetcorn Jacket Potato With Salad ",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "6951",
+  "gousto_uid": "c194b9fd-a0b6-4da3-8345-0da605b41bcb",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/6796---Tuna-Mayo--Sweetcorn-Jacket-Potato-With-Salad0101-2-1705503985324-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/6796---Tuna-Mayo--Sweetcorn-Jacket-Potato-With-Salad0101-2-1705503985324-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/6796---Tuna-Mayo--Sweetcorn-Jacket-Potato-With-Salad0101-2-1705503985324-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/6796---Tuna-Mayo--Sweetcorn-Jacket-Potato-With-Salad0101-2-1705503985324-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/6796---Tuna-Mayo--Sweetcorn-Jacket-Potato-With-Salad0101-2-1705503985324-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 211
+  },
+  "description": "Try this comforting jacket on for size. You’ll roast red potatoes till perfectly crisp on the outside and soft on the inside. Pile them high with creamy tuna and sweetcorn mayo and serve with an easy salad on the side. Classic.",
+  "prep_times": {
+    "for_2": 30,
+    "for_4": 35
+  },
+  "cuisine": {
+    "slug": "british",
+    "title": "British"
+  },
+  "ingredients": [
+    {
+      "label": "150g canned sweetcorn",
+      "title": "canned sweetcorn-I-01-CAN-VC-39",
+      "uid": "blta4c165d587d2f3f9",
+      "gousto_uuid": "570ba2fb-b2c3-4bab-b8eb-ab589becae84",
+      "name": "canned sweetcorn",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-sweetcorn-340g-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-sweetcorn-340g-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-sweetcorn-340g-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-sweetcorn-340g-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-sweetcorn-340g-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "0 mayonnaise",
+      "title": "mayonnaise-I-06-SML-OT-19",
+      "uid": "bltf17730c6307389b6",
+      "gousto_uuid": "34869527-4715-40aa-93c3-2a616d203aa9",
+      "name": "mayonnaise",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "egg"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 tuna chunks in spring water",
+      "title": "tuna chunks in spring water-I-01-CAN-VC-52",
+      "uid": "blt8b24e73929ef4aaa",
+      "gousto_uuid": "6043bf65-c8e6-4a57-b877-ad085e57d15c",
+      "name": "tuna chunks in spring water",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/can-of-tuna-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/can-of-tuna-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/can-of-tuna-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/can-of-tuna-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/can-of-tuna-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "fish"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 tomato",
+      "title": "tomato-I-05-FVG-FV-09",
+      "uid": "bltadd0f9d489140d4c",
+      "gousto_uuid": "5c14a222-aa12-4d98-a108-106ca1693363",
+      "name": "tomato",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 red potatoes",
+      "title": "red potato-I-02-SVG-VG-01-12",
+      "uid": "blt001a595dbb049acd",
+      "gousto_uuid": "c3cf2f55-fc2b-4ecb-ba32-3076def25b32",
+      "name": "red potato",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Red-Skinned-Potato-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Red-Skinned-Potato-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Red-Skinned-Potato-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Red-Skinned-Potato-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Red-Skinned-Potato-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "50ml mayonnaise",
+      "title": "mayonnaise-I-06-SML-OT-20",
+      "uid": "blt80cf1fc6cf10a03b",
+      "gousto_uuid": "c4a8b75e-f277-402a-aa5d-a98149cdcda5",
+      "name": "mayonnaise",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "egg"
+          }
+        ]
+      }
+    },
+    {
+      "label": "15ml cider vinegar",
+      "title": "cider vinegar-I-08-SAU-LS-24",
+      "uid": "blte680b7804402a41a",
+      "gousto_uuid": "b2311aae-125d-4995-b0fb-ce577dd2f983",
+      "name": "cider vinegar",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "50g baby leaf salad",
+      "title": "baby leaf salad-I-05-FVG-FG-03-01",
+      "uid": "bltffe1841caada8361",
+      "gousto_uuid": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+      "name": "baby leaf salad",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 spring onion",
+      "title": "spring onion-I-07-HBS-PL-10",
+      "uid": "blt7f30073f4f7cf590",
+      "gousto_uuid": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+      "name": "spring onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Butter",
+      "slug": "butter"
+    },
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 240°C/ 220°C (fan)/ gas 9</p><p>Pierce your <strong>red</strong> <strong>potato[es]</strong> a few times with a fork, then cook in the <strong>microwave </strong>for 7-8 min or until slightly softened</p><p>Add the <strong>softened potato[es]</strong> to a baking tray (or two!) with a drizzle of <strong>olive oil </strong>and a pinch of <strong>salt</strong>, put the tray[s] in the oven for 20-25 min or until crispy on the outside</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1697644493692-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1697644493692-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1697644493692-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1697644493692-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1697644493692-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Whilst the potato[es] is cooking, trim, then slice your <strong>spring onion[s]</strong></p><p>Drain your <strong>tuna</strong></p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1697644497627-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1697644497627-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1697644497627-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1697644497627-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1697644497627-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Drain your <strong>sweetcorn</strong></p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1697644501078-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1697644501078-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1697644501078-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1697644501078-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1697644501078-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Combine the <strong>drained</strong> <strong>tuna</strong> and <strong>sliced spring onion </strong>in a bowl with your <strong>mayo</strong>, <strong>drained sweetcorn</strong>, a pinch of <strong>salt</strong> and a generous grind of <strong>black</strong> <strong>pepper</strong> – this is your <strong>tuna mayo & sweetcorn mix</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1697644505112-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1697644505112-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1697644505112-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1697644505112-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1697644505112-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Chop your <strong>tomato[es]</strong> into wedges</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1697644509234-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1697644509234-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1697644509234-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1697644509234-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1697644509234-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Combine your <strong>cider</strong> <strong>vinegar</strong> and 1 tbsp <span class=\"text-purple\">[1 1/2 tbsp]</span> <span class=\"text-danger\">[2 tbsp]</span> <strong>olive</strong> <strong>oil</strong> in a bowl with a pinch of <strong>salt</strong> – this is your <strong>dressing</strong></p><p>Wash your <strong>baby leaf salad</strong>, then pat dry with kitchen paper</p><p>Add the <strong>baby leaf salad </strong>and<strong> tomato wedges</strong> to the bowl with the dressing and give everything a good mix up – this is your <strong>dressed salad</strong></p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1697644513384-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1697644513384-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1697644513384-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1697644513384-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1697644513384-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the potatoes are crispy, remove the tray[s] from the oven and carefully slice the shape of a cross through the centre, taking care not to cut all the way through</p><p>Top each potato with a knob of <strong>butter</strong> and a pinch of <strong>salt</strong> and mix through with a fork</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1697644518482-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1697644518482-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1697644518482-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1697644518482-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1697644518482-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Top the <strong>buttered potato</strong> with the <strong>tuna mayo & sweetcorn mix</strong> – this is your <strong>tuna mayo & sweetcorn jacket potato</strong></p><p>Serve the <strong>tuna mayo & sweetcorn jacket potato</strong> with the <strong>dressed</strong> <strong>salad</strong> to the side</p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "egg",
+      "slug": "egg"
+    },
+    {
+      "title": "fish",
+      "slug": "fish"
+    }
+  ],
+  "seo": {
+    "title": "Tuna Mayo & Sweetcorn Jacket Potato With Salad ",
+    "description": "Try this comforting jacket on for size. You’ll roast red potatoes till perfectly crisp on the outside and soft on the inside. Pile them high with creamy tuna and sweetcorn mayo and serve with an easy salad on the side. Classic.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/6796---Tuna-Mayo--Sweetcorn-Jacket-Potato-With-Salad0101-2-1705503985324.jpg"
+  },
+  "tags": [],
+  "uid": "blt5fa5795b30b427c3",
+  "_version": 236,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 105,
+      "energy_kj": 447,
+      "fat_mg": 4336,
+      "fat_saturates_mg": 706,
+      "carbs_mg": 12190,
+      "carbs_sugars_mg": 1780,
+      "fibre_mg": 1410,
+      "protein_mg": 5116,
+      "salt_mg": 208,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 529,
+      "energy_kj": 2235,
+      "fat_mg": 21683,
+      "fat_saturates_mg": 3530,
+      "carbs_mg": 60950,
+      "carbs_sugars_mg": 8900,
+      "fibre_mg": 7050,
+      "protein_mg": 25580,
+      "salt_mg": 1043,
+      "net_weight_mg": 500000
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 1,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+          "code": "I-05-FVG-FG-03-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "570ba2fb-b2c3-4bab-b8eb-ab589becae84",
+          "code": "I-01-CAN-VC-39",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b2311aae-125d-4995-b0fb-ce577dd2f983",
+          "code": "I-08-SAU-LS-24",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "34869527-4715-40aa-93c3-2a616d203aa9",
+          "code": "I-06-SML-OT-19",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "c3cf2f55-fc2b-4ecb-ba32-3076def25b32",
+          "code": "I-02-SVG-VG-01-12",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+          "code": "I-07-HBS-PL-10",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "5c14a222-aa12-4d98-a108-106ca1693363",
+          "code": "I-05-FVG-FV-09",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "6043bf65-c8e6-4a57-b877-ad085e57d15c",
+          "code": "I-01-CAN-VC-52",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+          "code": "I-05-FVG-FG-03-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "570ba2fb-b2c3-4bab-b8eb-ab589becae84",
+          "code": "I-01-CAN-VC-39",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b2311aae-125d-4995-b0fb-ce577dd2f983",
+          "code": "I-08-SAU-LS-24",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "c4a8b75e-f277-402a-aa5d-a98149cdcda5",
+          "code": "I-06-SML-OT-20",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "c3cf2f55-fc2b-4ecb-ba32-3076def25b32",
+          "code": "I-02-SVG-VG-01-12",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+          "code": "I-07-HBS-PL-10",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "5c14a222-aa12-4d98-a108-106ca1693363",
+          "code": "I-05-FVG-FV-09",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "6043bf65-c8e6-4a57-b877-ad085e57d15c",
+          "code": "I-01-CAN-VC-52",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 3,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+          "code": "I-05-FVG-FG-03-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "570ba2fb-b2c3-4bab-b8eb-ab589becae84",
+          "code": "I-01-CAN-VC-39",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "b2311aae-125d-4995-b0fb-ce577dd2f983",
+          "code": "I-08-SAU-LS-24",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "34869527-4715-40aa-93c3-2a616d203aa9",
+          "code": "I-06-SML-OT-19",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "c4a8b75e-f277-402a-aa5d-a98149cdcda5",
+          "code": "I-06-SML-OT-20",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "c3cf2f55-fc2b-4ecb-ba32-3076def25b32",
+          "code": "I-02-SVG-VG-01-12",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+          "code": "I-07-HBS-PL-10",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "5c14a222-aa12-4d98-a108-106ca1693363",
+          "code": "I-05-FVG-FV-09",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "6043bf65-c8e6-4a57-b877-ad085e57d15c",
+          "code": "I-01-CAN-VC-52",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+          "code": "I-05-FVG-FG-03-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "570ba2fb-b2c3-4bab-b8eb-ab589becae84",
+          "code": "I-01-CAN-VC-39",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "b2311aae-125d-4995-b0fb-ce577dd2f983",
+          "code": "I-08-SAU-LS-24",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "c4a8b75e-f277-402a-aa5d-a98149cdcda5",
+          "code": "I-06-SML-OT-20",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "c3cf2f55-fc2b-4ecb-ba32-3076def25b32",
+          "code": "I-02-SVG-VG-01-12",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+          "code": "I-07-HBS-PL-10",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "5c14a222-aa12-4d98-a108-106ca1693363",
+          "code": "I-05-FVG-FV-09",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "6043bf65-c8e6-4a57-b877-ad085e57d15c",
+          "code": "I-01-CAN-VC-52",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 5,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+          "code": "I-05-FVG-FG-03-01",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "570ba2fb-b2c3-4bab-b8eb-ab589becae84",
+          "code": "I-01-CAN-VC-39",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "b2311aae-125d-4995-b0fb-ce577dd2f983",
+          "code": "I-08-SAU-LS-24",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "34869527-4715-40aa-93c3-2a616d203aa9",
+          "code": "I-06-SML-OT-19",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "c4a8b75e-f277-402a-aa5d-a98149cdcda5",
+          "code": "I-06-SML-OT-20",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "c3cf2f55-fc2b-4ecb-ba32-3076def25b32",
+          "code": "I-02-SVG-VG-01-12",
+          "quantities": {
+            "in_box": 5
+          }
+        },
+        {
+          "id": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+          "code": "I-07-HBS-PL-10",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "5c14a222-aa12-4d98-a108-106ca1693363",
+          "code": "I-05-FVG-FV-09",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "6043bf65-c8e6-4a57-b877-ad085e57d15c",
+          "code": "I-01-CAN-VC-52",
+          "quantities": {
+            "in_box": 3
+          }
+        }
+      ]
+    }
+  ]
+}

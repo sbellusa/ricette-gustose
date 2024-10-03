@@ -1,0 +1,1370 @@
+{
+  "url": "/tofu-karaage-with-slaw-sesame-rice-miso-mayo",
+  "title": "Tofu Karaage With Slaw, Sesame Rice & Miso Mayo",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "5539",
+  "gousto_uid": "aefdb8d8-6a12-4650-ad45-74602f71a410",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5384---Tofu-Karaage-With-Slaw-Sesame-Rice--Miso-Mayo0914-1678786157199-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5384---Tofu-Karaage-With-Slaw-Sesame-Rice--Miso-Mayo0914-1678786157199-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5384---Tofu-Karaage-With-Slaw-Sesame-Rice--Miso-Mayo0914-1678786157199-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5384---Tofu-Karaage-With-Slaw-Sesame-Rice--Miso-Mayo0914-1678786157199-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5384---Tofu-Karaage-With-Slaw-Sesame-Rice--Miso-Mayo0914-1678786157199-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 3580
+  },
+  "description": "Take 10 minutes to rustle up this feast from the east. You’ll coat tofu bites in smoky paprika and soy sauce before frying them till extra crispy. Serve up with zingy carrot and cabbage slaw, miso mayo and sesame rice.",
+  "prep_times": {
+    "for_2": 10,
+    "for_4": 10
+  },
+  "cuisine": {
+    "slug": "japanese",
+    "title": "Japanese"
+  },
+  "ingredients": [
+    {
+      "label": "White miso paste (17g)",
+      "title": "white miso paste-I-08-SAU-PS-63",
+      "uid": "blt070f62b05fd1a427",
+      "gousto_uuid": "77066e71-83ba-4375-b8c3-8576da80b529",
+      "name": "white miso paste",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/white-miso-paste-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/white-miso-paste-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/white-miso-paste-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/white-miso-paste-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/white-miso-paste-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Carrot & cabbage slaw mix (160g)",
+      "title": "carrot & cabbage slaw mix-I-05-FVG-LF-60",
+      "uid": "blt6cf5d1b80b20fe71",
+      "gousto_uuid": "4366001c-0c31-41c9-b051-f5ddb2e73677",
+      "name": "carrot & cabbage slaw mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Mixed-Slaw-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Mixed-Slaw-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Mixed-Slaw-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Mixed-Slaw-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Mixed-Slaw-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Cornflour (4tbsp)",
+      "title": "cornflour-I-06-SML-DL-45",
+      "uid": "blt2ff2e4f90b37b39f",
+      "gousto_uuid": "f585c6d0-f7a2-45b2-982b-da6abee7c2a5",
+      "name": "cornflour",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Vegan mayonnaise (30ml) x2",
+      "title": "vegan mayonnaise-I-06-SML-OT-31",
+      "uid": "blt2f269ce1e4ba59e7",
+      "gousto_uuid": "b6a264f0-dbfb-4fee-ba15-c8e834030f49",
+      "name": "vegan mayonnaise",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "mustard"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Cooked white long grain rice (280g)",
+      "title": "cooked white long grain rice-I-03-GRN-RC-39",
+      "uid": "blt1e033e79ea727b49",
+      "gousto_uuid": "e604f6ba-a67f-4a10-ae71-6032c08a90a6",
+      "name": "cooked white long grain rice",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Toasted sesame oil (10ml)",
+      "title": "toasted sesame oil-I-08-SAU-LS-40",
+      "uid": "blt6f1e023be8b485ba",
+      "gousto_uuid": "68941ea3-449d-4ce5-8fd5-f83ef98b1d69",
+      "name": "toasted sesame oil",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sesame"
+          },
+          {
+            "title": null,
+            "slug": "fish"
+          },
+          {
+            "title": null,
+            "slug": "peanut"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          },
+          {
+            "title": null,
+            "slug": "nut"
+          },
+          {
+            "title": null,
+            "slug": "celery"
+          },
+          {
+            "title": null,
+            "slug": "mustard"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Ground smoked paprika (1tsp) x0",
+      "title": "ground smoked paprika-I-06-SML-DL-15",
+      "uid": "blt40d60aca111c0243",
+      "gousto_uuid": "9bbbe335-1516-4488-957c-814e34eae5b1",
+      "name": "ground smoked paprika",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Soy sauce (15ml)",
+      "title": "soy sauce-I-06-SML-OT-14",
+      "uid": "blt3a79c2be8bfcc885",
+      "gousto_uuid": "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+      "name": "soy sauce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Ground turmeric (0.5tsp)",
+      "title": "ground turmeric-I-06-SML-DL-14",
+      "uid": "blt37b4da4bd600ecc3",
+      "gousto_uuid": "abb2d5af-131e-4e82-9546-705ab185cc37",
+      "name": "ground turmeric",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Ground smoked paprika (2tsp)",
+      "title": "ground smoked paprika-I-06-SML-DL-16",
+      "uid": "bltb30046bee5064631",
+      "gousto_uuid": "da7745b9-7d7f-49bf-8b42-9b95d8dde2c7",
+      "name": "ground smoked paprika",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Plain tofu (280g)",
+      "title": "plain tofu-I-09-DAI-TF-02",
+      "uid": "blt76fbc5ef22202d6f",
+      "gousto_uuid": "3d2328cc-da90-47e1-9553-4debba1d551c",
+      "name": "plain tofu",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-organic-tofu-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-organic-tofu-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-organic-tofu-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-organic-tofu-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-organic-tofu-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Black sesame seeds (5g)",
+      "title": "black sesame seeds-I-06-SML-SD-13",
+      "uid": "blt12a7da1cc0c52af7",
+      "gousto_uuid": "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+      "name": "black sesame seeds",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/black-sesame-seeds-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/black-sesame-seeds-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/black-sesame-seeds-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/black-sesame-seeds-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/black-sesame-seeds-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sesame"
+          },
+          {
+            "title": null,
+            "slug": "fish"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          },
+          {
+            "title": null,
+            "slug": "nut"
+          },
+          {
+            "title": null,
+            "slug": "celery"
+          },
+          {
+            "title": null,
+            "slug": "mustard"
+          }
+        ]
+      }
+    },
+    {
+      "label": "White wine vinegar (15ml)",
+      "title": "white wine vinegar-I-08-SAU-LS-14",
+      "uid": "bltfa7cb0db872c783e",
+      "gousto_uuid": "ef566c78-5df6-49d9-8356-68789149176f",
+      "name": "white wine vinegar",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Soy sauce (8ml) x0",
+      "title": "soy sauce-I-06-SML-OT-05",
+      "uid": "bltaa4a46c7cb59b000",
+      "gousto_uuid": "3c07d126-f655-437c-aa1d-c38dbbae0398",
+      "name": "soy sauce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Before you begin...</strong></p><p>Get all your ingredients and equipment ready</p><p>Skim through these steps, then wash your fruit and veg</p><p>Note: Equipment and pan sizes vary. Make sure you cook food thoroughly (even if it takes you a little longer than 10 min)</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1679406731501-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1679406731501-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1679406731501-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1679406731501-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1679406731501-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Drain your <strong>tofu</strong> and pat it dry with kitchen paper</p><p>Tear the <strong>tofu</strong> into large chunks</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1679406737201-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1679406737201-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1679406737201-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1679406737201-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1679406737201-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Combine the <strong>tofu chunks</strong> and your <strong>ground smoked paprika</strong> in a bowl with your <strong>ground turmeric</strong>, <strong>cornflour</strong> and <strong>soy sauce</strong></p><p>Add a generous pinch of <strong>salt</strong> and <strong>pepper</strong> and mix until fully combined – this is your <strong>coated tofu</strong></p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1679406743359-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1679406743359-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1679406743359-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1679406743359-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1679406743359-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a large, wide-based pan (preferably non-stick) with a generous drizzle of <strong>vegetable oil</strong> over a high heat</p><p>Once hot, add the <strong>coated tofu</strong> to the pan and cook for 6-7 min or until golden and crispy – this is your <strong>tofu karaage</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1679407006543-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1679407006543-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1679407006543-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1679407006543-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1679407006543-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>While the tofu is cooking, combine your <strong>carrot & cabbage slaw mix</strong> with <strong>half</strong> your <strong>mayo</strong> and <strong>half</strong> your <strong>white wine vinegar </strong>(you'll use the rest later!) – this is your <strong>slaw</strong></p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1679407167743-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1679407167743-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1679407167743-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1679407167743-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1679407167743-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Combine your <strong>white</strong> <strong>miso paste</strong> and the <strong>remaining mayo</strong> in a bowl with the <strong>remaining white wine vinegar</strong>– this is your <strong>miso mayo dip</strong></p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1679407068199-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1679407068199-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1679407068199-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1679407068199-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1679407068199-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Squeeze your pouch[es] of <strong>cooked white long grain rice</strong> to separate the grains</p><p>Tear the top corner of the pouch[es] (just a little!) and <strong>microwave</strong> for 2 min or until piping hot</p><p>Tip: If you're cooking two or more pouches, pop them in together but increase the microwave cook time accordingly</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1679407175284-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1679407175284-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1679407175284-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1679407175284-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1679407175284-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>tofu karaage</strong> with your <strong>cooked rice</strong>, <strong>slaw</strong> and <strong>miso mayo dip</strong> to the side</p><p>Tip: For fancy presentation, press the rice into a small bowl and turn out</p><p>Drizzle the <strong>toasted sesame oil</strong> over the rice and scatter your <strong>black sesame seeds</strong> over everything</p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "peanut",
+      "slug": "peanut"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "fish",
+      "slug": "fish"
+    },
+    {
+      "title": "mustard",
+      "slug": "mustard"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    },
+    {
+      "title": "nut",
+      "slug": "nut"
+    },
+    {
+      "title": "celery",
+      "slug": "celery"
+    }
+  ],
+  "seo": {
+    "title": "Tofu Karaage With Slaw, Sesame Rice & Miso Mayo",
+    "description": "Take 10 minutes to rustle up this feast from the east. You’ll coat tofu bites in smoky paprika and soy sauce before frying them till extra crispy. Serve up with zingy carrot and cabbage slaw, miso mayo and sesame rice.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/5384---Tofu-Karaage-With-Slaw-Sesame-Rice--Miso-Mayo0914-1678786157199.jpg"
+  },
+  "tags": [],
+  "uid": "bltcbb28bb0cb240b61",
+  "_version": 3625,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 194,
+      "energy_kj": 815,
+      "fat_mg": 10088,
+      "fat_saturates_mg": 1074,
+      "carbs_mg": 18625,
+      "carbs_sugars_mg": 1492,
+      "fibre_mg": 1879,
+      "protein_mg": 7110,
+      "salt_mg": 557,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 854,
+      "energy_kj": 3585,
+      "fat_mg": 44340,
+      "fat_saturates_mg": 4721,
+      "carbs_mg": 81859,
+      "carbs_sugars_mg": 6558,
+      "fibre_mg": 8261,
+      "protein_mg": 31252,
+      "salt_mg": 2449,
+      "net_weight_mg": 439500
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 1,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+          "code": "I-06-SML-SD-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4366001c-0c31-41c9-b051-f5ddb2e73677",
+          "code": "I-05-FVG-LF-60",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "e604f6ba-a67f-4a10-ae71-6032c08a90a6",
+          "code": "I-03-GRN-RC-39",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "f585c6d0-f7a2-45b2-982b-da6abee7c2a5",
+          "code": "I-06-SML-DL-45",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "9bbbe335-1516-4488-957c-814e34eae5b1",
+          "code": "I-06-SML-DL-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "abb2d5af-131e-4e82-9546-705ab185cc37",
+          "code": "I-06-SML-DL-14",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "3d2328cc-da90-47e1-9553-4debba1d551c",
+          "code": "I-09-DAI-TF-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "3c07d126-f655-437c-aa1d-c38dbbae0398",
+          "code": "I-06-SML-OT-05",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "68941ea3-449d-4ce5-8fd5-f83ef98b1d69",
+          "code": "I-08-SAU-LS-40",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b6a264f0-dbfb-4fee-ba15-c8e834030f49",
+          "code": "I-06-SML-OT-31",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "77066e71-83ba-4375-b8c3-8576da80b529",
+          "code": "I-08-SAU-PS-63",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ef566c78-5df6-49d9-8356-68789149176f",
+          "code": "I-08-SAU-LS-14",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+          "code": "I-06-SML-SD-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4366001c-0c31-41c9-b051-f5ddb2e73677",
+          "code": "I-05-FVG-LF-60",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "e604f6ba-a67f-4a10-ae71-6032c08a90a6",
+          "code": "I-03-GRN-RC-39",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "f585c6d0-f7a2-45b2-982b-da6abee7c2a5",
+          "code": "I-06-SML-DL-45",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "da7745b9-7d7f-49bf-8b42-9b95d8dde2c7",
+          "code": "I-06-SML-DL-16",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "abb2d5af-131e-4e82-9546-705ab185cc37",
+          "code": "I-06-SML-DL-14",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "3d2328cc-da90-47e1-9553-4debba1d551c",
+          "code": "I-09-DAI-TF-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+          "code": "I-06-SML-OT-14",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "68941ea3-449d-4ce5-8fd5-f83ef98b1d69",
+          "code": "I-08-SAU-LS-40",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b6a264f0-dbfb-4fee-ba15-c8e834030f49",
+          "code": "I-06-SML-OT-31",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "77066e71-83ba-4375-b8c3-8576da80b529",
+          "code": "I-08-SAU-PS-63",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ef566c78-5df6-49d9-8356-68789149176f",
+          "code": "I-08-SAU-LS-14",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 3,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+          "code": "I-06-SML-SD-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4366001c-0c31-41c9-b051-f5ddb2e73677",
+          "code": "I-05-FVG-LF-60",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "e604f6ba-a67f-4a10-ae71-6032c08a90a6",
+          "code": "I-03-GRN-RC-39",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "f585c6d0-f7a2-45b2-982b-da6abee7c2a5",
+          "code": "I-06-SML-DL-45",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "da7745b9-7d7f-49bf-8b42-9b95d8dde2c7",
+          "code": "I-06-SML-DL-16",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "abb2d5af-131e-4e82-9546-705ab185cc37",
+          "code": "I-06-SML-DL-14",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "3d2328cc-da90-47e1-9553-4debba1d551c",
+          "code": "I-09-DAI-TF-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "3c07d126-f655-437c-aa1d-c38dbbae0398",
+          "code": "I-06-SML-OT-05",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+          "code": "I-06-SML-OT-14",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "68941ea3-449d-4ce5-8fd5-f83ef98b1d69",
+          "code": "I-08-SAU-LS-40",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b6a264f0-dbfb-4fee-ba15-c8e834030f49",
+          "code": "I-06-SML-OT-31",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "77066e71-83ba-4375-b8c3-8576da80b529",
+          "code": "I-08-SAU-PS-63",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ef566c78-5df6-49d9-8356-68789149176f",
+          "code": "I-08-SAU-LS-14",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+          "code": "I-06-SML-SD-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4366001c-0c31-41c9-b051-f5ddb2e73677",
+          "code": "I-05-FVG-LF-60",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "e604f6ba-a67f-4a10-ae71-6032c08a90a6",
+          "code": "I-03-GRN-RC-39",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "f585c6d0-f7a2-45b2-982b-da6abee7c2a5",
+          "code": "I-06-SML-DL-45",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "da7745b9-7d7f-49bf-8b42-9b95d8dde2c7",
+          "code": "I-06-SML-DL-16",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "abb2d5af-131e-4e82-9546-705ab185cc37",
+          "code": "I-06-SML-DL-14",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "3d2328cc-da90-47e1-9553-4debba1d551c",
+          "code": "I-09-DAI-TF-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+          "code": "I-06-SML-OT-14",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "68941ea3-449d-4ce5-8fd5-f83ef98b1d69",
+          "code": "I-08-SAU-LS-40",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "b6a264f0-dbfb-4fee-ba15-c8e834030f49",
+          "code": "I-06-SML-OT-31",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "77066e71-83ba-4375-b8c3-8576da80b529",
+          "code": "I-08-SAU-PS-63",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ef566c78-5df6-49d9-8356-68789149176f",
+          "code": "I-08-SAU-LS-14",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 5,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+          "code": "I-06-SML-SD-13",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4366001c-0c31-41c9-b051-f5ddb2e73677",
+          "code": "I-05-FVG-LF-60",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "e604f6ba-a67f-4a10-ae71-6032c08a90a6",
+          "code": "I-03-GRN-RC-39",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "f585c6d0-f7a2-45b2-982b-da6abee7c2a5",
+          "code": "I-06-SML-DL-45",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "da7745b9-7d7f-49bf-8b42-9b95d8dde2c7",
+          "code": "I-06-SML-DL-16",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "abb2d5af-131e-4e82-9546-705ab185cc37",
+          "code": "I-06-SML-DL-14",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "3d2328cc-da90-47e1-9553-4debba1d551c",
+          "code": "I-09-DAI-TF-02",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "3c07d126-f655-437c-aa1d-c38dbbae0398",
+          "code": "I-06-SML-OT-05",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+          "code": "I-06-SML-OT-14",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "68941ea3-449d-4ce5-8fd5-f83ef98b1d69",
+          "code": "I-08-SAU-LS-40",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "b6a264f0-dbfb-4fee-ba15-c8e834030f49",
+          "code": "I-06-SML-OT-31",
+          "quantities": {
+            "in_box": 5
+          }
+        },
+        {
+          "id": "77066e71-83ba-4375-b8c3-8576da80b529",
+          "code": "I-08-SAU-PS-63",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ef566c78-5df6-49d9-8356-68789149176f",
+          "code": "I-08-SAU-LS-14",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    }
+  ]
+}

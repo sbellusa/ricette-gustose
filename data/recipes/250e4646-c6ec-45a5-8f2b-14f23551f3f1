@@ -1,0 +1,710 @@
+{
+  "url": "/mary-berrys-pork-with-mushroom-crust",
+  "title": "Mary Berry's Pork With Mushroom Crust",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Steak Recipes",
+      "url": "/steak-recipes",
+      "uid": "bltcc6f56c57fb58c69"
+    },
+    {
+      "title": "Pork Recipes",
+      "url": "/pork-recipes",
+      "uid": "bltf0761ae94eddf574"
+    },
+    {
+      "title": "Mushroom Recipes",
+      "url": "/mushroom-recipes",
+      "uid": "bltd605efe72e010d8d"
+    }
+  ],
+  "gousto_id": "518",
+  "gousto_uid": "250e4646-c6ec-45a5-8f2b-14f23551f3f1",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/mb-final-image-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/mb-final-image-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/mb-final-image-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/mb-final-image-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/mb-final-image-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 712
+  },
+  "description": "This is lovely for a midweek supper and ideal for preparing ahead. Served with hot green vegetables and buttered new potatoes. Mary's foolproof tip: Brown the pork  on all sides, including the fatty edges. This seals the juices in and prevents the pork from drying out during baking.",
+  "prep_times": {
+    "for_2": 35,
+    "for_4": 35
+  },
+  "cuisine": {
+    "slug": "british",
+    "title": "British"
+  },
+  "ingredients": [
+    {
+      "label": "40g Irish mature cheddar",
+      "title": "cheddar cheese-I-09-DAI-CH-02",
+      "uid": "bltcf8784004b8281e0",
+      "gousto_uuid": "aed1561d-bae6-487b-a645-4125a6829119",
+      "name": "cheddar cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "2 British pork loin steaks",
+      "title": "British pork loin steaks-I-10-MPF-ME-17",
+      "uid": "blta65ac503b7f0ffb3",
+      "gousto_uuid": "17efa7a1-3994-45d2-9baf-3515ef275359",
+      "name": "British pork loin steaks",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pork-loin-steaks-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pork-loin-steaks-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pork-loin-steaks-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pork-loin-steaks-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pork-loin-steaks-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "120g fine green beans",
+      "title": "green beans-I-05-FVG-PD-01-03",
+      "uid": "bltc16c4c637535a178",
+      "gousto_uuid": "0ff78f1b-7ba4-490d-8bd2-602ac8f8de6d",
+      "name": "green beans",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-beans-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-beans-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-beans-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-beans-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-beans-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "400g waxy potatoes",
+      "title": "waxy potatoes-I-02-SVG-VG-02-03",
+      "uid": "bltbd7c204165aa26d2",
+      "gousto_uuid": "20d40144-059a-457a-b3dc-9c0e41ebc2e9",
+      "name": "waxy potatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 tsp ground paprika ",
+      "title": "smoked paprika-IQ-06-SML-IN-03-01",
+      "uid": "blt3a9a69d4a4dd5e2e",
+      "gousto_uuid": "0f28dc8b-632e-4f96-8c6b-f607001ce044",
+      "name": "smoked paprika",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "30g panko breadcrumbs ",
+      "title": "panko breadcrumbs-IQ-07-GRN-FL-07-01",
+      "uid": "blt17ec6d57c62774c9",
+      "gousto_uuid": "9ad5f266-6a86-432e-9750-6069db11686a",
+      "name": "panko breadcrumbs",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 tsp Dijon mustard",
+      "title": "dijon mustard-IQ-08-SAU-CD-01-01",
+      "uid": "bltfdb2199edd196167",
+      "gousto_uuid": "e8b5e492-5853-4b08-b9e0-e1717ab866ff",
+      "name": "dijon mustard",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dijon-mustard-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dijon-mustard-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dijon-mustard-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dijon-mustard-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dijon-mustard-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "mustard"
+          },
+          {
+            "title": null,
+            "slug": "sulphites"
+          }
+        ]
+      }
+    },
+    {
+      "label": "150g chestnut mushrooms",
+      "title": "160g chestnut mushrooms-IQ-05-FVG-MS-01-03",
+      "uid": "blteb15fac333847d63",
+      "gousto_uuid": "ddc4023e-ec42-4054-95d0-ef94c99bfe8e",
+      "name": "160g chestnut mushrooms",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chestnut-mushrooms-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chestnut-mushrooms-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chestnut-mushrooms-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chestnut-mushrooms-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chestnut-mushrooms-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 onion ",
+      "title": "brown onion-I-02-SVG-VG-07",
+      "uid": "blt8f3ebc667e318aad",
+      "gousto_uuid": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Butter",
+      "slug": "butter"
+    },
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Preheat</strong> the oven to&nbsp;200&deg;C/ 180&deg;C (fan)/ 400&deg;F/ Gas 6</p>\r\n<p><strong>Heat</strong> a large, wide-based pan (preferably non-stick) with a matching lid with 1/2 tbsp <span class=\"text-danger\">(1 tbsp) </span>olive oil over a high heat</p>\r\n<p><strong>Pat</strong> the pork dry and season with salt and pepper</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Once</strong> the pan is hot, sear the fatty edges of the pork for 1 min (use tongs to hold them in place), then cook for 2 min on each side or until golden</p>\r\n<p><strong>Meanwhile</strong>, line a baking tray with foil</p>\r\n<p><strong>Transfer</strong> the pork to the tray and set aside to cool down completely, reserving the pan for later</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Peel</strong> and slice the onion<span class=\"text-danger\">(s)</span> finely</p>\r\n<p><strong>Return</strong> the pan to a high heat with a knob of butter</p>\r\n<p><strong>Once</strong> hot, add the onions and cook for 3 min until starting to turn glossy, stirring constantly</p>\r\n<p><strong>Cover</strong> the pan with a lid, reduce the heat to low and cook for 10-15 min or until softened and golden</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Meanwhile</strong>, slice the mushrooms thinly</p>\r\n<p><strong>Grate</strong> the cheese</p>\r\n<p><strong>Cut</strong> the potatoes into bite-size chunks</p>\r\n<p><strong>Trim</strong> the green beans and cut in half</p>\r\n<p><strong>Boil</strong> a kettle</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Once</strong> the onions are soft and brown, remove the lid and increase the heat to high to drive off any excess moisture</p>\r\n<p><strong>Add</strong> the mushrooms to the onions and cook for 5 min or until browned and all the liquid has evaporated, then remove the pan from the heat and season lightly with salt and pepper</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Spread</strong> the mustard over the cooled pork</p>\r\n<p><strong>Spoon</strong> the mushroom mixture on top, dividing it evenly between the pork steaks</p>\r\n<p><strong>Sprinkle</strong> with the panko breadcrumbs, grated cheese and paprika</p>\r\n<p><strong>Bake</strong> in the oven for 10-15 min or until a golden crust has formed and the pork is cooked through</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Meanwhile</strong>, add the potatoes to a pot of salted boiling water with a matching lid over a high heat</p>\r\n<p><strong>Bring</strong> to the boil and cook, covered, for an initial 7 min or until nearly cooked</p>\r\n<p><strong>Add</strong> the beans and cook, covered, for 3-4 min further or until tender but with a slight bite</p>\r\n<p><strong>Drain</strong> the lot</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/537.-step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Heat</strong> the potato pot over a low heat with another knob of butter</p>\r\n<p><strong>Once</strong> melted, add the drained potatoes and beans and mix until coated, then season lightly with salt and pepper</p>\r\n<p><strong>Serve</strong> the crusted pork with the buttered potatoes and green beans</p>\r\n<p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "mustard",
+      "slug": "mustard"
+    },
+    {
+      "title": "sulphites",
+      "slug": "sulphites"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "crustacean",
+      "slug": "crustacean"
+    },
+    {
+      "title": "egg",
+      "slug": "egg"
+    },
+    {
+      "title": "fish",
+      "slug": "fish"
+    },
+    {
+      "title": "peanut",
+      "slug": "peanut"
+    },
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "nut",
+      "slug": "nut"
+    },
+    {
+      "title": "celery",
+      "slug": "celery"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    },
+    {
+      "title": "lupin",
+      "slug": "lupin"
+    },
+    {
+      "title": "mollusc",
+      "slug": "mollusc"
+    }
+  ],
+  "seo": {
+    "title": "Mary Berry's Pork With Mushroom Crust",
+    "description": "This is lovely for a midweek supper and ideal for preparing ahead. Served with hot green vegetables and buttered new potatoes. Mary's foolproof tip: Brown the pork  on all sides, including the fatty edges. This seals the juices in and prevents the pork from drying out during baking.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/mb-final-image.jpg"
+  },
+  "tags": [],
+  "uid": "blt29280e22b7333775",
+  "_version": 50,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 99,
+      "energy_kj": 420,
+      "fat_mg": 3876,
+      "fat_saturates_mg": 1616,
+      "carbs_mg": 9049,
+      "carbs_sugars_mg": 1251,
+      "fibre_mg": 1316,
+      "protein_mg": 7890,
+      "salt_mg": 139,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 568,
+      "energy_kj": 2391,
+      "fat_mg": 22050,
+      "fat_saturates_mg": 9195,
+      "carbs_mg": 51469,
+      "carbs_sugars_mg": 7117,
+      "fibre_mg": 7487,
+      "protein_mg": 44879,
+      "salt_mg": 791,
+      "net_weight_mg": 568750
+    }
+  },
+  "portion_sizes": null
+}

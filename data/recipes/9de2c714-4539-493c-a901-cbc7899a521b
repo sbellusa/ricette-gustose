@@ -1,0 +1,686 @@
+{
+  "url": "/pan-fried-salmon-pea-veloute-roast-asparagus-hasselback-potatoes",
+  "title": "Pan-Fried Salmon, Pea Velouté, Roast Asparagus & Hasselback Potatoes",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Fish Recipes",
+      "url": "/fish-recipes",
+      "uid": "bltc04cab7baf142a2b"
+    },
+    {
+      "title": null,
+      "url": null,
+      "uid": "bltf34df0a24237d589"
+    }
+  ],
+  "gousto_id": "1512",
+  "gousto_uid": "9de2c714-4539-493c-a901-cbc7899a521b",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1528-Pan-Fried-Salmon-Pea-Veloute-Roast-Asparagus--Hasselback-Potatoes-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1528-Pan-Fried-Salmon-Pea-Veloute-Roast-Asparagus--Hasselback-Potatoes-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1528-Pan-Fried-Salmon-Pea-Veloute-Roast-Asparagus--Hasselback-Potatoes-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1528-Pan-Fried-Salmon-Pea-Veloute-Roast-Asparagus--Hasselback-Potatoes-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1528-Pan-Fried-Salmon-Pea-Veloute-Roast-Asparagus--Hasselback-Potatoes-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 5.0,
+    "count": 182
+  },
+  "description": "This elegant dish combines the sweetness of our garden peas with succulent pan-fried salmon. You'll make a pea velouté, a classic French velvety sauce that's a staple of fine restaurants around the world. Once you've learned this simple technique, the sky's the limit! (Gluten-free, suitable for coeliacs).",
+  "prep_times": {
+    "for_2": 40,
+    "for_4": 45
+  },
+  "cuisine": {
+    "slug": "french",
+    "title": "French"
+  },
+  "ingredients": [
+    {
+      "label": "2 x 110g salmon fillets (skinless)",
+      "title": "salmon skinless fillets-IQ-10-MPF-SE-37",
+      "uid": "bltf62ea9ad9aa697a8",
+      "gousto_uuid": "52603fa7-6ac1-4598-8895-8fdd59ad71a0",
+      "name": "salmon skinless fillets",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-salmon-fillets-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-salmon-fillets-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-salmon-fillets-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-salmon-fillets-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-salmon-fillets-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "fish"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 bag of flaked almonds",
+      "title": "flaked almonds-I-04-NUT-NT-01-15",
+      "uid": "bltdf1bce5835521a70",
+      "gousto_uuid": "d8804139-1bf9-4d73-a4e2-7524669a198c",
+      "name": "flaked almonds",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/flaked-almonds-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/flaked-almonds-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/flaked-almonds-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/flaked-almonds-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/flaked-almonds-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "nut"
+          },
+          {
+            "title": null,
+            "slug": "peanut"
+          },
+          {
+            "title": null,
+            "slug": "sesame"
+          }
+        ]
+      }
+    },
+    {
+      "label": "120g asparagus spears",
+      "title": "asparagus spears-I-05-FVG-FG-10",
+      "uid": "blt7b28d3a11c93f4a0",
+      "gousto_uuid": "05dd714a-c4b0-4ad9-9786-a4e0f74e27fc",
+      "name": "asparagus spears",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Asparagus-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Asparagus-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Asparagus-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Asparagus-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Asparagus-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "400g waxy potatoes",
+      "title": "waxy potatoes-I-02-SVG-VG-02-03",
+      "uid": "bltbd7c204165aa26d2",
+      "gousto_uuid": "20d40144-059a-457a-b3dc-9c0e41ebc2e9",
+      "name": "waxy potatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1/2 vegetable stock cube",
+      "title": "vegetable stock cube-I-06-SML-SC-07",
+      "uid": "blt341de213f4bef56b",
+      "gousto_uuid": "bf27431e-20b0-4068-9873-46db06be35ab",
+      "name": "vegetable stock cube",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Vegetable-stock-cube-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Vegetable-stock-cube-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Vegetable-stock-cube-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Vegetable-stock-cube-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Vegetable-stock-cube-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "celery"
+          }
+        ]
+      }
+    },
+    {
+      "label": "80g garden peas",
+      "title": "garden peas-I-05-FVG-PD-05",
+      "uid": "bltb9e14b0d15ed44f9",
+      "gousto_uuid": "75e40e52-9af8-476a-bc56-193963f02c79",
+      "name": "garden peas",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garden-peas-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garden-peas-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garden-peas-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garden-peas-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garden-peas-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "40g Cornish clotted cream",
+      "title": "Cornish clotted cream-IQ-09-DAI-CR-11",
+      "uid": "bltb6c2aac2a163f459",
+      "gousto_uuid": "488d5751-dcff-4985-88c0-bf745ff54904",
+      "name": "Cornish clotted cream",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "50g pea shoots",
+      "title": "pea shoots-I-05-FVG-FG-07-01",
+      "uid": "blt39b6bb16f9ba85ca",
+      "gousto_uuid": "bbc517b3-c0eb-4694-8c61-0366f8662b3f",
+      "name": "pea shoots",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/50g-pea-shoots-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/50g-pea-shoots-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/50g-pea-shoots-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/50g-pea-shoots-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/50g-pea-shoots-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 shallots",
+      "title": "shallot-I-02-SVG-VG-10",
+      "uid": "blt011a15790b863f51",
+      "gousto_uuid": "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+      "name": "shallot",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Butter",
+      "slug": "butter"
+    },
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Preheat the oven and prepare the potatoes</strong></p>\r\n<p>Set the oven to 200&deg;C/ 180&deg;C (fan)/ 400&deg;F/ Gas 6. Boil a kettle.</p>\r\n<p>Cut narrow slices (about the width of a pound coin) into the&nbsp;<strong>waxy&nbsp;potatoes</strong>, making sure not to cut all the way down to the base &ndash; these are your<strong>&nbsp;hasselback&nbsp;potatoes</strong>.</p>\r\n<p>Tip: rest the potatoes on to a wooden spoon when cutting, it will prevent you from cutting all the way through the potato!</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Roast your hasselback potatoes</strong></p>\r\n<p>Add the&nbsp;<strong>hasselback&nbsp;potatoes</strong>&nbsp;to a baking tray (use&nbsp;tin foil&nbsp;to avoid mess!), drizzle each with&nbsp;<strong>olive oil</strong>&nbsp;and season with&nbsp;<strong>salt&nbsp;</strong>and&nbsp;<strong>pepper</strong>.</p>\r\n<p>Put the tray in the oven for 35-40 minutes or until they're tender and starting to crisp.</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Cook the peas and pea shoots </strong></p>\r\n<p>Add the <strong>garden peas</strong> to a pot, cover them with <strong>boiled water</strong> (just enough to cover them) with a pinch of <strong>salt</strong>, bring to the boil over a high heat and cook for 3-4 minutes or until they're tender.</p>\r\n<p>Once the <strong>peas</strong> are tender, add most of the&nbsp;<strong>pea shoots</strong>&nbsp;(save a small handful for garnish!) and cook for 30 seconds or until wilted.</p>\r\n<p>Once wilted, drain and set aside. Reserve the pan for step 5.</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Prepare the shallots and stock</strong></p>\r\n<p>Re-boil a kettle.</p>\r\n<p>Peel and finely chop the <strong>shallots</strong>.</p>\r\n<p>Dissolve the 1/2<span class=\"text-danger\"> [1]</span> <strong>vegetable stock cube</strong> in 50ml <span class=\"text-danger\">[75ml]</span><strong> boiled water</strong>.</p>\r\n<p>&nbsp;</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Make the&nbsp;pea velout&eacute;</strong></p>\r\n<p>Return the pot to a medium heat with 20g <span class=\"text-danger\">[40g]</span> <strong>butter</strong>. Once melted, add the <strong>chopped shallot</strong> and cook for 2-3 minutes or until softened.</p>\r\n<p>Once softened, add the <strong>vegetable stock</strong>&nbsp;and&nbsp;<strong>clotted cream</strong> and cook for 1-2 minutes further or until starting to thicken.</p>\r\n<p>Add the <strong>drained peas</strong>,&nbsp;<strong>pea shoots</strong>&nbsp;and&nbsp;<strong>creamy stock</strong> to a <strong>food processor</strong>&nbsp;and blend until smooth.</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Cook the asparagus and toast the almonds </strong></p>\r\n<p>Once the potatoes are almost cooked, add the <strong>asparagus spears</strong> to the tray with a drizzle of <strong>olive oil</strong> and a pinch of <strong>salt</strong>.</p>\r\n<p>Return the tray to the oven for 5-8 minutes or until the <strong>asparagus</strong> is tender with a slight bite.</p>\r\n<p>Add the <strong>flaked almonds</strong> to a separate baking tray and put the tray in the oven for 3-4 minutes or until lightly toasted.&nbsp;</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Cook the salmon fillets</strong></p>\r\n<p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>olive oil</strong> over a medium-high heat.</p>\r\n<p>Season the <strong>salmon</strong>&nbsp;<strong>fillets</strong> with a pinch of<strong> salt</strong>.</p>\r\n<p>Once hot, add the <strong>salmon fillets</strong> and cook for 2-3 minutes on each side or until cooked through.</p>\r\n<p>Tip: your fish is cooked when it turns opaque and flakes easily.</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1528.-step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Serve up! </strong></p>\r\n<p>Return the <strong>pea velout&eacute;</strong> to the pot over a medium-low heat and cook for 1-2 minutes or until warmed through.</p>\r\n<p>Serve the <strong>pan-fried</strong>&nbsp;<strong>salmon</strong> over the <strong>pea velout&eacute;</strong> with the <strong>hasselback potatoes</strong> and <strong>asparagus</strong> to the side.<br /><br />Tip: spread the velout&eacute; with the back of a spoon for fancy presentation!</p>\r\n<p>Garnish with the <strong>toasted almonds </strong>and the <strong>remaining</strong><strong> pea shoots </strong>and enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "celery",
+      "slug": "celery"
+    },
+    {
+      "title": "fish",
+      "slug": "fish"
+    },
+    {
+      "title": "nut",
+      "slug": "nut"
+    },
+    {
+      "title": "peanut",
+      "slug": "peanut"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    }
+  ],
+  "seo": {
+    "title": "Pan-Fried Salmon, Pea Velouté, Roast Asparagus & Hasselback Potatoes",
+    "description": "This elegant dish combines the sweetness of our garden peas with succulent pan-fried salmon. You'll make a pea velouté, a classic French velvety sauce that's a staple of fine restaurants around the world. Once you've learned this simple technique, the sky's the limit! (Gluten-free, suitable for coeliacs).",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/1528-Pan-Fried-Salmon-Pea-Veloute-Roast-Asparagus--Hasselback-Potatoes.jpg"
+  },
+  "tags": [],
+  "uid": "blta9dc19d5bfa4eafc",
+  "_version": 49,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 125,
+      "energy_kj": 525,
+      "fat_mg": 7185,
+      "fat_saturates_mg": 2476,
+      "carbs_mg": 8342,
+      "carbs_sugars_mg": 1322,
+      "fibre_mg": 1472,
+      "protein_mg": 6859,
+      "salt_mg": 517,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 614,
+      "energy_kj": 2564,
+      "fat_mg": 35065,
+      "fat_saturates_mg": 12085,
+      "carbs_mg": 40713,
+      "carbs_sugars_mg": 6455,
+      "fibre_mg": 7188,
+      "protein_mg": 33475,
+      "salt_mg": 2523,
+      "net_weight_mg": 488000
+    }
+  },
+  "portion_sizes": null
+}

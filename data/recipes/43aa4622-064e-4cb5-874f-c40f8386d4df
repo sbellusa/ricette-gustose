@@ -1,0 +1,703 @@
+{
+  "url": "/walnut-chicken-schnitzel",
+  "title": "Walnut Chicken Schnitzel",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Chicken Recipes",
+      "url": "/chicken-recipes",
+      "uid": "blt7efd940d5b4a3c2e"
+    },
+    {
+      "title": "Dairy Free Recipes",
+      "url": "/dairy-free-recipes",
+      "uid": "bltb208477429879b2c"
+    },
+    {
+      "title": "Chicken Breast Recipes",
+      "url": "/chicken-breast-recipes",
+      "uid": "blte47da2c008dda1a7"
+    }
+  ],
+  "gousto_id": "447",
+  "gousto_uid": "43aa4622-064e-4cb5-874f-c40f8386d4df",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/468.WalnutChickenSchnitzel-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/468.WalnutChickenSchnitzel-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/468.WalnutChickenSchnitzel-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/468.WalnutChickenSchnitzel-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/468.WalnutChickenSchnitzel-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 483
+  },
+  "description": "Chicken breast crumbed with walnuts, thyme and breadcrumbs - golden and delicious. Served with buttery Dijon mash and green beans. You'll love it - fo' schnitzel!",
+  "prep_times": {
+    "for_2": 30,
+    "for_4": 30
+  },
+  "cuisine": {
+    "slug": "german",
+    "title": "German"
+  },
+  "ingredients": [
+    {
+      "label": "120g green beans",
+      "title": "green beans-I-05-FVG-PD-01-03",
+      "uid": "bltc16c4c637535a178",
+      "gousto_uuid": "0ff78f1b-7ba4-490d-8bd2-602ac8f8de6d",
+      "name": "green beans",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-beans-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-beans-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-beans-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-beans-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-beans-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 egg",
+      "title": "British free range egg-IQ-06-SML-OT-01-01",
+      "uid": "bltb40819d6ebf4ef0d",
+      "gousto_uuid": "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+      "name": "British free range egg",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "egg"
+          }
+        ]
+      }
+    },
+    {
+      "label": "400g potatoes",
+      "title": "potatoes-I-02-SVG-VG-01-04",
+      "uid": "blt9a854f6d88c0b7d0",
+      "gousto_uuid": "d3d0d01e-fd04-4393-bfd6-603fb5e030e8",
+      "name": "potatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "30g walnuts ",
+      "title": "walnuts-I-04-NUT-NT-06-30",
+      "uid": "blt7b820fefea880251",
+      "gousto_uuid": "a4013afd-2344-4620-8c11-56b4fdc4f24e",
+      "name": "walnuts",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/walnuts-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/walnuts-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/walnuts-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/walnuts-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/walnuts-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "nut"
+          },
+          {
+            "title": null,
+            "slug": "peanut"
+          },
+          {
+            "title": null,
+            "slug": "sesame"
+          }
+        ]
+      }
+    },
+    {
+      "label": "30g breadcrumbs",
+      "title": "panko breadcrumbs-IQ-07-GRN-FL-07-01",
+      "uid": "blt17ec6d57c62774c9",
+      "gousto_uuid": "9ad5f266-6a86-432e-9750-6069db11686a",
+      "name": "panko breadcrumbs",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 chicken breast fillet",
+      "title": "chicken breast fillet-I-10-MPF-PO-29",
+      "uid": "blt9ccb566f9e9935d2",
+      "gousto_uuid": "61b32cd0-ca40-4e89-9039-c3e32a2cc30d",
+      "name": "chicken breast fillet",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-large-british-chicken-breast-fillet-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-large-british-chicken-breast-fillet-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-large-british-chicken-breast-fillet-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-large-british-chicken-breast-fillet-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-large-british-chicken-breast-fillet-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "5g fresh thyme",
+      "title": "thyme-I-07-HBS-PL-27",
+      "uid": "bltb384c356068db77a",
+      "gousto_uuid": "b69a875d-2105-4280-9890-7a3fba1afa14",
+      "name": "thyme",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-thyme-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-thyme-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-thyme-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-thyme-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-thyme-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 tbsp Dijon mustard",
+      "title": "dijon mustard-IQ-08-SAU-CD-01-06",
+      "uid": "blt2bb825b862b11381",
+      "gousto_uuid": "b3925e2a-48b7-44ee-9845-64ba83a70f58",
+      "name": "dijon mustard",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dijon-mustard-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dijon-mustard-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dijon-mustard-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dijon-mustard-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dijon-mustard-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "mustard"
+          },
+          {
+            "title": null,
+            "slug": "sulphites"
+          }
+        ]
+      }
+    },
+    {
+      "label": "2 garlic cloves",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Butter",
+      "slug": "butter"
+    },
+    {
+      "title": "Flour",
+      "slug": "flour"
+    },
+    {
+      "title": "Milk",
+      "slug": "milk"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Boil</strong> a kettle and preheat the oven to 230&deg;C/ 210&deg;C (fan)/ 450&deg;F/ Gas 8</p>\r\n<p><strong>Cut</strong> the potatoes into 2cm chunks, skin on, and peel and roughly chop the garlic&nbsp;</p>\r\n<p><strong>Add</strong> both to a pot, cover with boiled water by 5cm, bring to the boil on a high heat and cook for 10-15 min or until fork tender</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Meanwhile</strong>, bash the walnuts into small crumbs (either in their bag with a rolling pin or in a pestle and mortar)</p>\r\n<p><strong>Strip</strong> the thyme leaves from their stalks and chop finely&nbsp;</p>\r\n<p>Tip: If the stalks are soft, then chop and use them too</p>\r\n<p><strong>Mix</strong> the walnuts, thyme and breadcrumbs on a plate and season generously with salt</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> 2 tbsp <span class=\"text-danger\">(4 tbsp)</span> plain flour to a shallow bowl and season with salt and pepper</p>\r\n<p><strong>Crack</strong> the egg into another shallow bowl and beat well</p>\r\n<p><strong>Slice</strong> the chicken breast<span class=\"text-danger\">(s)</span> in half lengthways, laying your hand over the breasts and sawing through, forming 2 <span class=\"text-danger\">(4)</span> thin escalopes</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Check</strong> on your potatoes and drain once fork tender for step 7</p>\r\n<p><strong>Coat</strong> one escalope in the seasoned flour, tapping off any excess</p>\r\n<p><strong>Dip</strong> it in the egg and coat well, then roll it in the breadcrumbs and press it firmly down to coat evenly</p>\r\n<p><strong>Repeat</strong> with the remaining escalope<span class=\"text-danger\">(s)</span></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Heat</strong> a large, wide-based pan (preferably non-stick) with 2 tbsp <span class=\"text-danger\">(4 tbsp)</span> vegetable oil on a medium heat</p>\r\n<p><strong>When</strong> hot, add the crumbed chicken and cook on each side for 3 min</p>\r\n<p><strong>Transfer</strong> them to a baking tray and put them in the oven for a further 5 min or until cooked through</p>\r\n<p>Tip: Line the tray with foil to avoid mess</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Meanwhile</strong>, trim the green beans and cut them in half</p>\r\n<p><strong>Add</strong> them to a pot and cover with salted boiling water by 5cm</p>\r\n<p><strong>Bring</strong> to the boil on a high heat and cook for 4-5 min or until tender but with a slight bite</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Meanwhile</strong>, return the drained potatoes to the cooking pot</p>\r\n<p><strong>Add</strong> a knob of butter, a splash of milk, the Dijon mustard and season with salt and pepper</p>\r\n<p><strong>Mash</strong> thoroughly until fully combined</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-7-new-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-7-new-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-7-new-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-7-new-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/468.-step-7-new-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Once</strong> the chicken is ready, season it generously with salt and pepper and serve it over the mash with the green beans to the side</p>\r\n<p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "egg",
+      "slug": "egg"
+    },
+    {
+      "title": "mustard",
+      "slug": "mustard"
+    },
+    {
+      "title": "sulphites",
+      "slug": "sulphites"
+    },
+    {
+      "title": "nut",
+      "slug": "nut"
+    },
+    {
+      "title": "peanut",
+      "slug": "peanut"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    }
+  ],
+  "seo": {
+    "title": "Walnut Chicken Schnitzel",
+    "description": "Chicken breast crumbed with walnuts, thyme and breadcrumbs - golden and delicious. Served with buttery Dijon mash and green beans. You'll love it - fo' schnitzel!",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/468.WalnutChickenSchnitzel.jpg"
+  },
+  "tags": [],
+  "uid": "blt833d11d96107baab",
+  "_version": 49,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 113,
+      "energy_kj": 478,
+      "fat_mg": 3236,
+      "fat_saturates_mg": 507,
+      "carbs_mg": 11486,
+      "carbs_sugars_mg": 865,
+      "fibre_mg": 1468,
+      "protein_mg": 10289,
+      "salt_mg": 301,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 562,
+      "energy_kj": 2365,
+      "fat_mg": 15986,
+      "fat_saturates_mg": 2505,
+      "carbs_mg": 56741,
+      "carbs_sugars_mg": 4274,
+      "fibre_mg": 7256,
+      "protein_mg": 50828,
+      "salt_mg": 1490,
+      "net_weight_mg": 494000
+    }
+  },
+  "portion_sizes": null
+}

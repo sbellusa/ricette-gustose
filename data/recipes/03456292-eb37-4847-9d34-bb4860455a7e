@@ -1,0 +1,622 @@
+{
+  "url": "/saucy-prawn-pepper-black-bean-stir-fry",
+  "title": "Saucy Prawn & Pepper Black Bean Stir-Fry",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "4746",
+  "gousto_uid": "03456292-eb37-4847-9d34-bb4860455a7e",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4601---Saucy-Prawn--Pepper-Black-Bean-Stir-Fry17200-1655203629657-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4601---Saucy-Prawn--Pepper-Black-Bean-Stir-Fry17200-1655203629657-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4601---Saucy-Prawn--Pepper-Black-Bean-Stir-Fry17200-1655203629657-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4601---Saucy-Prawn--Pepper-Black-Bean-Stir-Fry17200-1655203629657-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4601---Saucy-Prawn--Pepper-Black-Bean-Stir-Fry17200-1655203629657-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 1178
+  },
+  "description": "This Chinese-style noodle stir-fry is a weeknight winner. Cook your juicy prawns, pepper and spinach in a super savoury black bean sauce before tossing in springy wholewheat noodles. Sizzle, stir and serve with a sprinkle of chilli.",
+  "prep_times": {
+    "for_2": 10,
+    "for_4": 10
+  },
+  "cuisine": null,
+  "ingredients": [
+    {
+      "label": "2 wholewheat noodle nests",
+      "title": "wholewheat noodle nests-I-03-GRN-PA-48",
+      "uid": "blt3b2ea1ec55acebf7",
+      "gousto_uuid": "7ae0992b-12f8-4a27-ab5d-1bb689f230ba",
+      "name": "wholewheat noodle nests",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/3-wholewheat-noodle-nests-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/3-wholewheat-noodle-nests-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/3-wholewheat-noodle-nests-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/3-wholewheat-noodle-nests-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/3-wholewheat-noodle-nests-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "egg"
+          }
+        ]
+      }
+    },
+    {
+      "label": "171g raw peeled king prawns",
+      "title": "raw peeled king prawns-IQ-10-MPF-SE-48",
+      "uid": "blt01cf20ef6ca28e39",
+      "gousto_uuid": "48c7b19a-f68a-4b5d-91ca-cab712024589",
+      "name": "raw peeled king prawns",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/raw-peeled-king-prawns-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/raw-peeled-king-prawns-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/raw-peeled-king-prawns-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/raw-peeled-king-prawns-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/raw-peeled-king-prawns-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "crustacean"
+          },
+          {
+            "title": null,
+            "slug": "mollusc"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1/2 tsp dried chilli flakes",
+      "title": "dried chilli flakes-I-06-SML-CL-03",
+      "uid": "bltc941509f43a536f0",
+      "gousto_uuid": "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+      "name": "dried chilli flakes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "40g black bean paste",
+      "title": "black bean paste-I-08-SAU-PS-58",
+      "uid": "bltbfc60ee138588e11",
+      "gousto_uuid": "ae66cc4b-70f8-4c26-a354-36dff0c466b6",
+      "name": "black bean paste",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Black-Bean-Paste-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Black-Bean-Paste-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Black-Bean-Paste-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Black-Bean-Paste-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Black-Bean-Paste-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "15ml Chinese rice wine",
+      "title": "Chinese rice wine-I-08-SAU-LS-30",
+      "uid": "blt6accad9549cb3cb5",
+      "gousto_uuid": "3484b3bc-d97e-4b98-b132-7ead51932d79",
+      "name": "Chinese rice wine",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chinese-rice-wine-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chinese-rice-wine-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chinese-rice-wine-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chinese-rice-wine-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chinese-rice-wine-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "80g spinach",
+      "title": "spinach-I-05-FVG-FG-02-03",
+      "uid": "blte6edae427c7fa86f",
+      "gousto_uuid": "d240500f-9c26-4286-88bc-6be3e774e96b",
+      "name": "spinach",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 garlic clove",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 yellow pepper",
+      "title": "yellow pepper-I-05-FVG-FV-10",
+      "uid": "blt6178d42fac323ad4",
+      "gousto_uuid": "4d56f6a8-e1a5-4cf1-b273-088b02206556",
+      "name": "yellow pepper",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/yellow-pepper-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/yellow-pepper-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/yellow-pepper-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/yellow-pepper-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/yellow-pepper-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Before you begin...</strong></p><p>Get all your ingredients and equipment ready</p><p>Skim through these steps, then wash your fruit and veg</p><p>Note: Equipment and pan sizes vary. Make sure you cook food thoroughly (even if it takes you a little longer than 10 min)</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-1654603379601-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-1654603379601-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-1654603379601-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-1654603379601-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-1654603379601-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Now let's get started!</strong></p><p>Boil a full kettle</p><p>Deseed the <strong>yellow pepper<span class=\"text-danger\">[s]</span></strong> (scrape the seeds and pith out with a teaspoon) and cut into thin strips</p><p>Peel and finely slice (don't chop!) the <strong>garlic</strong></p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-copy-3-1654603419125-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-copy-3-1654603419125-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-copy-3-1654603419125-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-copy-3-1654603419125-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-copy-3-1654603419125-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>wheat noodles</strong> to a large bowl, cover them with <strong>boiled water</strong> and stir for 10 secs to separate the noodles</p><p>Set aside to soak for 5-6 min</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1-1654603413957-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1-1654603413957-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1-1654603413957-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1-1654603413957-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1-1654603413957-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>While the noodles are soaking, heat a large, wide-based pan (preferably non-stick with a matching lid) with a drizzle of <strong>vegetable oil</strong> over a medium-high heat</p><p>Once hot, add the <strong>sliced yellow pepper</strong> to the pan and cook for 2-3 min or until slightly softened</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-copy-2-1654603441964-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-copy-2-1654603441964-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-copy-2-1654603441964-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-copy-2-1654603441964-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-copy-2-1654603441964-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the pepper has softened, add the<strong> sliced garlic </strong>to the pan and cook for 1-2 min or until fragrant</p><p>Meanwhile, drain the <strong>softened wheat noodles</strong>, reserving 50ml <span class=\"text-danger\">[100ml] </span><strong>starchy noodle water</strong></p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-copy-2-1654603469767-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-copy-2-1654603469767-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-copy-2-1654603469767-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-copy-2-1654603469767-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-copy-2-1654603469767-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Drain the <strong>king prawns</strong></p><p>Once fragrant, add the <strong>king</strong> <strong>prawns </strong>with the <strong>black bean paste</strong>, <strong>Chinese rice wine</strong> and <strong>starchy noodle water</strong></p><p>Season with a pinch of <strong>salt </strong>and a grind of <strong>black pepper </strong>and cook for 2-3 min or until the sauce has slightly thickened</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-copy-2-1654603701865-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-copy-2-1654603701865-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-copy-2-1654603701865-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-copy-2-1654603701865-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-copy-2-1654603701865-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Wash the <strong>spinach</strong></p><p>Add the <strong>drained wheat noodles</strong> to the pan with the <strong>spinach </strong>and cover with a lid for 1-2 min or until the spinach starts to wilt</p><p>Once slightly wilted, give everything a good mix up – this is your <strong>saucy prawn & pepper black bean stir-fry</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-copy-2-1654603714618-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-copy-2-1654603714618-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-copy-2-1654603714618-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-copy-2-1654603714618-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-copy-2-1654603714618-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>saucy</strong> <strong>prawn & pepper black bean stir-fry </strong>in bowls</p><p>Garnish with the <strong>chilli flakes </strong>(can't handle the heat? Go easy!)</p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "crustacean",
+      "slug": "crustacean"
+    },
+    {
+      "title": "mollusc",
+      "slug": "mollusc"
+    },
+    {
+      "title": "egg",
+      "slug": "egg"
+    }
+  ],
+  "seo": {
+    "title": "Saucy Prawn & Pepper Black Bean Stir-Fry",
+    "description": "This Chinese-style noodle stir-fry is a weeknight winner. Cook your juicy prawns, pepper and spinach in a super savoury black bean sauce before tossing in springy wholewheat noodles. Sizzle, stir and serve with a sprinkle of chilli.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://s3-eu-west-1.amazonaws.com/s3-gousto-production-media/cms/mood-image/4601---Saucy-Prawn--Pepper-Black-Bean-Stir-Fry17200-1655203629657.jpg"
+  },
+  "tags": [],
+  "uid": "blt34ecbdf5c96cf91e",
+  "_version": 1211,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 114,
+      "energy_kj": 482,
+      "fat_mg": 750,
+      "fat_saturates_mg": 164,
+      "carbs_mg": 16946,
+      "carbs_sugars_mg": 2531,
+      "fibre_mg": 2708,
+      "protein_mg": 8460,
+      "salt_mg": 936,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 329,
+      "energy_kj": 1381,
+      "fat_mg": 2151,
+      "fat_saturates_mg": 472,
+      "carbs_mg": 48553,
+      "carbs_sugars_mg": 7253,
+      "fibre_mg": 7761,
+      "protein_mg": 24239,
+      "salt_mg": 2684,
+      "net_weight_mg": 286500
+    }
+  },
+  "portion_sizes": null
+}

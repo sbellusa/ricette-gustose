@@ -1,0 +1,606 @@
+{
+  "url": "/creamy-tuscan-salmon-gnocchi",
+  "title": "Creamy Tuscan Salmon Gnocchi",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": null,
+      "url": null,
+      "uid": "blt54538aae1331442b"
+    },
+    {
+      "title": "10-Minute Meals",
+      "url": "/10-minute-meals",
+      "uid": "blt464f71fb1a92c640"
+    }
+  ],
+  "gousto_id": "1406",
+  "gousto_uid": "012aeea4-25de-4c5b-be41-ea8caa8b91e5",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1422_10-Min-Creamy-Tuscan-Salmon-Gnocchi-3516-1606826694150-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1422_10-Min-Creamy-Tuscan-Salmon-Gnocchi-3516-1606826694150-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1422_10-Min-Creamy-Tuscan-Salmon-Gnocchi-3516-1606826694150-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1422_10-Min-Creamy-Tuscan-Salmon-Gnocchi-3516-1606826694150-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1422_10-Min-Creamy-Tuscan-Salmon-Gnocchi-3516-1606826694150-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 4347
+  },
+  "description": "A salmon gnocchi that's easy to rustle up, and packed with flavour thanks to our quick 'n' creamy sun-dried tomato sauce. Add baby leaf spinach for extra goodness, and be ready to eat in just 10 minutes. ",
+  "prep_times": {
+    "for_2": 10,
+    "for_4": 10
+  },
+  "cuisine": {
+    "slug": "italian",
+    "title": "Italian"
+  },
+  "ingredients": [
+    {
+      "label": "5g basil",
+      "title": "basil-I-07-HBS-PL-23",
+      "uid": "bltf719958334d8b893",
+      "gousto_uuid": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+      "name": "basil",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "120g baby leaf spinach",
+      "title": "spinach-I-05-FVG-FG-02-04",
+      "uid": "bltd7c3d53d5b7edea2",
+      "gousto_uuid": "e329fbb2-795e-457b-838e-4734e2691d32",
+      "name": "spinach",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "350g gnocchi",
+      "title": "gnocchi-I-09-DAI-PA-04",
+      "uid": "bltc6220dddc5609045",
+      "gousto_uuid": "2cada79f-be8e-41b5-8c11-3d6e9d3d6503",
+      "name": "gnocchi",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-gnocchi-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-gnocchi-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-gnocchi-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-gnocchi-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-gnocchi-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "100g crème fraîche",
+      "title": "yeo valley half fat creme fraiche-I-09-DAI-CR-28",
+      "uid": "blt20f45c969398b704",
+      "gousto_uuid": "bed4ab60-9043-425f-b1f8-ddb844b1cdb8",
+      "name": "yeo valley half fat creme fraiche",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pot-of-creme-fraiche-200g-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pot-of-creme-fraiche-200g-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pot-of-creme-fraiche-200g-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pot-of-creme-fraiche-200g-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pot-of-creme-fraiche-200g-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "2 x 110g skin-on salmon fillets",
+      "title": "skin on salmon fillets-IQ-10-MPF-SE-44",
+      "uid": "blt9841850f67971cd5",
+      "gousto_uuid": "ad9a92c9-f5b3-49ce-a582-be130ba3908b",
+      "name": "skin on salmon fillets",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-salmon-fillets-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-salmon-fillets-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-salmon-fillets-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-salmon-fillets-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-salmon-fillets-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "fish"
+          }
+        ]
+      }
+    },
+    {
+      "label": "30g sun-dried tomatoes",
+      "title": "sun-dried tomatoes-I-08-SAU-PS-56",
+      "uid": "blt852ccff697fc7d4e",
+      "gousto_uuid": "b7fdf602-c8e9-4bac-aa5d-1cf0c3c35bda",
+      "name": "sun-dried tomatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sundried-tomatoes---hydrated-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sundried-tomatoes---hydrated-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sundried-tomatoes---hydrated-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sundried-tomatoes---hydrated-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sundried-tomatoes---hydrated-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sulphites"
+          },
+          {
+            "title": null,
+            "slug": "peanut"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 garlic clove",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Butter",
+      "slug": "butter"
+    },
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Before you begin...</strong></p><p>Get all your ingredients and equipment ready</p><p>Skim through these steps, then wash your fruit and veg</p><p>Note: Equipment and pan sizes vary. Make sure you cook food thoroughly (even if it takes you a little longer than 10 min)</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin-10mm-Step-1-1617705072033-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin-10mm-Step-1-1617705072033-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin-10mm-Step-1-1617705072033-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin-10mm-Step-1-1617705072033-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin-10mm-Step-1-1617705072033-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Now, let's get started!</strong></p><p>Heat a large, wide-based pan (preferably non-stick) with a generous drizzle of <strong>olive oil</strong> over a medium-high heat</p><p>Once hot, add the <strong>gnocchi</strong> and cook for 6-8 min or until beginning to crisp</p><p>Tip: Don't stir too often as this will prevent the gnocchi from crisping!</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1610383725842-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1610383725842-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1610383725842-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1610383725842-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1610383725842-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, heat a separate large, wide-based pan (preferably non-stick) with a drizzle of <strong>olive oil</strong> over a medium-high heat</p><p>Once hot, add the <strong>salmon fillets </strong>(skin-side down), season with a pinch of <strong>salt</strong> and <strong>pepper</strong> and cook for 5-6 min, turning once halfway</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1610383751888-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1610383751888-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1610383751888-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1610383751888-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1610383751888-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Peel and roughly chop the <strong>garlic</strong></p><p>Chop the <strong>sun-dried tomatoes </strong>roughly</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1610383763062-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1610383763062-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1610383763062-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1610383763062-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1610383763062-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>chopped garlic </strong>and<strong> chopped sun-dried tomatoes</strong> to the pan with a knob of <strong>butter</strong> and cook for 1 min until fragrant and all the butter has melted</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1610383810208-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1610383810208-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1610383810208-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1610383810208-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1610383810208-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once fragrant, reduce the heat to medium and add the <strong>crème fraîche </strong>with 2 tbsp <span class=\"text-danger\">[4 tbsp] </span><strong>cold water</strong> and a pinch of <strong>salt </strong>and <strong>pepper </strong>– this is your<strong> creamy sun-dried tomato salmon</strong></p><p>Cook for 2-3 min further or until the salmon is cooked through</p><p>Tip: Your fish is cooked through when it's opaque and flakes easily</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1610383823213-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1610383823213-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1610383823213-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1610383823213-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1610383823213-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Wash the <strong>spinach</strong>, then pat it dry with <strong>kitchen paper</strong></p><p>Once the gnocchi has started to crisp, add the <strong>washed</strong> <strong>spinach </strong>to the pan and cook for 1-2 min until just starting to wilt – this is your <strong>spinach gnocchi</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1610383833963-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1610383833963-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1610383833963-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1610383833963-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1610383833963-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>creamy sun-dried tomato salmon</strong> over the <strong>spinach gnocchi</strong></p><p>Pour over any<strong> remaining creamy sun-dried tomato sauce</strong>, tear over the <strong>basil leaves</strong> and top with a few grinds of <strong>black pepper</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "fish",
+      "slug": "fish"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "sulphites",
+      "slug": "sulphites"
+    },
+    {
+      "title": "peanut",
+      "slug": "peanut"
+    }
+  ],
+  "seo": {
+    "title": "Creamy Tuscan Salmon Gnocchi",
+    "description": "A salmon gnocchi that's easy to rustle up, and packed with flavour thanks to our quick 'n' creamy sun-dried tomato sauce. Add baby leaf spinach for extra goodness, and be ready to eat in just 10 minutes. ",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://s3-eu-west-1.amazonaws.com/s3-gousto-production-media/cms/mood-image/1422_10-Min-Creamy-Tuscan-Salmon-Gnocchi-3516-1606826694150.jpg"
+  },
+  "tags": [],
+  "uid": "bltf2fa98623f3df784",
+  "_version": 4407,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 154,
+      "energy_kj": 649,
+      "fat_mg": 6861,
+      "fat_saturates_mg": 2106,
+      "carbs_mg": 14641,
+      "carbs_sugars_mg": 845,
+      "fibre_mg": 1049,
+      "protein_mg": 8696,
+      "salt_mg": 449,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 644,
+      "energy_kj": 2699,
+      "fat_mg": 28509,
+      "fat_saturates_mg": 8752,
+      "carbs_mg": 60837,
+      "carbs_sugars_mg": 3514,
+      "fibre_mg": 4361,
+      "protein_mg": 36134,
+      "salt_mg": 1866,
+      "net_weight_mg": 415500
+    }
+  },
+  "portion_sizes": null
+}

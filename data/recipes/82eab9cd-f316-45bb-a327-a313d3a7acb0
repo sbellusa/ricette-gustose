@@ -1,0 +1,819 @@
+{
+  "url": "/ultimate-mac-cheese",
+  "title": "Ultimate Mac & Cheese",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Pork Recipes",
+      "url": "/pork-recipes",
+      "uid": "bltf0761ae94eddf574"
+    },
+    {
+      "title": "Pasta Recipes",
+      "url": "/pasta-recipes",
+      "uid": "blt637b2a42a268b2b1"
+    },
+    {
+      "title": "Bacon Recipes",
+      "url": "/bacon-recipes",
+      "uid": "bltf58b3cec3b6d5148"
+    },
+    {
+      "title": "American Recipes",
+      "url": "/american-recipes",
+      "uid": "blt447891ec56e9854f"
+    }
+  ],
+  "gousto_id": "927",
+  "gousto_uid": "82eab9cd-f316-45bb-a327-a313d3a7acb0",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/943---Ultimate-Mac--Cheese-2-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/943---Ultimate-Mac--Cheese-2-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/943---Ultimate-Mac--Cheese-2-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/943---Ultimate-Mac--Cheese-2-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/943---Ultimate-Mac--Cheese-2-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 506
+  },
+  "description": "Why ultimate? This baby has a three-cheese sauce made with cheddar, mozzarella and Italian hard cheese, combined with garlic and wholegrain mustard to cut through the gooey cheesy goodness. Topped with crispy bacon, breadcrumbs and served with balsamic dressed leaves and roast baby plum tomatoes. It's time to get cheesy!",
+  "prep_times": {
+    "for_2": 45,
+    "for_4": 65
+  },
+  "cuisine": {
+    "slug": "american",
+    "title": "American"
+  },
+  "ingredients": [
+    {
+      "label": "40g Irish mature cheddar ",
+      "title": "cheddar cheese-I-09-DAI-CH-02",
+      "uid": "bltcf8784004b8281e0",
+      "gousto_uuid": "aed1561d-bae6-487b-a645-4125a6829119",
+      "name": "cheddar cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 tbsp Italian balsamic vinegar",
+      "title": "balsamic vinegar-IQ-08-SAU-LS-15",
+      "uid": "blt6bbba9d113d1bc1d",
+      "gousto_uuid": "6a710175-599d-400b-b4b6-0e9ed29e4986",
+      "name": "balsamic vinegar",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sulphites"
+          }
+        ]
+      }
+    },
+    {
+      "label": "50g baby leaf mixed salad",
+      "title": "baby leaf salad-I-05-FVG-FG-03-01",
+      "uid": "bltffe1841caada8361",
+      "gousto_uuid": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+      "name": "baby leaf salad",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "135g British dry cured smoked streaky bacon",
+      "title": "dry cured smoked streaky bacon-I-10-MPF-PM-04",
+      "uid": "blt9725ce3134c6fa73",
+      "gousto_uuid": "e184603a-7ad7-4278-8582-82e37f052f35",
+      "name": "dry cured smoked streaky bacon",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/90g-british-dry-cured-smoked-streaky-bacon-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/90g-british-dry-cured-smoked-streaky-bacon-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/90g-british-dry-cured-smoked-streaky-bacon-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/90g-british-dry-cured-smoked-streaky-bacon-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/90g-british-dry-cured-smoked-streaky-bacon-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "200g conchiglie",
+      "title": "conchiglie-IQ-03-GRN-PA-01-01",
+      "uid": "blt6828c6372a9df800",
+      "gousto_uuid": "9d6a9489-fe7d-49ff-916b-6af5bf887be4",
+      "name": "conchiglie",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/conchiglie-pasta-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/conchiglie-pasta-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/conchiglie-pasta-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/conchiglie-pasta-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/conchiglie-pasta-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "125g baby plum tomatoes",
+      "title": "baby plum tomatoes-I-05-FVG-FV-15",
+      "uid": "bltfca6129ef76f02da",
+      "gousto_uuid": "1829b78a-527f-4811-a4e4-8319b409f369",
+      "name": "baby plum tomatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-plum-tomatoes-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-plum-tomatoes-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-plum-tomatoes-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-plum-tomatoes-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-plum-tomatoes-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "30g panko breadcrumbs",
+      "title": "panko breadcrumbs-IQ-07-GRN-FL-07-01",
+      "uid": "blt17ec6d57c62774c9",
+      "gousto_uuid": "9ad5f266-6a86-432e-9750-6069db11686a",
+      "name": "panko breadcrumbs",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "40g Italian hard cheese",
+      "title": "italian hard cheese-I-09-DAI-CH-09",
+      "uid": "blt3f4c4b97eac0cddd",
+      "gousto_uuid": "489ee7e2-ff89-4089-b2a1-0f2876b8474c",
+      "name": "italian hard cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rennet-free-parmesan-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rennet-free-parmesan-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rennet-free-parmesan-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rennet-free-parmesan-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rennet-free-parmesan-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "125g fresh mozzarella ",
+      "title": "mozzarella-I-09-DAI-CH-06",
+      "uid": "bltc60ef78862781ea1",
+      "gousto_uuid": "d93301c4-2563-4b9d-b829-991800ca87b4",
+      "name": "mozzarella",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mozzarella-ball-125g-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mozzarella-ball-125g-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mozzarella-ball-125g-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mozzarella-ball-125g-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mozzarella-ball-125g-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "2 garlic cloves",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 tbsp wholegrain mustard ",
+      "title": "wholegrain mustard-IQ-08-SAU-CD-04-04",
+      "uid": "bltce3cf122846f94d9",
+      "gousto_uuid": "137766d6-0887-48c9-9b1e-cbc00c992c44",
+      "name": "wholegrain mustard",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/wholegrain-mustard-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/wholegrain-mustard-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/wholegrain-mustard-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/wholegrain-mustard-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/wholegrain-mustard-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "mustard"
+          },
+          {
+            "title": null,
+            "slug": "sulphites"
+          },
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Butter",
+      "slug": "butter"
+    },
+    {
+      "title": "Flour",
+      "slug": "flour"
+    },
+    {
+      "title": "Milk",
+      "slug": "milk"
+    },
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Sugar",
+      "slug": "sugar"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 180&deg;C/ 160&deg;C (fan)/ 350&deg;F/ Gas 4</p>\r\n<p>Boil a kettle</p>\r\n<p>Add the <strong>baby plum&nbsp;tomatoes</strong> to a baking tray with a drizzle of <strong>olive oil</strong> and season with a pinch of <strong>salt</strong> and<strong> sugar</strong></p>\r\n<p>Put them in the oven to slow-roast until serving (approx. 30 min)</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, add the&nbsp;<strong>conchiglie&nbsp;</strong>to a pot of <strong>boiled water</strong> with a large pinch of<strong>&nbsp;salt</strong>&nbsp;and bring to the boil over a high heat</p>\r\n<p>Cook the<strong>&nbsp;conchiglie</strong>&nbsp;for 8-10 min or until cooked with a slight bite</p>\r\n<p>Once done, drain the<strong>&nbsp;conchiglie</strong>, reserving 300ml <span class=\"text-danger\">[600ml]</span> of the&nbsp;<strong>starchy pasta water</strong></p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, cut the<strong>&nbsp;streaky bacon</strong>&nbsp;into small, bite-size pieces</p>\r\n<p>Heat a large, wide-based pan (preferably non-stick) over a high heat and once hot, add 2/3 of the <strong>chopped&nbsp;bacon</strong> (save the rest for later!)</p>\r\n<p>Cook for 3-4 min or until crisped, then transfer to <strong>kitchen paper</strong> and set aside (keep the pan!)</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, peel the&nbsp;<strong>garlic</strong></p>\r\n<p>Grate the&nbsp;<strong>Italian hard cheese</strong></p>\r\n<p>Grate the<strong>&nbsp;cheddar&nbsp;</strong></p>\r\n<p>Drain, pat dry and rip the&nbsp;<strong>mozzarella&nbsp;</strong>into small, bite-size pieces</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Return the&nbsp;pan to a medium heat and once hot, add 30g <span class=\"text-danger\">[60g]</span>&nbsp;<strong>butter</strong></p>\r\n<p>Once melted, add 30g <span class=\"text-danger\">[60g]</span><strong>&nbsp;flour&nbsp;</strong>and stir with a wooden spoon for 1-2 min or until a sandy paste forms - this is your<strong> roux</strong></p>\r\n<p>Gradually whisk 350ml <span class=\"text-danger\">[700ml]</span><strong>&nbsp;milk</strong>&nbsp;into the roux and cook for 5 min or until a smooth, thick sauce remains - this is your&nbsp;<strong>b&eacute;chamel sauce&nbsp;</strong></p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, grate the<strong>&nbsp;garlic</strong>&nbsp;into the&nbsp;<strong>b&eacute;chamel sauce</strong>&nbsp;and season with a generous pinch of&nbsp;<strong>salt</strong>&nbsp;and&nbsp;<strong>pepper&nbsp;</strong></p>\r\n<p>Once thickened, add the<strong>&nbsp;Italian hard cheese</strong>,&nbsp;<strong>cheddar</strong>,&nbsp;<strong>wholegrain mustard</strong>,&nbsp;<strong>crispy bacon</strong> and<strong>&nbsp;drained conchigle</strong>&nbsp;with a few splashes of<strong>&nbsp;starchy pasta water</strong>&nbsp;to loosen the mixture</p>\r\n<p>Tip: you want your sauce to be quite loose as it will continue to thicken in the oven!</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Remove the <strong>slow roasted tomatoes</strong> from the oven and set them aside until serving</p>\r\n<p>Increase the oven temperature to&nbsp;240&deg;C/ 220&deg;C (fan)/ 475&deg;F/ Gas 9</p>\r\n<p>Transfer the<strong>&nbsp;cheesy pasta&nbsp;</strong>to an <strong>oven-proof dish</strong>, then top with the<strong> ripped mozzarella</strong>, <strong>panko breadcrumbs</strong>&nbsp;and the remaining <strong>chopped bacon</strong>, drizzle with <strong>olive oil</strong> and put the dish in the oven for 20-25 min or until it's golden</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/943.-step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, combine the <strong>balsamic vinegar</strong> with 2 tbsp <span class=\"text-danger\">[4 tbsp]</span><strong> olive oil</strong> and a pinch of <strong>salt</strong> and <strong>pepper&nbsp;</strong>- this is your<strong>&nbsp;balsamic dressing</strong></p>\r\n<p>Gently toss the&nbsp;<strong>baby leaf</strong>&nbsp;<strong>mixed</strong>&nbsp;<strong>salad</strong> with the <strong>slow roasted tomatoes</strong>&nbsp;and drizzle with the <strong>balsamic dressing</strong> when you're ready to serve</p>\r\n<p>Enjoy!&nbsp;</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "mustard",
+      "slug": "mustard"
+    },
+    {
+      "title": "sulphites",
+      "slug": "sulphites"
+    },
+    {
+      "title": "crustacean",
+      "slug": "crustacean"
+    },
+    {
+      "title": "egg",
+      "slug": "egg"
+    },
+    {
+      "title": "fish",
+      "slug": "fish"
+    },
+    {
+      "title": "peanut",
+      "slug": "peanut"
+    },
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "nut",
+      "slug": "nut"
+    },
+    {
+      "title": "celery",
+      "slug": "celery"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    },
+    {
+      "title": "lupin",
+      "slug": "lupin"
+    },
+    {
+      "title": "mollusc",
+      "slug": "mollusc"
+    }
+  ],
+  "seo": {
+    "title": "Ultimate Mac & Cheese",
+    "description": "Why ultimate? This baby has a three-cheese sauce made with cheddar, mozzarella and Italian hard cheese, combined with garlic and wholegrain mustard to cut through the gooey cheesy goodness. Topped with crispy bacon, breadcrumbs and served with balsamic dressed leaves and roast baby plum tomatoes. It's time to get cheesy!",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/943---Ultimate-Mac--Cheese-2.jpg"
+  },
+  "tags": [],
+  "uid": "bltccf0b088181d7224",
+  "_version": 51,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 223,
+      "energy_kj": 938,
+      "fat_mg": 9413,
+      "fat_saturates_mg": 4873,
+      "carbs_mg": 22574,
+      "carbs_sugars_mg": 1623,
+      "fibre_mg": 1241,
+      "protein_mg": 12003,
+      "salt_mg": 838,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 909,
+      "energy_kj": 3821,
+      "fat_mg": 38312,
+      "fat_saturates_mg": 19835,
+      "carbs_mg": 91880,
+      "carbs_sugars_mg": 6607,
+      "fibre_mg": 5051,
+      "protein_mg": 48856,
+      "salt_mg": 3413,
+      "net_weight_mg": 407000
+    }
+  },
+  "portion_sizes": null
+}

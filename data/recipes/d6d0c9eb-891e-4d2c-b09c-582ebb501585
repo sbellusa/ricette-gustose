@@ -1,0 +1,655 @@
+{
+  "url": "/sage-onion-roast",
+  "title": "Sage & Onion Roast",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Vegetarian Recipes ",
+      "url": "/vegetarian-recipes",
+      "uid": "blta762d7d1d30213a2"
+    }
+  ],
+  "gousto_id": "442",
+  "gousto_uid": "d6d0c9eb-891e-4d2c-b09c-582ebb501585",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/463_SageOnionRoast-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/463_SageOnionRoast-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/463_SageOnionRoast-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/463_SageOnionRoast-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/463_SageOnionRoast-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 124
+  },
+  "description": "Sage and onion stuffing balls sit atop homemade apple sauce with crispy roast veg to the side. All the best flavours of Christmas, minus the meat. ",
+  "prep_times": {
+    "for_2": 45,
+    "for_4": 60
+  },
+  "cuisine": {
+    "slug": "british",
+    "title": "British"
+  },
+  "ingredients": [
+    {
+      "label": "2 apples",
+      "title": "apple-I-02-SVG-SF-04",
+      "uid": "blt03423678a2d052e8",
+      "gousto_uuid": "624ca93c-914e-4290-b00a-bd936adfebca",
+      "name": "apple",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-apple-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-apple-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-apple-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-apple-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-apple-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 egg",
+      "title": "British free range egg-IQ-06-SML-OT-01-01",
+      "uid": "bltb40819d6ebf4ef0d",
+      "gousto_uuid": "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+      "name": "British free range egg",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "egg"
+          }
+        ]
+      }
+    },
+    {
+      "label": "100g parsnips",
+      "title": "parsnips-IQ-02-SVG-VG-03-01",
+      "uid": "blt1a2ffca5411585ea",
+      "gousto_uuid": "f909711c-e023-40bd-b328-f0642e106543",
+      "name": "parsnips",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/parsnip-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/parsnip-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/parsnip-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/parsnip-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/parsnip-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "400g potatoes",
+      "title": "potatoes-I-02-SVG-VG-01-04",
+      "uid": "blt9a854f6d88c0b7d0",
+      "gousto_uuid": "d3d0d01e-fd04-4393-bfd6-603fb5e030e8",
+      "name": "potatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 ciabatta roll",
+      "title": "ciabatta rolls-IQ-11-BRD-BR-11",
+      "uid": "blt16bdcda8ce6fdba4",
+      "gousto_uuid": "d73b3dc9-2fff-4b58-a952-336e35c9722d",
+      "name": "ciabatta rolls",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ciabatta-roll-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ciabatta-roll-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ciabatta-roll-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ciabatta-roll-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ciabatta-roll-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "10g fresh sage",
+      "title": "sage-I-07-HBS-PL-42",
+      "uid": "blt0f92d4b38b3be3fd",
+      "gousto_uuid": "984c6c62-d02b-4431-b297-0c0f712548a8",
+      "name": "sage",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-sage-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-sage-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-sage-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-sage-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-sage-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "100g Brussels sprouts",
+      "title": "brussel sprouts-IQ-05-FVG-LF-21-01",
+      "uid": "blt76ea81574bb65e12",
+      "gousto_uuid": "be78f652-00bd-466e-98dc-97c6c58ab868",
+      "name": "brussel sprouts",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/brussel-sprouts-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/brussel-sprouts-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/brussel-sprouts-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/brussel-sprouts-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/brussel-sprouts-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "200g carrots",
+      "title": "carrots-IQ-05-FVG-VG-01-05",
+      "uid": "bltd9d82b675531cf5a",
+      "gousto_uuid": "d81fc312-e991-4e23-8e40-da92856f9b27",
+      "name": "carrots",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 onion",
+      "title": "brown onion-I-02-SVG-VG-07",
+      "uid": "blt8f3ebc667e318aad",
+      "gousto_uuid": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Butter",
+      "slug": "butter"
+    },
+    {
+      "title": "Flour",
+      "slug": "flour"
+    },
+    {
+      "title": "Milk",
+      "slug": "milk"
+    },
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Preheat</strong> the oven to&nbsp;240&deg;C/ 220&deg;C (fan)/ 475&deg;F/ Gas 9</p>\r\n<p><strong>Peel</strong> and cut the parsnip<span class=\"text-danger\">(s)</span>, carrot<span class=\"text-danger\">(s)</span> and potatoes (with skins on) into 3 cm chunks</p>\r\n<p><strong>Place</strong> the vegetables on a baking tray, coat with 2 tbsp<span class=\"text-danger\"> (4 tbsp)</span> vegetable oil, season generously with salt and place in the oven for an initial 20 min</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Meanwhile</strong>, peel and finely dice the onion<span class=\"text-danger\">(s) </span></p>\r\n<p><strong>Heat</strong> a large wide-based pan (preferably non-stick) with 1 tbsp <span class=\"text-danger\">(2 tbsp)</span>&nbsp;vegetable oil on a medium-high heat</p>\r\n<p><strong>When</strong> hot, add the onion, a pinch of salt</p>\r\n<p><strong>Cook</strong> for 4 min until softened, stirring frequently</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Meanwhile</strong>, tear the ciabatta into bite-size pieces, chop the sage finely (stalks too) and combine in a large mixing bowl</p>\r\n<p><strong>Add</strong> 50ml<span class=\"text-danger\"> (100ml)</span>&nbsp;milk to the onion pan and warm for 1 min, then pour it over the bread and wipe the pan clean for step 7</p>\r\n<p><strong>Season</strong> the mixture generously with salt and pepper, mix well, then cover with cling film until step 7&nbsp;</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Meanwhile</strong>, peel the apples for your apple sauce</p>\r\n<p><strong>Quarter</strong> them, discard the core and chop into 3cm chunks</p>\r\n<p><strong>Add</strong> the apple to a pot with 200ml<span class=\"text-danger\"> (300ml)</span> cold water</p>\r\n<p><strong>Bring</strong> to the boil on a medium-high heat</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Boil</strong> for 10-15 min until the apple has softened</p>\r\n<p><strong>Once</strong> softened, remove from the heat and mash thoroughly with a potato masher</p>\r\n<p><strong>You</strong> should end up with a coarse, homemade apple sauce</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Once</strong> the vegetables have had their initial 20 min, add the sprouts and return the tray to the oven for a further 10 min</p>\r\n<p><strong>Meanwhile</strong>, push the bread mixture aside in the bowl and beat the egg<span class=\"text-danger\">(s)</span> in with a fork</p>\r\n<p><strong>Add</strong> 60g <span class=\"text-danger\">(120g)</span> of flour&nbsp;</p>\r\n<p><strong>Carefully</strong> stir the mixture - it should be slighly sticky, but if it's too wet add more flour</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Wet</strong> your hands and divide the mixture into 6 <span class=\"text-danger\">(12)</span> balls (slightly smaller than a golf ball)</p>\r\n<p><strong>Return</strong> the reserved pan back to a medium heat with a knob of butter and 1 tbsp <span class=\"text-danger\">(2 tbsp)</span> of vegetable oil</p>\r\n<p><strong>When</strong> hot, add the dumplings and cook for 5 min until crispy and golden on each side (use tongs for more control)</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/463.-step7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Serve</strong> the stuffing balls over the apple sauce with the roast vegetables to the side</p>\r\n<p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "egg",
+      "slug": "egg"
+    },
+    {
+      "title": "wheat-gluten",
+      "slug": "wheat-gluten"
+    }
+  ],
+  "seo": {
+    "title": "Sage & Onion Roast",
+    "description": "Sage and onion stuffing balls sit atop homemade apple sauce with crispy roast veg to the side. All the best flavours of Christmas, minus the meat. ",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/463_SageOnionRoast.jpg"
+  },
+  "tags": [],
+  "uid": "bltd378637204211283",
+  "_version": 47,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 72,
+      "energy_kj": 307,
+      "fat_mg": 1231,
+      "fat_saturates_mg": 276,
+      "carbs_mg": 13743,
+      "carbs_sugars_mg": 4690,
+      "fibre_mg": 1479,
+      "protein_mg": 2362,
+      "salt_mg": 95,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 470,
+      "energy_kj": 1986,
+      "fat_mg": 7940,
+      "fat_saturates_mg": 1781,
+      "carbs_mg": 88645,
+      "carbs_sugars_mg": 30255,
+      "fibre_mg": 9545,
+      "protein_mg": 15240,
+      "salt_mg": 613,
+      "net_weight_mg": 645000
+    }
+  },
+  "portion_sizes": null
+}

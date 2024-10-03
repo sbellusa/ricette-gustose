@@ -1,0 +1,812 @@
+{
+  "url": "/tomato-chicken-risotto-with-basil-oil",
+  "title": "Tomato & Chicken Risotto With Basil Oil",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Chicken",
+      "url": "/chicken",
+      "uid": "blt84f37ae679edc7e6"
+    },
+    {
+      "title": "Rice Recipes",
+      "url": "/rice-recipes",
+      "uid": "blt7d4da6bbb3711078"
+    },
+    {
+      "title": "Chicken Recipes",
+      "url": "/chicken-recipes",
+      "uid": "blt7efd940d5b4a3c2e"
+    },
+    {
+      "title": "Risotto Recipes",
+      "url": "/risotto-recipes",
+      "uid": "blt3ab6e37a8ace7672"
+    },
+    {
+      "title": "Italian Recipes",
+      "url": "/italian-recipes",
+      "uid": "blt7306e62f2a9906c9"
+    },
+    {
+      "title": "Gluten-Free ",
+      "url": "/gluten-free",
+      "uid": "blt05a40818b6dba670"
+    },
+    {
+      "title": "Gluten Free Recipes",
+      "url": "/gluten-free-recipes",
+      "uid": "bltd38409eebe22a089"
+    }
+  ],
+  "gousto_id": "317",
+  "gousto_uid": "98127230-b3cf-4cae-bb98-984e7df7aad0",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/339_Tomato--Chicken-Risotto-With-Basil-Oil-0070-1582199669653-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/339_Tomato--Chicken-Risotto-With-Basil-Oil-0070-1582199669653-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/339_Tomato--Chicken-Risotto-With-Basil-Oil-0070-1582199669653-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/339_Tomato--Chicken-Risotto-With-Basil-Oil-0070-1582199669653-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/339_Tomato--Chicken-Risotto-With-Basil-Oil-0070-1582199669653-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 14056
+  },
+  "description": "This tomato risotto is a dreamy dinner delight. You'll stir arborio rice in stock until it's silky and indulgent, then top it with golden brown British chicken and fresh basil oil. Yum!",
+  "prep_times": {
+    "for_2": 35,
+    "for_4": 40
+  },
+  "cuisine": {
+    "slug": "italian",
+    "title": "Italian"
+  },
+  "ingredients": [
+    {
+      "label": "40g cheddar cheese",
+      "title": "cheddar cheese-I-09-DAI-CH-02",
+      "uid": "bltcf8784004b8281e0",
+      "gousto_uuid": "aed1561d-bae6-487b-a645-4125a6829119",
+      "name": "cheddar cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "160g arborio rice",
+      "title": "arborio rice-IQ-03-GRN-RC-26-01",
+      "uid": "blta60f059a7379b5c7",
+      "gousto_uuid": "a749d8cc-add6-4cb1-99df-6ca05a9436fa",
+      "name": "arborio rice",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-arborio-rice-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-arborio-rice-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-arborio-rice-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-arborio-rice-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-arborio-rice-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "400g finely chopped tomatoes",
+      "title": "finely chopped tomatoes-I-01-CAN-VC-50",
+      "uid": "blt269c8bc966804e9e",
+      "gousto_uuid": "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+      "name": "finely chopped tomatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "11g vegetable stock mix",
+      "title": "vegetable stock mix-I-06-SML-SC-27",
+      "uid": "bltebbd714d321e7e43",
+      "gousto_uuid": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+      "name": "vegetable stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "15ml red wine vinegar",
+      "title": "red wine vinegar-I-08-SAU-LS-13",
+      "uid": "blt8407e6fbf8d8d9c5",
+      "gousto_uuid": "3982abce-0437-40bc-950c-bc4990c45d9a",
+      "name": "red wine vinegar",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sulphites"
+          }
+        ]
+      }
+    },
+    {
+      "label": "250g British diced chicken breast",
+      "title": "British diced chicken breast-I-10-MPF-PO-05",
+      "uid": "bltc205e354c02de571",
+      "gousto_uuid": "d5a5797a-7cef-4d50-970d-d3e08d19836b",
+      "name": "British diced chicken breast",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "10g basil",
+      "title": "basil-I-07-HBS-PL-24",
+      "uid": "blt821e03d8c019acd3",
+      "gousto_uuid": "a59bfc93-dcf1-42ef-afb5-9ae6f01bc71f",
+      "name": "basil",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 garlic cloves",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 brown onion",
+      "title": "brown onion-I-02-SVG-VG-07",
+      "uid": "blt8f3ebc667e318aad",
+      "gousto_uuid": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Sugar",
+      "slug": "sugar"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Before you start cooking, take your <strong>chicken</strong> out of the fridge, open the packet and let it air</p><p>Boil a kettle</p><p>Dissolve the<strong> vegetable stock mix</strong> in 400ml <span class=\"text-danger\">[800ml]</span><strong> boiled water</strong></p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1582199871523-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1582199871523-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1582199871523-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1582199871523-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1582199871523-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Peel and finely dice the<strong> brown onion<span class=\"text-danger\">[s]</span></strong></p><p>Peel and finely chop (or grate) the <strong>garlic</strong></p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1582199876091-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1582199876091-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1582199876091-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1582199876091-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1582199876091-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>olive oil</strong> over a medium heat</p><p>Once hot, add the<strong> diced onion</strong> and a pinch of <strong>salt</strong> and cook for 3 min until starting to soften, but not colour</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1582199879768-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1582199879768-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1582199879768-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1582199879768-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1582199879768-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>arborio rice</strong> and <strong>chopped</strong> <strong>garlic</strong> to the<strong> </strong>pan, stirring to coat the grains of rice in the oil</p><p>Add the <strong>chopped tomatoes</strong> and stir continuously until the rice has absorbed most of the tomato juice</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1582199883973-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1582199883973-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1582199883973-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1582199883973-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1582199883973-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>vegetable stock</strong> a ladle at a time, stirring continuously for 25-30 min or until all the stock has absorbed and the rice is cooked – this is your <strong>tomato risotto</strong></p><p>Meanwhile, chop the <strong>basil</strong> finely, including the stalks</p><p>Grate the <strong>cheddar cheese</strong></p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1582199887733-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1582199887733-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1582199887733-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1582199887733-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1582199887733-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Grind<strong> </strong>most<strong> </strong>of the <strong>chopped basil</strong> (save some for garnish!) and a pinch of <strong>salt</strong> in a <strong>pestle & mortar</strong> to form a paste</p><p>Add 2 tbsp <span class=\"text-danger\">[4 tbsp] </span><strong>olive oil</strong> and mix well – this is your <strong>basil oil</strong></p><p>Tip: If you don't have a pestle & mortar, chop the basil very finely and mix with olive oil</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1582199891770-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1582199891770-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1582199891770-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1582199891770-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1582199891770-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a separate, large, wide-based pan (preferably non-stick) with a drizzle of<strong> olive oil</strong> over a medium-high heat</p><p>Once hot, add the <strong>diced chicken breast</strong> and cook for 8 min or until coloured and cooked through (no pink meat!), then season lightly with <strong>salt</strong> and <strong>pepper</strong></p><p>Once the risotto is nearly done, add the <strong>red wine vinegar</strong> and 1/2 tsp <span class=\"text-danger\">[1 tsp]</span><strong> sugar</strong> and cook for a further 2 min</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1582199896725-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1582199896725-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1582199896725-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1582199896725-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1582199896725-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the<strong> cooked chicken</strong> and <strong>half</strong> the <strong>grated cheese</strong> to the tomato risotto<strong> </strong>and gently stir it all together – this is your <strong>tomato & chicken risotto</strong></p><p>Serve the <strong>tomato & chicken risotto </strong>in bowls and garnish with the <strong>remaining grated cheese </strong>and <strong>chopped basil</strong></p><p>Drizzle the <strong>basil oil </strong>all over</p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "sulphites",
+      "slug": "sulphites"
+    }
+  ],
+  "seo": {
+    "title": "Tomato & Chicken Risotto With Basil Oil",
+    "description": "This tomato risotto is a dreamy dinner delight. You'll stir arborio rice in stock until it's silky and indulgent, then top it with golden brown British chicken and fresh basil oil. Yum!",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/339_Tomato--Chicken-Risotto-With-Basil-Oil-0070-1582199669653.jpg"
+  },
+  "tags": [],
+  "uid": "blt6949303b46a2c770",
+  "_version": 8439,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 116,
+      "energy_kj": 491,
+      "fat_mg": 1972,
+      "fat_saturates_mg": 1097,
+      "carbs_mg": 15884,
+      "carbs_sugars_mg": 2366,
+      "fibre_mg": 893,
+      "protein_mg": 9044,
+      "salt_mg": 403,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 569,
+      "energy_kj": 2404,
+      "fat_mg": 9644,
+      "fat_saturates_mg": 5367,
+      "carbs_mg": 77674,
+      "carbs_sugars_mg": 11572,
+      "fibre_mg": 4367,
+      "protein_mg": 44229,
+      "salt_mg": 1971,
+      "net_weight_mg": 489000
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+          "code": "I-02-SVG-VG-07",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "a59bfc93-dcf1-42ef-afb5-9ae6f01bc71f",
+          "code": "I-07-HBS-PL-24",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "3982abce-0437-40bc-950c-bc4990c45d9a",
+          "code": "I-08-SAU-LS-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "a749d8cc-add6-4cb1-99df-6ca05a9436fa",
+          "code": "IQ-03-GRN-RC-26-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+          "code": "I-01-CAN-VC-50",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d5a5797a-7cef-4d50-970d-d3e08d19836b",
+          "code": "I-10-MPF-PO-05",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "aed1561d-bae6-487b-a645-4125a6829119",
+          "code": "I-09-DAI-CH-02",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+          "code": "I-02-SVG-VG-07",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "a59bfc93-dcf1-42ef-afb5-9ae6f01bc71f",
+          "code": "I-07-HBS-PL-24",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "3982abce-0437-40bc-950c-bc4990c45d9a",
+          "code": "I-08-SAU-LS-13",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "a749d8cc-add6-4cb1-99df-6ca05a9436fa",
+          "code": "IQ-03-GRN-RC-26-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+          "code": "I-01-CAN-VC-50",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "d5a5797a-7cef-4d50-970d-d3e08d19836b",
+          "code": "I-10-MPF-PO-05",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "aed1561d-bae6-487b-a645-4125a6829119",
+          "code": "I-09-DAI-CH-02",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    }
+  ]
+}

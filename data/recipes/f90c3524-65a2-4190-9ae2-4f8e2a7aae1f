@@ -1,0 +1,873 @@
+{
+  "url": "/simple-smoked-fish-florentine-bake",
+  "title": "Simple Smoked Basa Florentine Bake",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": null,
+      "url": null,
+      "uid": "blt54538aae1331442b"
+    },
+    {
+      "title": "Family Classics",
+      "url": "/family-classics",
+      "uid": "blt40d209adee75b921"
+    },
+    {
+      "title": "Fish Recipes",
+      "url": "/fish-recipes",
+      "uid": "bltc04cab7baf142a2b"
+    },
+    {
+      "title": "Healthy Choices",
+      "url": "/healthy-choices",
+      "uid": "blt6481386f749a222a"
+    },
+    {
+      "title": "Gluten-Free ",
+      "url": "/gluten-free",
+      "uid": "blt05a40818b6dba670"
+    },
+    {
+      "title": null,
+      "url": null,
+      "uid": "bltaf39e8cdab7b454a"
+    }
+  ],
+  "gousto_id": "1526",
+  "gousto_uid": "f90c3524-65a2-4190-9ae2-4f8e2a7aae1f",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1542_Simple-Smoked-Basa-Florentine-Bake_001_0-1714051636912-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1542_Simple-Smoked-Basa-Florentine-Bake_001_0-1714051636912-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1542_Simple-Smoked-Basa-Florentine-Bake_001_0-1714051636912-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1542_Simple-Smoked-Basa-Florentine-Bake_001_0-1714051636912-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1542_Simple-Smoked-Basa-Florentine-Bake_001_0-1714051636912-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 19746
+  },
+  "description": "Our twist on fish pie is so simple to prepare. You'll cook smoked basa in a creamy mustard and spinach sauce, top with crushed potatoes and bake it until golden and bubbling. ",
+  "prep_times": {
+    "for_2": 45,
+    "for_4": 50
+  },
+  "cuisine": {
+    "slug": "italian",
+    "title": "Italian"
+  },
+  "ingredients": [
+    {
+      "label": "Spinach (120g)",
+      "title": "spinach-I-05-FVG-FG-02-04",
+      "uid": "bltd7c3d53d5b7edea2",
+      "gousto_uuid": "e329fbb2-795e-457b-838e-4734e2691d32",
+      "name": "spinach",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Smoked basa fillet x0",
+      "title": "smoked basa fillet-IQ-10-MPF-SE-63",
+      "uid": "blt34c224329c433a0a",
+      "gousto_uuid": "d9b8e5e2-8097-4e07-bf95-73aa9dffd1cd",
+      "name": "smoked basa fillet",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-x-100g-smoked-basa-fillets-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-x-100g-smoked-basa-fillets-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-x-100g-smoked-basa-fillets-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-x-100g-smoked-basa-fillets-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-x-100g-smoked-basa-fillets-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "fish"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Soft cheese (50g)",
+      "title": "soft cheese-I-09-DAI-CR-15",
+      "uid": "blt5d5a607d98da4457",
+      "gousto_uuid": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+      "name": "soft cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Waxy potatoes (350g)",
+      "title": "waxy potatoes-I-02-SVG-VG-02-04",
+      "uid": "blt1812436baa1a1cab",
+      "gousto_uuid": "04d00729-52ec-4664-abf3-7deeca96c6d8",
+      "name": "waxy potatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Vegetable stock mix (5.5g)",
+      "title": "vegetable stock mix-I-06-SML-SC-26",
+      "uid": "blt0ca5e580e2d973c5",
+      "gousto_uuid": "166bfad3-d300-465d-b61c-fef4d2965904",
+      "name": "vegetable stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Wholegrain mustard (21g)",
+      "title": "wholegrain mustard-I-06-SML-TRK-23",
+      "uid": "blt747b1d9216d12cbd",
+      "gousto_uuid": "4cad21de-c673-4385-82b7-78aaca9c8367",
+      "name": "wholegrain mustard",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-tbsp-wholegrain-mustard-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-tbsp-wholegrain-mustard-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-tbsp-wholegrain-mustard-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-tbsp-wholegrain-mustard-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-tbsp-wholegrain-mustard-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "mustard"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Smoked basa fillets (2pcs)",
+      "title": "smoked basa fillets-IQ-10-MPF-SE-34",
+      "uid": "blt40badd935398ffcd",
+      "gousto_uuid": "6081d5f4-0961-4dee-b1e9-2e3bda8415bd",
+      "name": "smoked basa fillets",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-basa-fillets-24-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-basa-fillets-24-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-basa-fillets-24-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-basa-fillets-24-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-basa-fillets-24-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "fish"
+          }
+        ]
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Milk",
+      "slug": "milk"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    },
+    {
+      "title": "Water",
+      "slug": "water"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7</p><p>Boil a kettle</p><p>Cut your <strong>waxy potatoes</strong> (skins on) into small bite-sized pieces</p><p>Add the <strong>chopped</strong> <strong>potatoes</strong> to a pot of <strong>boiled water</strong> with a pinch of <strong>salt</strong>, bring to the boil over a high heat and cook for 12-15 min or until fork-tender</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-1a-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-1a-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-1a-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-1a-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-1a-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>While the potatoes are cooking, reboil a kettle</p><p>Dissolve your <strong>soft cheese </strong>and <strong>vegetable stock mix</strong> in 70ml [<span class=\"text-purple\">90ml]</span> <span class=\"text-danger\">[120ml]</span> <strong>boiled water</strong></p><p>Once dissolved, add your<strong> wholegrain mustard</strong>, 100ml <span class=\"text-purple\">[150ml]</span> <span class=\"text-danger\">[200ml]</span> <strong>milk</strong> and a generous grind of<strong> pepper</strong> – this is your<strong> creamy stock</strong></p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add your <strong>spinach</strong> to a colander and pour <strong>boiled water</strong> over it until it starts to wilt</p><p>Rinse the<strong> wilted spinach</strong> under the cold tap until it's cool</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once cool, squeeze the water out of the <strong>wilted</strong> <strong>spinach </strong>as much as you can and then chop it roughly</p><p>Chop your<strong> basa fillet[s]</strong> into bite-sized pieces</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-copy-1615560896660-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-copy-1615560896660-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-copy-1615560896660-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-copy-1615560896660-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-copy-1615560896660-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>chopped basa</strong>,<strong> chopped spinach</strong> and <strong>creamy stock</strong> to an <strong>oven-proof dish </strong>and give everything a good mix up<strong> </strong>– this is your <strong>smoked basa mixture</strong></p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once cooked, drain the <strong>potatoes</strong> and return them to the pot with a very generous drizzle of <strong>vegetable oil</strong> and a pinch of <strong>salt </strong>and<strong> </strong>crush them lightly with a fork</p><p>Tip: Don't press too hard, you only want to crush them!</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Top the smoked basa mixture<strong> </strong>with the <strong>crushed potatoes</strong>, spreading them out evenly</p><p>Put the dish in the oven for 25 min or until the potatoes are crispy and browned – this is your<strong> smoked basa florentine bake</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1542.-step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Leave the <strong>smoked basa florentine bake</strong> to cool for 5 min before serving (this helps the flavours to develop and makes it easier to serve!)</p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "fish",
+      "slug": "fish"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "mustard",
+      "slug": "mustard"
+    }
+  ],
+  "seo": {
+    "title": "Simple Smoked Fish Florentine Bake",
+    "description": "This delicious twist on fish pie is so simple to prepare. You'll cook smoked fish in a creamy mustard and spinach sauce, top with crushed potatoes and bake it until golden and bubbling. Delicious!",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/1542_Simple-Smoked-Basa-Florentine-Bake_001_0-1714051636912.jpg"
+  },
+  "tags": [],
+  "uid": "blt25a04afe5c35e82e",
+  "_version": 11801,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 81,
+      "energy_kj": 342,
+      "fat_mg": 2698,
+      "fat_saturates_mg": 1388,
+      "carbs_mg": 8335,
+      "carbs_sugars_mg": 1032,
+      "fibre_mg": 1159,
+      "protein_mg": 6501,
+      "salt_mg": 692,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 303,
+      "energy_kj": 1278,
+      "fat_mg": 10073,
+      "fat_saturates_mg": 5184,
+      "carbs_mg": 31114,
+      "carbs_sugars_mg": 3853,
+      "fibre_mg": 4328,
+      "protein_mg": 24266,
+      "salt_mg": 2585,
+      "net_weight_mg": 373250
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 1,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "d9b8e5e2-8097-4e07-bf95-73aa9dffd1cd",
+          "code": "IQ-10-MPF-SE-63",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "e329fbb2-795e-457b-838e-4734e2691d32",
+          "code": "I-05-FVG-FG-02-04",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "04d00729-52ec-4664-abf3-7deeca96c6d8",
+          "code": "I-02-SVG-VG-02-04",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4cad21de-c673-4385-82b7-78aaca9c8367",
+          "code": "I-06-SML-TRK-23",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "6081d5f4-0961-4dee-b1e9-2e3bda8415bd",
+          "code": "IQ-10-MPF-SE-34",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "e329fbb2-795e-457b-838e-4734e2691d32",
+          "code": "I-05-FVG-FG-02-04",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "04d00729-52ec-4664-abf3-7deeca96c6d8",
+          "code": "I-02-SVG-VG-02-04",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4cad21de-c673-4385-82b7-78aaca9c8367",
+          "code": "I-06-SML-TRK-23",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 3,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "d9b8e5e2-8097-4e07-bf95-73aa9dffd1cd",
+          "code": "IQ-10-MPF-SE-63",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "6081d5f4-0961-4dee-b1e9-2e3bda8415bd",
+          "code": "IQ-10-MPF-SE-34",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "e329fbb2-795e-457b-838e-4734e2691d32",
+          "code": "I-05-FVG-FG-02-04",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "04d00729-52ec-4664-abf3-7deeca96c6d8",
+          "code": "I-02-SVG-VG-02-04",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4cad21de-c673-4385-82b7-78aaca9c8367",
+          "code": "I-06-SML-TRK-23",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "6081d5f4-0961-4dee-b1e9-2e3bda8415bd",
+          "code": "IQ-10-MPF-SE-34",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "e329fbb2-795e-457b-838e-4734e2691d32",
+          "code": "I-05-FVG-FG-02-04",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "04d00729-52ec-4664-abf3-7deeca96c6d8",
+          "code": "I-02-SVG-VG-02-04",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4cad21de-c673-4385-82b7-78aaca9c8367",
+          "code": "I-06-SML-TRK-23",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 5,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "d9b8e5e2-8097-4e07-bf95-73aa9dffd1cd",
+          "code": "IQ-10-MPF-SE-63",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "6081d5f4-0961-4dee-b1e9-2e3bda8415bd",
+          "code": "IQ-10-MPF-SE-34",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "e329fbb2-795e-457b-838e-4734e2691d32",
+          "code": "I-05-FVG-FG-02-04",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "04d00729-52ec-4664-abf3-7deeca96c6d8",
+          "code": "I-02-SVG-VG-02-04",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "4cad21de-c673-4385-82b7-78aaca9c8367",
+          "code": "I-06-SML-TRK-23",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    }
+  ]
+}

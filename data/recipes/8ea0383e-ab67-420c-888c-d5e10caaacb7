@@ -1,0 +1,666 @@
+{
+  "url": "/asian-nutty-noodles",
+  "title": "Asian Nutty Noodles",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Dairy-Free ",
+      "url": "/dairy-free",
+      "uid": "bltba0f45afb7165184"
+    },
+    {
+      "title": "Vegetarian Recipes ",
+      "url": "/vegetarian-recipes",
+      "uid": "blta762d7d1d30213a2"
+    },
+    {
+      "title": "Noodle Recipes",
+      "url": "/noodle-recipes",
+      "uid": "blt7f33009f11474984"
+    },
+    {
+      "title": "Stir Fry Recipes",
+      "url": "/stir-fry-recipes",
+      "uid": "bltddad52e5ab195de7"
+    },
+    {
+      "title": "Chinese Recipes",
+      "url": "/chinese-recipes",
+      "uid": "bltf3d684734eea32ad"
+    },
+    {
+      "title": "Asian Recipes",
+      "url": "/asian-recipes",
+      "uid": "blt06809a58f9ff72c3"
+    },
+    {
+      "title": "Vegetarian",
+      "url": "/vegetarian",
+      "uid": "blt5cc8b5413c283f12"
+    }
+  ],
+  "gousto_id": "240",
+  "gousto_uid": "8ea0383e-ab67-420c-888c-d5e10caaacb7",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/241.AsianNutty-Noodles-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/241.AsianNutty-Noodles-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/241.AsianNutty-Noodles-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/241.AsianNutty-Noodles-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/241.AsianNutty-Noodles-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 523
+  },
+  "description": "Broccoli loves being dressed. Not in a suit, tie and jacket; cute as that might be. No, we’re talking about lusciously thick, sweet and salty dressings. Like this honey-ed sesame number with tahini. It’s naturally creamy and has an oaty, nutty base flavour, perfect for this simple, warm noodle dish.",
+  "prep_times": {
+    "for_2": 45,
+    "for_4": 45
+  },
+  "cuisine": {
+    "slug": "chinese",
+    "title": "Chinese"
+  },
+  "ingredients": [
+    {
+      "label": "1 bag of roasted peanuts",
+      "title": "roasted peanuts-I-04-NUT-SD-02-30",
+      "uid": "blt5c5286b5eabbcf21",
+      "gousto_uuid": "b2ed8a90-5335-4ba0-851b-2948f9426a00",
+      "name": "roasted peanuts",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Roasted-peanuts-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Roasted-peanuts-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Roasted-peanuts-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Roasted-peanuts-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Roasted-peanuts-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "peanut"
+          },
+          {
+            "title": null,
+            "slug": "nut"
+          },
+          {
+            "title": null,
+            "slug": "sesame"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 red chilli",
+      "title": "red chilli-I-05-FVG-FV-06",
+      "uid": "blt9449c22aa5aa8996",
+      "gousto_uuid": "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+      "name": "red chilli",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 tbsp toasted sesame oil",
+      "title": "toasted sesame oil-I-08-SAU-LS-21",
+      "uid": "blt6adc4db1b9ef9a88",
+      "gousto_uuid": "72982858-24a0-499b-a4d9-6aae84e53645",
+      "name": "toasted sesame oil",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sesame"
+          },
+          {
+            "title": null,
+            "slug": "fish"
+          },
+          {
+            "title": null,
+            "slug": "peanut"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          },
+          {
+            "title": null,
+            "slug": "nut"
+          },
+          {
+            "title": null,
+            "slug": "celery"
+          },
+          {
+            "title": null,
+            "slug": "mustard"
+          }
+        ]
+      }
+    },
+    {
+      "label": "10g toasted sesame seeds",
+      "title": "sesame seeds-IQ-06-SML-SD-01-01",
+      "uid": "blt6f47621f926d0612",
+      "gousto_uuid": "a35e4452-e2cd-4dea-9840-ecd3d5063a6c",
+      "name": "sesame seeds",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sesame-seeds-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sesame-seeds-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sesame-seeds-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sesame-seeds-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sesame-seeds-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sesame"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 honey pot (28g)",
+      "title": "honey-I-01-CAN-LQ-06",
+      "uid": "bltc92f99bd088d381a",
+      "gousto_uuid": "79f3354b-1c07-4ead-a173-f97e8cddd843",
+      "name": "honey",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 garlic cloves",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 tbsp rice vinegar",
+      "title": "rice vinegar-IQ-08-SAU-LS-03-01",
+      "uid": "blt5cf91872c7702fca",
+      "gousto_uuid": "3f0bb990-84d4-41e1-81f8-cab16560135e",
+      "name": "rice vinegar",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rice-vinegar-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rice-vinegar-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rice-vinegar-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rice-vinegar-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rice-vinegar-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "4 soy sauce sachets (32ml)",
+      "title": "soy sauce-I-06-SML-OT-05",
+      "uid": "bltaa4a46c7cb59b000",
+      "gousto_uuid": "3c07d126-f655-437c-aa1d-c38dbbae0398",
+      "name": "soy sauce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "2 tbsp tahini paste",
+      "title": "tahini-IQ-08-SAU-PS-03-02",
+      "uid": "bltc13785fc66200fca",
+      "gousto_uuid": "40c26b1c-9114-43dd-9b14-5c0d757a15b5",
+      "name": "tahini",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tahini-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tahini-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tahini-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tahini-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tahini-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sesame"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 Broccoli",
+      "title": "broccoli-I-05-FVG-LF-14",
+      "uid": "blt95c9488ebbfd05de",
+      "gousto_uuid": "82587901-67fd-4ff5-9b21-2f3670f02927",
+      "name": "broccoli",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/broccoli-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/broccoli-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/broccoli-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/broccoli-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/broccoli-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "3 wheat noodle nests (150g)",
+      "title": "wheat noodles-IQ-03-GRN-PA-09-01",
+      "uid": "blt5f71dd960e0fc8a7",
+      "gousto_uuid": "5973aac9-a2ed-412d-835d-a633f928578e",
+      "name": "wheat noodles",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/wheat-noodle-nests-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/wheat-noodle-nests-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/wheat-noodle-nests-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/wheat-noodle-nests-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/wheat-noodle-nests-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "egg"
+          }
+        ]
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Preheat</strong> the oven to 220&deg;C/ 200&deg;C (fan)/ 425&deg;F/ Gas 7</p>\r\n<p><strong>Peel</strong> and chop the garlic coarsely</p>\r\n<p><strong>Remove</strong> the stem<span class=\"text-danger\">(s)</span> from the chilli<span class=\"text-danger\">(es)</span>, deseed and slice into half-moons</p>\r\n<p><strong>Add</strong> the garlic and chilli (careful, adjust the amount to your preferred hotness) to a large bowl</p>",
+      "order": 1,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Seperate</strong> the florets of broccoli from the stalk<span class=\"text-danger\">(s)</span></p>\r\n<p><strong>Cut</strong> the florets and stalk<span class=\"text-danger\">(s)</span> into bite size pieces</p>\r\n<p><strong>Add</strong> to the bowl of garlic and chilli</p>",
+      "order": 2,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> 2 tbsp <span class=\"text-danger\">(3 tbsp)</span> of vegetable oil to the bowl </p>\r\n<p><strong>Season</strong> to your taste with salt and pepper</p>\r\n<p><strong>Mix</strong> well and transfer the broccoli mixture to a large baking tray</p>\r\n<p><strong>Roast</strong> in the oven for 20 min, or until the edges are brown and crispy, then remove to cool until step 8</p>",
+      "order": 3,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Meanwhile</strong>, boil a kettle (used in step 5)</p>\r\n<p><strong>Chop</strong> the peanuts coarsely</p>\r\n<p>Tip: You can crush the peanuts in their bag using a rolling pin!</p>",
+      "order": 4,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Cook</strong> the noodles in a large pot of boiling water and salt (optional) for 4-7 min or until the noodles are tender, loosening with a fork</p>\r\n<p><strong>Drain</strong> and rinse thoroughly under cold water</p>\r\n<p><strong>Return</strong> the drained noodles to their cooking pot until step 8</p>",
+      "order": 5,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Place</strong> a small pot on a medium heat</p>\r\n<p><strong>Once</strong> the pot is hot, add the sesame seeds and peanuts and toast for 2 min or until lightly browned</p>\r\n<p><strong>Tip</strong> out the seeds and nuts and set aside to cool</p>\r\n<p><strong>Wipe</strong> down the pot for the next step</p>",
+      "order": 6,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Combine</strong> the tahini, honey, rice vinegar, and sesame oil in the pot </p>\r\n<p><strong>Whisk</strong> to form a thick dressing, then warm over a low heat</p>\r\n<p><strong>Add</strong> 100ml <span class=\"text-danger\">(135ml)</span> of boiled water to the pot and whisk to combine</p>\r\n<p><strong>Once</strong> it reaches the thickness of double cream, remove from the heat</p>",
+      "order": 7,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> the dressing and soy sauce to the noodles and coat well</p>\r\n<p><strong>Plate</strong> the noodles and top with the roasted broccoli, garlic and chilli as desired</p>\r\n<p><strong>Sprinkle</strong> on the peanuts and sesame seeds</p>\r\n<p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "egg",
+      "slug": "egg"
+    },
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    },
+    {
+      "title": "peanut",
+      "slug": "peanut"
+    },
+    {
+      "title": "nut",
+      "slug": "nut"
+    }
+  ],
+  "seo": {
+    "title": "Asian Nutty Noodles",
+    "description": "Broccoli loves being dressed. Not in a suit, tie and jacket; cute as that might be. No, we’re talking about lusciously thick, sweet and salty dressings. Like this honey-ed sesame number with tahini. It’s naturally creamy and has an oaty, nutty base flavour, perfect for this simple, warm noodle dish.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/241.AsianNutty-Noodles.jpg"
+  },
+  "tags": [],
+  "uid": "blt6f420929b2cefae3",
+  "_version": 53,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 214,
+      "energy_kj": 896,
+      "fat_mg": 10858,
+      "fat_saturates_mg": 1816,
+      "carbs_mg": 20164,
+      "carbs_sugars_mg": 4276,
+      "fibre_mg": 4286,
+      "protein_mg": 8514,
+      "salt_mg": 749,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 759,
+      "energy_kj": 3178,
+      "fat_mg": 38493,
+      "fat_saturates_mg": 6438,
+      "carbs_mg": 71483,
+      "carbs_sugars_mg": 15160,
+      "fibre_mg": 15195,
+      "protein_mg": 30183,
+      "salt_mg": 2658,
+      "net_weight_mg": 354500
+    }
+  },
+  "portion_sizes": null
+}

@@ -1,0 +1,562 @@
+{
+  "url": "/black-bean-tofu",
+  "title": "Black Bean Tofu ",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Vegetarian Recipes ",
+      "url": "/vegetarian-recipes",
+      "uid": "blta762d7d1d30213a2"
+    },
+    {
+      "title": "Tofu Recipes",
+      "url": "/tofu-recipes",
+      "uid": "blt76cd951eb1bee273"
+    },
+    {
+      "title": "Rice Recipes",
+      "url": "/rice-recipes",
+      "uid": "blt7d4da6bbb3711078"
+    },
+    {
+      "title": "Chinese Recipes",
+      "url": "/chinese-recipes",
+      "uid": "bltf3d684734eea32ad"
+    },
+    {
+      "title": "Asian Recipes",
+      "url": "/asian-recipes",
+      "uid": "blt06809a58f9ff72c3"
+    }
+  ],
+  "gousto_id": "291",
+  "gousto_uid": "b42897e0-f60c-4df3-a7e9-a2c443032a62",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/313.BlackBeanTofu(V)-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/313.BlackBeanTofu(V)-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/313.BlackBeanTofu(V)-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/313.BlackBeanTofu(V)-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/313.BlackBeanTofu(V)-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 104
+  },
+  "description": "You might normally associate Chinese food with greasy takeaways or hangover grazing. Not so with this dish inspired by Chef Remi's favourite New York-style Chinese meal, Ma Po Tofu. The texture is soft and nourishing, with a hint of garlic and ginger, and a silky black bean sauce. Chinese food has never felt so healthy!",
+  "prep_times": {
+    "for_2": 30,
+    "for_4": 30
+  },
+  "cuisine": {
+    "slug": "chinese",
+    "title": "Chinese"
+  },
+  "ingredients": [
+    {
+      "label": "1 tin of black beans",
+      "title": "black beans-I-01-CAN-VC-16",
+      "uid": "blt2f83e28468eb0b87",
+      "gousto_uuid": "a9a86b43-6694-4ee5-8add-ee1358aa69b9",
+      "name": "black beans",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-black-beans-400g-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-black-beans-400g-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-black-beans-400g-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-black-beans-400g-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-black-beans-400g-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "200g organic tofu ",
+      "title": "plain tofu-I-09-DAI-TF-02",
+      "uid": "blt76fbc5ef22202d6f",
+      "gousto_uuid": "3d2328cc-da90-47e1-9553-4debba1d551c",
+      "name": "plain tofu",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-organic-tofu-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-organic-tofu-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-organic-tofu-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-organic-tofu-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-organic-tofu-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "100g mange tout",
+      "title": "mangetout-I-05-FVG-PD-02-01",
+      "uid": "bltd407b1f1069ae094",
+      "gousto_uuid": "b54cc858-8ac5-4bcc-b0b3-17f88960a94e",
+      "name": "mangetout",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/mangetout-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/mangetout-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/mangetout-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/mangetout-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/mangetout-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1/2 tsp chilli flakes",
+      "title": "Fiery chilli flakes-I-06-SML-CL-01-01",
+      "uid": "blta9a7faf7a2297ef2",
+      "gousto_uuid": "33bd974f-cad4-4cc0-9956-1f6cfb5ff2ca",
+      "name": "Fiery chilli flakes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chilli-flakes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chilli-flakes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chilli-flakes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chilli-flakes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chilli-flakes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 spring onions",
+      "title": "spring onion-I-07-HBS-PL-10",
+      "uid": "blt7f30073f4f7cf590",
+      "gousto_uuid": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+      "name": "spring onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "3 garlic cloves",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 tbsp rice vinegar",
+      "title": "rice vinegar-IQ-08-SAU-LS-03-01",
+      "uid": "blt5cf91872c7702fca",
+      "gousto_uuid": "3f0bb990-84d4-41e1-81f8-cab16560135e",
+      "name": "rice vinegar",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rice-vinegar-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rice-vinegar-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rice-vinegar-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rice-vinegar-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rice-vinegar-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "30g root ginger ",
+      "title": "Fresh root ginger-IQ-06-SML-OT-03-03",
+      "uid": "blt5ef479af8670d333",
+      "gousto_uuid": "fc3d3b2e-1c1c-4840-827a-5b5f47bc287d",
+      "name": "Fresh root ginger",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-ginger-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-ginger-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-ginger-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-ginger-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-ginger-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "3 soy sauce sachets (24ml)",
+      "title": "soy sauce-I-06-SML-OT-05",
+      "uid": "bltaa4a46c7cb59b000",
+      "gousto_uuid": "3c07d126-f655-437c-aa1d-c38dbbae0398",
+      "name": "soy sauce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "80g brown rice ",
+      "title": "Brown rice-IQ-03-GRN-RC-03-01",
+      "uid": "bltac7c197ae70d6f84",
+      "gousto_uuid": "56ec65b0-2e2d-4138-bf32-086941ee1c9f",
+      "name": "Brown rice",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/brown-rice-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/brown-rice-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/brown-rice-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/brown-rice-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/brown-rice-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Flour",
+      "slug": "flour"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Peel</strong> and grate the ginger</p>\r\n<p><strong>Crush</strong> the garlic with the side of a knife, peel it and grate it finely</p>\r\n<p><strong>Slice</strong> the tofu into 1cm strips and chop into 1cm cubes<br /><br /><strong>Boil</strong> a kettle for steps 5 and 6</p>",
+      "order": 1,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Discard</strong> the roots of the spring onions and slice diagonally</p>\r\n<p><strong>Slice</strong> the mangetout lengthwise as thin as possible</p>\r\n<p><strong>Transfer</strong> both to a sieve and set aside in the sink until step 6</p>",
+      "order": 2,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> the rice, plenty of water (approx. 4x more) and salt (optional) to a pot with a lid on a high heat and bring to the boil</p>\r\n<p><strong>Once</strong> boiling, reduce to a simmer and cover for 15-20 min or until the rice is tender</p>\r\n<p><strong>Check</strong> to prevent over-cooking and once done, drain and set aside until serving</p>",
+      "order": 3,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Heat</strong> 1/2-1 tbsp of vegetable oil in a pot over medium heat </p>\r\n<p><strong>Once</strong> hot, add the ginger, garlic, and chilli (careful, adjust to your preferred&nbsp;hotness), and cook for 1 min, or until fragrant and sizzling, stirring frequently</p>\r\n<p><strong>Remove</strong> the pot from the hob while keeping the heat/gas on</p>",
+      "order": 4,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> the black beans, liquid too, to the pot and return to the hob</p>\r\n<p><strong>Add</strong> the tofu and fold through, careful not to break the tofu</p>\r\n<p><strong>Pour</strong> in 300ml <span class=\"text-danger\">(500ml)</span> of boiled water and the soy sauce</p>\r\n<p><strong>Bring</strong> to a boil, then reduce to a simmer and cook uncovered for 8-10 min, or until reduced by 1/2</p>",
+      "order": 5,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Meanwhile</strong>, pour the remainder of the boiled water over the spring onion and mangetout</p>\r\n<p><strong>Rinse</strong> under running cold water until cold to the touch</p>\r\n<p><strong>Transfer</strong> them to a bowl and add the rice vinegar</p>\r\n<p><strong>Mix</strong> briefly and let sit in the vinegar until serving</p>",
+      "order": 6,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Combine</strong> 1/2 tsp <span class=\"text-danger\">(1 tsp)</span> of flour with 3 tsp <span class=\"text-danger\">(6 tsp)</span> of water and mix until smooth</p>\r\n<p><strong>When</strong> the bean sauce has reduced by 1/2, add 1 tsp of the flour and water mixture to the pot</p>\r\n<p><strong>Mix</strong> into the sauce before adding more</p>\r\n<p><strong>Continue</strong> until the tofu and bean sauce is glossy</p>",
+      "order": 7,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Plate</strong> the the tofu and black bean sauce around the brown rice </p>\r\n<p><strong>Serve</strong> alongside the pickled mangetout and spring onion</p>\r\n<p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "mustard",
+      "slug": "mustard"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    }
+  ],
+  "seo": {
+    "title": "Black Bean Tofu ",
+    "description": "You might normally associate Chinese food with greasy takeaways or hangover grazing. Not so with this dish inspired by Chef Remi's favourite New York-style Chinese meal, Ma Po Tofu. The texture is soft and nourishing, with a hint of garlic and ginger, and a silky black bean sauce. Chinese food has never felt so healthy!",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/313.BlackBeanTofu(V).jpg"
+  },
+  "tags": [],
+  "uid": "blt41b09ff69d3ab99b",
+  "_version": 54,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 110,
+      "energy_kj": 463,
+      "fat_mg": 2281,
+      "fat_saturates_mg": 355,
+      "carbs_mg": 13527,
+      "carbs_sugars_mg": 891,
+      "fibre_mg": 3183,
+      "protein_mg": 7676,
+      "salt_mg": 603,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 520,
+      "energy_kj": 2184,
+      "fat_mg": 10756,
+      "fat_saturates_mg": 1676,
+      "carbs_mg": 63784,
+      "carbs_sugars_mg": 4203,
+      "fibre_mg": 15010,
+      "protein_mg": 36197,
+      "salt_mg": 2847,
+      "net_weight_mg": 471500
+    }
+  },
+  "portion_sizes": null
+}

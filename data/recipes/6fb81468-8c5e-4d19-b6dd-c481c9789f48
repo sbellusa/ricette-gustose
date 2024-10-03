@@ -1,0 +1,565 @@
+{
+  "url": "/swedish-meatballs",
+  "title": "Swedish Meatballs",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Pork Recipes",
+      "url": "/pork-recipes",
+      "uid": "bltf0761ae94eddf574"
+    },
+    {
+      "title": "Meatball Recipes",
+      "url": "/meatball-recipes",
+      "uid": "blt2cc1a95f9710a193"
+    }
+  ],
+  "gousto_id": "281",
+  "gousto_uid": "6fb81468-8c5e-4d19-b6dd-c481c9789f48",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/296.Swedish-Meatballs.-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/296.Swedish-Meatballs.-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/296.Swedish-Meatballs.-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/296.Swedish-Meatballs.-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/296.Swedish-Meatballs.-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 592
+  },
+  "description": "Gousto’s Swedish meatballs are hearty and delicious, swimming in a creamy gravy and served with a simple mash, green beans and a dollop of cranberry sauce. This is comfort fodder at its finest, with no need to master flat pack instructions!",
+  "prep_times": {
+    "for_2": 30,
+    "for_4": 30
+  },
+  "cuisine": {
+    "slug": "swedish",
+    "title": "Swedish"
+  },
+  "ingredients": [
+    {
+      "label": "120g green beans",
+      "title": "green beans-I-05-FVG-PD-01-03",
+      "uid": "bltc16c4c637535a178",
+      "gousto_uuid": "0ff78f1b-7ba4-490d-8bd2-602ac8f8de6d",
+      "name": "green beans",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-beans-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-beans-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-beans-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-beans-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-beans-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 tbsp dried dill",
+      "title": "dried dill-IQ-06-SML-DL-05-04",
+      "uid": "bltffe69c5ecec21979",
+      "gousto_uuid": "878f7509-98bf-44fc-b413-3127ec8dbb55",
+      "name": "dried dill",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-dill-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-dill-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-dill-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-dill-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-dill-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "300g British pork mince",
+      "title": "British pork mince-I-10-MPF-ME-381",
+      "uid": "blt586eb84463d88fae",
+      "gousto_uuid": "31144d49-0b50-4fbd-b6f1-2ef2f80053d4",
+      "name": "British pork mince",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-british-pork-mince-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-british-pork-mince-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-british-pork-mince-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-british-pork-mince-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-british-pork-mince-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 chicken stock cube ",
+      "title": "chicken stock cube-I-06-SML-SC-08",
+      "uid": "blta2fd41dccba5257f",
+      "gousto_uuid": "9375f43b-9967-49f2-875a-f905f2b4c701",
+      "name": "chicken stock cube",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Chicken-stock-cube.new-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Chicken-stock-cube.new-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Chicken-stock-cube.new-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Chicken-stock-cube.new-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Chicken-stock-cube.new-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "celery"
+          }
+        ]
+      }
+    },
+    {
+      "label": "300g potatoes",
+      "title": "potatoes-I-02-SVG-VG-01-02",
+      "uid": "blte9f23de0e0d75ca0",
+      "gousto_uuid": "208b5e77-7e95-4ef6-8621-727f29f6b513",
+      "name": "potatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 pot of organic sour cream (227g)",
+      "title": "sour cream-IQ-09-DAI-CR-05-01",
+      "uid": "blt4d6baef9692013af",
+      "gousto_uuid": "3a2fd1ab-0012-4804-8eb3-eaadc1bddbcd",
+      "name": "sour cream",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sour-cream-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sour-cream-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sour-cream-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sour-cream-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sour-cream-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "60g breadcrumbs",
+      "title": "panko breadcrumbs-IQ-07-GRN-FL-07-02",
+      "uid": "blt6a8e12b9cfd09cb7",
+      "gousto_uuid": "4eaa7dfd-d2ab-4f74-9b65-cfa16574b101",
+      "name": "panko breadcrumbs",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 tbsp Dijon mustard ",
+      "title": "dijon mustard-IQ-08-SAU-CD-01-04",
+      "uid": "bltee23e11512ef4cdd",
+      "gousto_uuid": "8c21a96f-2aaa-40a0-8550-9b04e67f35fe",
+      "name": "dijon mustard",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dijon-mustard-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dijon-mustard-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dijon-mustard-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dijon-mustard-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dijon-mustard-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "mustard"
+          },
+          {
+            "title": null,
+            "slug": "sulphites"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 tsp allspice",
+      "title": "Ground allspice berries-I-06-SML-MX-03-02",
+      "uid": "blt7af2fc5a83acaeed",
+      "gousto_uuid": "8f4d2d9f-8529-4730-af4a-db1151d089af",
+      "name": "Ground allspice berries",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ground-allspice-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ground-allspice-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ground-allspice-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ground-allspice-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ground-allspice-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "30g dried cranberries",
+      "title": "dried cranberries-IQ-04-NUT-DF-02-01",
+      "uid": "blt369edb226e44dd5f",
+      "gousto_uuid": "e89eccef-6606-4529-bf66-346d735b2785",
+      "name": "dried cranberries",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/IQ-04-NUT-DF-02-01-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/IQ-04-NUT-DF-02-01-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/IQ-04-NUT-DF-02-01-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/IQ-04-NUT-DF-02-01-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/IQ-04-NUT-DF-02-01-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Butter",
+      "slug": "butter"
+    },
+    {
+      "title": "Flour",
+      "slug": "flour"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Boil</strong> a kettle</p>\r\n<p><strong>Cut</strong> the potatoes to roughly equal size (approx. 4cm)</p>\r\n<p><strong>Add</strong> them to a pot of boiling water with a pinch of salt and boil for 15 min or until you can pierce them easily with a fork </p>\r\n<p><strong>Add</strong> 200ml <span class=\"text-danger\">(350ml)</span> boiling water to the chicken stock cube and whisk to combine</p>",
+      "order": 1,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Combine</strong> the pork mince, breadcrumbs, allspice and half of the dried dill in a bowl</p>\r\n<p><strong>Season</strong> and mix together (use your hands)</p>\r\n<p><strong>Divide</strong> the mixture into 12 <span class=\"text-danger\">(24)</span> walnut sized pieces</p>\r\n<p><strong>Using</strong> wet hands, shape into balls</p>",
+      "order": 2,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Heat</strong> a pan (that has a lid) with 1 tbsp vegetable oil</p>\r\n<p><strong>When</strong> hot, add the meatballs</p>\r\n<p><strong>Cook</strong> until coloured, moving them around the pan so they colour evenly</p>\r\n<p><strong>After</strong> about 4 mins transfer them to a plate and reserve the pan</p>",
+      "order": 3,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Chop</strong> the cranberries up finely</p>\r\n<p><strong>Top</strong> and tail the green beans</p>",
+      "order": 4,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Return</strong> to the pork meatball pan</p>\r\n<p><strong>Add</strong> 1 tsp <span class=\"text-danger\">(2 tsp)</span> of butter and melt over a medium heat</p>\r\n<p><strong>Add</strong> 1 tsp <span class=\"text-danger\">(2 tsp)</span> of flour and stir into the butter</p>\r\n<p><strong>Cook</strong> for 1 min, stirring constantly with a wooden spoon</p>\r\n<p><strong>This</strong> is your roux</p>",
+      "order": 5,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> the chicken stock, whisk to combine and simmer on a low heat for 3 min</p>\r\n<p><strong>Add</strong> the chopped cranberries and dijon to the pan</p>\r\n<p><strong>Add</strong> the meatballs back to the pan and cover with a lid </p>\r\n<p><strong>Cook</strong> for a further 5 min, or until the meatballs are cooked through</p>",
+      "order": 6,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> the green beans to a pot with 100ml <span class=\"text-danger\">(200ml)</span> boiling water</p>\r\n<p><strong>Add</strong> a lid and boil for 4 mins, then drain</p>\r\n<p><strong>Remove</strong> the meatballs from the heat and stir through the remaining dried dill and 3 tbsp <span class=\"text-danger\">(6 tbsp)</span> sour cream</p>\r\n<p>Tip: Add more sour cream if you like it creamy!</p>",
+      "order": 7,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Drain</strong> the potatoes, add a knob of butter, a splash of milk and mash them with a potato masher until creamy</p>\r\n<p>Smaklig m&aring;ltid (bon appetit!)</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "mustard",
+      "slug": "mustard"
+    },
+    {
+      "title": "sulphites",
+      "slug": "sulphites"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "celery",
+      "slug": "celery"
+    }
+  ],
+  "seo": {
+    "title": "Swedish Meatballs",
+    "description": "Gousto’s Swedish meatballs are hearty and delicious, swimming in a creamy gravy and served with a simple mash, green beans and a dollop of cranberry sauce. This is comfort fodder at its finest, with no need to master flat pack instructions!",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/296.Swedish-Meatballs..jpg"
+  },
+  "tags": [],
+  "uid": "bltb407ee6d50604ed3",
+  "_version": 49,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 135,
+      "energy_kj": 566,
+      "fat_mg": 5019,
+      "fat_saturates_mg": 1846,
+      "carbs_mg": 15871,
+      "carbs_sugars_mg": 4709,
+      "fibre_mg": 1236,
+      "protein_mg": 7701,
+      "salt_mg": 640,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 692,
+      "energy_kj": 2900,
+      "fat_mg": 25676,
+      "fat_saturates_mg": 9443,
+      "carbs_mg": 81185,
+      "carbs_sugars_mg": 24089,
+      "fibre_mg": 6324,
+      "protein_mg": 39393,
+      "salt_mg": 3275,
+      "net_weight_mg": 511500
+    }
+  },
+  "portion_sizes": null
+}

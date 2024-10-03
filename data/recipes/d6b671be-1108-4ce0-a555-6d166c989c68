@@ -1,0 +1,799 @@
+{
+  "url": "/creamy-sausage-red-onion-tart",
+  "title": "Creamy Sausage & Red Onion Tart",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "5847",
+  "gousto_uid": "d6b671be-1108-4ce0-a555-6d166c989c68",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-5692-2_Creamy-Sausage-_-Red-Onion-Tart1490-1678786917946-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-5692-2_Creamy-Sausage-_-Red-Onion-Tart1490-1678786917946-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-5692-2_Creamy-Sausage-_-Red-Onion-Tart1490-1678786917946-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-5692-2_Creamy-Sausage-_-Red-Onion-Tart1490-1678786917946-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-5692-2_Creamy-Sausage-_-Red-Onion-Tart1490-1678786917946-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 5969
+  },
+  "description": "This hearty tart is the perfect mid-week dinner. You’ll top flaky puff pastry with soft cheese, caramelised red onions and sausage before baking till golden. Serve with a tangy salad to finish.",
+  "prep_times": {
+    "for_2": 35,
+    "for_4": 40
+  },
+  "cuisine": {
+    "slug": "british",
+    "title": "British"
+  },
+  "ingredients": [
+    {
+      "label": "Soft cheese (50g)",
+      "title": "soft cheese-I-09-DAI-CR-15",
+      "uid": "blt5d5a607d98da4457",
+      "gousto_uuid": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+      "name": "soft cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Puff pastry (160g)",
+      "title": "puff pastry-IQ-11-BRD-BR-69-01",
+      "uid": "blte7e3a861cac7e044",
+      "gousto_uuid": "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+      "name": "puff pastry",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/New-puff-pastry-placeholder2x-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/New-puff-pastry-placeholder2x-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/New-puff-pastry-placeholder2x-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/New-puff-pastry-placeholder2x-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/New-puff-pastry-placeholder2x-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Sausage meat (150g)",
+      "title": "sausage meat-I-10-MPF-PM-65",
+      "uid": "blt2c01512c25219d33",
+      "gousto_uuid": "ca749ebb-d1c6-4a7c-a903-2ebd85fd7e41",
+      "name": "sausage meat",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sausage-meat-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sausage-meat-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sausage-meat-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sausage-meat-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sausage-meat-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sulphites"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Baby leaf salad (50g)",
+      "title": "baby leaf salad-I-05-FVG-FG-03-01",
+      "uid": "bltffe1841caada8361",
+      "gousto_uuid": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+      "name": "baby leaf salad",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Red wine vinegar (15ml)",
+      "title": "red wine vinegar-I-08-SAU-LS-13",
+      "uid": "blt8407e6fbf8d8d9c5",
+      "gousto_uuid": "3982abce-0437-40bc-950c-bc4990c45d9a",
+      "name": "red wine vinegar",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sulphites"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Red onion",
+      "title": "red onion-I-02-SVG-VG-05",
+      "uid": "bltc69ae0a09122a2b4",
+      "gousto_uuid": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Flour",
+      "slug": "flour"
+    },
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Sugar",
+      "slug": "sugar"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7</p><p>Peel and finely slice your <strong>red onion[s]</strong></p><p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>vegetable oil</strong> over a medium heat</p><p>Once hot, add the <strong>sliced onion</strong> with a pinch of <strong>salt</strong> and cook for 10 min or until softened</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1679066882697-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1679066882697-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1679066882697-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1679066882697-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1679066882697-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>While the onion is softening, dust your work surface with a sprinkling of <strong>flour</strong></p><p>Unwrap your <strong>puff pastry</strong> and roll it out to approx. 0.5cm thickness with a <strong>rolling pin </strong>and cut into 1 rectangle per person</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1679066887227-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1679066887227-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1679066887227-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1679066887227-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1679066887227-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Line a baking tray (or two!) with <strong>non-stick baking paper</strong></p><p>Add the <strong>pastry</strong> <strong>rectangle[s]</strong> to the tray[s] and score a 1cm border around the edge of the pastry with a knife</p><p>Prick the inside of the border all over with a fork (this will stop you getting a soggy bottom!)</p><p>Tip: The pastry border will puff up to give you a nice crust!</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1679066891705-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1679066891705-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1679066891705-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1679066891705-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1679066891705-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, add your <strong>soft cheese</strong> to a bowl with a pinch of <strong>salt </strong>and <strong>pepper </strong>and mix it all together – this is your <strong>soft cheese mix</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1679066895945-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1679066895945-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1679066895945-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1679066895945-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1679066895945-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the onion has softened, add <strong>half</strong> your <strong>red wine vinegar</strong> (you'll use the rest later!) and 1 tsp <span class=\"text-purple\">[1 1/2 tsp] </span><span class=\"text-danger\">[2 tsp]</span> <strong>sugar </strong>and cook for a further 2-3 min or until beginning to caramelise – this is your <strong>caramelised onion</strong></p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1679066901313-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1679066901313-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1679066901313-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1679066901313-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1679066901313-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Spread the <strong>soft cheese mix </strong>over the pastry, keeping it within the borders</p><p>Top with the <strong>caramelised onion</strong> and tear over your <strong>sausage meat </strong>(remove the paper if required!)</p><p>Put the tray[s] in the oven for 15 min or until the sausage meat is cooked through (no pink meat!) and the pastry is golden and cooked through and the edges have puffed up – this is your <strong>creamy sausage & red onion tart[s]</strong></p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1679066905872-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1679066905872-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1679066905872-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1679066905872-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1679066905872-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>While the tart[s] is cooking, combine the <strong>remaining red wine vinegar </strong>with a drizzle of <strong>olive oil </strong>and a pinch of <strong>pepper </strong>in a bowl – this is your <strong>dressing</strong></p><p>Wash your <strong>salad </strong>and pat it dry with kitchen paper, then add it to the dressing<strong> </strong>and give everything a gentle mix up – this is your <strong>dressed salad</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1679066911400-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1679066911400-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1679066911400-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1679066911400-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1679066911400-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>creamy sausage & red onion tart </strong>with the <strong>dressed salad </strong>to the side</p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "sulphites",
+      "slug": "sulphites"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    }
+  ],
+  "seo": {
+    "title": "Creamy Sausage & Red Onion Tart",
+    "description": "This hearty tart is the perfect mid-week dinner. You’ll top flaky puff pastry with soft cheese, caramelised red onions and sausage before baking till golden. Serve with a tangy baby leaf salad to finish.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/R-5692-2_Creamy-Sausage-_-Red-Onion-Tart1490-1678786917946.jpg"
+  },
+  "tags": [],
+  "uid": "blt60689a63a4bfb7cd",
+  "_version": 6018,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 229,
+      "energy_kj": 954,
+      "fat_mg": 15831,
+      "fat_saturates_mg": 7144,
+      "carbs_mg": 14431,
+      "carbs_sugars_mg": 2388,
+      "fibre_mg": 1065,
+      "protein_mg": 7075,
+      "salt_mg": 531,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 579,
+      "energy_kj": 2411,
+      "fat_mg": 39975,
+      "fat_saturates_mg": 18040,
+      "carbs_mg": 36440,
+      "carbs_sugars_mg": 6030,
+      "fibre_mg": 2690,
+      "protein_mg": 17865,
+      "salt_mg": 1343,
+      "net_weight_mg": 252500
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 1,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+          "code": "I-05-FVG-FG-03-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+          "code": "IQ-11-BRD-BR-69-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "3982abce-0437-40bc-950c-bc4990c45d9a",
+          "code": "I-08-SAU-LS-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ca749ebb-d1c6-4a7c-a903-2ebd85fd7e41",
+          "code": "I-10-MPF-PM-65",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+          "code": "I-05-FVG-FG-03-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+          "code": "IQ-11-BRD-BR-69-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "3982abce-0437-40bc-950c-bc4990c45d9a",
+          "code": "I-08-SAU-LS-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ca749ebb-d1c6-4a7c-a903-2ebd85fd7e41",
+          "code": "I-10-MPF-PM-65",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 3,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+          "code": "I-05-FVG-FG-03-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+          "code": "IQ-11-BRD-BR-69-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "3982abce-0437-40bc-950c-bc4990c45d9a",
+          "code": "I-08-SAU-LS-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ca749ebb-d1c6-4a7c-a903-2ebd85fd7e41",
+          "code": "I-10-MPF-PM-65",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+          "code": "I-05-FVG-FG-03-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+          "code": "IQ-11-BRD-BR-69-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "3982abce-0437-40bc-950c-bc4990c45d9a",
+          "code": "I-08-SAU-LS-13",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ca749ebb-d1c6-4a7c-a903-2ebd85fd7e41",
+          "code": "I-10-MPF-PM-65",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 5,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+          "code": "I-05-FVG-FG-03-01",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+          "code": "IQ-11-BRD-BR-69-01",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "3982abce-0437-40bc-950c-bc4990c45d9a",
+          "code": "I-08-SAU-LS-13",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ca749ebb-d1c6-4a7c-a903-2ebd85fd7e41",
+          "code": "I-10-MPF-PM-65",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 3
+          }
+        }
+      ]
+    }
+  ]
+}

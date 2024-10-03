@@ -1,0 +1,943 @@
+{
+  "url": "/lemony-prawn-courgette-spaghetti",
+  "title": "Lemony King Prawn & Courgette Spaghetti",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": null,
+      "url": null,
+      "uid": "blt54538aae1331442b"
+    },
+    {
+      "title": "Fish Recipes",
+      "url": "/fish-recipes",
+      "uid": "bltc04cab7baf142a2b"
+    },
+    {
+      "title": "Healthy Choices",
+      "url": "/healthy-choices",
+      "uid": "blt6481386f749a222a"
+    }
+  ],
+  "gousto_id": "2458",
+  "gousto_uid": "f0e44024-b9d7-405d-ad43-626044956482",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2326-2_Lemony-Prawn--Courgette-Spaghetti_003_0-1688027684833-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2326-2_Lemony-Prawn--Courgette-Spaghetti_003_0-1688027684833-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2326-2_Lemony-Prawn--Courgette-Spaghetti_003_0-1688027684833-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2326-2_Lemony-Prawn--Courgette-Spaghetti_003_0-1688027684833-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2326-2_Lemony-Prawn--Courgette-Spaghetti_003_0-1688027684833-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 10581
+  },
+  "description": "To cook up this seafood spaghetti, you'll add flavour to juicy king prawns and courgette with garlic, lemon and olive oil. Garnish with black pepper and fresh chives to serve. Simply delicious!",
+  "prep_times": {
+    "for_2": 15,
+    "for_4": 20
+  },
+  "cuisine": {
+    "slug": "italian",
+    "title": "Italian"
+  },
+  "ingredients": [
+    {
+      "label": "0 raw peeled king prawns",
+      "title": "raw peeled king prawns-IQ-10-MPF-SE-59",
+      "uid": "bltfcd9b6952914198a",
+      "gousto_uuid": "a3a2f2db-208c-49ba-905d-b51885be42b3",
+      "name": "raw peeled king prawns",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/king-prawns-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/king-prawns-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/king-prawns-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/king-prawns-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/king-prawns-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "crustacean"
+          },
+          {
+            "title": null,
+            "slug": "mollusc"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 courgette",
+      "title": "courgette-I-05-FVG-FV-03",
+      "uid": "blt49ae7a50bc5644f9",
+      "gousto_uuid": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+      "name": "courgette",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 crème fraîche",
+      "title": "crème fraîche-I-09-DAI-CR-31",
+      "uid": "blt73f591dd11f53f92",
+      "gousto_uuid": "d343996b-36eb-4918-9340-ca527fb4296c",
+      "name": "crème fraîche",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pot-of-creme-fraiche-200g-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pot-of-creme-fraiche-200g-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pot-of-creme-fraiche-200g-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pot-of-creme-fraiche-200g-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pot-of-creme-fraiche-200g-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "190g spaghetti",
+      "title": "spaghetti-I-03-GRN-PA-40",
+      "uid": "blt24d85a164eaf8302",
+      "gousto_uuid": "8deb2d63-8771-4bd0-8a9b-55cf5d96a2bc",
+      "name": "spaghetti",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/spaghetti-190g-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/spaghetti-190g-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/spaghetti-190g-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/spaghetti-190g-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/spaghetti-190g-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "egg"
+          }
+        ]
+      }
+    },
+    {
+      "label": "171g raw peeled king prawns",
+      "title": "raw peeled king prawns-IQ-10-MPF-SE-48",
+      "uid": "blt01cf20ef6ca28e39",
+      "gousto_uuid": "48c7b19a-f68a-4b5d-91ca-cab712024589",
+      "name": "raw peeled king prawns",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/raw-peeled-king-prawns-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/raw-peeled-king-prawns-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/raw-peeled-king-prawns-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/raw-peeled-king-prawns-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/raw-peeled-king-prawns-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "crustacean"
+          },
+          {
+            "title": null,
+            "slug": "mollusc"
+          }
+        ]
+      }
+    },
+    {
+      "label": "5g chives",
+      "title": "chives-I-07-HBS-PL-46",
+      "uid": "blt156c926a260fed3b",
+      "gousto_uuid": "be9c9106-c5ee-4e5e-b3df-37115df94a56",
+      "name": "chives",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-chives-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-chives-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-chives-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-chives-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-chives-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 garlic cloves",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 lemon",
+      "title": "lemon-I-02-SVG-SF-03",
+      "uid": "blte823ccfd82fc22c7",
+      "gousto_uuid": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+      "name": "lemon",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Water",
+      "slug": "water"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Boil a kettle</p><p>Top, tail, then slice your <strong>courgette[s]</strong><span class=\"text-danger\"> </span>into discs</p><p>Slice each individual <strong>courgette disc </strong>into matchsticks</p><p>Peel and finely slice (don't chop!) your <strong>garlic</strong></p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a large wide-based pan (preferably non-stick), with a generous drizzle of <strong>olive oil</strong> over a medium heat</p><p>Once hot, add the <strong>sliced garlic</strong> and <strong>courgette matchsticks </strong>with a pinch of <strong>salt</strong> and cook for 5-7 min or until softened</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>While the courgette is cooking, add your <strong>spaghetti</strong> to a pot of <strong>boiled water</strong> with a large pinch of <strong>salt</strong> and bring to the boil over a high heat</p><p>Cook the <strong>spaghetti</strong> for 8-10 min or until cooked with a slight bite</p><p>Once done, drain the <strong>cooked spaghetti</strong>, reserving a cup of the<strong> starchy pasta water</strong></p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Whilst the spaghetti is cooking, cut your <strong>lemon[s]</strong> in half</p><p>Cut <strong>half</strong> your <strong>lemon[s]</strong> into wedges and set aside for garnish</p><p>Chop your <strong>chives</strong> finely</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the courgette has softened, drain your<strong> king prawns</strong>, then add them to the pan and cook for 4-5 min or until cooked through</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the prawns are cooked, add the <strong>drained spaghetti</strong> and give everything a good mix up</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add your <strong>creme fraiche</strong> with the juice of <strong>half </strong>your <strong>lemon[s]</strong> and 50ml <span class=\"text-purple\">[65ml]</span> <span class=\"text-danger\">[80ml]</span> <strong>starchy pasta water </strong>and stir everything together until the sauce begins to stick to the spaghetti – this is your <strong>lemony king prawn & courgette spaghetti</strong></p><p>Tip: Add a splash more pasta water if your sauce is looking a little dry!</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2326-Step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>lemony king prawn & courgette spaghetti</strong> topped with the <strong>chopped chives</strong></p><p>Garnish with a <strong>lemon wedge</strong> and season with a grind of <strong>black pepper</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "crustacean",
+      "slug": "crustacean"
+    },
+    {
+      "title": "mollusc",
+      "slug": "mollusc"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "egg",
+      "slug": "egg"
+    }
+  ],
+  "seo": {
+    "title": "Lemony Prawn & Courgette Spaghetti",
+    "description": "To cook up this seafood spaghetti, you'll add flavour to juicy king prawns and courgette with garlic, lemon and olive oil. Garnish with black pepper and fresh chives to serve. Simply delicious!",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/2326-2_Lemony-Prawn--Courgette-Spaghetti_003_0-1688027684833.jpg"
+  },
+  "tags": [],
+  "uid": "blt0503617dddfa67d3",
+  "_version": 6100,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 136,
+      "energy_kj": 574,
+      "fat_mg": 2756,
+      "fat_saturates_mg": 1714,
+      "carbs_mg": 20381,
+      "carbs_sugars_mg": 1855,
+      "fibre_mg": 1130,
+      "protein_mg": 7148,
+      "salt_mg": 201,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 491,
+      "energy_kj": 2061,
+      "fat_mg": 9895,
+      "fat_saturates_mg": 6155,
+      "carbs_mg": 73171,
+      "carbs_sugars_mg": 6661,
+      "fibre_mg": 4060,
+      "protein_mg": 25664,
+      "salt_mg": 723,
+      "net_weight_mg": 359000
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 1,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "be9c9106-c5ee-4e5e-b3df-37115df94a56",
+          "code": "I-07-HBS-PL-46",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+          "code": "I-05-FVG-FV-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d343996b-36eb-4918-9340-ca527fb4296c",
+          "code": "I-09-DAI-CR-31",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+          "code": "I-02-SVG-SF-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "a3a2f2db-208c-49ba-905d-b51885be42b3",
+          "code": "IQ-10-MPF-SE-59",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8deb2d63-8771-4bd0-8a9b-55cf5d96a2bc",
+          "code": "I-03-GRN-PA-40",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "be9c9106-c5ee-4e5e-b3df-37115df94a56",
+          "code": "I-07-HBS-PL-46",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+          "code": "I-05-FVG-FV-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d343996b-36eb-4918-9340-ca527fb4296c",
+          "code": "I-09-DAI-CR-31",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+          "code": "I-02-SVG-SF-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "48c7b19a-f68a-4b5d-91ca-cab712024589",
+          "code": "IQ-10-MPF-SE-48",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8deb2d63-8771-4bd0-8a9b-55cf5d96a2bc",
+          "code": "I-03-GRN-PA-40",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 3,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "be9c9106-c5ee-4e5e-b3df-37115df94a56",
+          "code": "I-07-HBS-PL-46",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+          "code": "I-05-FVG-FV-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d343996b-36eb-4918-9340-ca527fb4296c",
+          "code": "I-09-DAI-CR-31",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+          "code": "I-02-SVG-SF-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "48c7b19a-f68a-4b5d-91ca-cab712024589",
+          "code": "IQ-10-MPF-SE-48",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "a3a2f2db-208c-49ba-905d-b51885be42b3",
+          "code": "IQ-10-MPF-SE-59",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8deb2d63-8771-4bd0-8a9b-55cf5d96a2bc",
+          "code": "I-03-GRN-PA-40",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "be9c9106-c5ee-4e5e-b3df-37115df94a56",
+          "code": "I-07-HBS-PL-46",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+          "code": "I-05-FVG-FV-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d343996b-36eb-4918-9340-ca527fb4296c",
+          "code": "I-09-DAI-CR-31",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+          "code": "I-02-SVG-SF-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "48c7b19a-f68a-4b5d-91ca-cab712024589",
+          "code": "IQ-10-MPF-SE-48",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "8deb2d63-8771-4bd0-8a9b-55cf5d96a2bc",
+          "code": "I-03-GRN-PA-40",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 5,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "be9c9106-c5ee-4e5e-b3df-37115df94a56",
+          "code": "I-07-HBS-PL-46",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+          "code": "I-05-FVG-FV-03",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "d343996b-36eb-4918-9340-ca527fb4296c",
+          "code": "I-09-DAI-CR-31",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 5
+          }
+        },
+        {
+          "id": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+          "code": "I-02-SVG-SF-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "48c7b19a-f68a-4b5d-91ca-cab712024589",
+          "code": "IQ-10-MPF-SE-48",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "a3a2f2db-208c-49ba-905d-b51885be42b3",
+          "code": "IQ-10-MPF-SE-59",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8deb2d63-8771-4bd0-8a9b-55cf5d96a2bc",
+          "code": "I-03-GRN-PA-40",
+          "quantities": {
+            "in_box": 3
+          }
+        }
+      ]
+    }
+  ]
+}

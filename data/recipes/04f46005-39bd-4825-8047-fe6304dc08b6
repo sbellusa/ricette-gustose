@@ -1,0 +1,1249 @@
+{
+  "url": "/turkish-style-beef-lahmacun",
+  "title": "Turkish-Style Beef Lahmacun",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "6252",
+  "gousto_uid": "04f46005-39bd-4825-8047-fe6304dc08b6",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/6097---Turkish-Style-Beef-Lahmacun1655-1687362546953-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/6097---Turkish-Style-Beef-Lahmacun1655-1687362546953-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/6097---Turkish-Style-Beef-Lahmacun1655-1687362546953-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/6097---Turkish-Style-Beef-Lahmacun1655-1687362546953-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/6097---Turkish-Style-Beef-Lahmacun1655-1687362546953-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 1697
+  },
+  "description": "This smoky, spicy lahmacun is Turkey’s answer to pizza. You’ll simmer tender beef mince with smoked paprika, cumin and chilli before spreading it over crispy tortillas. Dollop with garlicky yoghurt and pickled onion for a tangy finish.",
+  "prep_times": {
+    "for_2": 20,
+    "for_4": 25
+  },
+  "cuisine": {
+    "slug": "turkish",
+    "title": "Turkish"
+  },
+  "ingredients": [
+    {
+      "label": "Tomato paste (32g)",
+      "title": "tomato paste-I-08-SAU-PS-37",
+      "uid": "blt56af6f93c8c97b3f",
+      "gousto_uuid": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+      "name": "tomato paste",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Tomato paste (16g) x0",
+      "title": "tomato paste-I-08-SAU-PS-36",
+      "uid": "blt5fa8ca0463cfd067",
+      "gousto_uuid": "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+      "name": "tomato paste",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Natural yoghurt (80g)",
+      "title": "natural yoghurt-I-09-DAI-CR-13",
+      "uid": "blt8d35001e30a0bf2b",
+      "gousto_uuid": "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+      "name": "natural yoghurt",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Tomato",
+      "title": "tomato-I-05-FVG-FV-09",
+      "uid": "bltadd0f9d489140d4c",
+      "gousto_uuid": "5c14a222-aa12-4d98-a108-106ca1693363",
+      "name": "tomato",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Ground cumin (1tsp)",
+      "title": "ground cumin-I-06-SML-DL-17",
+      "uid": "bltc24717d37b57c805",
+      "gousto_uuid": "c4a76caa-8a7d-473f-ab94-89ad816ff8d8",
+      "name": "ground cumin",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ground-cumin-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ground-cumin-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ground-cumin-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ground-cumin-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ground-cumin-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Ground smoked paprika (1tsp)",
+      "title": "ground smoked paprika-I-06-SML-DL-15",
+      "uid": "blt40d60aca111c0243",
+      "gousto_uuid": "9bbbe335-1516-4488-957c-814e34eae5b1",
+      "name": "ground smoked paprika",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Dried chilli flakes (0.5tsp)",
+      "title": "dried chilli flakes-I-06-SML-CL-03",
+      "uid": "bltc941509f43a536f0",
+      "gousto_uuid": "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+      "name": "dried chilli flakes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Plain tortillas (6pcs)",
+      "title": "plain tortillas-I-11-BRD-BR-55",
+      "uid": "bltf088851659dcac60",
+      "gousto_uuid": "55692d26-3834-4b6f-94ce-0cd6332af610",
+      "name": "plain tortillas",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/plain-flour-tortilla-wrap-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/plain-flour-tortilla-wrap-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/plain-flour-tortilla-wrap-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/plain-flour-tortilla-wrap-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/plain-flour-tortilla-wrap-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "British beef mince (250g)",
+      "title": "British beef mince-I-10-MPF-ME-403",
+      "uid": "blt8305fa2337511097",
+      "gousto_uuid": "a7f888da-1e74-4180-9550-f7c69dcc5872",
+      "name": "British beef mince",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Baby leaf salad (50g)",
+      "title": "baby leaf salad-I-05-FVG-FG-03-01",
+      "uid": "bltffe1841caada8361",
+      "gousto_uuid": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+      "name": "baby leaf salad",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Red wine vinegar (15ml)",
+      "title": "red wine vinegar-I-08-SAU-LS-13",
+      "uid": "blt8407e6fbf8d8d9c5",
+      "gousto_uuid": "3982abce-0437-40bc-950c-bc4990c45d9a",
+      "name": "red wine vinegar",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sulphites"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Garlic clove x2",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Red onion",
+      "title": "red onion-I-02-SVG-VG-05",
+      "uid": "bltc69ae0a09122a2b4",
+      "gousto_uuid": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Sugar",
+      "slug": "sugar"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    },
+    {
+      "title": "Water",
+      "slug": "water"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7</p><p>Peel and finely dice half your <strong>red onion[s]</strong></p><p>Slice your <strong>remaining onion </strong>finely</p><p>Add the <strong>sliced onion</strong> to a bowl with your <strong>red wine vinegar </strong>and a pinch of <strong>salt </strong>and <strong>sugar </strong>and set aside to pickle – this is your <strong>quick-pickled red onion</strong></p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1683882763543-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1683882763543-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1683882763543-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1683882763543-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1683882763543-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>vegetable oil</strong> over a medium-high heat</p><p>Once hot, add your <strong>beef mince </strong>and <strong>diced onion</strong> with a pinch of <strong>salt </strong>and cook for 3-4 min or until beginning to brown, breaking it up with a wooden spoon as you go</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1683882767372-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1683882767372-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1683882767372-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1683882767372-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1683882767372-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>While the beef is cooking, boil half a kettle</p><p>Peel and finely chop (or grate) your <strong>garlic</strong></p><p>Chop your <strong>tomato[es]</strong> finely</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1683882772370-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1683882772370-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1683882772370-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1683882772370-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1683882772370-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once browned, add your <strong>ground</strong> <strong>smoked paprika</strong>, <strong>ground cumin</strong>, <strong>chilli flakes </strong>(can't handle the heat? Go easy!), <strong>tomato paste </strong>and <strong>half </strong>the <strong>chopped garlic</strong> (you'll use the rest later!) to the pan and cook for 1-2 min or until fragrant</p><p>Once fragrant, add 100ml<span class=\"text-danger\"> <span class=\"text-purple\">[130ml]</span> [150ml]</span> <strong>boiled water</strong> and cook for a further 4 min or until the mince is cooked through (no pink meat!) – this is your <strong>spiced beef mixture</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1683882776791-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1683882776791-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1683882776791-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1683882776791-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1683882776791-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, add your <strong>tortillas </strong>to a baking tray (or two!) with a drizzle of <strong>vegetable oil </strong>and a pinch <strong>salt</strong> and <strong>pepper</strong></p><p>Put the tray[s] in the oven for 6-8 min or until lightly browned and crisp</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1683882780905-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1683882780905-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1683882780905-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1683882780905-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1683882780905-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Combine your <strong>natural yoghurt </strong>with the <strong>remaining grated garlic </strong>(not a big garlic fan? Try using less!)<strong> </strong>in a small bowl with a pinch of <strong>salt</strong> and <strong>pepper</strong> – this is your <strong>garlic yoghurt</strong></p><p>Wash your <strong>salad</strong> and pat dry with kitchen paper</p><p>Drain the <strong>quick-pickled red onion</strong> (save the pickling liquid!)</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1683882785366-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1683882785366-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1683882785366-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1683882785366-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1683882785366-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the the beef is cooked, divide the <strong>spiced beef mixture</strong> between the <strong>crispy tortillas</strong> and spread thinly – these are your <strong>Turkish-style beef lahmacuns</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1683882789517-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1683882789517-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1683882789517-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1683882789517-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1683882789517-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>To serve, top each <strong>Turkish-style beef lahmacun</strong> with the <strong>quick-pickled red onion</strong>, <strong>chopped tomato </strong>and a dollop of <strong>garlic yoghurt</strong></p><p>Serve the <strong>salad </strong>to the side and drizzle with a little <strong>olive oil</strong> and the <strong>reserved pickling liquid</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "sulphites",
+      "slug": "sulphites"
+    }
+  ],
+  "seo": {
+    "title": "Turkish-Style Beef Lahmacun",
+    "description": "This smoky, spicy lahmacun is Turkey’s answer to pizza. You’ll simmer tender beef mince with smoked paprika, cumin and chilli before spreading it over crispy tortillas. Dollop with garlicky yoghurt and pickled onion for a tangy finish.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/6097---Turkish-Style-Beef-Lahmacun1655-1687362546953.jpg"
+  },
+  "tags": [],
+  "uid": "blt7b69b251db92dd27",
+  "_version": 1723,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 169,
+      "energy_kj": 708,
+      "fat_mg": 7209,
+      "fat_saturates_mg": 3113,
+      "carbs_mg": 16152,
+      "carbs_sugars_mg": 2987,
+      "fibre_mg": 1274,
+      "protein_mg": 9555,
+      "salt_mg": 233,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 687,
+      "energy_kj": 2879,
+      "fat_mg": 29307,
+      "fat_saturates_mg": 12655,
+      "carbs_mg": 65660,
+      "carbs_sugars_mg": 12145,
+      "fibre_mg": 5180,
+      "protein_mg": 38844,
+      "salt_mg": 948,
+      "net_weight_mg": 406500
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 1,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+          "code": "I-05-FVG-FG-03-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+          "code": "I-06-SML-CL-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "c4a76caa-8a7d-473f-ab94-89ad816ff8d8",
+          "code": "I-06-SML-DL-17",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "9bbbe335-1516-4488-957c-814e34eae5b1",
+          "code": "I-06-SML-DL-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+          "code": "I-09-DAI-CR-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "55692d26-3834-4b6f-94ce-0cd6332af610",
+          "code": "I-11-BRD-BR-55",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "3982abce-0437-40bc-950c-bc4990c45d9a",
+          "code": "I-08-SAU-LS-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "5c14a222-aa12-4d98-a108-106ca1693363",
+          "code": "I-05-FVG-FV-09",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+          "code": "I-08-SAU-PS-36",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "a7f888da-1e74-4180-9550-f7c69dcc5872",
+          "code": "I-10-MPF-ME-403",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+          "code": "I-05-FVG-FG-03-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+          "code": "I-06-SML-CL-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "c4a76caa-8a7d-473f-ab94-89ad816ff8d8",
+          "code": "I-06-SML-DL-17",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "9bbbe335-1516-4488-957c-814e34eae5b1",
+          "code": "I-06-SML-DL-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+          "code": "I-09-DAI-CR-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "55692d26-3834-4b6f-94ce-0cd6332af610",
+          "code": "I-11-BRD-BR-55",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "3982abce-0437-40bc-950c-bc4990c45d9a",
+          "code": "I-08-SAU-LS-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "5c14a222-aa12-4d98-a108-106ca1693363",
+          "code": "I-05-FVG-FV-09",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+          "code": "I-08-SAU-PS-37",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 3,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "a7f888da-1e74-4180-9550-f7c69dcc5872",
+          "code": "I-10-MPF-ME-403",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+          "code": "I-05-FVG-FG-03-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+          "code": "I-06-SML-CL-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "c4a76caa-8a7d-473f-ab94-89ad816ff8d8",
+          "code": "I-06-SML-DL-17",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "9bbbe335-1516-4488-957c-814e34eae5b1",
+          "code": "I-06-SML-DL-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+          "code": "I-09-DAI-CR-13",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "55692d26-3834-4b6f-94ce-0cd6332af610",
+          "code": "I-11-BRD-BR-55",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "3982abce-0437-40bc-950c-bc4990c45d9a",
+          "code": "I-08-SAU-LS-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "5c14a222-aa12-4d98-a108-106ca1693363",
+          "code": "I-05-FVG-FV-09",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+          "code": "I-08-SAU-PS-36",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+          "code": "I-08-SAU-PS-37",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "a7f888da-1e74-4180-9550-f7c69dcc5872",
+          "code": "I-10-MPF-ME-403",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+          "code": "I-05-FVG-FG-03-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+          "code": "I-06-SML-CL-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "c4a76caa-8a7d-473f-ab94-89ad816ff8d8",
+          "code": "I-06-SML-DL-17",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "9bbbe335-1516-4488-957c-814e34eae5b1",
+          "code": "I-06-SML-DL-15",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+          "code": "I-09-DAI-CR-13",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "55692d26-3834-4b6f-94ce-0cd6332af610",
+          "code": "I-11-BRD-BR-55",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "3982abce-0437-40bc-950c-bc4990c45d9a",
+          "code": "I-08-SAU-LS-13",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "5c14a222-aa12-4d98-a108-106ca1693363",
+          "code": "I-05-FVG-FV-09",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+          "code": "I-08-SAU-PS-37",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 5,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "a7f888da-1e74-4180-9550-f7c69dcc5872",
+          "code": "I-10-MPF-ME-403",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+          "code": "I-05-FVG-FG-03-01",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+          "code": "I-06-SML-CL-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 5
+          }
+        },
+        {
+          "id": "c4a76caa-8a7d-473f-ab94-89ad816ff8d8",
+          "code": "I-06-SML-DL-17",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "9bbbe335-1516-4488-957c-814e34eae5b1",
+          "code": "I-06-SML-DL-15",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+          "code": "I-09-DAI-CR-13",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "55692d26-3834-4b6f-94ce-0cd6332af610",
+          "code": "I-11-BRD-BR-55",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "3982abce-0437-40bc-950c-bc4990c45d9a",
+          "code": "I-08-SAU-LS-13",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "5c14a222-aa12-4d98-a108-106ca1693363",
+          "code": "I-05-FVG-FV-09",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+          "code": "I-08-SAU-PS-36",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+          "code": "I-08-SAU-PS-37",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    }
+  ]
+}

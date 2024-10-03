@@ -1,0 +1,903 @@
+{
+  "url": "/creamy-leek-mustard-risotto",
+  "title": "Creamy Leek & Mustard Risotto",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "5512",
+  "gousto_uid": "57a615bd-4f1c-4c10-baf3-a904c98b2f29",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-5357-2-CreamyLeekMustardRisotto-1674034374876-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-5357-2-CreamyLeekMustardRisotto-1674034374876-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-5357-2-CreamyLeekMustardRisotto-1674034374876-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-5357-2-CreamyLeekMustardRisotto-1674034374876-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-5357-2-CreamyLeekMustardRisotto-1674034374876-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 3548
+  },
+  "description": "This creamy risotto is a comforting classic. You’ll cook arborio rice with pan-fried leeks before stirring through soft cheese and wholegrain mustard. Top with roasted leeks and a sprinkle of Italian hard cheese to serve.",
+  "prep_times": {
+    "for_2": 45,
+    "for_4": 50
+  },
+  "cuisine": {
+    "slug": "italian",
+    "title": "Italian"
+  },
+  "ingredients": [
+    {
+      "label": "Arborio rice (160g)",
+      "title": "arborio rice-IQ-03-GRN-RC-26-01",
+      "uid": "blta60f059a7379b5c7",
+      "gousto_uuid": "a749d8cc-add6-4cb1-99df-6ca05a9436fa",
+      "name": "arborio rice",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-arborio-rice-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-arborio-rice-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-arborio-rice-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-arborio-rice-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-arborio-rice-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Soft cheese (50g)",
+      "title": "soft cheese-I-09-DAI-CR-15",
+      "uid": "blt5d5a607d98da4457",
+      "gousto_uuid": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+      "name": "soft cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Grated Italian hard cheese (30g)",
+      "title": "grated Italian hard cheese-I-09-DAI-CH-42",
+      "uid": "blt3eb104a464573b1e",
+      "gousto_uuid": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+      "name": "grated Italian hard cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Vegetable stock mix (11g)",
+      "title": "vegetable stock mix-I-06-SML-SC-27",
+      "uid": "bltebbd714d321e7e43",
+      "gousto_uuid": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+      "name": "vegetable stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Vegetable stock mix (5.5g) x0",
+      "title": "vegetable stock mix-I-06-SML-SC-26",
+      "uid": "blt0ca5e580e2d973c5",
+      "gousto_uuid": "166bfad3-d300-465d-b61c-fef4d2965904",
+      "name": "vegetable stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Wholegrain mustard (21g)",
+      "title": "wholegrain mustard-I-06-SML-TRK-23",
+      "uid": "blt747b1d9216d12cbd",
+      "gousto_uuid": "4cad21de-c673-4385-82b7-78aaca9c8367",
+      "name": "wholegrain mustard",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-tbsp-wholegrain-mustard-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-tbsp-wholegrain-mustard-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-tbsp-wholegrain-mustard-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-tbsp-wholegrain-mustard-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-tbsp-wholegrain-mustard-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "mustard"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Leek x2",
+      "title": "leek-I-05-FVG-LF-03",
+      "uid": "blt8f2a845b088489d2",
+      "gousto_uuid": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+      "name": "leek",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Garlic clove x2",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Butter",
+      "slug": "butter"
+    },
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Water",
+      "slug": "water"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 240ºC/ 220ºC (fan)/ gas 9</p><p>Boil a full kettle</p><p>Chop <strong>half</strong> your <strong>leek[s]</strong> in half lengthways (you'll use the rest later!), wash thoroughly to remove any grit then top, tail and slice finely</p><p>Peel and finely chop (or grate) your <strong>garlic</strong></p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1674486129882-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1674486129882-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1674486129882-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1674486129882-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1674486129882-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>olive oil</strong> and a knob of <strong>butter </strong>over a medium heat</p><p>Once hot, add the <strong>sliced leek </strong>with a generous pinch of <strong>salt </strong>and cook for 4-6 min or until the leek has slightly softened</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1674486136841-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1674486136841-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1674486136841-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1674486136841-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1674486136841-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, top, tail and slice the <strong>remaining leek</strong> into rounds and wash thoroughly to remove any grit, then shake off any excess water</p><p>Dissolve your<strong> vegetable stock mix </strong>in 750ml <span class=\"text-purple\">[975ml]</span> <span class=\"text-danger\">[1.4L] </span><strong>boiled water</strong></p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1674486143470-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1674486143470-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1674486143470-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1674486143470-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1674486143470-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the sliced leek has slightly softened, add the <strong>chopped garlic</strong> to the pan and cook for 1 min or until fragrant</p><p>Once fragrant, add your <strong>arborio rice</strong> and a pinch of <strong>salt</strong> and cook for 1 min, stirring to coat the grains in the oil</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1674486147486-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1674486147486-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1674486147486-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1674486147486-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1674486147486-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the<strong> vegetable</strong> <strong>stock</strong> a ladle at a time, stirring continuously, for 25-30 min or until all of the stock is absorbed and the rice is cooked</p><p>Tip: Add a splash of water if the risotto is looking a little dry!</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1674486152384-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1674486152384-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1674486152384-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1674486152384-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1674486152384-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p> Once the risotto has been cooking for 5-8 min, add the<strong> leek rounds</strong> to a baking tray with a drizzle of <strong>olive oil</strong></p><p>Put the tray in the oven for 15-18 min or until slightly charred and tender – these are your <strong>roasted leek rounds</strong></p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1714466542461-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1714466542461-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1714466542461-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1714466542461-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1714466542461-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the rice is cooked, stir through your <strong>soft cheese</strong>, <strong>wholegrain mustard </strong>(not a mustard fan? Go easy!), <strong>half </strong>your <strong>grated Italian hard cheese</strong> (save the rest for garnish!) and a generous grind of<strong> black pepper</strong> – this is your <strong>creamy leek & mustard risotto</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1674486161727-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1674486161727-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1674486161727-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1674486161727-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1674486161727-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>creamy leek & mustard risotto</strong> topped with the <strong>roasted leek rounds</strong></p><p>Sprinkle over the <strong>remaining grated Italian hard cheese</strong> and season with a generous grind of<strong> black</strong> <strong>pepper</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "mustard",
+      "slug": "mustard"
+    }
+  ],
+  "seo": {
+    "title": "Creamy Leek & Mustard Risotto",
+    "description": "This creamy risotto is a comforting classic. You’ll cook arborio rice with pan-fried leeks before stirring through soft cheese and wholegrain mustard. Top with roasted leeks and a sprinkle of Italian hard cheese to serve.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/R-5357-2-CreamyLeekMustardRisotto-1674034374876.jpg"
+  },
+  "tags": [],
+  "uid": "bltca9399f6760b785c",
+  "_version": 3592,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 113,
+      "energy_kj": 480,
+      "fat_mg": 2988,
+      "fat_saturates_mg": 1697,
+      "carbs_mg": 18139,
+      "carbs_sugars_mg": 3185,
+      "fibre_mg": 2443,
+      "protein_mg": 3988,
+      "salt_mg": 476,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 503,
+      "energy_kj": 2126,
+      "fat_mg": 13210,
+      "fat_saturates_mg": 7505,
+      "carbs_mg": 80175,
+      "carbs_sugars_mg": 14082,
+      "fibre_mg": 10801,
+      "protein_mg": 17630,
+      "salt_mg": 2105,
+      "net_weight_mg": 442000
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 1,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "a749d8cc-add6-4cb1-99df-6ca05a9436fa",
+          "code": "IQ-03-GRN-RC-26-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+          "code": "I-09-DAI-CH-42",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+          "code": "I-05-FVG-LF-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4cad21de-c673-4385-82b7-78aaca9c8367",
+          "code": "I-06-SML-TRK-23",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "a749d8cc-add6-4cb1-99df-6ca05a9436fa",
+          "code": "IQ-03-GRN-RC-26-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+          "code": "I-09-DAI-CH-42",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+          "code": "I-05-FVG-LF-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4cad21de-c673-4385-82b7-78aaca9c8367",
+          "code": "I-06-SML-TRK-23",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 3,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "a749d8cc-add6-4cb1-99df-6ca05a9436fa",
+          "code": "IQ-03-GRN-RC-26-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+          "code": "I-09-DAI-CH-42",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+          "code": "I-05-FVG-LF-03",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4cad21de-c673-4385-82b7-78aaca9c8367",
+          "code": "I-06-SML-TRK-23",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "a749d8cc-add6-4cb1-99df-6ca05a9436fa",
+          "code": "IQ-03-GRN-RC-26-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+          "code": "I-09-DAI-CH-42",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+          "code": "I-05-FVG-LF-03",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4cad21de-c673-4385-82b7-78aaca9c8367",
+          "code": "I-06-SML-TRK-23",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 5,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "a749d8cc-add6-4cb1-99df-6ca05a9436fa",
+          "code": "IQ-03-GRN-RC-26-01",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 5
+          }
+        },
+        {
+          "id": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+          "code": "I-09-DAI-CH-42",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+          "code": "I-05-FVG-LF-03",
+          "quantities": {
+            "in_box": 5
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4cad21de-c673-4385-82b7-78aaca9c8367",
+          "code": "I-06-SML-TRK-23",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    }
+  ]
+}

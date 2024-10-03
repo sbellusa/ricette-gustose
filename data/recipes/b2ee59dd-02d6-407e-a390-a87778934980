@@ -1,0 +1,686 @@
+{
+  "url": "/bacon-courgette-cherry-tomato-linguine",
+  "title": "Bacon, Courgette & Cherry Tomato Linguine",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Bacon Recipes",
+      "url": "/bacon-recipes",
+      "uid": "bltf58b3cec3b6d5148"
+    }
+  ],
+  "gousto_id": "748",
+  "gousto_uid": "b2ee59dd-02d6-407e-a390-a87778934980",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/764---Bacon--Courgette-One-Pot-Pasta-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/764---Bacon--Courgette-One-Pot-Pasta-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/764---Bacon--Courgette-One-Pot-Pasta-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/764---Bacon--Courgette-One-Pot-Pasta-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/764---Bacon--Courgette-One-Pot-Pasta-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 1031
+  },
+  "description": "You had us at ‘golden-fried bacon’... plus courgette and juicy cherry tomatoes. Clotted cream brings all the flavours together in creamy harmony, and chopped basil adds a fresh finish. This fabulously simple pasta dish is ready in a flash and sure to be a new favourite. ",
+  "prep_times": {
+    "for_2": 20,
+    "for_4": 25
+  },
+  "cuisine": {
+    "slug": "italian",
+    "title": "Italian"
+  },
+  "ingredients": [
+    {
+      "label": "5g basil",
+      "title": "basil-I-07-HBS-PL-23",
+      "uid": "bltf719958334d8b893",
+      "gousto_uuid": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+      "name": "basil",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "125g cherry tomatoes",
+      "title": "cherry tomatoes-I-05-FVG-FV-02-08",
+      "uid": "blt60df91997e03dd15",
+      "gousto_uuid": "b3374bc8-0097-449f-9ac6-b53299104e11",
+      "name": "cherry tomatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 courgette",
+      "title": "courgette-I-05-FVG-FV-03",
+      "uid": "blt49ae7a50bc5644f9",
+      "gousto_uuid": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+      "name": "courgette",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 tbsp dried oregano",
+      "title": "dried oregano-IQ-06-SML-DL-04-04",
+      "uid": "bltd9a13d1d08ca30fb",
+      "gousto_uuid": "7edb165e-f4ea-4dee-a3df-f04d5cb3dcb5",
+      "name": "dried oregano",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "200g linguine ",
+      "title": "linguine-IQ-03-GRN-PA-03-02",
+      "uid": "bltd8805776b1c1edf0",
+      "gousto_uuid": "923c2f49-2564-4a68-9814-d172e41a6d1b",
+      "name": "linguine",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/190g-linguine-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/190g-linguine-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/190g-linguine-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/190g-linguine-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/190g-linguine-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "135g British dry cured smoked streaky bacon",
+      "title": "dry cured smoked streaky bacon-I-10-MPF-PM-04",
+      "uid": "blt9725ce3134c6fa73",
+      "gousto_uuid": "e184603a-7ad7-4278-8582-82e37f052f35",
+      "name": "dry cured smoked streaky bacon",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/90g-british-dry-cured-smoked-streaky-bacon-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/90g-british-dry-cured-smoked-streaky-bacon-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/90g-british-dry-cured-smoked-streaky-bacon-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/90g-british-dry-cured-smoked-streaky-bacon-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/90g-british-dry-cured-smoked-streaky-bacon-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1/2 tsp dried chilli flakes",
+      "title": "dried chilli flakes-IQ-06-SML-CL-01-01",
+      "uid": "bltdf5cef05fbb62840",
+      "gousto_uuid": "b721b69b-bff1-413a-82f8-3ed2b73979a2",
+      "name": "dried chilli flakes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "40g Cornish clotted cream",
+      "title": "Cornish clotted cream-IQ-09-DAI-CR-11",
+      "uid": "bltb6c2aac2a163f459",
+      "gousto_uuid": "488d5751-dcff-4985-88c0-bf745ff54904",
+      "name": "Cornish clotted cream",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "30g pitted black olives",
+      "title": "pitted black olives-IQ-08-SAU-PT-02-01",
+      "uid": "bltdaecf7af64e289ee",
+      "gousto_uuid": "d7201c59-09e8-4e6c-b18f-1f9a52b487cb",
+      "name": "pitted black olives",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pitted-black-olives-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pitted-black-olives-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pitted-black-olives-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pitted-black-olives-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pitted-black-olives-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 garlic clove",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 brown onion",
+      "title": "brown onion-I-02-SVG-VG-07",
+      "uid": "blt8f3ebc667e318aad",
+      "gousto_uuid": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Sugar",
+      "slug": "sugar"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Boil the kettle&nbsp;</p>\r\n<p>Finely chop the <strong>smoked streaky</strong>&nbsp;<strong>bacon</strong></p>\r\n<p>Dice the<strong> brown&nbsp;</strong><strong>onion<span class=\"text-danger\">[s]</span></strong></p>\r\n<p>Peel and finely chop (or grate) the <strong>garlic&nbsp;</strong></p>\r\n<p>Slice the <strong>courgette<span class=\"text-danger\">[s]</span></strong>&nbsp;into rounds&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a wide-based pot (preferably non-stick) with a drizzle of<strong> vegetable oil</strong> over a medium heat&nbsp;</p>\r\n<p>Once hot, add the <strong>diced&nbsp;onion</strong> and&nbsp;<strong>chopped&nbsp;</strong><strong>bacon</strong> and cook for 5-7 min</p>\r\n<p>Add the <strong>courgette</strong>&nbsp;to the pan for another 2-3 mins or until soft and lightly coloured</p>\r\n<p>&nbsp;</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, add the <strong>linguine</strong> to a pot of <strong>boiled water</strong> with a large pinch of <strong>salt</strong> and bring to the boil over a high heat</p>\r\n<p>Cook the <strong>linguine</strong> for 8-10 min or until cooked with a slight bite</p>\r\n<p>Once done, drain the <strong>linguine</strong>, reserving 300ml <span class=\"text-danger\">[600ml]</span> of the <strong>starchy pasta water</strong></p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the <strong>courgette</strong> is lightly browned, add the <strong>cherry&nbsp;</strong><strong>tomatoes</strong>, <strong>garlic</strong>,&nbsp;<strong>dried oregano </strong>and<strong>&nbsp;</strong><strong>chilli flakes</strong> (Can't handle the heat? Go easy!) and cook for 1 min</p>\r\n<p>&nbsp;</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>drained linguine</strong>&nbsp;with the reserved <strong>starchy pasta water&nbsp;</strong>and cook until the liquid thickens slightly and the <strong>tomatoes</strong> are starting to break down</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile,&nbsp;chop the <strong>basil</strong> finely, including the stalks</p>\r\n<p>Slice the <strong>black&nbsp;olives</strong>&nbsp;finely</p>",
+      "order": 6,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p>Once the linguine is cooked, remove it from the heat and stir in half of the <strong>chopped&nbsp;basil</strong>, the<strong> clotted cream</strong>&nbsp;and the <strong>sliced</strong>&nbsp;<strong>olives</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/764_764_..step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the<strong> bacon &amp; courgette pasta</strong> in bowls,&nbsp;sprinkle with the remaining chopped&nbsp;<strong>basil</strong>&nbsp;and&nbsp;season with a good grind of <strong>pepper</strong></p>\r\n<p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    }
+  ],
+  "seo": {
+    "title": "Bacon, Courgette & Cherry Tomato Linguine",
+    "description": "You had us at ‘golden-fried bacon’... plus courgette and juicy cherry tomatoes. Clotted cream brings all the flavours together in creamy harmony, and chopped basil adds a fresh finish. This fabulously simple pasta dish is ready in a flash and sure to be a new favourite. ",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/764---Bacon--Courgette-One-Pot-Pasta.jpg"
+  },
+  "tags": [],
+  "uid": "bltecd7ae98b118d154",
+  "_version": 50,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 173,
+      "energy_kj": 730,
+      "fat_mg": 7600,
+      "fat_saturates_mg": 3453,
+      "carbs_mg": 21088,
+      "carbs_sugars_mg": 2140,
+      "fibre_mg": 1804,
+      "protein_mg": 6639,
+      "salt_mg": 613,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 672,
+      "energy_kj": 2832,
+      "fat_mg": 29451,
+      "fat_saturates_mg": 13381,
+      "carbs_mg": 81716,
+      "carbs_sugars_mg": 8295,
+      "fibre_mg": 6994,
+      "protein_mg": 25729,
+      "salt_mg": 2379,
+      "net_weight_mg": 387500
+    }
+  },
+  "portion_sizes": null
+}

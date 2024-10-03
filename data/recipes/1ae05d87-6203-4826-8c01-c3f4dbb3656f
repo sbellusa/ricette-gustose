@@ -1,0 +1,797 @@
+{
+  "url": "/chickpea-and-tomato-sauce-with-portobello-mushroom-tortelloni",
+  "title": "Chickpea & Tomato Sauce With Portobello Mushroom Tortelloni",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "5038",
+  "gousto_uid": "1ae05d87-6203-4826-8c01-c3f4dbb3656f",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4893---Chickpea--Tomato-Sauce-With-Portobello-Mushroom-Tortelloni0222-1665667278908-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4893---Chickpea--Tomato-Sauce-With-Portobello-Mushroom-Tortelloni0222-1665667278908-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4893---Chickpea--Tomato-Sauce-With-Portobello-Mushroom-Tortelloni0222-1665667278908-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4893---Chickpea--Tomato-Sauce-With-Portobello-Mushroom-Tortelloni0222-1665667278908-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4893---Chickpea--Tomato-Sauce-With-Portobello-Mushroom-Tortelloni0222-1665667278908-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 761
+  },
+  "description": "From Roma to Ragusa, pasta with chickpeas is a hearty Southern Italian staple. You'll simmer tender chickpeas in a rosemary-scented tomato broth before stirring through fresh portobello mushroom tortelloni. Buon appetito.",
+  "prep_times": {
+    "for_2": 10,
+    "for_4": 10
+  },
+  "cuisine": {
+    "slug": "italian",
+    "title": "Italian"
+  },
+  "ingredients": [
+    {
+      "label": "32g tomato paste",
+      "title": "tomato paste-I-08-SAU-PS-37",
+      "uid": "blt56af6f93c8c97b3f",
+      "gousto_uuid": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+      "name": "tomato paste",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "250g portobello mushroom tortelloni",
+      "title": "portobello mushroom tortelloni-I-03-GRN-PA-52",
+      "uid": "bltc32e390a9a97dd2e",
+      "gousto_uuid": "b9133451-2401-47ce-8fed-30c9e2c89d22",
+      "name": "portobello mushroom tortelloni",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Tortelloni-copy-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Tortelloni-copy-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Tortelloni-copy-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Tortelloni-copy-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Tortelloni-copy-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "egg"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          },
+          {
+            "title": null,
+            "slug": "milk"
+          },
+          {
+            "title": null,
+            "slug": "mustard"
+          }
+        ]
+      }
+    },
+    {
+      "label": "390g chickpeas",
+      "title": "chickpeas-I-01-CAN-VC-47",
+      "uid": "blta8b0e18424bb3094",
+      "gousto_uuid": "4085c6d5-e8da-4560-9e9e-efebe980aa01",
+      "name": "chickpeas",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chickpeas-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chickpeas-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chickpeas-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chickpeas-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chickpeas-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "20g Italian hard cheese",
+      "title": "Italian hard cheese-I-09-DAI-CH-41",
+      "uid": "blteef8db6635d96ea9",
+      "gousto_uuid": "d5fc7e99-0340-4983-a486-e4f18ce5483b",
+      "name": "Italian hard cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/35g-Italian-hard-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/35g-Italian-hard-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/35g-Italian-hard-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/35g-Italian-hard-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/35g-Italian-hard-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "11g vegetable stock mix",
+      "title": "vegetable stock mix-I-06-SML-SC-27",
+      "uid": "bltebbd714d321e7e43",
+      "gousto_uuid": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+      "name": "vegetable stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2.5g cracked black pepper",
+      "title": "cracked black pepper-I-01-PEP-SP-02",
+      "uid": "blt5882cc9a30c8bd9b",
+      "gousto_uuid": "716cbc79-cd4d-4df1-b549-e04c70f8b031",
+      "name": "cracked black pepper",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-cracked-black-pepper-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-cracked-black-pepper-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-cracked-black-pepper-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-cracked-black-pepper-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-cracked-black-pepper-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "15ml Chinese rice wine",
+      "title": "Chinese rice wine-I-08-SAU-LS-30",
+      "uid": "blt6accad9549cb3cb5",
+      "gousto_uuid": "3484b3bc-d97e-4b98-b132-7ead51932d79",
+      "name": "Chinese rice wine",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chinese-rice-wine-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chinese-rice-wine-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chinese-rice-wine-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chinese-rice-wine-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chinese-rice-wine-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "5g rosemary",
+      "title": "rosemary-I-07-HBS-PL-44",
+      "uid": "blt9e2024d6b27fb99c",
+      "gousto_uuid": "a0cbff79-0da6-4e5a-a710-50a5dd4b3316",
+      "name": "rosemary",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-rosemary-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-rosemary-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-rosemary-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-rosemary-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-rosemary-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "3 garlic cloves",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Before you begin...</strong></p><p>Get all your ingredients and equipment ready</p><p>Skim through these steps, then wash your fruit and veg</p><p>Note: Equipment and pan sizes vary. Make sure you cook food thoroughly (even if it takes you a little longer than 10 min)</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-2-1664893245638-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-2-1664893245638-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-2-1664893245638-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-2-1664893245638-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-2-1664893245638-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Now, let's get started!</strong></p><p>Boil a kettle and heat a large, wide-based pan (preferably non-stick) with a generous drizzle of <strong>olive oil</strong> over a medium heat</p><p>Peel and slice (don't chop!) the <strong>garlic</strong></p><p>Once hot, add the <strong>sliced garlic</strong> and cook for 1-2 min or until fragrant</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1664893247886-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1664893247886-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1664893247886-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1664893247886-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1664893247886-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Combine the <strong>vegetable stock mix</strong> with 300ml <span class=\"text-danger\">[550ml]</span> <strong>boiled water</strong></p><p>Drain and rinse the <strong>chickpeas</strong></p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1664893250932-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1664893250932-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1664893250932-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1664893250932-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1664893250932-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the garlic is fragrant, add the <strong>tomato paste</strong> and cook for 1 min further</p><p>After 1 min, add the <strong>Chinese rice wine</strong>, <strong>vegetable stock</strong> and <strong>drained chickpeas </strong>to the pan and bring to the boil over a high heat</p><p>Once boiling, reduce the heat to medium, add 1 <span class=\"text-danger\">[2]</span> <strong>rosemary</strong> <strong>sprig<span class=\"text-danger\">[s]</span></strong> (save the rest for another recipe!) and cook for 4-5 min or until the chickpeas are tender</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1664893254572-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1664893254572-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1664893254572-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1664893254572-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1664893254572-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, add the <strong>portobello mushroom tortelloni </strong>to a pot of <strong>boiled water</strong> and bring to the boil over a high heat</p><p>Cook the tortelloni for 3-4 min or until cooked with a slight bite</p><p>Once done, drain the tortelloni, reserving a cup of the<strong> starchy pasta water</strong></p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1664893257930-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1664893257930-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1664893257930-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1664893257930-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1664893257930-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once tender, remove the <strong>rosemary </strong>and mash <strong>half</strong> the <strong>chickpeas</strong></p><p>Season with <strong>half</strong> the <strong>cracked black pepper </strong>(save the rest for garnish!) and a pinch of <strong>salt</strong>, give everything a good stir and cook for a further 1 min or until the sauce begins to thicken</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1664893261682-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1664893261682-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1664893261682-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1664893261682-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1664893261682-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the<strong> drained tortelloni</strong> to the pan with <strong>half</strong> the <strong>grated Italian hard cheese </strong>(save the rest for garnish!) and give everything a gentle mix up until the pasta is coated in the sauce - this is your <strong>chickpea & tomato sauce with portobello mushroom tortelloni</strong></p><p>Tip: Add a splash of starchy pasta water if your sauce is looking a little dry</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1664893264862-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1664893264862-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1664893264862-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1664893264862-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1664893264862-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>chickpea & tomato sauce with portobello mushroom tortelloni</strong> in bowls</p><p>Top with the <strong>remaining</strong> <strong>grated Italian hard cheese </strong>and<strong> cracked black pepper</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "egg",
+      "slug": "egg"
+    },
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "mustard",
+      "slug": "mustard"
+    }
+  ],
+  "seo": {
+    "title": "Chickpea And Tomato Sauce With Portobello Mushroom Tortelloni",
+    "description": "From Roma to Ragusa, pasta with chickpeas is a hearty Southern Italian staple. You'll simmer tender chickpeas in a rosemary-scented tomato broth before stirring through fresh portobello mushroom tortelloni. Buon appetito.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/4893---Chickpea--Tomato-Sauce-With-Portobello-Mushroom-Tortelloni0222-1665667278908.jpg"
+  },
+  "tags": [],
+  "uid": "bltde36fc7605b007a3",
+  "_version": 815,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 175,
+      "energy_kj": 738,
+      "fat_mg": 5292,
+      "fat_saturates_mg": 1678,
+      "carbs_mg": 23403,
+      "carbs_sugars_mg": 3204,
+      "fibre_mg": 3405,
+      "protein_mg": 7029,
+      "salt_mg": 1052,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 512,
+      "energy_kj": 2156,
+      "fat_mg": 15441,
+      "fat_saturates_mg": 4897,
+      "carbs_mg": 68280,
+      "carbs_sugars_mg": 9350,
+      "fibre_mg": 9935,
+      "protein_mg": 20510,
+      "salt_mg": 3071,
+      "net_weight_mg": 291750
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "3484b3bc-d97e-4b98-b132-7ead51932d79",
+          "code": "I-08-SAU-LS-30",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "716cbc79-cd4d-4df1-b549-e04c70f8b031",
+          "code": "I-01-PEP-SP-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d5fc7e99-0340-4983-a486-e4f18ce5483b",
+          "code": "I-09-DAI-CH-41",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b9133451-2401-47ce-8fed-30c9e2c89d22",
+          "code": "I-03-GRN-PA-52",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+          "code": "I-08-SAU-PS-37",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4085c6d5-e8da-4560-9e9e-efebe980aa01",
+          "code": "I-01-CAN-VC-47",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "a0cbff79-0da6-4e5a-a710-50a5dd4b3316",
+          "code": "I-07-HBS-PL-44",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 6
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "3484b3bc-d97e-4b98-b132-7ead51932d79",
+          "code": "I-08-SAU-LS-30",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "716cbc79-cd4d-4df1-b549-e04c70f8b031",
+          "code": "I-01-PEP-SP-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d5fc7e99-0340-4983-a486-e4f18ce5483b",
+          "code": "I-09-DAI-CH-41",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "b9133451-2401-47ce-8fed-30c9e2c89d22",
+          "code": "I-03-GRN-PA-52",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+          "code": "I-08-SAU-PS-37",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4085c6d5-e8da-4560-9e9e-efebe980aa01",
+          "code": "I-01-CAN-VC-47",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "a0cbff79-0da6-4e5a-a710-50a5dd4b3316",
+          "code": "I-07-HBS-PL-44",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    }
+  ]
+}

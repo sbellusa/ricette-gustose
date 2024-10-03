@@ -1,0 +1,854 @@
+{
+  "url": "/crowd-sauced-veggie-christmas-sarnie",
+  "title": "Crowd Sauced Veggie Christmas Sarnie",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "4146",
+  "gousto_uid": "e667bafa-09d0-4bfc-8933-fdf1a1e739b5",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4002_Crowd-Sauce-Christmas-Sandwich-7183-1637929043047-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4002_Crowd-Sauce-Christmas-Sandwich-7183-1637929043047-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4002_Crowd-Sauce-Christmas-Sandwich-7183-1637929043047-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4002_Crowd-Sauce-Christmas-Sandwich-7183-1637929043047-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4002_Crowd-Sauce-Christmas-Sandwich-7183-1637929043047-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 620
+  },
+  "description": "The Gang have spoken and their most wasted ingredient is… the humble sprout. To zhuzh up your Brussels, you’ll stuff brioche baps with crispy honey-sage fried sprouts and gravy-soaked meat-free chicken. Dip in gravy mayo and dive in!",
+  "prep_times": {
+    "for_2": 30,
+    "for_4": 35
+  },
+  "cuisine": {
+    "slug": "british",
+    "title": "British"
+  },
+  "ingredients": [
+    {
+      "label": "1 gem lettuce",
+      "title": "gem lettuce-I-05-FVG-LF-19",
+      "uid": "bltfcb98e9d785b81d2",
+      "gousto_uuid": "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+      "name": "gem lettuce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/little-gem-lettuce-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/little-gem-lettuce-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/little-gem-lettuce-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/little-gem-lettuce-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/little-gem-lettuce-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 butter brioche buns",
+      "title": "butter brioche buns-I-11-BRD-BR-35",
+      "uid": "blte1ae00a788a9d27e",
+      "gousto_uuid": "0b699f81-d4bc-40a4-88d4-beef250cb63a",
+      "name": "butter brioche buns",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brioche-roll-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brioche-roll-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brioche-roll-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brioche-roll-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brioche-roll-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "egg"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          },
+          {
+            "title": null,
+            "slug": "milk"
+          },
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "sesame"
+          }
+        ]
+      }
+    },
+    {
+      "label": "50ml mayonnaise",
+      "title": "mayonnaise-I-06-SML-OT-20",
+      "uid": "blt80cf1fc6cf10a03b",
+      "gousto_uuid": "c4a8b75e-f277-402a-aa5d-a98149cdcda5",
+      "name": "mayonnaise",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "egg"
+          }
+        ]
+      }
+    },
+    {
+      "label": "5.5g vegetable stock mix",
+      "title": "vegetable stock mix-I-06-SML-SC-26",
+      "uid": "blt0ca5e580e2d973c5",
+      "gousto_uuid": "166bfad3-d300-465d-b61c-fef4d2965904",
+      "name": "vegetable stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "15ml soy sauce",
+      "title": "soy sauce-I-06-SML-OT-14",
+      "uid": "blt3a79c2be8bfcc885",
+      "gousto_uuid": "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+      "name": "soy sauce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "100g Brussels sprouts",
+      "title": "Brussels sprouts-I-05-FVG-LF-48",
+      "uid": "blt64647ec32232bfa6",
+      "gousto_uuid": "a18702aa-f6c1-4ad5-91e0-a0e163eec4af",
+      "name": "Brussels sprouts",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Baby-Brussels-Sprouts-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Baby-Brussels-Sprouts-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Baby-Brussels-Sprouts-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Baby-Brussels-Sprouts-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Baby-Brussels-Sprouts-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "165g meat-free chicken bites",
+      "title": "vegan roast chicken bites-I-10-MPF-VE-04",
+      "uid": "bltaa06a044416f375f",
+      "gousto_uuid": "edca66d3-9b44-47d2-a881-cd4628255015",
+      "name": "vegan roast chicken bites",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Vegan-roast-chicken-bites-165g-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Vegan-roast-chicken-bites-165g-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Vegan-roast-chicken-bites-165g-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Vegan-roast-chicken-bites-165g-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Vegan-roast-chicken-bites-165g-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "3 white potatoes",
+      "title": "white potato-I-02-SVG-VG-01-09",
+      "uid": "bltab576a7ce0bc5a37",
+      "gousto_uuid": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 tsp dried sage",
+      "title": "dried sage-IQ-06-SML-DL-06-01",
+      "uid": "blt3f6bacccdb02ea9b",
+      "gousto_uuid": "f67ece76-105b-45b7-83de-ed5708089941",
+      "name": "dried sage",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-sage-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-sage-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-sage-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-sage-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-sage-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "15ml white wine vinegar",
+      "title": "white wine vinegar-I-08-SAU-LS-14",
+      "uid": "bltfa7cb0db872c783e",
+      "gousto_uuid": "ef566c78-5df6-49d9-8356-68789149176f",
+      "name": "white wine vinegar",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "4 tbsp cornflour",
+      "title": "cornflour-IQ-06-SML-OT-04-02-5",
+      "uid": "blt9e2cefa462b87e82",
+      "gousto_uuid": "90d7e67d-3f5c-40be-adc9-09c77ca504c2",
+      "name": "cornflour",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "25g honey",
+      "title": "honey-I-01-CAN-LQ-06",
+      "uid": "bltc92f99bd088d381a",
+      "gousto_uuid": "79f3354b-1c07-4ead-a173-f97e8cddd843",
+      "name": "honey",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 skewers",
+      "title": "skewers-I-99-OTH-OT-01",
+      "uid": "blt7fcbac8dd948b5f1",
+      "gousto_uuid": "551b135e-3ca3-4d63-b219-23c9a068523d",
+      "name": "skewers",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Skewer-one-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Skewer-one-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Skewer-one-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Skewer-one-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Skewer-one-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "30g dried cranberries",
+      "title": "dried cranberries-IQ-04-NUT-DF-02-01",
+      "uid": "blt369edb226e44dd5f",
+      "gousto_uuid": "e89eccef-6606-4529-bf66-346d735b2785",
+      "name": "dried cranberries",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/IQ-04-NUT-DF-02-01-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/IQ-04-NUT-DF-02-01-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/IQ-04-NUT-DF-02-01-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/IQ-04-NUT-DF-02-01-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/IQ-04-NUT-DF-02-01-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Milk",
+      "slug": "milk"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7</p><p>Cut the <strong>potatoes</strong> (skins on) into chips</p><p>Add the <strong>chips</strong> to a <strong>baking paper</strong>-lined baking tray with a drizzle of <strong>vegetable oil</strong> and a pinch of <strong>salt</strong> and <strong>pepper</strong></p><p>Give everything a good mix up and put the tray in the oven for 30 min or until golden and crisp</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1637676795399-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1637676795399-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1637676795399-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1637676795399-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1637676795399-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Chop the <strong>Brussels sprouts</strong> into quarters</p><p>Add 70ml <span class=\"text-danger\">[120ml]</span> <strong>milk</strong> and the <strong>white wine vinegar</strong> to a bowl – this is your <strong>cheat's buttermilk</strong></p><p>Add the <strong>chopped sprouts</strong> to the <strong>cheat's buttermilk</strong>, give everything a good mix up and set aside to marinate</p><p>Tip: Don't worry if the mixture is a little lumpy, it's meant to be!</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1637676844969-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1637676844969-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1637676844969-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1637676844969-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1637676844969-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, chop the<strong> dried cranberries </strong>roughly</p><p>Remove 4 <span class=\"text-danger\">[8]</span> <strong>leaves</strong> from the<strong> gem lettuce</strong>, give them a wash and set aside, then cut the<strong> inner core</strong> into wedges</p><p>Cut the <strong>brioche</strong> <strong>buns </strong>in half</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1637676868047-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1637676868047-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1637676868047-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1637676868047-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1637676868047-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Boil a kettle</p><p>Combine 2 tsp <span class=\"text-danger\">[4 tsp] </span><strong>cornflour </strong>(reserve the rest for later!) with 2 tbsp <span class=\"text-danger\">[4 tbsp]</span><strong> water</strong> in a small bowl<strong> </strong>– this is your <strong>cornflour mixture</strong></p><p>Dissolve the <strong>vegetable stock mix</strong> in 180ml <span class=\"text-danger\">[340ml]</span> <strong>boiled</strong> <strong>water</strong> and stir in<strong> half </strong>the <strong>soy sauce </strong>– this is your<strong> gravy stock</strong></p><p>Add the <strong>gravy stock</strong> to a large, wide-based pot over a high heat</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1637676897713-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1637676897713-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1637676897713-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1637676897713-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1637676897713-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the stock is hot, add the <strong>cornflour mixture </strong>and<strong> diced cranberries </strong>and whisk immediately to avoid any lumps</p><p>Add the<strong> meat-free chicken </strong>and cook for 1-2 min or until the stock has thickened to a gravy-like consistency and the meat-free chicken is warmed through – this is your <strong>gravy-soaked meat-free chicken</strong></p><p>Remove from the heat and cover to keep warm until serving</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1637677071086-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1637677071086-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1637677071086-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1637677071086-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1637677071086-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Drain the <strong>marinated sprouts</strong> from the cheat's buttermilk in a colander over the sink</p><p>Return the <strong>marinated sprouts</strong> to the bowl with the <strong>remaining soy sauce</strong>, <strong>dried sage </strong>and<strong> remaining cornflour </strong>and give it a good mix up to coat the sprouts thoroughly</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1637677101106-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1637677101106-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1637677101106-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1637677101106-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1637677101106-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a large, wide-based pan (preferably non-stick) with a very generous drizzle of <strong>vegetable oil</strong> over a medium heat</p><p>Once hot, add the <strong>coated</strong> <strong>sprouts</strong> and cook for 5-6 min or until golden and crisp then transfer to <strong>kitchen paper </strong>– these are your <strong>sage-fried sprouts</strong></p><p>Meanwhile, put the <strong>brioche buns</strong> in the oven for 3-4 min or until warmed through</p><p>Spoon out 2 tbsp <span class=\"text-danger\">[4 tbsp]</span> of the<strong> gravy </strong>from the pot and mix it with the<strong> mayo </strong>– this is your<strong> gravy mayo</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1637677165444-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1637677165444-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1637677165444-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1637677165444-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1637677165444-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Fill each <strong>warmed brioche bun</strong> with 2 <strong>lettuce leaves</strong>, the <strong>sage-fried sprouts</strong>, a drizzle of <strong>honey</strong> (don’t have a sweet tooth? Go easy!) and a spoonful of <strong>gravy-soaked</strong> <strong>meat-free chicken</strong> – this is your <strong>crowd sauced veggie Christmas sarnie</strong></p><p><strong>Skewer</strong> the<strong> crowd sauced veggie Christmas sarnie </strong>with a <strong>reserved sage-fried sprout</strong></p><p>Serve with the<strong> chips</strong>, <strong>lettuce wedges</strong>,<strong> gravy mayo </strong>and any <strong>remaining gravy </strong>to the side  Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "egg",
+      "slug": "egg"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    }
+  ],
+  "seo": {
+    "title": "Crowd Sauced Veggie Christmas Sarnie",
+    "description": "The Gang have spoken and their most wasted ingredient is… the humble sprout. To zhuzh up your Brussels, you’ll stuff brioche baps with crispy honey-sage fried sprouts and gravy-soaked meat-free chicken. Dip in gravy mayo and dive in!",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://s3-eu-west-1.amazonaws.com/s3-gousto-production-media/cms/mood-image/4002_Crowd-Sauce-Christmas-Sandwich-7183-1637929043047.jpg"
+  },
+  "tags": [],
+  "uid": "blt45cade4ec92335fb",
+  "_version": 656,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 130,
+      "energy_kj": 550,
+      "fat_mg": 4729,
+      "fat_saturates_mg": 898,
+      "carbs_mg": 17378,
+      "carbs_sugars_mg": 4976,
+      "fibre_mg": 2260,
+      "protein_mg": 4745,
+      "salt_mg": 616,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 819,
+      "energy_kj": 3454,
+      "fat_mg": 29670,
+      "fat_saturates_mg": 5637,
+      "carbs_mg": 109021,
+      "carbs_sugars_mg": 31220,
+      "fibre_mg": 14184,
+      "protein_mg": 29769,
+      "salt_mg": 3866,
+      "net_weight_mg": 627350
+    }
+  },
+  "portion_sizes": null
+}

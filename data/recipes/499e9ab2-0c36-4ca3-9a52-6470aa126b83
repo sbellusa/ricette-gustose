@@ -1,0 +1,517 @@
+{
+  "url": "/faux-beef-pho",
+  "title": "Faux Beef Pho",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Steak Recipes",
+      "url": "/steak-recipes",
+      "uid": "bltcc6f56c57fb58c69"
+    },
+    {
+      "title": "Noodle Recipes",
+      "url": "/noodle-recipes",
+      "uid": "blt7f33009f11474984"
+    },
+    {
+      "title": "Beef Recipes",
+      "url": "/beef-recipes",
+      "uid": "bltbfd801a42c3024db"
+    },
+    {
+      "title": "Vietnamese Recipes",
+      "url": "/vietnamese-recipes",
+      "uid": "blt23cf0c5afe14f5f8"
+    },
+    {
+      "title": "Soup Recipes",
+      "url": "/soup-recipes",
+      "uid": "blta2700678130b6c90"
+    },
+    {
+      "title": "Gluten Free Recipes",
+      "url": "/gluten-free-recipes",
+      "uid": "bltd38409eebe22a089"
+    }
+  ],
+  "gousto_id": "282",
+  "gousto_uid": "499e9ab2-0c36-4ca3-9a52-6470aa126b83",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/284.FauxBeefPho--x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/284.FauxBeefPho--x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/284.FauxBeefPho--x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/284.FauxBeefPho--x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/284.FauxBeefPho--x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 444
+  },
+  "description": "This super quick beef noodle soup is inspired by ‘Pho’ (pronounced ‘fer’), which is a traditional Vietnamese street dish of nourishing stock and rice noodles. Our ‘faux’ version still delivers a deep flavoured stock with the aid of star anise and a few salty sweet extras - but can be knocked out in minutes.",
+  "prep_times": {
+    "for_2": 20,
+    "for_4": 20
+  },
+  "cuisine": {
+    "slug": "vietnamese",
+    "title": "Vietnamese"
+  },
+  "ingredients": [
+    {
+      "label": "2 Bristish minute steaks",
+      "title": "British thick flank steaks-I-10-MPF-ME-13",
+      "uid": "blt464db8ab861f813c",
+      "gousto_uuid": "4addefc4-01ca-40dd-bd96-ea9184b057cf",
+      "name": "British thick flank steaks",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/minute-steaks-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/minute-steaks-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/minute-steaks-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/minute-steaks-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/minute-steaks-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 beef stock cube",
+      "title": "beef stock cube-I-06-SML-SC-06",
+      "uid": "bltb1f3eed579e14bf1",
+      "gousto_uuid": "6e2bf024-2e0a-4e87-bc15-785e4314b903",
+      "name": "beef stock cube",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Beef-stock-cube-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Beef-stock-cube-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Beef-stock-cube-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Beef-stock-cube-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Beef-stock-cube-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "celery"
+          }
+        ]
+      }
+    },
+    {
+      "label": "100g mange tout",
+      "title": "mangetout-I-05-FVG-PD-02-01",
+      "uid": "bltd407b1f1069ae094",
+      "gousto_uuid": "b54cc858-8ac5-4bcc-b0b3-17f88960a94e",
+      "name": "mangetout",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/mangetout-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/mangetout-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/mangetout-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/mangetout-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/mangetout-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 star anise",
+      "title": "star anise-IQ-06-SML-IN-10-01",
+      "uid": "blt15e9b26960633c7c",
+      "gousto_uuid": "1082fafb-d839-4657-b45d-f053b0284706",
+      "name": "star anise",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/whole-Star-anise-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/whole-Star-anise-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/whole-Star-anise-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/whole-Star-anise-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/whole-Star-anise-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 shallots",
+      "title": "shallot-I-02-SVG-VG-10",
+      "uid": "blt011a15790b863f51",
+      "gousto_uuid": "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+      "name": "shallot",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1/2 tsp chilli flakes",
+      "title": "Fiery chilli flakes-I-06-SML-CL-01-01",
+      "uid": "blta9a7faf7a2297ef2",
+      "gousto_uuid": "33bd974f-cad4-4cc0-9956-1f6cfb5ff2ca",
+      "name": "Fiery chilli flakes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chilli-flakes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chilli-flakes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chilli-flakes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chilli-flakes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chilli-flakes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "15g root ginger",
+      "title": "ginger-IQ-06-SML-OT-03-01",
+      "uid": "blt286d3a9819caba5f",
+      "gousto_uuid": "90ea17bd-204c-4ded-9dac-12df03f265d6",
+      "name": "ginger",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 tbsp hoisin sauce",
+      "title": "hoisin sauce-IQ-08-SAU-PS-11-01",
+      "uid": "bltbe5db4de9b2ba2bf",
+      "gousto_uuid": "3b71bf33-8cff-4e64-bff2-37d812878e60",
+      "name": "hoisin sauce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/hoisin-sauce-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/hoisin-sauce-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/hoisin-sauce-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/hoisin-sauce-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/hoisin-sauce-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "100g Thai rice noodles",
+      "title": "Thai rice noodles-IQ-03-GRN-PA-08-01",
+      "uid": "blt481d22d177f022c1",
+      "gousto_uuid": "d6ccf5a6-7a54-4a9e-92fd-3040929ea288",
+      "name": "Thai rice noodles",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-thai-rice-noodles-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-thai-rice-noodles-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-thai-rice-noodles-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-thai-rice-noodles-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-thai-rice-noodles-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Boil</strong> a kettle for steps 1 and 4</p>\r\n<p><strong>Add</strong> the rice noodles to a pot with plenty of boiling water</p>\r\n<p><strong>Cook</strong> on a medium heat for 5 min, or until starting to soften</p>\r\n<p><strong>Remove</strong> from the heat and rinse under cold water</p>",
+      "order": 1,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Meanwhile</strong>, peel and slice the ginger finely into matchsticks</p>\r\n<p>Tip: Use a teaspoon to scrape the skin off the ginger for easy peeling!</p>\r\n<p><strong>Peel</strong> and slice the shallots finely</p>\r\n<p><strong>Set</strong> both aside for step 4</p>",
+      "order": 2,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Rub</strong> the steaks with 1-2 tbsp of olive oil, 1 tsp <span class=\"text-danger\">(2 tsp)</span> of salt, and 1/2 tsp <span class=\"text-danger\">(1 tsp)</span> of pepper and mix well</p>\r\n<p><strong>Place</strong> a large pan on a high heat</p>\r\n<p><strong>Once</strong> hot, add the steaks and cook for 1 min on each side</p>\r\n<p><strong>Transfer</strong> the steaks to a plate and cover with a tea towel, reserving the pan</p>",
+      "order": 3,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Return</strong> the steak pan to a medium-high heat and once hot, fry the chilli flakes, ginger, shallot, and star anise<span class=\"text-danger\">(s)</span> for 2 mins, stirring constantly (add more oil if needed)</p>\r\n<p><strong>Pour</strong> 750ml <span class=\"text-danger\">(1.5L)</span> of boiling water into the pan and crumble in the stock cube(s)</p>\r\n<p><strong>Add</strong> the hoisin and stir- this is your broth</p>",
+      "order": 4,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> any resting juice from the steaks to the broth and mix well</p>\r\n<p><strong>Bring</strong> the broth to a boil, then simmer for 6 min on a low heat</p>",
+      "order": 5,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Meanwhile</strong>, slice the steak thinly on a clean chopping board</p>\r\n<p><strong>Transfer</strong> the sliced steak and its juices to the plate from step 3</p>",
+      "order": 6,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Once</strong> the broth has simmered for 6 min, add the mange tout and cook for a further 2 min, or until starting to soften</p>\r\n<p><strong>Season</strong> to your taste with with salt and pepper</p>\r\n<p><strong>Pour</strong> just the steak juices, directly into the broth</p>",
+      "order": 7,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Divide</strong> the noodles between bowls</p>\r\n<p><strong>Ladle</strong> in the broth (removing the star anise) and top with the sliced steak</p>\r\n<p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "celery",
+      "slug": "celery"
+    }
+  ],
+  "seo": {
+    "title": "Faux Beef Pho",
+    "description": "This super quick beef noodle soup is inspired by ‘Pho’ (pronounced ‘fer’), which is a traditional Vietnamese street dish of nourishing stock and rice noodles. Our ‘faux’ version still delivers a deep flavoured stock with the aid of star anise and a few salty sweet extras - but can be knocked out in minutes.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/284.FauxBeefPho-.jpg"
+  },
+  "tags": [],
+  "uid": "blt94e314fde3892fcc",
+  "_version": 54,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 173,
+      "energy_kj": 724,
+      "fat_mg": 5407,
+      "fat_saturates_mg": 2382,
+      "carbs_mg": 19690,
+      "carbs_sugars_mg": 3788,
+      "fibre_mg": 463,
+      "protein_mg": 11549,
+      "salt_mg": 1319,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 464,
+      "energy_kj": 1937,
+      "fat_mg": 14452,
+      "fat_saturates_mg": 6366,
+      "carbs_mg": 52622,
+      "carbs_sugars_mg": 10125,
+      "fibre_mg": 1240,
+      "protein_mg": 30867,
+      "salt_mg": 3526,
+      "net_weight_mg": 267250
+    }
+  },
+  "portion_sizes": null
+}

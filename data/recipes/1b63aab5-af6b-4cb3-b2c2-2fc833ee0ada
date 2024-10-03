@@ -1,0 +1,886 @@
+{
+  "url": "/curried-welsh-rarebit-naan-with-pomegranate-salad",
+  "title": "Curried Welsh Rarebit Naan With Pomegranate Salad",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "6209",
+  "gousto_uid": "1b63aab5-af6b-4cb3-b2c2-2fc833ee0ada",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-6054-2-Curried-Welsh-Rarebit-Naan-With-Pomegranate-Salad-1689581453624-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-6054-2-Curried-Welsh-Rarebit-Naan-With-Pomegranate-Salad-1689581453624-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-6054-2-Curried-Welsh-Rarebit-Naan-With-Pomegranate-Salad-1689581453624-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-6054-2-Curried-Welsh-Rarebit-Naan-With-Pomegranate-Salad-1689581453624-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-6054-2-Curried-Welsh-Rarebit-Naan-With-Pomegranate-Salad-1689581453624-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 729
+  },
+  "description": "Cardiff meets Kolkata with this aromatic twist on the classic Welsh rarebit. You’ll top toasted naans with a cheesy sauce packed with fragrant South Asian spices. Pop them under the grill to bubble until golden before serving up with pomegranate salad and roast potatoes.",
+  "prep_times": {
+    "for_2": 30,
+    "for_4": 35
+  },
+  "cuisine": {
+    "slug": "fusion",
+    "title": "Fusion"
+  },
+  "ingredients": [
+    {
+      "label": "80g cheddar cheese",
+      "title": "cheddar cheese-I-09-DAI-CH-02",
+      "uid": "bltcf8784004b8281e0",
+      "gousto_uuid": "aed1561d-bae6-487b-a645-4125a6829119",
+      "name": "cheddar cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 Pomegranate",
+      "title": "pomegranate-I-02-SVG-SF-09",
+      "uid": "blt8f1f063471bc1f95",
+      "gousto_uuid": "3a3c555b-1c53-4ce0-b4e6-b3cb32b2550d",
+      "name": "pomegranate",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Pomegranate-halved-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Pomegranate-halved-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Pomegranate-halved-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Pomegranate-halved-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Pomegranate-halved-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 tomato",
+      "title": "tomato-I-05-FVG-FV-09",
+      "uid": "bltadd0f9d489140d4c",
+      "gousto_uuid": "5c14a222-aa12-4d98-a108-106ca1693363",
+      "name": "tomato",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "50g soft cheese",
+      "title": "soft cheese-I-09-DAI-CR-15",
+      "uid": "blt5d5a607d98da4457",
+      "gousto_uuid": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+      "name": "soft cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 tbsp cornflour",
+      "title": "cornflour-I-06-SML-DL-44",
+      "uid": "bltae49da48260eca03",
+      "gousto_uuid": "1dd3a011-a8dd-4804-b092-51da7f9c2f8d",
+      "name": "cornflour",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1/2 tbsp curry powder",
+      "title": "curry powder-I-06-SML-DL-40",
+      "uid": "blt4b51a2f777ee25cf",
+      "gousto_uuid": "425972b7-82d8-447d-94d0-b5690e6c65cc",
+      "name": "curry powder",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 plain naan breads",
+      "title": "plain naan-I-11-BRD-BR-51",
+      "uid": "blt02fa390e55b82470",
+      "gousto_uuid": "39a4b972-e3f4-4ef9-978e-da600ee3cc12",
+      "name": "plain naan",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/naan-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/naan-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/naan-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/naan-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/naan-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 green chilli",
+      "title": "green chilli-I-05-FVG-FV-22",
+      "uid": "bltc6da3bf7563825e4",
+      "gousto_uuid": "2a6039c4-3425-4c91-a976-2ef070aa08ae",
+      "name": "green chilli",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-green-chilli-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-green-chilli-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-green-chilli-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-green-chilli-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-green-chilli-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "3 white potatoes",
+      "title": "white potato-I-02-SVG-VG-01-09",
+      "uid": "bltab576a7ce0bc5a37",
+      "gousto_uuid": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "15ml white wine vinegar",
+      "title": "white wine vinegar-I-08-SAU-LS-14",
+      "uid": "bltfa7cb0db872c783e",
+      "gousto_uuid": "ef566c78-5df6-49d9-8356-68789149176f",
+      "name": "white wine vinegar",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1/2 cucumber",
+      "title": "cucumber-I-07-HBS-PL-11",
+      "uid": "blt4681c62966ac9eab",
+      "gousto_uuid": "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+      "name": "cucumber",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cucumber-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cucumber-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cucumber-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cucumber-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cucumber-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Milk",
+      "slug": "milk"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    },
+    {
+      "title": "Sugar",
+      "slug": "sugar"
+    },
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7</p><p>Chop the <strong>potatoes</strong> (skins on) into bite-sized pieces</p><p>Add the <strong>chopped potatoes</strong> to a baking tray with a drizzle of <strong>vegetable oil </strong>and a pinch of <strong>salt </strong>and <strong>pepper</strong></p><p>Give everything a good mix up and put the tray in the oven for 20-25 min or until golden and crisp</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1683041036023-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1683041036023-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1683041036023-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1683041036023-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1683041036023-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Cut the top and bottom off the <strong>pomegranate</strong>, then slice into quarters and add the <strong>pomegranate quarters</strong> to a large bowl filled with <strong>cold water</strong></p><p>Tip: This helps prevent mess and makes separating the pith easier!</p><p>Separate the <strong>pomegranate seeds </strong>from the <strong>white pith </strong>and discard the pith, then drain the <strong>pomegranate seeds</strong> in a fine sieve and return most of them to the large bowl (set some aside for a garnish!)</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1683041038562-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1683041038562-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1683041038562-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1683041038562-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1683041038562-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Cut the <strong>cucumber</strong> into quarters lengthways, then chop it into bite-sized pieces</p><p>Chop the <strong>tomato<span class=\"text-danger\">[es]</span></strong> finely</p><p>Add the <strong>chopped cucumber</strong> and <strong>tomato</strong> to the bowl with the pomegranate seeds and add the <strong>white wine vinegar</strong>, 1 tsp <span class=\"text-danger\">[2 tsp]</span> <strong>sugar</strong> and a drizzle of <strong>olive oil </strong>– this is your<strong> pomegranate salad</strong></p><p>Slice the <strong>green chilli<span class=\"text-danger\">[es]</strong> </span>finely</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1683041042683-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1683041042683-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1683041042683-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1683041042683-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1683041042683-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Grate the <strong>cheddar cheese</strong></p><p>Combine the <strong>grated cheese</strong> with the <strong>cornflour</strong> and a generous pinch of <strong>salt</strong> in a pot and mix until the cheese is fully coated</p><p>Add the <strong>curry powder </strong>and<strong> soft cheese</strong> to the pot with 100ml <span class=\"text-danger\">[200ml]</span> <strong>milk </strong>– this is your<strong> rarebit base</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1683041046717-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1683041046717-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1683041046717-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1683041046717-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1683041046717-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat the pot with the rarebit base over a medium heat</p><p>Cook for 1-2 min, stirring frequently, or until the cheese has melted and thickened – this is your <strong>curried rarebit sauce</strong></p><p>Set the <strong>curried rarebit</strong> sauce<strong> </strong>aside<strong> </strong>for later</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1683041049899-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1683041049899-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1683041049899-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1683041049899-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1683041049899-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once ready, transfer the baking tray with the potatoes to the bottom shelf of the oven</p><p>Preheat the grill to high</p><p>Add the <strong>naans </strong>to a baking tray then put the tray under the grill and cook for an initial 1-2 min or until the naans are toasted on one side</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1683041055483-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1683041055483-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1683041055483-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1683041055483-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1683041055483-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once toasted on one side, remove the tray from the oven and turn over the <strong>naans</strong></p><p>Top the naans with the <strong>curried rarebit sauce </strong>and the<strong> sliced green chilli </strong>(can't handle the heat? Go easy!)</p><p>Return the tray to the grill and cook for 2-3 min or until the rarebit sauce is lightly browned – these are your <strong>curried Welsh rarebit naans</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1683041057197-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1683041057197-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1683041057197-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1683041057197-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1683041057197-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>curried Welsh rarebit naans </strong>with the<strong> pomegranate salad </strong>and <strong>roast potatoes </strong>to the side</p><p>Sprinkle over the <strong>reserved pomegranate seeds</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    }
+  ],
+  "seo": {
+    "title": "Curried Welsh Rarebit Naan With Pomegranate Salad",
+    "description": "Cardiff meets Kolkata with this aromatic twist on the classic Welsh rarebit. You’ll top toasted naans with a cheesy sauce packed with fragrant South Asian spices. Pop them under the grill to bubble until golden before serving up with pomegranate salad and roast potatoes.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/R-6054-2-Curried-Welsh-Rarebit-Naan-With-Pomegranate-Salad-1689581453624.jpg"
+  },
+  "tags": [],
+  "uid": "blt036ef3ea072d2120",
+  "_version": 755,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 129,
+      "energy_kj": 544,
+      "fat_mg": 4799,
+      "fat_saturates_mg": 2713,
+      "carbs_mg": 17233,
+      "carbs_sugars_mg": 2440,
+      "fibre_mg": 1660,
+      "protein_mg": 4456,
+      "salt_mg": 345,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 671,
+      "energy_kj": 2823,
+      "fat_mg": 24882,
+      "fat_saturates_mg": 14067,
+      "carbs_mg": 89340,
+      "carbs_sugars_mg": 12654,
+      "fibre_mg": 8610,
+      "protein_mg": 23103,
+      "salt_mg": 1793,
+      "net_weight_mg": 518400
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "2a6039c4-3425-4c91-a976-2ef070aa08ae",
+          "code": "I-05-FVG-FV-22",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "1dd3a011-a8dd-4804-b092-51da7f9c2f8d",
+          "code": "I-06-SML-DL-44",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "5c14a222-aa12-4d98-a108-106ca1693363",
+          "code": "I-05-FVG-FV-09",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+          "code": "I-02-SVG-VG-01-09",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+          "code": "I-07-HBS-PL-11",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "425972b7-82d8-447d-94d0-b5690e6c65cc",
+          "code": "I-06-SML-DL-40",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ef566c78-5df6-49d9-8356-68789149176f",
+          "code": "I-08-SAU-LS-14",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "39a4b972-e3f4-4ef9-978e-da600ee3cc12",
+          "code": "I-11-BRD-BR-51",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "aed1561d-bae6-487b-a645-4125a6829119",
+          "code": "I-09-DAI-CH-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "3a3c555b-1c53-4ce0-b4e6-b3cb32b2550d",
+          "code": "I-02-SVG-SF-09",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "2a6039c4-3425-4c91-a976-2ef070aa08ae",
+          "code": "I-05-FVG-FV-22",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "1dd3a011-a8dd-4804-b092-51da7f9c2f8d",
+          "code": "I-06-SML-DL-44",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "5c14a222-aa12-4d98-a108-106ca1693363",
+          "code": "I-05-FVG-FV-09",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+          "code": "I-02-SVG-VG-01-09",
+          "quantities": {
+            "in_box": 6
+          }
+        },
+        {
+          "id": "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+          "code": "I-07-HBS-PL-11",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "425972b7-82d8-447d-94d0-b5690e6c65cc",
+          "code": "I-06-SML-DL-40",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ef566c78-5df6-49d9-8356-68789149176f",
+          "code": "I-08-SAU-LS-14",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "39a4b972-e3f4-4ef9-978e-da600ee3cc12",
+          "code": "I-11-BRD-BR-51",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "aed1561d-bae6-487b-a645-4125a6829119",
+          "code": "I-09-DAI-CH-02",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "3a3c555b-1c53-4ce0-b4e6-b3cb32b2550d",
+          "code": "I-02-SVG-SF-09",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1372 @@
+{
+  "url": "/cheesy-baked-veggie-enchiladas",
+  "title": "Cheesy Baked Veggie Enchiladas",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Family Classics",
+      "url": "/family-classics",
+      "uid": "blt40d209adee75b921"
+    },
+    {
+      "title": "Vegetarian Recipes ",
+      "url": "/vegetarian-recipes",
+      "uid": "blta762d7d1d30213a2"
+    },
+    {
+      "title": "Mexican Recipes",
+      "url": "/mexican-recipes",
+      "uid": "bltc699b9739e685d44"
+    },
+    {
+      "title": "Vegetarian",
+      "url": "/vegetarian",
+      "uid": "blt5cc8b5413c283f12"
+    },
+    {
+      "title": "World Food",
+      "url": "/world-food",
+      "uid": "blt3d294749a6bef9e6"
+    }
+  ],
+  "gousto_id": "968",
+  "gousto_uid": "fa6aebef-e4ab-480d-bc3e-adce84904501",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/984_Cheesy-Baked-Veggie-Enchiladas-V_004_0-1676453427798-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/984_Cheesy-Baked-Veggie-Enchiladas-V_004_0-1676453427798-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/984_Cheesy-Baked-Veggie-Enchiladas-V_004_0-1676453427798-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/984_Cheesy-Baked-Veggie-Enchiladas-V_004_0-1676453427798-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/984_Cheesy-Baked-Veggie-Enchiladas-V_004_0-1676453427798-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 9227
+  },
+  "description": "These cheesy enchiladas will transport you to the bustling streets of Mexico City. You'll fill tortillas with red pepper, kidney beans and a smoky tomato sauce, then top with more sauce and plenty of cheese for a golden, delicious bake. ",
+  "prep_times": {
+    "for_2": 35,
+    "for_4": 45
+  },
+  "cuisine": {
+    "slug": "mexican",
+    "title": "Mexican"
+  },
+  "ingredients": [
+    {
+      "label": "Mayonnaise (30ml)",
+      "title": "mayonnaise-I-06-SML-OT-19",
+      "uid": "bltf17730c6307389b6",
+      "gousto_uuid": "34869527-4715-40aa-93c3-2a616d203aa9",
+      "name": "mayonnaise",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "egg"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Cheddar cheese (40g) x2",
+      "title": "cheddar cheese-I-09-DAI-CH-02",
+      "uid": "bltcf8784004b8281e0",
+      "gousto_uuid": "aed1561d-bae6-487b-a645-4125a6829119",
+      "name": "cheddar cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Finely chopped tomatoes (200g) x2",
+      "title": "finely chopped tomatoes-I-01-CAN-VC-50",
+      "uid": "blt269c8bc966804e9e",
+      "gousto_uuid": "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+      "name": "finely chopped tomatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Red kidney beans (390g)",
+      "title": "red kidney beans-I-01-CAN-VC-49",
+      "uid": "blt531925d3ce1280e1",
+      "gousto_uuid": "28b87929-b871-4901-8b03-b6fe237d26c6",
+      "name": "red kidney beans",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-red-kidney-beans-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-red-kidney-beans-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-red-kidney-beans-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-red-kidney-beans-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-red-kidney-beans-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Ground cumin (1tsp) x0",
+      "title": "ground cumin-I-06-SML-DL-17",
+      "uid": "bltc24717d37b57c805",
+      "gousto_uuid": "c4a76caa-8a7d-473f-ab94-89ad816ff8d8",
+      "name": "ground cumin",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ground-cumin-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ground-cumin-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ground-cumin-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ground-cumin-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ground-cumin-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Vegetable stock mix (5.5g)",
+      "title": "vegetable stock mix-I-06-SML-SC-26",
+      "uid": "blt0ca5e580e2d973c5",
+      "gousto_uuid": "166bfad3-d300-465d-b61c-fef4d2965904",
+      "name": "vegetable stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Ground smoked paprika (1tsp)",
+      "title": "ground smoked paprika-I-06-SML-DL-15",
+      "uid": "blt40d60aca111c0243",
+      "gousto_uuid": "9bbbe335-1516-4488-957c-814e34eae5b1",
+      "name": "ground smoked paprika",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Ground cumin (2tsp)",
+      "title": "ground cumin-I-06-SML-DL-20",
+      "uid": "blted78f86bd1a8b6bd",
+      "gousto_uuid": "22d4ac66-3f50-469c-904c-9f293e361441",
+      "name": "ground cumin",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ground-cumin-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ground-cumin-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ground-cumin-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ground-cumin-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ground-cumin-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Red kidney beans (185g) x0",
+      "title": "red kidney beans-I-01-CAN-VC-36",
+      "uid": "blt01754582bffc2ff7",
+      "gousto_uuid": "c4c13bab-1064-4595-8610-f7b2456c6237",
+      "name": "red kidney beans",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-red-kidney-beans-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-red-kidney-beans-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-red-kidney-beans-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-red-kidney-beans-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-red-kidney-beans-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Plain tortillas (6pcs)",
+      "title": "plain tortillas-I-11-BRD-BR-55",
+      "uid": "bltf088851659dcac60",
+      "gousto_uuid": "55692d26-3834-4b6f-94ce-0cd6332af610",
+      "name": "plain tortillas",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/plain-flour-tortilla-wrap-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/plain-flour-tortilla-wrap-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/plain-flour-tortilla-wrap-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/plain-flour-tortilla-wrap-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/plain-flour-tortilla-wrap-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Chipotle paste (20g)",
+      "title": "chipotle paste-I-08-SAU-PS-53",
+      "uid": "blt9257590c97c6f727",
+      "gousto_uuid": "4795ad08-e3d0-4275-b2df-8b27c88772cf",
+      "name": "chipotle paste",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-chipotle-paste-sachet-20g-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-chipotle-paste-sachet-20g-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-chipotle-paste-sachet-20g-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-chipotle-paste-sachet-20g-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-chipotle-paste-sachet-20g-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Coriander (5g)",
+      "title": "coriander-I-07-HBS-PL-13-5",
+      "uid": "blt3a65180ebd9eb3aa",
+      "gousto_uuid": "b7839655-6d73-40c2-a235-30ea290a9c56",
+      "name": "coriander",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Spring onion",
+      "title": "spring onion-I-07-HBS-PL-10",
+      "uid": "blt7f30073f4f7cf590",
+      "gousto_uuid": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+      "name": "spring onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Red pepper",
+      "title": "red pepper-I-05-FVG-FV-07",
+      "uid": "blt0f5f2591749c88e3",
+      "gousto_uuid": "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+      "name": "red pepper",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Red onion",
+      "title": "red onion-I-02-SVG-VG-05",
+      "uid": "bltc69ae0a09122a2b4",
+      "gousto_uuid": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    },
+    {
+      "title": "Water",
+      "slug": "water"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7</p><p>Deseed your <strong>pepper[s]</strong> (scrape the seeds and pith out with a teaspoon) and cut into thin strips</p><p>Peel and finely slice your <strong>red onion[s]</strong></p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>vegetable oil</strong> over a medium-high heat</p><p>Once hot, add the<strong> sliced pepper</strong> and<strong> sliced onion</strong> and cook for 4-5 min or until everything is beginning to soften</p><p>Meanwhile, drain and rinse your <strong>red kidney beans</strong>, then boil half a kettle</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once softened, add your <strong>ground cumin</strong> and <strong>chipotle paste</strong> (can’t handle the heat? Go easy!) to the pan and cook for 1 min or until fragrant</p><p>Dissolve your <strong>vegetable stock mix</strong> in 50ml <span class=\"text-purple\">[75ml]</span><span class=\"text-danger\"> [100ml] </span><strong>boiled water</strong></p><p>Add your <strong>chopped tomatoes</strong>, <strong>drained red kidney beans</strong> and <strong>vegetable stock</strong> to the pan and cook for 3-4 min or until a thick sauce remains – this is your<strong> enchilada filling</strong></p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, grate your <strong>cheddar cheese</strong></p><p>Strip your <strong>coriander leaves</strong> from their stalks and chop the <strong>stalks</strong> finely (save the<strong> leaves</strong> for garnish!)</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Stir the<strong> chopped coriander stalks</strong> through the enchilada filling</p><p>Divide 3/4 of the <strong>enchilada filling</strong> (save some for later!) between your <strong>tortillas</strong>, covering only half of each <strong>tortilla</strong></p><p>Roll up the <strong>tortillas</strong> tightly – these are your <strong>enchiladas</strong></p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Place the <strong>enchiladas</strong> in an <strong>oven-proof dish</strong>, with the seam face down</p><p>Top with the <strong>remaining enchilada filling</strong> and the <strong>grated cheese</strong></p><p>Put the dish in the oven and cook for 10-12 min or until the cheese is golden and melted</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>While the enchiladas are in the oven, trim, then slice your <strong>spring onion[s]</strong> finely</p><p>Combine the<strong> ground smoked paprika </strong>and 1 tbsp <span class=\"text-purple\">[1 1/2 tbsp]</span><span class=\"text-danger\"> [2 tbsp]</span> <strong>boiled water </strong>in a small bowl</p><p>Add your <strong>mayo</strong> with a pinch of <strong>salt</strong> and mix to combine – this is your<strong> smoky mayo</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/984.-step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>enchiladas</strong> garnished with the<strong> coriander leaves</strong> and <strong>sliced spring onion</strong></p><p>Drizzle over the <strong>smoky mayo</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "egg",
+      "slug": "egg"
+    }
+  ],
+  "seo": {
+    "title": "Cheesy Baked Veggie Enchiladas",
+    "description": "These cheesy enchiladas will transport you to the bustling streets of Mexico City. You'll fill tortillas with red pepper, kidney beans and a smoky tomato sauce, then top with more sauce and plenty of cheese for a golden, delicious bake. ",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/984_Cheesy-Baked-Veggie-Enchiladas-V_004_0-1676453427798.jpg"
+  },
+  "tags": [],
+  "uid": "blt84a56ccd985bb04a",
+  "_version": 3762,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 131,
+      "energy_kj": 553,
+      "fat_mg": 5831,
+      "fat_saturates_mg": 2469,
+      "carbs_mg": 14319,
+      "carbs_sugars_mg": 3180,
+      "fibre_mg": 2562,
+      "protein_mg": 5002,
+      "salt_mg": 400,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 792,
+      "energy_kj": 3324,
+      "fat_mg": 35031,
+      "fat_saturates_mg": 14837,
+      "carbs_mg": 86022,
+      "carbs_sugars_mg": 19108,
+      "fibre_mg": 15392,
+      "protein_mg": 30055,
+      "salt_mg": 2405,
+      "net_weight_mg": 600750
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 1,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "aed1561d-bae6-487b-a645-4125a6829119",
+          "code": "I-09-DAI-CH-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4795ad08-e3d0-4275-b2df-8b27c88772cf",
+          "code": "I-08-SAU-PS-53",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b7839655-6d73-40c2-a235-30ea290a9c56",
+          "code": "I-07-HBS-PL-13-5",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+          "code": "I-01-CAN-VC-50",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "c4a76caa-8a7d-473f-ab94-89ad816ff8d8",
+          "code": "I-06-SML-DL-17",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "9bbbe335-1516-4488-957c-814e34eae5b1",
+          "code": "I-06-SML-DL-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "34869527-4715-40aa-93c3-2a616d203aa9",
+          "code": "I-06-SML-OT-19",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "55692d26-3834-4b6f-94ce-0cd6332af610",
+          "code": "I-11-BRD-BR-55",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "c4c13bab-1064-4595-8610-f7b2456c6237",
+          "code": "I-01-CAN-VC-36",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+          "code": "I-05-FVG-FV-07",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+          "code": "I-07-HBS-PL-10",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "aed1561d-bae6-487b-a645-4125a6829119",
+          "code": "I-09-DAI-CH-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4795ad08-e3d0-4275-b2df-8b27c88772cf",
+          "code": "I-08-SAU-PS-53",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b7839655-6d73-40c2-a235-30ea290a9c56",
+          "code": "I-07-HBS-PL-13-5",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+          "code": "I-01-CAN-VC-50",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "22d4ac66-3f50-469c-904c-9f293e361441",
+          "code": "I-06-SML-DL-20",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "9bbbe335-1516-4488-957c-814e34eae5b1",
+          "code": "I-06-SML-DL-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "34869527-4715-40aa-93c3-2a616d203aa9",
+          "code": "I-06-SML-OT-19",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "55692d26-3834-4b6f-94ce-0cd6332af610",
+          "code": "I-11-BRD-BR-55",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "28b87929-b871-4901-8b03-b6fe237d26c6",
+          "code": "I-01-CAN-VC-49",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+          "code": "I-05-FVG-FV-07",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+          "code": "I-07-HBS-PL-10",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 3,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "aed1561d-bae6-487b-a645-4125a6829119",
+          "code": "I-09-DAI-CH-02",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "4795ad08-e3d0-4275-b2df-8b27c88772cf",
+          "code": "I-08-SAU-PS-53",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b7839655-6d73-40c2-a235-30ea290a9c56",
+          "code": "I-07-HBS-PL-13-5",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+          "code": "I-01-CAN-VC-50",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "22d4ac66-3f50-469c-904c-9f293e361441",
+          "code": "I-06-SML-DL-20",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "9bbbe335-1516-4488-957c-814e34eae5b1",
+          "code": "I-06-SML-DL-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "34869527-4715-40aa-93c3-2a616d203aa9",
+          "code": "I-06-SML-OT-19",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "55692d26-3834-4b6f-94ce-0cd6332af610",
+          "code": "I-11-BRD-BR-55",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "c4c13bab-1064-4595-8610-f7b2456c6237",
+          "code": "I-01-CAN-VC-36",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "28b87929-b871-4901-8b03-b6fe237d26c6",
+          "code": "I-01-CAN-VC-49",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+          "code": "I-05-FVG-FV-07",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+          "code": "I-07-HBS-PL-10",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "aed1561d-bae6-487b-a645-4125a6829119",
+          "code": "I-09-DAI-CH-02",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "4795ad08-e3d0-4275-b2df-8b27c88772cf",
+          "code": "I-08-SAU-PS-53",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "b7839655-6d73-40c2-a235-30ea290a9c56",
+          "code": "I-07-HBS-PL-13-5",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+          "code": "I-01-CAN-VC-50",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "22d4ac66-3f50-469c-904c-9f293e361441",
+          "code": "I-06-SML-DL-20",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "9bbbe335-1516-4488-957c-814e34eae5b1",
+          "code": "I-06-SML-DL-15",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "34869527-4715-40aa-93c3-2a616d203aa9",
+          "code": "I-06-SML-OT-19",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "55692d26-3834-4b6f-94ce-0cd6332af610",
+          "code": "I-11-BRD-BR-55",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "28b87929-b871-4901-8b03-b6fe237d26c6",
+          "code": "I-01-CAN-VC-49",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+          "code": "I-05-FVG-FV-07",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+          "code": "I-07-HBS-PL-10",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 5,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "aed1561d-bae6-487b-a645-4125a6829119",
+          "code": "I-09-DAI-CH-02",
+          "quantities": {
+            "in_box": 5
+          }
+        },
+        {
+          "id": "4795ad08-e3d0-4275-b2df-8b27c88772cf",
+          "code": "I-08-SAU-PS-53",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "b7839655-6d73-40c2-a235-30ea290a9c56",
+          "code": "I-07-HBS-PL-13-5",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+          "code": "I-01-CAN-VC-50",
+          "quantities": {
+            "in_box": 5
+          }
+        },
+        {
+          "id": "22d4ac66-3f50-469c-904c-9f293e361441",
+          "code": "I-06-SML-DL-20",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "9bbbe335-1516-4488-957c-814e34eae5b1",
+          "code": "I-06-SML-DL-15",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "34869527-4715-40aa-93c3-2a616d203aa9",
+          "code": "I-06-SML-OT-19",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "55692d26-3834-4b6f-94ce-0cd6332af610",
+          "code": "I-11-BRD-BR-55",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "c4c13bab-1064-4595-8610-f7b2456c6237",
+          "code": "I-01-CAN-VC-36",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "28b87929-b871-4901-8b03-b6fe237d26c6",
+          "code": "I-01-CAN-VC-49",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+          "code": "I-05-FVG-FV-07",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+          "code": "I-07-HBS-PL-10",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 3
+          }
+        }
+      ]
+    }
+  ]
+}

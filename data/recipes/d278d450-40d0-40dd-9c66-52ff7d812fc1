@@ -1,0 +1,949 @@
+{
+  "url": "/pizza-parmigiana-with-aubergine",
+  "title": "DIY Pizza Parmigiana With Aubergine",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Vegetarian",
+      "url": "/vegetarian",
+      "uid": "blt5cc8b5413c283f12"
+    },
+    {
+      "title": "DIY Pizza Base",
+      "url": "/diy-pizza-base",
+      "uid": "bltb8f8f8eb4f4d0874"
+    }
+  ],
+  "gousto_id": "3097",
+  "gousto_uid": "d278d450-40d0-40dd-9c66-52ff7d812fc1",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2958_aubergine-parmigiana-1862-1598267342374-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2958_aubergine-parmigiana-1862-1598267342374-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2958_aubergine-parmigiana-1862-1598267342374-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2958_aubergine-parmigiana-1862-1598267342374-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2958_aubergine-parmigiana-1862-1598267342374-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 2343
+  },
+  "description": "Recreate a cheesy aubergine parmigiana, but on a pizza! For this twist on an Italian classic, you'll make a no-knead, no-proof pizza dough from scratch, topped with mozzarella, baby plum tomatoes and tender roasted aubergine.",
+  "prep_times": {
+    "for_2": 45,
+    "for_4": 55
+  },
+  "cuisine": {
+    "slug": "italian",
+    "title": "Italian"
+  },
+  "ingredients": [
+    {
+      "label": "5g basil",
+      "title": "basil-I-07-HBS-PL-23",
+      "uid": "bltf719958334d8b893",
+      "gousto_uuid": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+      "name": "basil",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "7g dried yeast",
+      "title": "dried yeast-I-06-SML-IN-22",
+      "uid": "blt00a7fd2b7035e686",
+      "gousto_uuid": "593fed37-5b94-41af-8c40-e119b0007075",
+      "name": "dried yeast",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-x-11g-sachet-of-quick-yeast-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-x-11g-sachet-of-quick-yeast-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-x-11g-sachet-of-quick-yeast-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-x-11g-sachet-of-quick-yeast-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-x-11g-sachet-of-quick-yeast-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "32g tomato paste",
+      "title": "tomato paste-I-08-SAU-PS-37",
+      "uid": "blt56af6f93c8c97b3f",
+      "gousto_uuid": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+      "name": "tomato paste",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "30g grated Italian hard cheese",
+      "title": "grated Italian hard cheese-I-09-DAI-CH-42",
+      "uid": "blt3eb104a464573b1e",
+      "gousto_uuid": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+      "name": "grated Italian hard cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 tsp dried oregano",
+      "title": "dried oregano-I-06-SML-DL-11",
+      "uid": "blt3e73399d67676327",
+      "gousto_uuid": "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+      "name": "dried oregano",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "250g pizza base mix",
+      "title": "pizza base mix-I-11-BRD-BR-42",
+      "uid": "blt308833841a6998b6",
+      "gousto_uuid": "9fc89ec3-0083-4ac2-a1fa-50386b5c4b48",
+      "name": "pizza base mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Pizza-base-mix-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Pizza-base-mix-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Pizza-base-mix-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Pizza-base-mix-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Pizza-base-mix-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "15ml balsamic vinegar",
+      "title": "balsamic vinegar-I-08-SAU-LS-15",
+      "uid": "blt36b3f7d5608537b7",
+      "gousto_uuid": "8357c090-d832-41bc-a458-b13600637e1b",
+      "name": "balsamic vinegar",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sulphites"
+          }
+        ]
+      }
+    },
+    {
+      "label": "125g baby plum tomatoes",
+      "title": "baby plum tomatoes-I-05-FVG-FV-15",
+      "uid": "bltfca6129ef76f02da",
+      "gousto_uuid": "1829b78a-527f-4811-a4e4-8319b409f369",
+      "name": "baby plum tomatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-plum-tomatoes-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-plum-tomatoes-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-plum-tomatoes-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-plum-tomatoes-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-plum-tomatoes-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "50g rocket",
+      "title": "rocket-I-05-FVG-FG-05-01",
+      "uid": "blt15a8c76de05d3a8a",
+      "gousto_uuid": "aa3f67ab-60c3-4cf2-87d5-05bc9a3e5276",
+      "name": "rocket",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "125g mozzarella",
+      "title": "mozzarella-I-09-DAI-CH-06",
+      "uid": "bltc60ef78862781ea1",
+      "gousto_uuid": "d93301c4-2563-4b9d-b829-991800ca87b4",
+      "name": "mozzarella",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mozzarella-ball-125g-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mozzarella-ball-125g-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mozzarella-ball-125g-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mozzarella-ball-125g-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mozzarella-ball-125g-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 garlic clove",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 aubergine",
+      "title": "aubergine-I-05-FVG-FV-01",
+      "uid": "blt0468004242ef90dc",
+      "gousto_uuid": "5cac128e-7775-463a-8ddd-87a2f1588003",
+      "name": "aubergine",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/aubergine-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/aubergine-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/aubergine-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/aubergine-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/aubergine-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Flour",
+      "slug": "flour"
+    },
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Sugar",
+      "slug": "sugar"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 240ºC/ 220ºC (fan)/ gas 9</p><p>Put a large baking tray (or two) in the oven to heat up (this will stop the pizza bottoms from going soggy!)</p><p>Add the <strong>dried yeast</strong><span class=\"text-danger\"> </span>to a large bowl with 100ml <span class=\"text-danger\">[200ml]</span> <strong>warm water </strong>and 1 tsp <span class=\"text-danger\">[2 tsp] </span><strong>sugar</strong></p><p>Give it a good mix up and set aside for 5-10 min for the yeast to develop</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1595496106845-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1595496106845-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1595496106845-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1595496106845-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1595496106845-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, slice the <strong>baby plum tomatoes</strong> in half then trim the green stalk<span class=\"text-danger\">[s]</span><strong> </strong>off the <strong>aubergine<span class=\"text-danger\">[s] </span></strong>and slice in half lengthways, then into half-moons</p><p>Add the <strong>aubergine slices</strong> to one side of a separate baking tray (use<strong> baking paper</strong> to avoid it sticking) with a drizzle of <strong>olive oil </strong>and a generous pinch of<strong> salt</strong> and <strong>pepper </strong>and mix it all together</p><p>Add the <strong>halved</strong> <strong>baby plum tomatoes</strong> to the other side of the tray and put the tray in the oven for 8-10 min or until the aubergine has started to soften</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1595496111993-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1595496111993-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1595496111993-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1595496111993-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1595496111993-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, peel and finely chop (or grate) the <strong>garlic</strong></p><p>Add the <strong>tomato paste</strong> to a bowl with the <strong>chopped garlic</strong> and a generous pinch of <strong>salt</strong>, <strong>pepper</strong> and<strong> sugar</strong></p><p>Add 4 tbsp <span class=\"text-danger\">[8 tbsp] </span><strong>cold water</strong> and stir it all together – this is your <strong>tomato sauce</strong></p><p>Drain and pat the <strong>mozzarella</strong> dry with kitchen paper<strong> </strong>(squeeze as much liquid out as you can!)</p><p>Tear the <strong>drained mozzarella</strong> into rough, bite-sized pieces</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1595496116447-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1595496116447-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1595496116447-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1595496116447-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1595496116447-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>pizza base mix </strong>to the bowl with the yeast and gently mix with a plastic spatula</p><p>Gradually add up to 75ml <span class=\"text-danger\">[150ml] </span><strong>warm water </strong>(you may not need all of it), a little at a time and continue to mix until a sticky dough ball has formed</p><p>Tip the <strong>dough ball</strong> out onto a<strong> floured </strong>work surface and cut into 2 <span class=\"text-danger\">[4]</span></p><p>Toss each <strong>dough ball</strong> in a light dusting of <strong>flour </strong>until coated, rounding the ball as you go (no need to knead!)</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1595496123226-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1595496123226-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1595496123226-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1595496123226-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1595496123226-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Press each <strong>dough ball </strong>in the centre and gently push outwards with your fingertips, leaving the rim of the pizza untouched to form a <strong>crust </strong>(don't worry if the dough rips, just stick it back together and carry on!)</p><p>Tip: Dust with extra sprinkles of flour to stop it sticking!</p><p>Keep going until your base is slightly smaller than a side plate (you will make them bigger in the pan!) – these are your <strong>pizza bases, </strong>then heat a large, dry, non-stick, wide-based pan (or two) over a high heat</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1595496132512-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1595496132512-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1595496132512-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1595496132512-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1595496132512-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once hot, carefully add the <strong>pizza base<span class=\"text-danger\">[s]</span> </strong>to the pan<span class=\"text-danger\">[s]</span>, pushing the dough out to the edge to help shape the crust</p><p>Tip: To pick up the pizza dough, gently flip it over the back of your hand to stop it ripping!</p><p>Add 1/2<span class=\"text-danger\"> [1/4]</span> of the <strong>tomato sauce </strong>to each pizza and spread it evenly with the back of a spoon (be careful of the hot pan!)</p><p>Cook the <strong>pizza base<span class=\"text-danger\">[s]</span></strong> for 3-4 min or until the crust has started to puff up, then remove the heated tray<span class=\"text-danger\">[s]</span> from the oven and slide the pizza base<span class=\"text-danger\">[s]<strong> </span></strong>onto the tray</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1595496139934-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1595496139934-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1595496139934-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1595496139934-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1595496139934-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Repeat this process for the next pizza base<span class=\"text-danger\">[s] </span>(make sure the pizzas don't overlap on the trays to avoid raw dough!)</p><p>Top them with the <strong>dried oregano</strong>, <strong>roasted tomatoes</strong>, <strong>torn mozzarella</strong>, <strong>roasted aubergine</strong> and <strong>half</strong> of the <strong>grated Italian hard cheese </strong>(save the rest for garnish!), then tear over<strong> </strong>the<strong> basil leaves</strong></p><p>Drizzle the crusts with <strong>olive oil</strong>, then put the tray<span class=\"text-danger\">[s]</span> in the oven for 12-15 min until the crust has puffed up and browned</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1595496146480-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1595496146480-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1595496146480-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1595496146480-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1595496146480-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Wash the <strong>rocket</strong>, then pat it dry with kitchen paper</p><p>Add the <strong>rocket </strong>to a bowl with the <strong>balsamic vinegar</strong>, a drizzle of <strong>olive oil</strong> and a generous pinch of <strong>salt</strong> and <strong>pepper</strong> and mix it all together – this is your<strong> rocket salad</strong></p><p>Sprinkle the <strong>remaining</strong> <strong>grated Italian hard cheese</strong> over the pizzas and serve the<strong> rocket salad </strong>to the side</p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "sulphites",
+      "slug": "sulphites"
+    }
+  ],
+  "seo": {
+    "title": "Pizza Parmigiana With Aubergine",
+    "description": "Recreate a cheesy aubergine parmigiana, but on a pizza! For this twist on an Italian classic, you'll make a no-knead, no-proof pizza dough from scratch, topped with mozzarella, baby plum tomatoes and tender roasted aubergine.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/2958_aubergine-parmigiana-1862-1598267342374.jpg"
+  },
+  "tags": [],
+  "uid": "blt3284b0f439c7f9c6",
+  "_version": 1884,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 156,
+      "energy_kj": 659,
+      "fat_mg": 4084,
+      "fat_saturates_mg": 2470,
+      "carbs_mg": 23332,
+      "carbs_sugars_mg": 2355,
+      "fibre_mg": 2051,
+      "protein_mg": 8029,
+      "salt_mg": 439,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 700,
+      "energy_kj": 2957,
+      "fat_mg": 18319,
+      "fat_saturates_mg": 11080,
+      "carbs_mg": 104645,
+      "carbs_sugars_mg": 10564,
+      "fibre_mg": 9199,
+      "protein_mg": 36012,
+      "salt_mg": 1970,
+      "net_weight_mg": 448500
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "5cac128e-7775-463a-8ddd-87a2f1588003",
+          "code": "I-05-FVG-FV-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+          "code": "I-06-SML-DL-11",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "1829b78a-527f-4811-a4e4-8319b409f369",
+          "code": "I-05-FVG-FV-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d93301c4-2563-4b9d-b829-991800ca87b4",
+          "code": "I-09-DAI-CH-06",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8357c090-d832-41bc-a458-b13600637e1b",
+          "code": "I-08-SAU-LS-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "9fc89ec3-0083-4ac2-a1fa-50386b5c4b48",
+          "code": "I-11-BRD-BR-42",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+          "code": "I-09-DAI-CH-42",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+          "code": "I-08-SAU-PS-37",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "aa3f67ab-60c3-4cf2-87d5-05bc9a3e5276",
+          "code": "I-05-FVG-FG-05-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+          "code": "I-07-HBS-PL-23",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "593fed37-5b94-41af-8c40-e119b0007075",
+          "code": "I-06-SML-IN-22",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "5cac128e-7775-463a-8ddd-87a2f1588003",
+          "code": "I-05-FVG-FV-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+          "code": "I-06-SML-DL-11",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "1829b78a-527f-4811-a4e4-8319b409f369",
+          "code": "I-05-FVG-FV-15",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d93301c4-2563-4b9d-b829-991800ca87b4",
+          "code": "I-09-DAI-CH-06",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "8357c090-d832-41bc-a458-b13600637e1b",
+          "code": "I-08-SAU-LS-15",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "9fc89ec3-0083-4ac2-a1fa-50386b5c4b48",
+          "code": "I-11-BRD-BR-42",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+          "code": "I-09-DAI-CH-42",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+          "code": "I-08-SAU-PS-37",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "aa3f67ab-60c3-4cf2-87d5-05bc9a3e5276",
+          "code": "I-05-FVG-FG-05-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+          "code": "I-07-HBS-PL-23",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "593fed37-5b94-41af-8c40-e119b0007075",
+          "code": "I-06-SML-IN-22",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    }
+  ]
+}

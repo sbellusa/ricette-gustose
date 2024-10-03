@@ -1,0 +1,993 @@
+{
+  "url": "/cheesy-bbq-meat-free-chickn-n-chips",
+  "title": "Cheesy BBQ Meat-Free Chick'n 'N' Chips",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "4119",
+  "gousto_uid": "e7dc5c59-299d-4ed5-bace-a1f7f27e33dd",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3566---Cheesy-BBQ-Meat-Free-Chicken-Chips--Salad-2627-copy-1622564089025-1630681965849-x200.jpeg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3566---Cheesy-BBQ-Meat-Free-Chicken-Chips--Salad-2627-copy-1622564089025-1630681965849-x400.jpeg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3566---Cheesy-BBQ-Meat-Free-Chicken-Chips--Salad-2627-copy-1622564089025-1630681965849-x700.jpeg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3566---Cheesy-BBQ-Meat-Free-Chicken-Chips--Salad-2627-copy-1622564089025-1630681965849-x1000.jpeg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3566---Cheesy-BBQ-Meat-Free-Chicken-Chips--Salad-2627-copy-1622564089025-1630681965849-x1500.jpeg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 1770
+  },
+  "description": "This cheesy BBQ meat-free chicken is sure to please everyone! Coat meat-free chicken pieces in smoked paprika, pan-fry them, then bake them smothered in BBQ sauce and cheese. Serve with chips and a tomato & cucumber salad.",
+  "prep_times": {
+    "for_2": 35,
+    "for_4": 40
+  },
+  "cuisine": {
+    "slug": "american",
+    "title": "American"
+  },
+  "ingredients": [
+    {
+      "label": "Tomato",
+      "title": "tomato-I-05-FVG-FV-09",
+      "uid": "bltadd0f9d489140d4c",
+      "gousto_uuid": "5c14a222-aa12-4d98-a108-106ca1693363",
+      "name": "tomato",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "BBQ sauce (40g)",
+      "title": "BBQ sauce-I-08-SAU-PS-62",
+      "uid": "blt3cbb8f0fc3de21ff",
+      "gousto_uuid": "2af82637-9ecc-464e-b659-5966276c7fc5",
+      "name": "BBQ sauce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Hickory-smoked-BBQ-sauce-sachet-80g-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Hickory-smoked-BBQ-sauce-sachet-80g-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Hickory-smoked-BBQ-sauce-sachet-80g-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Hickory-smoked-BBQ-sauce-sachet-80g-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Hickory-smoked-BBQ-sauce-sachet-80g-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Lighter cheese (30g)",
+      "title": "lighter cheese-I-09-DAI-CH-03",
+      "uid": "bltcb0af3e4b75f4792",
+      "gousto_uuid": "50831f8e-cbf7-41ed-884e-6ab078f30e3d",
+      "name": "lighter cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Meat-free chick'n (160g)",
+      "title": "meat-free chick'n-IQ-10-MPF-VE-12-01",
+      "uid": "blted8bf67918cdc15c",
+      "gousto_uuid": "b6232430-ec44-4bfd-b5a2-2924eab13959",
+      "name": "meat-free chick'n",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Vegan-roast-chicken-bites-165g-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Vegan-roast-chicken-bites-165g-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Vegan-roast-chicken-bites-165g-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Vegan-roast-chicken-bites-165g-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Vegan-roast-chicken-bites-165g-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Ground smoked paprika (1tsp)",
+      "title": "ground smoked paprika-I-06-SML-DL-15",
+      "uid": "blt40d60aca111c0243",
+      "gousto_uuid": "9bbbe335-1516-4488-957c-814e34eae5b1",
+      "name": "ground smoked paprika",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "White potato x4",
+      "title": "white potato-I-02-SVG-VG-01-09",
+      "uid": "bltab576a7ce0bc5a37",
+      "gousto_uuid": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Baby leaf salad (50g)",
+      "title": "baby leaf salad-I-05-FVG-FG-03-01",
+      "uid": "bltffe1841caada8361",
+      "gousto_uuid": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+      "name": "baby leaf salad",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "White wine vinegar (15ml)",
+      "title": "white wine vinegar-I-08-SAU-LS-14",
+      "uid": "bltfa7cb0db872c783e",
+      "gousto_uuid": "ef566c78-5df6-49d9-8356-68789149176f",
+      "name": "white wine vinegar",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Cucumber (0.5pcs)",
+      "title": "cucumber-I-07-HBS-PL-11",
+      "uid": "blt4681c62966ac9eab",
+      "gousto_uuid": "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+      "name": "cucumber",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cucumber-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cucumber-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cucumber-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cucumber-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cucumber-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7</p><p>Cut your <strong>potatoes</strong> (skins on) into chips, then add them to a baking tray (or two!) with a drizzle of <strong>vegetable oil</strong> and a pinch of <strong>salt</strong></p><p>Give everything a good mix up and put the tray in the oven for 30 min or until golden and crisp</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1630682326456-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1630682326456-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1630682326456-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1630682326456-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1630682326456-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, add your<strong> ground smoked paprika</strong> to a plate with a grind of <strong>black pepper</strong></p><p>Add your <strong>meat-free chick'n</strong> to the plate and turn them several times in the spices until they’re nicely coated</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1630682330403-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1630682330403-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1630682330403-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1630682330403-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1630682330403-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>olive oil</strong> over a medium-high heat</p><p>Once hot, add the <strong>coated</strong> <strong>meat-free chick'n</strong> and cook for 3 min or until starting to brown</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1630682335406-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1630682335406-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1630682335406-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1630682335406-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1630682335406-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>While the meat-free chick'n is cooking, grate your <strong>lighter cheese</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1630682339589-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1630682339589-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1630682339589-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1630682339589-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1630682339589-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Transfer the <strong>browned meat-free chick'n</strong> to a<strong> tin foil</strong>-lined baking tray and scrunch the edges of the foil up a little around it</p><p>Tip: This will help to keep the sauce around your meat-free chick'n!</p><p>Drizzle your <strong>smoky BBQ sauce </strong>all over and put the tray in the oven for an initial 5 min</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1630682344059-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1630682344059-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1630682344059-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1630682344059-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1630682344059-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>While everything's cooking, combine your <strong>white wine vinegar </strong>with 2 tbsp <span class=\"text-purple\">[3 tbsp]</span> <span class=\"text-danger\">[4 tbsp]</span><strong> olive oil</strong> and a pinch of<strong> salt </strong>and <strong>pepper </strong>in a large bowl – this is your<strong> dressing</strong></p><p>After 5 min, remove the meat-free chick'n tray from the oven and sprinkle over the<strong> grated cheese</strong></p><p>Return the tray to the oven for 5 min further or until the cheese has melted – this is your <strong>cheesy BBQ meat-free chick'n</strong></p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1630682355275-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1630682355275-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1630682355275-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1630682355275-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1630682355275-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, chop your <strong>tomato[es]</strong> into wedges, then trim and slice your <strong>cucumber </strong>into rounds</p><p>Wash your <strong>salad</strong>, then pat it dry with kitchen paper</p><p>Once everything is almost ready, add the <strong>salad</strong>, <strong>chopped tomato</strong> and <strong>cucumber rounds</strong> to the bowl of dressing and give everything a gentle mix</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1630682359706-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1630682359706-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1630682359706-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1630682359706-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1630682359706-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>cheesy BBQ meat-free chick'n</strong> with the <strong>chips</strong> and <strong>salad</strong> to the side</p><p>Enjoy!</p><p><strong><span class=\"text-danger\">Loved this recipe? Us too! That’s why it’s one of our Everyday Favourites, available every week.</span></strong></p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "soya",
+      "slug": "soya"
+    }
+  ],
+  "seo": {
+    "title": "Cheesy BBQ Meat-Free Chick'n 'N' Chips",
+    "description": "This cheesy BBQ meat-free chick'n is sure to please everyone! Coat meat-free chick'n pieces in smoked paprika, fry then bake smothered in BBQ sauce and cheese.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/3566---Cheesy-BBQ-Meat-Free-Chicken-Chips--Salad-2627-copy-1622564089025-1630681965849.jpeg"
+  },
+  "tags": [],
+  "uid": "blt0895007075125ecd",
+  "_version": 150,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 77,
+      "energy_kj": 329,
+      "fat_mg": 1173,
+      "fat_saturates_mg": 370,
+      "carbs_mg": 10796,
+      "carbs_sugars_mg": 2007,
+      "fibre_mg": 2354,
+      "protein_mg": 5629,
+      "salt_mg": 393,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 373,
+      "energy_kj": 1579,
+      "fat_mg": 5614,
+      "fat_saturates_mg": 1771,
+      "carbs_mg": 51660,
+      "carbs_sugars_mg": 9608,
+      "fibre_mg": 11264,
+      "protein_mg": 26936,
+      "salt_mg": 1881,
+      "net_weight_mg": 478500
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 1,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "2af82637-9ecc-464e-b659-5966276c7fc5",
+          "code": "I-08-SAU-PS-62",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+          "code": "I-05-FVG-FG-03-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+          "code": "I-07-HBS-PL-11",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "9bbbe335-1516-4488-957c-814e34eae5b1",
+          "code": "I-06-SML-DL-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "50831f8e-cbf7-41ed-884e-6ab078f30e3d",
+          "code": "I-09-DAI-CH-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b6232430-ec44-4bfd-b5a2-2924eab13959",
+          "code": "IQ-10-MPF-VE-12-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "5c14a222-aa12-4d98-a108-106ca1693363",
+          "code": "I-05-FVG-FV-09",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+          "code": "I-02-SVG-VG-01-09",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ef566c78-5df6-49d9-8356-68789149176f",
+          "code": "I-08-SAU-LS-14",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "2af82637-9ecc-464e-b659-5966276c7fc5",
+          "code": "I-08-SAU-PS-62",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+          "code": "I-05-FVG-FG-03-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+          "code": "I-07-HBS-PL-11",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "9bbbe335-1516-4488-957c-814e34eae5b1",
+          "code": "I-06-SML-DL-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "50831f8e-cbf7-41ed-884e-6ab078f30e3d",
+          "code": "I-09-DAI-CH-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b6232430-ec44-4bfd-b5a2-2924eab13959",
+          "code": "IQ-10-MPF-VE-12-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "5c14a222-aa12-4d98-a108-106ca1693363",
+          "code": "I-05-FVG-FV-09",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+          "code": "I-02-SVG-VG-01-09",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "ef566c78-5df6-49d9-8356-68789149176f",
+          "code": "I-08-SAU-LS-14",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 3,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "2af82637-9ecc-464e-b659-5966276c7fc5",
+          "code": "I-08-SAU-PS-62",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+          "code": "I-05-FVG-FG-03-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+          "code": "I-07-HBS-PL-11",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "9bbbe335-1516-4488-957c-814e34eae5b1",
+          "code": "I-06-SML-DL-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "50831f8e-cbf7-41ed-884e-6ab078f30e3d",
+          "code": "I-09-DAI-CH-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "b6232430-ec44-4bfd-b5a2-2924eab13959",
+          "code": "IQ-10-MPF-VE-12-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "5c14a222-aa12-4d98-a108-106ca1693363",
+          "code": "I-05-FVG-FV-09",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+          "code": "I-02-SVG-VG-01-09",
+          "quantities": {
+            "in_box": 6
+          }
+        },
+        {
+          "id": "ef566c78-5df6-49d9-8356-68789149176f",
+          "code": "I-08-SAU-LS-14",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "2af82637-9ecc-464e-b659-5966276c7fc5",
+          "code": "I-08-SAU-PS-62",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+          "code": "I-05-FVG-FG-03-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+          "code": "I-07-HBS-PL-11",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "9bbbe335-1516-4488-957c-814e34eae5b1",
+          "code": "I-06-SML-DL-15",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "50831f8e-cbf7-41ed-884e-6ab078f30e3d",
+          "code": "I-09-DAI-CH-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "b6232430-ec44-4bfd-b5a2-2924eab13959",
+          "code": "IQ-10-MPF-VE-12-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "5c14a222-aa12-4d98-a108-106ca1693363",
+          "code": "I-05-FVG-FV-09",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+          "code": "I-02-SVG-VG-01-09",
+          "quantities": {
+            "in_box": 8
+          }
+        },
+        {
+          "id": "ef566c78-5df6-49d9-8356-68789149176f",
+          "code": "I-08-SAU-LS-14",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 5,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "2af82637-9ecc-464e-b659-5966276c7fc5",
+          "code": "I-08-SAU-PS-62",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+          "code": "I-05-FVG-FG-03-01",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+          "code": "I-07-HBS-PL-11",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "9bbbe335-1516-4488-957c-814e34eae5b1",
+          "code": "I-06-SML-DL-15",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "50831f8e-cbf7-41ed-884e-6ab078f30e3d",
+          "code": "I-09-DAI-CH-03",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "b6232430-ec44-4bfd-b5a2-2924eab13959",
+          "code": "IQ-10-MPF-VE-12-01",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "5c14a222-aa12-4d98-a108-106ca1693363",
+          "code": "I-05-FVG-FV-09",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+          "code": "I-02-SVG-VG-01-09",
+          "quantities": {
+            "in_box": 10
+          }
+        },
+        {
+          "id": "ef566c78-5df6-49d9-8356-68789149176f",
+          "code": "I-08-SAU-LS-14",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    }
+  ]
+}

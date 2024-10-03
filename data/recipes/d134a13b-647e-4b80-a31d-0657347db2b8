@@ -1,0 +1,968 @@
+{
+  "url": "/butternut-squash-goats-cheese-tart",
+  "title": "Butternut Squash & Goats' Cheese Tart",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Vegetarian Recipes ",
+      "url": "/vegetarian-recipes",
+      "uid": "blta762d7d1d30213a2"
+    },
+    {
+      "title": "Vegetarian",
+      "url": "/vegetarian",
+      "uid": "blt5cc8b5413c283f12"
+    },
+    {
+      "title": "Pumpkin Recipes",
+      "url": "/pumpkin-recipes",
+      "uid": "bltb86eb31f4a49a424"
+    }
+  ],
+  "gousto_id": "2473",
+  "gousto_uid": "d134a13b-647e-4b80-a31d-0657347db2b8",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2341_Butternut-Squash--Goats-Cheese-Tart_002_0-1709808102764-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2341_Butternut-Squash--Goats-Cheese-Tart_002_0-1709808102764-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2341_Butternut-Squash--Goats-Cheese-Tart_002_0-1709808102764-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2341_Butternut-Squash--Goats-Cheese-Tart_002_0-1709808102764-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2341_Butternut-Squash--Goats-Cheese-Tart_002_0-1709808102764-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 1389
+  },
+  "description": "Sweet butternut squash is the perfect topper for smooth goats' cheese, aromatic rosemary and red onion. Serve your puff pastry tart with spinach salad, candied pecans and balsamic dressing. ",
+  "prep_times": {
+    "for_2": 45,
+    "for_4": 50
+  },
+  "cuisine": {
+    "slug": "british",
+    "title": "British"
+  },
+  "ingredients": [
+    {
+      "label": "75g goats' cheese",
+      "title": "soft goats' cheese-I-09-DAI-CH-17",
+      "uid": "blt8993c7d104b826e1",
+      "gousto_uuid": "e47e2330-c327-48bf-acba-8c5ed9b30b4f",
+      "name": "soft goats' cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-goats-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-goats-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-goats-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-goats-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-goats-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 butternut squash cubes",
+      "title": "butternut squash cubes-I-05-FVG-LF-51",
+      "uid": "bltb15c33db6880f075",
+      "gousto_uuid": "88852431-ad79-4030-a171-252206c931f7",
+      "name": "butternut squash cubes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butternut-cubes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butternut-cubes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butternut-cubes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butternut-cubes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butternut-cubes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 puff pastry",
+      "title": "puff pastry-IQ-11-BRD-BR-69-01",
+      "uid": "blte7e3a861cac7e044",
+      "gousto_uuid": "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+      "name": "puff pastry",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/New-puff-pastry-placeholder2x-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/New-puff-pastry-placeholder2x-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/New-puff-pastry-placeholder2x-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/New-puff-pastry-placeholder2x-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/New-puff-pastry-placeholder2x-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "15ml balsamic vinegar",
+      "title": "balsamic vinegar-I-08-SAU-LS-15",
+      "uid": "blt36b3f7d5608537b7",
+      "gousto_uuid": "8357c090-d832-41bc-a458-b13600637e1b",
+      "name": "balsamic vinegar",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sulphites"
+          }
+        ]
+      }
+    },
+    {
+      "label": "5g rosemary",
+      "title": "rosemary-I-07-HBS-PL-44",
+      "uid": "blt9e2024d6b27fb99c",
+      "gousto_uuid": "a0cbff79-0da6-4e5a-a710-50a5dd4b3316",
+      "name": "rosemary",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-rosemary-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-rosemary-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-rosemary-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-rosemary-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-rosemary-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "80g spinach",
+      "title": "spinach-I-05-FVG-FG-02-03",
+      "uid": "blte6edae427c7fa86f",
+      "gousto_uuid": "d240500f-9c26-4286-88bc-6be3e774e96b",
+      "name": "spinach",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "25g pecan nuts",
+      "title": "pecan nuts-I-04-NUT-NT-04-30",
+      "uid": "blt20ec3cb5acc70a9a",
+      "gousto_uuid": "8c35e441-16ad-426a-b4e9-ee20000decd4",
+      "name": "pecan nuts",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pecan-nuts-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pecan-nuts-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pecan-nuts-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pecan-nuts-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pecan-nuts-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "nut"
+          },
+          {
+            "title": null,
+            "slug": "peanut"
+          },
+          {
+            "title": null,
+            "slug": "sesame"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 red onion",
+      "title": "red onion-I-02-SVG-VG-05",
+      "uid": "bltc69ae0a09122a2b4",
+      "gousto_uuid": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Sugar",
+      "slug": "sugar"
+    },
+    {
+      "title": "Flour",
+      "slug": "flour"
+    },
+    {
+      "title": "Water",
+      "slug": "water"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7</p><p>Add your <strong>butternut squash</strong> <strong>cubes</strong> to a baking tray (or two!) with a drizzle of <strong>olive oil</strong> and a pinch of <strong>salt</strong> and give everything a good mix up</p><p>Put the tray[s] in the oven for an initial 10-15 min or until the butternut squash is starting to soften </p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, snap your <strong>pecans</strong> in half, lengthways</p><p>Heat a large, wide-based pan (preferably non-stick) over a medium heat</p><p>Once hot, add the <strong>pecan halves</strong>, 1 tbsp <span class=\"text-purple\">[1 1/2 tbsp]</span><span class=\"text-danger\"> [2 tbsp]</span> <strong>sugar</strong> and 50ml <span class=\"text-purple\">[65ml] </span><span class=\"text-danger\">[85ml]</span> <strong>cold water</strong></p><p>Cook for 8-10 min or until the liquid has reduced</p><p>Remove the pan from the heat and leave the pecans to harden – these are your <strong>candied pecans</strong></p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Peel and finely slice your <strong>red onion[s]</strong></p><p>Once the butternut squash is starting to soften, add the <strong>sliced onion</strong> to the tray[s] with the butternut squash and return to the oven for a further 8-10 min or until everything's softened</p><p>Boil a kettle</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, wash your<strong> spinach</strong>, then add<strong> half</strong> (you'll use the rest later!) to a colander</p><p>Pour <strong>boiled water</strong> all over it so that it starts to wilt</p><p>Rinse the <strong>wilted spinach</strong> under <strong>cold running water</strong> until it's cool</p><p>Once cool, squeeze as much water out of the spinach as you can</p><p>Strip your <strong>rosemary leaves </strong>from their stems, discard the stems</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Dust your work surface with a generous sprinkling of <strong>flour</strong></p><p>Unwrap your <strong>puff pastry</strong> and roll it out to approx. 0.5cm thickness with a <strong>rolling pin </strong>and cut into 1 square per person</p><p>Line a baking tray (or two!) with <strong>non-stick baking paper</strong>, then add the <strong>pastry square[s]</strong> to the tray[s] and score a 1cm border around the edge of the pastry with a knife</p><p>Tip: Prick the inside of the border all over with a fork (this will stop you getting a soggy bottom!)</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the squash is cooked, gently spread the centre of the<strong> pastry square </strong>with your <strong>goats' cheese </strong>using the back of a spoon</p><p>Top with the <strong>roasted butternut squash</strong>, <strong>half</strong> of the <strong>roasted onion </strong>(save the rest for later!), the <strong>wilted spinach</strong> and the <strong>rosemary leaves</strong></p><p>Drizzle with a little <strong>olive oil</strong> and put the tray in the oven for 20 min or until the pastry is cooked through, golden and the edges have puffed up – this is your <strong>butternut squash & goats' cheese tart</strong></p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Whilst the tart is cooking, add your<strong> balsamic vinegar</strong> with a drizzle of <strong>olive oil</strong> and a pinch of <strong>salt </strong>to a<strong> </strong>large bowl</p><p>Add the<strong> remaining roasted onion</strong>, <strong>remaining spinach</strong> and <strong>candied pecans</strong> and give everything a good mix up – this is your <strong>spinach & pecan salad</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2341-Step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>butternut squash & goats' cheese tart</strong> with the <strong>spinach & pecan salad</strong> to the side</p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "nut",
+      "slug": "nut"
+    },
+    {
+      "title": "peanut",
+      "slug": "peanut"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    },
+    {
+      "title": "sulphites",
+      "slug": "sulphites"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    }
+  ],
+  "seo": {
+    "title": "Butternut Squash & Goats' Cheese Tart",
+    "description": "Sweet butternut squash is the perfect topper for smooth goats' cheese, aromatic rosemary and red onion. Serve your puff pastry tart with spinach salad, candied pecans and balsamic dressing. ",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/2341_Butternut-Squash--Goats-Cheese-Tart_002_0-1709808102764.jpg"
+  },
+  "tags": [],
+  "uid": "blt0f27f23bcf031629",
+  "_version": 763,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 187,
+      "energy_kj": 782,
+      "fat_mg": 12620,
+      "fat_saturates_mg": 4961,
+      "carbs_mg": 13875,
+      "carbs_sugars_mg": 3310,
+      "fibre_mg": 1660,
+      "protein_mg": 4606,
+      "salt_mg": 244,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 568,
+      "energy_kj": 2368,
+      "fat_mg": 38178,
+      "fat_saturates_mg": 15008,
+      "carbs_mg": 41973,
+      "carbs_sugars_mg": 10013,
+      "fibre_mg": 5023,
+      "protein_mg": 13935,
+      "salt_mg": 739,
+      "net_weight_mg": 302500
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 1,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "8357c090-d832-41bc-a458-b13600637e1b",
+          "code": "I-08-SAU-LS-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "88852431-ad79-4030-a171-252206c931f7",
+          "code": "I-05-FVG-LF-51",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8c35e441-16ad-426a-b4e9-ee20000decd4",
+          "code": "I-04-NUT-NT-04-30",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+          "code": "IQ-11-BRD-BR-69-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "a0cbff79-0da6-4e5a-a710-50a5dd4b3316",
+          "code": "I-07-HBS-PL-44",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "e47e2330-c327-48bf-acba-8c5ed9b30b4f",
+          "code": "I-09-DAI-CH-17",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d240500f-9c26-4286-88bc-6be3e774e96b",
+          "code": "I-05-FVG-FG-02-03",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "8357c090-d832-41bc-a458-b13600637e1b",
+          "code": "I-08-SAU-LS-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "88852431-ad79-4030-a171-252206c931f7",
+          "code": "I-05-FVG-LF-51",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8c35e441-16ad-426a-b4e9-ee20000decd4",
+          "code": "I-04-NUT-NT-04-30",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+          "code": "IQ-11-BRD-BR-69-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "a0cbff79-0da6-4e5a-a710-50a5dd4b3316",
+          "code": "I-07-HBS-PL-44",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "e47e2330-c327-48bf-acba-8c5ed9b30b4f",
+          "code": "I-09-DAI-CH-17",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d240500f-9c26-4286-88bc-6be3e774e96b",
+          "code": "I-05-FVG-FG-02-03",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 3,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "8357c090-d832-41bc-a458-b13600637e1b",
+          "code": "I-08-SAU-LS-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "88852431-ad79-4030-a171-252206c931f7",
+          "code": "I-05-FVG-LF-51",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "8c35e441-16ad-426a-b4e9-ee20000decd4",
+          "code": "I-04-NUT-NT-04-30",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+          "code": "IQ-11-BRD-BR-69-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "a0cbff79-0da6-4e5a-a710-50a5dd4b3316",
+          "code": "I-07-HBS-PL-44",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "e47e2330-c327-48bf-acba-8c5ed9b30b4f",
+          "code": "I-09-DAI-CH-17",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d240500f-9c26-4286-88bc-6be3e774e96b",
+          "code": "I-05-FVG-FG-02-03",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "8357c090-d832-41bc-a458-b13600637e1b",
+          "code": "I-08-SAU-LS-15",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "88852431-ad79-4030-a171-252206c931f7",
+          "code": "I-05-FVG-LF-51",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "8c35e441-16ad-426a-b4e9-ee20000decd4",
+          "code": "I-04-NUT-NT-04-30",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+          "code": "IQ-11-BRD-BR-69-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "a0cbff79-0da6-4e5a-a710-50a5dd4b3316",
+          "code": "I-07-HBS-PL-44",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "e47e2330-c327-48bf-acba-8c5ed9b30b4f",
+          "code": "I-09-DAI-CH-17",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d240500f-9c26-4286-88bc-6be3e774e96b",
+          "code": "I-05-FVG-FG-02-03",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 5,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "8357c090-d832-41bc-a458-b13600637e1b",
+          "code": "I-08-SAU-LS-15",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "88852431-ad79-4030-a171-252206c931f7",
+          "code": "I-05-FVG-LF-51",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "8c35e441-16ad-426a-b4e9-ee20000decd4",
+          "code": "I-04-NUT-NT-04-30",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+          "code": "IQ-11-BRD-BR-69-01",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "a0cbff79-0da6-4e5a-a710-50a5dd4b3316",
+          "code": "I-07-HBS-PL-44",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "e47e2330-c327-48bf-acba-8c5ed9b30b4f",
+          "code": "I-09-DAI-CH-17",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "d240500f-9c26-4286-88bc-6be3e774e96b",
+          "code": "I-05-FVG-FG-02-03",
+          "quantities": {
+            "in_box": 3
+          }
+        }
+      ]
+    }
+  ]
+}

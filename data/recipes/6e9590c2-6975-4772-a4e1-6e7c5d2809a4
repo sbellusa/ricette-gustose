@@ -1,0 +1,648 @@
+{
+  "url": "/speedy-sausage-leek-egg-hash",
+  "title": "Speedy Sausage, Leek & Egg Hash",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Pork Recipes",
+      "url": "/pork-recipes",
+      "uid": "bltf0761ae94eddf574"
+    },
+    {
+      "title": "Beef & Pork",
+      "url": "/beef-pork",
+      "uid": "blt139a776cc9eef76c"
+    }
+  ],
+  "gousto_id": "1203",
+  "gousto_uid": "6e9590c2-6975-4772-a4e1-6e7c5d2809a4",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1219_Speedy-Sausage-Leek--Egg-Hash-4610-1628678583816-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1219_Speedy-Sausage-Leek--Egg-Hash-4610-1628678583816-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1219_Speedy-Sausage-Leek--Egg-Hash-4610-1628678583816-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1219_Speedy-Sausage-Leek--Egg-Hash-4610-1628678583816-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1219_Speedy-Sausage-Leek--Egg-Hash-4610-1628678583816-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 12992
+  },
+  "description": "For this tasty 'brinner' (breakfast for dinner), you'll transform potatoes, leek and sausages into a crispy, delicious hash. Top with a fried egg and sweet mustard ketchup to serve.",
+  "prep_times": {
+    "for_2": 25,
+    "for_4": 30
+  },
+  "cuisine": {
+    "slug": "american",
+    "title": "American"
+  },
+  "ingredients": [
+    {
+      "label": "20g mustard ketchup",
+      "title": "mustard ketchup-I-06-SML-TRK-14",
+      "uid": "bltcc9bcad901536f1e",
+      "gousto_uuid": "6a52c23b-dba4-4be3-a7b6-28170d8db4eb",
+      "name": "mustard ketchup",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mustard-ketchup-pot-20g-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mustard-ketchup-pot-20g-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mustard-ketchup-pot-20g-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mustard-ketchup-pot-20g-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mustard-ketchup-pot-20g-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "mustard"
+          }
+        ]
+      }
+    },
+    {
+      "label": "4 Proper Porker sausages",
+      "title": "Proper Porker sausages-I-10-MPF-PM-56",
+      "uid": "blt819348649feb1764",
+      "gousto_uuid": "5fa3a669-8c36-48bd-9f29-e1ac2abff979",
+      "name": "Proper Porker sausages",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Cumberland-sausages-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Cumberland-sausages-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Cumberland-sausages-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Cumberland-sausages-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Cumberland-sausages-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sulphites"
+          }
+        ]
+      }
+    },
+    {
+      "label": "10g chives",
+      "title": "chives-I-07-HBS-PL-39",
+      "uid": "blt8e352658fb47319c",
+      "gousto_uuid": "d637a863-92c6-47c4-96d0-c0886020ea38",
+      "name": "chives",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-chives-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-chives-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-chives-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-chives-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-chives-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "400g waxy potatoes",
+      "title": "waxy potatoes-I-02-SVG-VG-02-03",
+      "uid": "bltbd7c204165aa26d2",
+      "gousto_uuid": "20d40144-059a-457a-b3dc-9c0e41ebc2e9",
+      "name": "waxy potatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 leek",
+      "title": "leek-I-05-FVG-LF-03",
+      "uid": "blt8f2a845b088489d2",
+      "gousto_uuid": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+      "name": "leek",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 British free-range eggs",
+      "title": "British free range egg-IQ-06-SML-OT-01-01",
+      "uid": "bltb40819d6ebf4ef0d",
+      "gousto_uuid": "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+      "name": "British free range egg",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "egg"
+          }
+        ]
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Butter",
+      "slug": "butter"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Boil a kettle</p><p>Cut the <strong>waxy potatoes</strong> (skins on) into very small chunks</p><p>Add the <strong>chopped</strong> <strong>potatoes</strong> to a pot of <strong>boiled water</strong> with a pinch of <strong>salt </strong>and bring to the boil over a high heat</p><p>Once boiling, cook for 10-15 min or until fork-tender, then drain and return to the pot</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, chop the <strong>leek<span class=\"text-danger\">[s] </span></strong>in half lengthways, wash thoroughly to remove any grit then top, tail and slice finely</p><p>Heat a large, wide-based pan (preferably non-stick with a matching lid) with a large knob of <strong>butter </strong>over a low heat</p><p>Once melted, add the <strong>sliced leek</strong> with a generous pinch of <strong>salt</strong> and cook for 5-6 min or until starting to soften</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>While the leeks are softening, score the <strong>sausages</strong> by drawing the knife lengthwise along the sausage – but don't cut all the way through!</p><p>Peel the skins away from the sausages and discard (clean hands is the best way!)</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the leek has softened, increase the heat to medium and add the <strong>sausage meat</strong>, breaking it up into small pieces with a wooden spoon as you go</p><p>Cook for 4 min or until the sausage meat is brown and crispy</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once cooked, add the <strong>drained potatoes</strong> to the pan with a pinch of <strong>salt </strong>and cook for 5-7 min or until brown and crispy</p><p>Tip: Stir as little as possible to give the potatoes a chance to brown</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, chop the <strong>chives</strong> finely</p><p>Once the potatoes have browned, stir most of the<strong> chopped chives </strong>(save some for garnish!) into the pan, then serve up onto plates (keep the pan for the next step!) – this is your<strong> sausage & leek hash</strong></p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Return the pan to a medium-low heat with a drizzle of<strong> vegetable oil</strong></p><p>Crack the <strong>eggs</strong> into the pan</p><p>Cover with a lid and cook for 2 min or until done to your liking</p><p>Tip: Give your eggs a little shake before you crack them for perfectly centred yolks</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1219.step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>fried eggs</strong> over the <strong>sausage & leek hash</strong> with the <strong>mustard ketchup</strong> to the side</p><p>Garnish with the <strong>reserved chopped chives</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "egg",
+      "slug": "egg"
+    },
+    {
+      "title": "sulphites",
+      "slug": "sulphites"
+    },
+    {
+      "title": "mustard",
+      "slug": "mustard"
+    }
+  ],
+  "seo": {
+    "title": "Speedy Sausage, Leek & Egg Hash",
+    "description": "For this tasty 'brinner' (breakfast for dinner), you'll transform potatoes, leek and Cumberland sausages into a crispy, delicious hash. Top with a fried egg and sweet mustard ketchup to serve.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/1219_Speedy-Sausage-Leek--Egg-Hash-4610-1628678583816.jpg"
+  },
+  "tags": [],
+  "uid": "blt5931e6a5e01c24fc",
+  "_version": 9673,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 107,
+      "energy_kj": 452,
+      "fat_mg": 5950,
+      "fat_saturates_mg": 1915,
+      "carbs_mg": 8464,
+      "carbs_sugars_mg": 2473,
+      "fibre_mg": 1574,
+      "protein_mg": 5596,
+      "salt_mg": 315,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 582,
+      "energy_kj": 2438,
+      "fat_mg": 32071,
+      "fat_saturates_mg": 10322,
+      "carbs_mg": 45623,
+      "carbs_sugars_mg": 13334,
+      "fibre_mg": 8489,
+      "protein_mg": 30165,
+      "salt_mg": 1702,
+      "net_weight_mg": 539000
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+          "code": "IQ-06-SML-OT-01-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+          "code": "I-05-FVG-LF-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d637a863-92c6-47c4-96d0-c0886020ea38",
+          "code": "I-07-HBS-PL-39",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "6a52c23b-dba4-4be3-a7b6-28170d8db4eb",
+          "code": "I-06-SML-TRK-14",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "5fa3a669-8c36-48bd-9f29-e1ac2abff979",
+          "code": "I-10-MPF-PM-56",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "20d40144-059a-457a-b3dc-9c0e41ebc2e9",
+          "code": "I-02-SVG-VG-02-03",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+          "code": "IQ-06-SML-OT-01-01",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+          "code": "I-05-FVG-LF-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d637a863-92c6-47c4-96d0-c0886020ea38",
+          "code": "I-07-HBS-PL-39",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "6a52c23b-dba4-4be3-a7b6-28170d8db4eb",
+          "code": "I-06-SML-TRK-14",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "5fa3a669-8c36-48bd-9f29-e1ac2abff979",
+          "code": "I-10-MPF-PM-56",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "20d40144-059a-457a-b3dc-9c0e41ebc2e9",
+          "code": "I-02-SVG-VG-02-03",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    }
+  ]
+}

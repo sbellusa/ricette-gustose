@@ -1,0 +1,536 @@
+{
+  "url": "/artichoke-orange-bulgar",
+  "title": "Artichoke & Orange Bulgar",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Vegetarian Recipes ",
+      "url": "/vegetarian-recipes",
+      "uid": "blta762d7d1d30213a2"
+    },
+    {
+      "title": "Turkish Recipes",
+      "url": "/turkish-recipes",
+      "uid": "bltf780d5a45193804f"
+    }
+  ],
+  "gousto_id": "136",
+  "gousto_uid": "20e969d3-bb39-4de2-b5c3-381657b1c46e",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/143.ArtichokeOrangeBulgarV-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/143.ArtichokeOrangeBulgarV-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/143.ArtichokeOrangeBulgarV-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/143.ArtichokeOrangeBulgarV-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/143.ArtichokeOrangeBulgarV-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 62
+  },
+  "description": "A delicious warming dish bursting with beautiful colours and bright flavours to make your mouth water. Artichokes don't just look and taste spectacularly sophisticated, they are also a famed super food so make sure you tuck in!",
+  "prep_times": {
+    "for_2": 30,
+    "for_4": 30
+  },
+  "cuisine": {
+    "slug": "fusion",
+    "title": "Fusion"
+  },
+  "ingredients": [
+    {
+      "label": "1 tin of butterbeans",
+      "title": "butter beans-I-01-CAN-VC-17",
+      "uid": "blt721a09eb85baf9bd",
+      "gousto_uuid": "6345f002-157d-40ef-82ce-8e2291d45f4c",
+      "name": "butter beans",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butter-beans-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butter-beans-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butter-beans-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butter-beans-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butter-beans-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 orange",
+      "title": "orange-I-02-SVG-SF-02",
+      "uid": "bltb0b920d25a5ca09f",
+      "gousto_uuid": "9745436e-547d-4510-9abf-192ad1d1a5f0",
+      "name": "orange",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/orange-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/orange-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/orange-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/orange-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/orange-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 vegetable stock cube",
+      "title": "vegetable stock pot-I-06-SML-SC-05",
+      "uid": "blt22b2a05e06531155",
+      "gousto_uuid": "13e2dcd7-fa65-4e8d-a062-43d78801ad36",
+      "name": "vegetable stock pot",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "celery"
+          }
+        ]
+      }
+    },
+    {
+      "label": "10g fresh thyme",
+      "title": "thyme-I-07-HBS-PL-28",
+      "uid": "blta76726e4902955c2",
+      "gousto_uuid": "982a9886-2476-462f-a336-cf09171e7e68",
+      "name": "thyme",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-thyme-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-thyme-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-thyme-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-thyme-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-thyme-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 celery sticks",
+      "title": "celery stick-I-05-FVG-TS-04",
+      "uid": "blt323106eeb37f1929",
+      "gousto_uuid": "c7e70ac7-75ef-4319-b7a9-454d13d676a8",
+      "name": "celery stick",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/celery-stick-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/celery-stick-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/celery-stick-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/celery-stick-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/celery-stick-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "celery"
+          }
+        ]
+      }
+    },
+    {
+      "label": "30g pumpkin seeds",
+      "title": "pumpkin seeds-IQ-04-NUT-SD-01-03",
+      "uid": "blt9595fde9e9b0332d",
+      "gousto_uuid": "b85e0fd3-7dec-4acc-89c8-0c9d30589a9f",
+      "name": "pumpkin seeds",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Pumpkin-seeds-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Pumpkin-seeds-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Pumpkin-seeds-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Pumpkin-seeds-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Pumpkin-seeds-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "30g dried cranberries",
+      "title": "dried cranberries-IQ-04-NUT-DF-02-01",
+      "uid": "blt369edb226e44dd5f",
+      "gousto_uuid": "e89eccef-6606-4529-bf66-346d735b2785",
+      "name": "dried cranberries",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/IQ-04-NUT-DF-02-01-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/IQ-04-NUT-DF-02-01-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/IQ-04-NUT-DF-02-01-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/IQ-04-NUT-DF-02-01-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/IQ-04-NUT-DF-02-01-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "75g Bulgur wheat",
+      "title": "bulgur wheat-IQ-03-GRN-FL-02-03",
+      "uid": "blt8f3572bd482d0f63",
+      "gousto_uuid": "fe2213da-0158-4a69-a5be-df613b59a1ab",
+      "name": "bulgur wheat",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-bulgur-wheat-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-bulgur-wheat-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-bulgur-wheat-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-bulgur-wheat-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-bulgur-wheat-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 tin of artichoke hearts",
+      "title": "Can of artichoke hearts-I-01-CAN-VC-01",
+      "uid": "blt6a752fb86c67f543",
+      "gousto_uuid": "1c0a024c-f623-4c36-8ef5-1c4f8f90dca7",
+      "name": "Can of artichoke hearts",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/artichoke-hearts-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/artichoke-hearts-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/artichoke-hearts-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/artichoke-hearts-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/artichoke-hearts-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 red onion",
+      "title": "red onion-I-02-SVG-VG-05",
+      "uid": "bltc69ae0a09122a2b4",
+      "gousto_uuid": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Preheat</strong> the oven to 220&deg;C/ 200&deg;C (fan)/ 425&deg;F/ Gas 7</p>\r\n<p><strong>Drain</strong> the artichokes and pat dry</p>\r\n<p><strong>Place</strong> the artichokes on an oven-proof tray, coat well with 1-2 tbsp olive oil and sprinkle with the pumpkin seeds</p>\r\n<p><strong>Put</strong> in the oven for 15 min or until brown</p>",
+      "order": 1,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Boil</strong> a kettle</p>\r\n<p><strong>Add</strong> the bulgar wheat, stock cube<span class=\"text-danger\">(s)</span> and cranberries to a pot, add 135ml <span class=\"text-danger\">(270ml)</span> of boiling water, cover with a lid and place on a medium-low heat</p>\r\n<p><strong>Simmer</strong> for 5 min or until almost all the water is absorbed</p>\r\n<p><strong>Remove</strong> from the heat and allow to rest with the lid on for 10 min or until all the water has been absorbed</p>",
+      "order": 2,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Meanwhile</strong>, peel and dice the onion<span class=\"text-danger\">(s)</span> finely</p>\r\n<p><strong>Remove</strong> the thyme's leaves and discard the stems</p>\r\n<p><strong>Grate</strong> the zest of the orange<span class=\"text-danger\">(s)</span> and slice the celery (approx. 1cm)</p>",
+      "order": 3,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> 1-2 tbsp of olive oil to a large pan on a medium heat</p>\r\n<p><strong>Once</strong> the oil is hot, add the onion, thyme and orange zest and cook for 5 min or until the onion is soft</p>\r\n<p><strong>Cut</strong> the orange<span class=\"text-danger\">(s)</span> in half</p>",
+      "order": 4,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> the celery to the pan</p>\r\n<p><strong>Cook</strong> for 3 min or until the celery is warm through, stirring constantly</p>\r\n<p><strong>Check</strong> the artichokes and remove from the oven if the pumpkin seeds are beginning to burn</p>",
+      "order": 5,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Meanwhile</strong>, drain and rinse the butter beans</p>\r\n<p><strong>Add</strong> the butter beans to the pan</p>\r\n<p><strong>Cook</strong> for 2 min or until the beans are warm through, stirring occasionally</p>",
+      "order": 6,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Squeeze</strong> the juice of the orange<span class=\"text-danger\">(s)</span> over the pan and mix well</p>\r\n<p><strong>Season</strong> to your taste with salt and pepper</p>\r\n<p><strong>Remove</strong> the artichokes from the oven if you haven't already</p>",
+      "order": 7,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> the butter bean mixture to the bulgar wheat, mix well and serve with the roasted artichokes</p>\r\n<p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "celery",
+      "slug": "celery"
+    }
+  ],
+  "seo": {
+    "title": "Artichoke & Orange Bulgar",
+    "description": "A delicious warming dish bursting with beautiful colours and bright flavours to make your mouth water. Artichokes don't just look and taste spectacularly sophisticated, they are also a famed super food so make sure you tuck in!",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/143.ArtichokeOrangeBulgarV.jpg"
+  },
+  "tags": [],
+  "uid": "blt75d3cb116a439749",
+  "_version": 50,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 105,
+      "energy_kj": 440,
+      "fat_mg": 2027,
+      "fat_saturates_mg": 412,
+      "carbs_mg": 15914,
+      "carbs_sugars_mg": 3588,
+      "fibre_mg": 5128,
+      "protein_mg": 4846,
+      "salt_mg": 612,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 589,
+      "energy_kj": 2454,
+      "fat_mg": 11281,
+      "fat_saturates_mg": 2297,
+      "carbs_mg": 88564,
+      "carbs_sugars_mg": 19969,
+      "fibre_mg": 28539,
+      "protein_mg": 26968,
+      "salt_mg": 3408,
+      "net_weight_mg": 556500
+    }
+  },
+  "portion_sizes": null
+}

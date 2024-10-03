@@ -1,0 +1,712 @@
+{
+  "url": "/turkish-beef-tahini-flatbreads",
+  "title": "Turkish Beef & Tahini Flatbreads",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Beef Recipes",
+      "url": "/beef-recipes",
+      "uid": "bltbfd801a42c3024db"
+    },
+    {
+      "title": "Turkish Recipes",
+      "url": "/turkish-recipes",
+      "uid": "bltf780d5a45193804f"
+    }
+  ],
+  "gousto_id": "771",
+  "gousto_uid": "7b860f5e-87be-459b-b270-7738c28590c6",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/787---Turkish-Beef--Tahini-Pizza_2-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/787---Turkish-Beef--Tahini-Pizza_2-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/787---Turkish-Beef--Tahini-Pizza_2-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/787---Turkish-Beef--Tahini-Pizza_2-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/787---Turkish-Beef--Tahini-Pizza_2-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 891
+  },
+  "description": "Turkish flatbreads a.k.a. 'Lahmacun' is a thin flatbread, layered with minced meat and warm spices. We can't get enough of these babies. So in honour of some of our favourite Turkish joints surrounding Gousto HQ, we've created our own version. Ours has the addition of tahini paste and is topped with a fresh courgette, feta and parsley salad. ",
+  "prep_times": {
+    "for_2": 15,
+    "for_4": 30
+  },
+  "cuisine": {
+    "slug": "turkish",
+    "title": "Turkish"
+  },
+  "ingredients": [
+    {
+      "label": "1 courgette ",
+      "title": "courgette-I-05-FVG-FV-03",
+      "uid": "blt49ae7a50bc5644f9",
+      "gousto_uuid": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+      "name": "courgette",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "100g Greek Feta Cheese Cypressa",
+      "title": "greek feta cheese-I-09-DAI-CH-21",
+      "uid": "bltda5c8545cb24cd42",
+      "gousto_uuid": "ec84aa78-180f-4427-9b9e-aa3d26bb102a",
+      "name": "greek feta cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-greek-feta-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-greek-feta-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-greek-feta-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-greek-feta-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-greek-feta-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "250g British beef mince ",
+      "title": "British beef mince-I-10-MPF-ME-401",
+      "uid": "bltb73a5c88410d7232",
+      "gousto_uuid": "808479c4-48be-46a0-9a0c-2766570773e1",
+      "name": "British beef mince",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Ingredients-MinceBeef_13854-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Ingredients-MinceBeef_13854-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Ingredients-MinceBeef_13854-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Ingredients-MinceBeef_13854-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Ingredients-MinceBeef_13854-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 tsp baharat ",
+      "title": "baharat-IQ-06-SML-MX-02-05",
+      "uid": "blt5da4862099dc1eed",
+      "gousto_uuid": "3d4704fd-743c-42f7-91ea-a60ae4f89cb8",
+      "name": "baharat",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-baharat-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-baharat-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-baharat-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-baharat-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-baharat-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "6 white tortilla wraps",
+      "title": "tortilla wrap-I-11-BRD-BR-06",
+      "uid": "bltedc1f0d9e88a4eb0",
+      "gousto_uuid": "f2598802-6ee6-4fd8-a11b-1442f8e4defb",
+      "name": "tortilla wrap",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/white-wraps-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/white-wraps-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/white-wraps-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/white-wraps-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/white-wraps-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "10g fresh parsley ",
+      "title": "parsley-I-07-HBS-PL-25",
+      "uid": "bltea262efbf1ed9532",
+      "gousto_uuid": "2ad9f7c1-18f7-4974-b647-95059a432969",
+      "name": "parsley",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 spring onion",
+      "title": "spring onion-I-07-HBS-PL-10",
+      "uid": "blt7f30073f4f7cf590",
+      "gousto_uuid": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+      "name": "spring onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 garlic clove",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 mayonnaise sachet (26ml)",
+      "title": "free-range mayonnaise-I-06-SML-OT-06",
+      "uid": "blt8f28a2887647c82e",
+      "gousto_uuid": "3db9921e-922a-41d5-9f89-adbab2f3fd42",
+      "name": "free-range mayonnaise",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/mayonnaise-sachet-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/mayonnaise-sachet-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/mayonnaise-sachet-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/mayonnaise-sachet-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/mayonnaise-sachet-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "mustard"
+          },
+          {
+            "title": null,
+            "slug": "egg"
+          }
+        ]
+      }
+    },
+    {
+      "label": "2 tbsp tahini paste",
+      "title": "tahini-IQ-08-SAU-PS-03-02",
+      "uid": "bltc13785fc66200fca",
+      "gousto_uuid": "40c26b1c-9114-43dd-9b14-5c0d757a15b5",
+      "name": "tahini",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tahini-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tahini-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tahini-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tahini-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tahini-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sesame"
+          }
+        ]
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Sugar",
+      "slug": "sugar"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 220&deg;C/ 200&deg;C (fan)/ 425&deg;F/ Gas 7</p>\r\n<p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>vegetable&nbsp;</strong><strong>oil</strong> over a medium-high heat</p>\r\n<p>Once hot, add the <strong>beef mince,&nbsp;baharat,</strong>&nbsp;a pinch of <strong>salt </strong>and 1 tsp <span class=\"text-danger\">[2 tsp]</span><strong> sugar&nbsp;</strong></p>\r\n<p>Cook for 3-4 min, breaking it up as you go</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787_s-tep-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787_s-tep-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787_s-tep-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787_s-tep-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787_s-tep-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, lay the <strong>tortillas</strong> onto baking trays, making sure they don't overlap&nbsp;</p>\r\n<p>Divide the <strong>tahini</strong>&nbsp;<strong>paste</strong> between the <strong>tortillas</strong> and spread it out, just as you would buttering bread</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787.-step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787.-step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787.-step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787.-step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787.-step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Divide the <strong>cooked</strong><strong>&nbsp;beef mince</strong>&nbsp;equally between the <strong>tortillas</strong></p>\r\n<p>Put them in the oven for 10-12 min or until they're crispy and browned - these are your <strong>Turkish flatbreads</strong></p>\r\n<p>Tip: keep an eye on them, you want them crispy but not burnt!</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787.-step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787.-step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787.-step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787.-step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787.-step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, trim, then slice the <strong>spring onion</strong><strong><span class=\"text-danger\">[s]</span></strong> finely</p>\r\n<p>Crumble the<strong> feta</strong></p>\r\n<p>Peel lengths off the<strong> courgette<span class=\"text-danger\">[s]</span>&nbsp;</strong>until you end up with a pile of<strong> courgette&nbsp;'ribbons'</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787_s-tep-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787_s-tep-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787_s-tep-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787_s-tep-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787_s-tep-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add 2 tbsp <span class=\"text-danger\">[4 tbsp]</span>&nbsp;<strong>olive oil</strong> and a generous pinch of both&nbsp;<strong>salt</strong> and <strong>pepper</strong>&nbsp;to a large bowl</p>\r\n<p>Add the <strong>crumbled feta</strong>,<strong> sliced spring onion</strong> and<strong> courgette ribbons&nbsp;</strong>and give everything a good mix up<strong> &nbsp;</strong>- this is your <strong>courgette&nbsp;salad</strong></p>\r\n<p>&nbsp;</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787.-step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787.-step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787.-step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787.-step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787.-step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Peel and finely chop (or grate) the <strong>garlic</strong> into a small mixing bowl</p>\r\n<p>Add the <strong>mayonnaise</strong>, a drizzle of <strong>olive oil</strong> and a pinch of <strong>salt</strong>&nbsp;and give everything a good mix - this is your <strong>aioli</strong></p>\r\n<p>Pick the<strong> parsley leaves </strong>from the stalks, discarding the stalks&nbsp;</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787_s-tep-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787_s-tep-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787_s-tep-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787_s-tep-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787_s-tep-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once crispy and brown, top your <strong>Turkish flatbreads&nbsp;</strong>with the <strong>courgette</strong>&nbsp;<strong>salad</strong></p>\r\n<p>&nbsp;</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787_s-tep-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787_s-tep-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787_s-tep-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787_s-tep-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/787_s-tep-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Garnish the <strong>Turkish&nbsp;flatbreads </strong>with the<strong>&nbsp;parsley leaves </strong>and drizzle with the<strong> aioli&nbsp;</strong></p>\r\n<p>Cut into quarters for easy eating&nbsp;</p>\r\n<p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "mustard",
+      "slug": "mustard"
+    },
+    {
+      "title": "egg",
+      "slug": "egg"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    }
+  ],
+  "seo": {
+    "title": "Turkish Beef & Tahini Flatbreads",
+    "description": "Turkish flatbreads a.k.a. 'Lahmacun' is a thin flatbread, layered with minced meat and warm spices. We can't get enough of these babies. So in honour of some of our favourite Turkish joints surrounding Gousto HQ, we've created our own version. Ours has the addition of tahini paste and is topped with a fresh courgette, feta and parsley salad. ",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/787---Turkish-Beef--Tahini-Pizza_2.jpg"
+  },
+  "tags": [],
+  "uid": "blt67939aa079ebb4d1",
+  "_version": 49,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 233,
+      "energy_kj": 983,
+      "fat_mg": 10631,
+      "fat_saturates_mg": 3586,
+      "carbs_mg": 15336,
+      "carbs_sugars_mg": 1520,
+      "fibre_mg": 1316,
+      "protein_mg": 12072,
+      "salt_mg": 662,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 951,
+      "energy_kj": 4007,
+      "fat_mg": 43324,
+      "fat_saturates_mg": 14614,
+      "carbs_mg": 62498,
+      "carbs_sugars_mg": 6195,
+      "fibre_mg": 5363,
+      "protein_mg": 49196,
+      "salt_mg": 2698,
+      "net_weight_mg": 407500
+    }
+  },
+  "portion_sizes": null
+}

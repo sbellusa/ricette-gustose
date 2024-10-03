@@ -1,0 +1,576 @@
+{
+  "url": "/creamy-parsnip-bowl",
+  "title": "Creamy Parsnip Bowl",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Vegetarian Recipes ",
+      "url": "/vegetarian-recipes",
+      "uid": "blta762d7d1d30213a2"
+    }
+  ],
+  "gousto_id": "279",
+  "gousto_uid": "8fe0bfd7-24f9-4b60-892f-a28d7ca4e7bc",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/300.CreamyWinterMillet(V)-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/300.CreamyWinterMillet(V)-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/300.CreamyWinterMillet(V)-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/300.CreamyWinterMillet(V)-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/300.CreamyWinterMillet(V)-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 99
+  },
+  "description": "Contrary to popular belief, risotto doesn’t have to be made with Arborio rice. This version is made with millet, a bona fide super seed! It’s packed with vitamins, iron and fibre; resulting in a risotto that’s mineral rich and utterly delish. ",
+  "prep_times": {
+    "for_2": 40,
+    "for_4": 40
+  },
+  "cuisine": {
+    "slug": "british",
+    "title": "British"
+  },
+  "ingredients": [
+    {
+      "label": "1 leek",
+      "title": "leek-I-05-FVG-LF-03",
+      "uid": "blt8f2a845b088489d2",
+      "gousto_uuid": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+      "name": "leek",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 vegetable stock cube",
+      "title": "vegetable stock pot-I-06-SML-SC-05",
+      "uid": "blt22b2a05e06531155",
+      "gousto_uuid": "13e2dcd7-fa65-4e8d-a062-43d78801ad36",
+      "name": "vegetable stock pot",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-stock-cube-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "celery"
+          }
+        ]
+      }
+    },
+    {
+      "label": "30g walnuts",
+      "title": "walnuts-I-04-NUT-NT-06-30",
+      "uid": "blt7b820fefea880251",
+      "gousto_uuid": "a4013afd-2344-4620-8c11-56b4fdc4f24e",
+      "name": "walnuts",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/walnuts-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/walnuts-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/walnuts-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/walnuts-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/walnuts-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "nut"
+          },
+          {
+            "title": null,
+            "slug": "peanut"
+          },
+          {
+            "title": null,
+            "slug": "sesame"
+          }
+        ]
+      }
+    },
+    {
+      "label": "3 garlic cloves",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "125g French goats' cheese log ",
+      "title": "goats cheese-I-09-DAI-CH-05",
+      "uid": "blt2b001c797318e40e",
+      "gousto_uuid": "b40ee7df-2726-4795-80fd-b9a7589e8108",
+      "name": "goats cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/125g-soft-goats-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/125g-soft-goats-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/125g-soft-goats-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/125g-soft-goats-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/125g-soft-goats-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "fish"
+          },
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "sulphites"
+          },
+          {
+            "title": null,
+            "slug": "celery"
+          },
+          {
+            "title": null,
+            "slug": "mustard"
+          },
+          {
+            "title": null,
+            "slug": "sesame"
+          },
+          {
+            "title": null,
+            "slug": "milk"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          },
+          {
+            "title": null,
+            "slug": "egg"
+          },
+          {
+            "title": null,
+            "slug": "lupin"
+          },
+          {
+            "title": null,
+            "slug": "crustacean"
+          },
+          {
+            "title": null,
+            "slug": "mollusc"
+          },
+          {
+            "title": null,
+            "slug": "nut"
+          },
+          {
+            "title": null,
+            "slug": "peanut"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 onion",
+      "title": "brown onion-I-02-SVG-VG-07",
+      "uid": "blt8f3ebc667e318aad",
+      "gousto_uuid": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "300g parsnips",
+      "title": "parsnips-IQ-02-SVG-VG-03-03",
+      "uid": "blt12035284ebbeb8c9",
+      "gousto_uuid": "bb826c2c-e727-44ed-a6fd-3eb585f2defb",
+      "name": "parsnips",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/parsnip-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/parsnip-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/parsnip-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/parsnip-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/parsnip-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "120g millet",
+      "title": "red lentils-IQ-03-GRN-SV-05-01",
+      "uid": "blt6a506c8f3d3c8e7f",
+      "gousto_uuid": "8795f6b2-fb22-494e-9fd5-82fa9f80e868",
+      "name": "red lentils",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-red-lentils-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-red-lentils-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-red-lentils-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-red-lentils-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-red-lentils-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Preheat</strong> the oven to 200&deg;C/ 180&deg;C (fan)/ 400&deg;F/ Gas 6</p>\r\n<p><strong>Discard</strong> the top<span class=\"text-danger\">(s)</span> and tail<span class=\"text-danger\">(s)</span> of the parsnip<span class=\"text-danger\">(s)</span> and chop into 3cm pieces</p>\r\n<p><strong>Add</strong> to an oven tray with 1-2 tbsp of olive oil and season with salt and pepper</p>\r\n<p><strong>Roast</strong> for 25-30 min, flipping half-way, until soft and golden, then remove</p>",
+      "order": 1,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Meanwhile</strong>, boil a kettle (used in step 4)</p>\r\n<p><strong>Dice</strong> the onion<span class=\"text-danger\">(s)</span> into 1cm cubes</p>\r\n<p><strong>Crush</strong> the garlic cloves with the side of a knife, peel and dice finely</p>",
+      "order": 2,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> 1-2 tbsp of olive oil to a large pan with a matching lid and heat on high</p>\r\n<p><strong>When</strong> hot, reduce to a medium heat and add the onion</p>\r\n<p><strong>Saute</strong> the onion for 2-3 min, stirring constantly, until soft and translucent</p>\r\n<p><strong>Add</strong> the garlic and cook for 1 min, until golden</p>",
+      "order": 3,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> the dried millet, stirring to coat, and cook for 3-5min, until slightly toasted</p>\r\n<p><strong>Meanwhile</strong>, dissolve the stock in 800ml <span class=\"text-danger\">(1.6L)</span> of boiling water</p>",
+      "order": 4,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> the stock to the millet in one go, bring to a boil, and reduce to a rapid simmer</p>\r\n<p><strong>Simmer</strong> with a lid on for 25-35 min, stirring occasionally, until nearly all of the water is <br />absorbed and the millet is tender\"</p>\r\n<p><strong>Once</strong> done, remove from the heat and keep covered</p>",
+      "order": 5,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Meanwhile</strong>, discard the tough green top<span class=\"text-danger\">(s)</span> and the root<span class=\"text-danger\">(s)</span> from the leek<span class=\"text-danger\">(s)</span></p>\r\n<p><strong>Slice</strong> in half lengthways, and cut into 6cm pieces (roughly quartered)</p>\r\n<p><strong>Chop</strong> the goat's cheese coarsely</p>\r\n<p><strong>Chop</strong> the walnuts coarsely</p>",
+      "order": 6,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Remove</strong> the tray from the oven, push the parsnips to one side, and add the walnuts</p>\r\n<p><strong>Roast</strong> for a further 5-10 min, until the walnuts are toasted and set aside</p>\r\n<p><strong>Meanwhile</strong>, add 1-2 tbsp of oil to a pot on a high heat</p>\r\n<p><strong>Brown</strong> the leeks for 1 min, add 75ml <span class=\"text-danger\">(150ml)</span> of water and simmer with a lid on for 3-5 min, or until tender\"</p>",
+      "order": 7,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Stir</strong> the goats' cheese through the millet, until creamy</p>\r\n<p><strong>Spoon</strong> the cheesy millet into bowls and top with the roasted parsnip and walnuts</p>\r\n<p><strong>Add</strong> the braised leeks and drizzle with some leek liquid!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "crustacean",
+      "slug": "crustacean"
+    },
+    {
+      "title": "egg",
+      "slug": "egg"
+    },
+    {
+      "title": "fish",
+      "slug": "fish"
+    },
+    {
+      "title": "peanut",
+      "slug": "peanut"
+    },
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "nut",
+      "slug": "nut"
+    },
+    {
+      "title": "celery",
+      "slug": "celery"
+    },
+    {
+      "title": "mustard",
+      "slug": "mustard"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    },
+    {
+      "title": "sulphites",
+      "slug": "sulphites"
+    },
+    {
+      "title": "lupin",
+      "slug": "lupin"
+    },
+    {
+      "title": "mollusc",
+      "slug": "mollusc"
+    }
+  ],
+  "seo": {
+    "title": "Creamy Parsnip Bowl",
+    "description": "Contrary to popular belief, risotto doesn’t have to be made with Arborio rice. This version is made with millet, a bona fide super seed! It’s packed with vitamins, iron and fibre; resulting in a risotto that’s mineral rich and utterly delish. ",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/300.CreamyWinterMillet(V).jpg"
+  },
+  "tags": [],
+  "uid": "bltf85cda0b7b007481",
+  "_version": 53,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 127,
+      "energy_kj": 535,
+      "fat_mg": 5270,
+      "fat_saturates_mg": 2224,
+      "carbs_mg": 15577,
+      "carbs_sugars_mg": 3909,
+      "fibre_mg": 3667,
+      "protein_mg": 5287,
+      "salt_mg": 597,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 636,
+      "energy_kj": 2665,
+      "fat_mg": 26248,
+      "fat_saturates_mg": 11080,
+      "carbs_mg": 77575,
+      "carbs_sugars_mg": 19471,
+      "fibre_mg": 18264,
+      "protein_mg": 26332,
+      "salt_mg": 2976,
+      "net_weight_mg": 498000
+    }
+  },
+  "portion_sizes": null
+}

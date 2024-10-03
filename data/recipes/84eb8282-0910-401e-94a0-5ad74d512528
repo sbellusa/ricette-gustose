@@ -1,0 +1,780 @@
+{
+  "url": "/crispy-soy-hake-with-black-bean-greens",
+  "title": "Crispy Soy Hake With Black Bean Greens",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "6413",
+  "gousto_uid": "84eb8282-0910-401e-94a0-5ad74d512528",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/6258-2-1688459535175-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/6258-2-1688459535175-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/6258-2-1688459535175-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/6258-2-1688459535175-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/6258-2-1688459535175-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 292
+  },
+  "description": "This Chinese-style dish is all about umami. You'll pair pan-fried fish with spinach, Tenderstem broccoli and sweet, fragrant black bean sauce, before garnishing with crispy garlic and ginger to serve. ",
+  "prep_times": {
+    "for_2": 35,
+    "for_4": 40
+  },
+  "cuisine": {
+    "slug": "asian",
+    "title": "Asian"
+  },
+  "ingredients": [
+    {
+      "label": "80g Tenderstem broccoli",
+      "title": "Tenderstem broccoli-I-05-FVG-LF-31",
+      "uid": "blt7e12c4f27a018fe2",
+      "gousto_uuid": "f99089af-84d8-4c24-b144-079ed2f2726b",
+      "name": "Tenderstem broccoli",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-tenderstem-broccoli-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-tenderstem-broccoli-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-tenderstem-broccoli-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-tenderstem-broccoli-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-tenderstem-broccoli-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "4 tbsp cornflour",
+      "title": "cornflour-I-06-SML-DL-45",
+      "uid": "blt2ff2e4f90b37b39f",
+      "gousto_uuid": "f585c6d0-f7a2-45b2-982b-da6abee7c2a5",
+      "name": "cornflour",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 hake fillets",
+      "title": "hake fillets-IQ-10-MPF-SE-56",
+      "uid": "blt7c5bf673b43ffab4",
+      "gousto_uuid": "4f171c2d-c380-4257-a4f9-ff7d9ec50caf",
+      "name": "hake fillets",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-x-125g-hake-fillets-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-x-125g-hake-fillets-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-x-125g-hake-fillets-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-x-125g-hake-fillets-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-x-125g-hake-fillets-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "fish"
+          }
+        ]
+      }
+    },
+    {
+      "label": "130g white long grain rice",
+      "title": "white long grain rice-IQ-03-GRN-RC-37-02",
+      "uid": "blt58fde526f90f693a",
+      "gousto_uuid": "49bc207f-e86c-4423-a7c1-86dc4718abc8",
+      "name": "white long grain rice",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "15g fresh root ginger",
+      "title": "fresh root ginger-I-06-SML-OT-25",
+      "uid": "bltc22d54e029ba9745",
+      "gousto_uuid": "43c515bb-1548-41df-b08e-f10fa8369172",
+      "name": "fresh root ginger",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "10ml toasted sesame oil",
+      "title": "toasted sesame oil-I-08-SAU-LS-40",
+      "uid": "blt6f1e023be8b485ba",
+      "gousto_uuid": "68941ea3-449d-4ce5-8fd5-f83ef98b1d69",
+      "name": "toasted sesame oil",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sesame"
+          },
+          {
+            "title": null,
+            "slug": "fish"
+          },
+          {
+            "title": null,
+            "slug": "peanut"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          },
+          {
+            "title": null,
+            "slug": "nut"
+          },
+          {
+            "title": null,
+            "slug": "celery"
+          },
+          {
+            "title": null,
+            "slug": "mustard"
+          }
+        ]
+      }
+    },
+    {
+      "label": "40g black bean paste",
+      "title": "black bean paste-I-08-SAU-PS-58",
+      "uid": "bltbfc60ee138588e11",
+      "gousto_uuid": "ae66cc4b-70f8-4c26-a354-36dff0c466b6",
+      "name": "black bean paste",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Black-Bean-Paste-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Black-Bean-Paste-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Black-Bean-Paste-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Black-Bean-Paste-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Black-Bean-Paste-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "80g spinach",
+      "title": "spinach-I-05-FVG-FG-02-03",
+      "uid": "blte6edae427c7fa86f",
+      "gousto_uuid": "d240500f-9c26-4286-88bc-6be3e774e96b",
+      "name": "spinach",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 spring onion",
+      "title": "spring onion-I-07-HBS-PL-10",
+      "uid": "blt7f30073f4f7cf590",
+      "gousto_uuid": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+      "name": "spring onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 garlic cloves",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "8ml soy sauce",
+      "title": "soy sauce-I-06-SML-OT-05",
+      "uid": "bltaa4a46c7cb59b000",
+      "gousto_uuid": "3c07d126-f655-437c-aa1d-c38dbbae0398",
+      "name": "soy sauce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    },
+    {
+      "title": "Sugar",
+      "slug": "sugar"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7</p><p>Peel and finely slice (don't chop!) the <strong>garlic</strong></p><p>Peel (scrape the skin off with a teaspoon) and finely slice the<strong> ginger</strong>, then chop into matchsticks as finely as you can</p><p>Combine the <strong>black bean paste</strong> with 25ml <span class=\"text-danger\">[50ml]</span> <strong>cold</strong> <strong>water</strong> and 2 tsp <span class=\"text-danger\">[4 tsp] </span><strong>sugar</strong> – this is your <strong>black bean sauce</strong></p>",
+      "order": 1,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p>Add the<strong> white long grain rice</strong> to a pot with a lid with 225ml<span class=\"text-danger\"> [450ml] </span><strong>cold water</strong> and bring to the boil over a high heat</p><p>Once boiling, reduce the heat to very low and cook, covered, for 12-15 min or until all the water has absorbed and the rice is cooked</p><p>Once done, remove from the heat and set aside (lid on) to steam until serving</p><p>Wash the <strong>spinach</strong>, then pat it dry with kitchen paper</p>",
+      "order": 2,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p>While the rice is cooking, add the<strong> hake fillets</strong> to a plate and drizzle the <strong>soy sauce</strong> all over them</p><p>Turn the <strong>hake</strong> several times until the soy sauce fully soaks into the fish</p><p>Sprinkle the <strong>cornflour </strong>all over and rub it into both sides of the fish until fully coated, then set aside for later</p><p>Tip: Coat the fish in the cornflour one side at a time to avoid stickiness!</p>",
+      "order": 3,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p>Cut 1 <span class=\"text-danger\">[2]</span> piece<span class=\"text-danger\">[s]</span> of <strong>tin foil</strong> approx. the size of A3 paper</p><p>Lay the <strong>spinach</strong>, <strong>Tenderstem broccoli </strong>and <strong>half</strong> of the <strong>sliced ginger </strong>and <strong>garlic</strong> (you'll use the rest later!) in the middle with the <strong>toasted sesame oil </strong>and <strong>black bean sauce</strong></p><p>Scrunch the edges of the foil around the vegetables to form 1 <span class=\"text-danger\">[2] </span>sealed parcel<span class=\"text-danger\">[s]</span></p><p>Put the tray<span class=\"text-danger\">[s]</span> in the oven for 12-15 min or until tender – these are your <strong>black bean greens</strong></p>",
+      "order": 4,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>vegetable oil</strong> over a medium-high heat</p><p>Once hot, add the <strong>remaining sliced ginger </strong>and <strong>garlic</strong> and cook for 2-3 min or until crispy</p><p>Tip: Watch them like a hawk to make sure they don't burn!</p><p>Once crispy, transfer them to a bowl and set aside – this is your <strong>crispy ginger & garlic</strong></p>",
+      "order": 5,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p>Return the pan to the heat with a very generous drizzle of <strong>vegetable oil</strong> (enough to cover the base of the pan) over a medium-high heat</p><p>Once hot, add the<strong> coated hake </strong>and cook for 8-9 min, turning once halfway until golden, crisp and cooked through – this is your <strong>crispy soy hake</strong></p><p>Tip: Your fish is cooked when it turns opaque and flakes easily</p>",
+      "order": 6,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, trim, then slice the <strong>spring onion<span class=\"text-danger\">[s]</span></strong></p>",
+      "order": 7,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>crispy soy hake</strong> with the<strong> cooked</strong> <strong>rice </strong>and <strong>black bean greens </strong>to the side and pour any <strong>remaining black bean sauce </strong>over the greens</p><p>Tip: For fancy presentation, press the rice into small bowls and turn out</p><p>Sprinkle the <strong>crispy ginger & garlic</strong> and <strong>sliced spring onion</strong> over the crispy soy hake and rice</p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "fish",
+      "slug": "fish"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    },
+    {
+      "title": "peanut",
+      "slug": "peanut"
+    },
+    {
+      "title": "nut",
+      "slug": "nut"
+    },
+    {
+      "title": "celery",
+      "slug": "celery"
+    },
+    {
+      "title": "mustard",
+      "slug": "mustard"
+    }
+  ],
+  "seo": {
+    "title": "Crispy Soy Hake With Black Bean Greens",
+    "description": "This Chinese-style dish is all about umami. You'll pair pan-fried fish with spinach, Tenderstem broccoli and sweet, fragrant black bean sauce, before garnishing with crispy garlic and ginger to serve. ",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/6258-2-1688459535175.jpg"
+  },
+  "tags": [],
+  "uid": "blte582fb858f602990",
+  "_version": 147,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 164,
+      "energy_kj": 693,
+      "fat_mg": 2914,
+      "fat_saturates_mg": 454,
+      "carbs_mg": 25050,
+      "carbs_sugars_mg": 1408,
+      "fibre_mg": 1277,
+      "protein_mg": 9124,
+      "salt_mg": 862,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 507,
+      "energy_kj": 2140,
+      "fat_mg": 8992,
+      "fat_saturates_mg": 1403,
+      "carbs_mg": 77281,
+      "carbs_sugars_mg": 4344,
+      "fibre_mg": 3940,
+      "protein_mg": 28148,
+      "salt_mg": 2660,
+      "net_weight_mg": 308500
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+          "code": "I-07-HBS-PL-10",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "68941ea3-449d-4ce5-8fd5-f83ef98b1d69",
+          "code": "I-08-SAU-LS-40",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "49bc207f-e86c-4423-a7c1-86dc4718abc8",
+          "code": "IQ-03-GRN-RC-37-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "43c515bb-1548-41df-b08e-f10fa8369172",
+          "code": "I-06-SML-OT-25",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4f171c2d-c380-4257-a4f9-ff7d9ec50caf",
+          "code": "IQ-10-MPF-SE-56",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "f585c6d0-f7a2-45b2-982b-da6abee7c2a5",
+          "code": "I-06-SML-DL-45",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ae66cc4b-70f8-4c26-a354-36dff0c466b6",
+          "code": "I-08-SAU-PS-58",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "f99089af-84d8-4c24-b144-079ed2f2726b",
+          "code": "I-05-FVG-LF-31",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d240500f-9c26-4286-88bc-6be3e774e96b",
+          "code": "I-05-FVG-FG-02-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "3c07d126-f655-437c-aa1d-c38dbbae0398",
+          "code": "I-06-SML-OT-05",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+          "code": "I-07-HBS-PL-10",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "68941ea3-449d-4ce5-8fd5-f83ef98b1d69",
+          "code": "I-08-SAU-LS-40",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "49bc207f-e86c-4423-a7c1-86dc4718abc8",
+          "code": "IQ-03-GRN-RC-37-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "43c515bb-1548-41df-b08e-f10fa8369172",
+          "code": "I-06-SML-OT-25",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4f171c2d-c380-4257-a4f9-ff7d9ec50caf",
+          "code": "IQ-10-MPF-SE-56",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "f585c6d0-f7a2-45b2-982b-da6abee7c2a5",
+          "code": "I-06-SML-DL-45",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ae66cc4b-70f8-4c26-a354-36dff0c466b6",
+          "code": "I-08-SAU-PS-58",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "f99089af-84d8-4c24-b144-079ed2f2726b",
+          "code": "I-05-FVG-LF-31",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d240500f-9c26-4286-88bc-6be3e774e96b",
+          "code": "I-05-FVG-FG-02-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "3c07d126-f655-437c-aa1d-c38dbbae0398",
+          "code": "I-06-SML-OT-05",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "url": "/sausage-gnocchi",
+  "title": "Sausage Gnocchi ",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Pork Recipes",
+      "url": "/pork-recipes",
+      "uid": "bltf0761ae94eddf574"
+    },
+    {
+      "title": "Pasta Recipes",
+      "url": "/pasta-recipes",
+      "uid": "blt637b2a42a268b2b1"
+    },
+    {
+      "title": "Sausage Recipes",
+      "url": "/sausage-recipes",
+      "uid": "blt10479d59c512e5c6"
+    },
+    {
+      "title": "Italian Recipes",
+      "url": "/italian-recipes",
+      "uid": "blt7306e62f2a9906c9"
+    }
+  ],
+  "gousto_id": "321",
+  "gousto_uid": "b68b503a-b063-4296-a731-98fd627d25f3",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/333.SausageGnocchi-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/333.SausageGnocchi-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/333.SausageGnocchi-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/333.SausageGnocchi-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/333.SausageGnocchi-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 203
+  },
+  "description": "Sausages and gnocchi are Northern Italian partners in crime. This method of cooking them on the same tray gives both the sausages AND the gnocchi lovely crisp skins, minus any faff. Keeping in with tradition, we’ve served these guys with a simple tomato and spinach sauce. Bellisimo",
+  "prep_times": {
+    "for_2": 40,
+    "for_4": 40
+  },
+  "cuisine": {
+    "slug": "italian",
+    "title": "Italian"
+  },
+  "ingredients": [
+    {
+      "label": "150g spinach",
+      "title": "spinach-I-05-FVG-FG-02-01",
+      "uid": "blt4e6fd5f59485ee58",
+      "gousto_uuid": "022e96ce-7d54-429c-b38a-11dfb8f3b041",
+      "name": "spinach",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 tbsp balsamic vinergar",
+      "title": "balsamic vinegar-IQ-08-SAU-LS-15",
+      "uid": "blt6bbba9d113d1bc1d",
+      "gousto_uuid": "6a710175-599d-400b-b4b6-0e9ed29e4986",
+      "name": "balsamic vinegar",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sulphites"
+          }
+        ]
+      }
+    },
+    {
+      "label": "200g gnocchi",
+      "title": "potato gnocchi-I-09-DAI-PA-01",
+      "uid": "bltb51281f90a406f73",
+      "gousto_uuid": "cff47702-2639-4631-a8bb-b8f6655df521",
+      "name": "potato gnocchi",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Gnocchi.2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Gnocchi.2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Gnocchi.2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Gnocchi.2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Gnocchi.2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "4 Cumberland sausages",
+      "title": "Cumberland sausage-I-10-MPF-PM-03",
+      "uid": "bltda531909df3935f6",
+      "gousto_uuid": "2c4b5ff6-c0cf-4d94-ba1d-ae8f8be84986",
+      "name": "Cumberland sausage",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Cumberland-sausages-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Cumberland-sausages-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Cumberland-sausages-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Cumberland-sausages-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Cumberland-sausages-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sulphites"
+          },
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 garlic clove",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 tin of chopped tomatoes",
+      "title": "chopped tomatoes-I-01-CAN-VC-05",
+      "uid": "blta5d2c4e86715fcb4",
+      "gousto_uuid": "ee37092d-ace7-429f-a48d-a78b3fe56505",
+      "name": "chopped tomatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 tsp dried oregano",
+      "title": "Italian dried oregano-I-06-SML-DL-04-01",
+      "uid": "blt561665c8eda19f00",
+      "gousto_uuid": "e1047c85-f3f9-4ba5-bcaa-8c3f90c33e46",
+      "name": "Italian dried oregano",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-oregano-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-oregano-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-oregano-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-oregano-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-oregano-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 red onion",
+      "title": "red onion-I-02-SVG-VG-05",
+      "uid": "bltc69ae0a09122a2b4",
+      "gousto_uuid": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Sugar",
+      "slug": "sugar"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Preheat</strong> the oven to 220&deg;C/ 200&deg;C (fan)/ 425&deg;F/ Gas 7</p>\r\n<p><strong>Add</strong> 1-2 tbsp of olive oil to an ovenproof tray</p>\r\n<p><strong>Add</strong> the sausages and move them about in the oil to prevent them from sticking <br />Place the tray in the oven for 30 min until golden and brown</p>",
+      "order": 1,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Peel</strong> and finely dice the red onion<span class=\"text-danger\">(s)</span></p>\r\n<p><strong>Peel</strong> and grate (or dice) the garlic clove<span class=\"text-danger\">(s)</span></p>",
+      "order": 2,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> 1 tbsp <span class=\"text-danger\">(2 tbsp)</span> of olive oil to a pot on a medium heat</p>\r\n<p><strong>When</strong> hot, add the onion and a pinch of salt and cook on a medium-low heat for 6 - 10 min or until softened and caramelised</p>\r\n<p><strong>Once</strong> caramelised, add the garlic and cook for a further 1 min, stirring constantly</p>",
+      "order": 3,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> the tin<span class=\"text-danger\">(s)</span> of chopped tomatoes</p>\r\n<p><strong>Reduce</strong> on a very low heat for 5 min, or until reduced by half</p>\r\n<p><strong>Once</strong> reduced, cover and set aside until step 6</p>",
+      "order": 4,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Once</strong> sausages have been in the oven for 15 min and are starting to brown, add the gnocchi to the same tray, sprinkle with the dried oregano, cook for 15-20 min or until starting to crisp and hot inside and the sausages are cooked through </p>\r\n<p>Tip: You may have to use 2 trays if you don't have enough space!</p>",
+      "order": 5,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Once</strong> the gnocchi is cooked, return the tomato sauce to a medium heat for a couple of mins to warm through, add the balsamic and 0.5 tsp <span class=\"text-danger\">(1tsp)</span> of sugar and salt and pepper to your taste</p>\r\n<p><strong>Add</strong> the spinach, stirring constantly until it has wilted down in the heat, then remove from the heat</p>\r\n<p>Tip: Add a little water to the tomato sauce if it's too thick</p>",
+      "order": 6,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Once</strong> the sausages are cooked, carefully transfer them to a clean board and slice them up into bite-size pieces</p>\r\n<p>Tip: Use a knife and fork to help cut them up!</p>",
+      "order": 7,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Serve</strong> the spinach and tomato sauce with the crispy sausage pieces and gnocchi on top</p>\r\n<p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "sulphites",
+      "slug": "sulphites"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    }
+  ],
+  "seo": {
+    "title": "Sausage Gnocchi ",
+    "description": "Sausages and gnocchi are Northern Italian partners in crime. This method of cooking them on the same tray gives both the sausages AND the gnocchi lovely crisp skins, minus any faff. Keeping in with tradition, we’ve served these guys with a simple tomato and spinach sauce. Bellisimo",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/333.SausageGnocchi.jpg"
+  },
+  "tags": [],
+  "uid": "blt24a2103d30b8614d",
+  "_version": 53,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 112,
+      "energy_kj": 473,
+      "fat_mg": 3599,
+      "fat_saturates_mg": 1249,
+      "carbs_mg": 14961,
+      "carbs_sugars_mg": 1230,
+      "fibre_mg": 1303,
+      "protein_mg": 4929,
+      "salt_mg": 842,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 778,
+      "energy_kj": 3270,
+      "fat_mg": 24837,
+      "fat_saturates_mg": 8621,
+      "carbs_mg": 103236,
+      "carbs_sugars_mg": 8492,
+      "fibre_mg": 8994,
+      "protein_mg": 34013,
+      "salt_mg": 5811,
+      "net_weight_mg": 690000
+    }
+  },
+  "portion_sizes": null
+}

@@ -1,0 +1,950 @@
+{
+  "url": "/moroccan-chicken-squash-salad",
+  "title": "Moroccan-Style Chicken & Butternut Squash With Couscous Salad",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Dairy-Free ",
+      "url": "/dairy-free",
+      "uid": "bltba0f45afb7165184"
+    },
+    {
+      "title": "10-Minute Meals",
+      "url": "/10-minute-meals",
+      "uid": "blt464f71fb1a92c640"
+    },
+    {
+      "title": "Chicken",
+      "url": "/chicken",
+      "uid": "blt84f37ae679edc7e6"
+    },
+    {
+      "title": "Healthy Choices",
+      "url": "/healthy-choices",
+      "uid": "blt6481386f749a222a"
+    }
+  ],
+  "gousto_id": "2890",
+  "gousto_uid": "667b1bd3-654e-4123-b767-f4efc032528d",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2752-Moroccan-Style-Chicken--Squash-Salad-without-Flaked-almonds-1646214284474-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2752-Moroccan-Style-Chicken--Squash-Salad-without-Flaked-almonds-1646214284474-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2752-Moroccan-Style-Chicken--Squash-Salad-without-Flaked-almonds-1646214284474-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2752-Moroccan-Style-Chicken--Squash-Salad-without-Flaked-almonds-1646214284474-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2752-Moroccan-Style-Chicken--Squash-Salad-without-Flaked-almonds-1646214284474-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 7770
+  },
+  "description": "For this speedy salad you'll fry chicken, chickpeas and butternut squash in a baharat spice blend. Serve over a peppery rocket salad tossed with couscous, sweet dates and a tangy pomegranate dressing.",
+  "prep_times": {
+    "for_2": 10,
+    "for_4": 10
+  },
+  "cuisine": {
+    "slug": "moroccan",
+    "title": "Moroccan"
+  },
+  "ingredients": [
+    {
+      "label": "160g butternut squash cubes",
+      "title": "butternut squash cubes-I-05-FVG-LF-51",
+      "uid": "bltb15c33db6880f075",
+      "gousto_uuid": "88852431-ad79-4030-a171-252206c931f7",
+      "name": "butternut squash cubes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butternut-cubes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butternut-cubes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butternut-cubes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butternut-cubes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/butternut-cubes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1tsp baharat",
+      "title": "baharat-I-06-SML-DL-49",
+      "uid": "blt28c0ceb42ef7aece",
+      "gousto_uuid": "bf417488-52a0-47f4-97c1-c5832627f1fd",
+      "name": "baharat",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-baharat-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-baharat-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-baharat-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-baharat-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-baharat-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1/2 tsp cayenne pepper",
+      "title": "cayenne pepper-I-06-SML-DL-19",
+      "uid": "bltd6193361fb7147c3",
+      "gousto_uuid": "cb4be6c9-5ba9-4341-a1d9-e2ca87e78775",
+      "name": "cayenne pepper",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/12-tsp-cayenne-pepper-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/12-tsp-cayenne-pepper-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/12-tsp-cayenne-pepper-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/12-tsp-cayenne-pepper-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/12-tsp-cayenne-pepper-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "15ml soy sauce",
+      "title": "soy sauce-I-06-SML-OT-14",
+      "uid": "blt3a79c2be8bfcc885",
+      "gousto_uuid": "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+      "name": "soy sauce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "185g canned chickpeas",
+      "title": "chickpeas-I-01-CAN-VC-32",
+      "uid": "blt2ca6a353e3c04872",
+      "gousto_uuid": "a6fd860f-6dda-460b-b577-3ff6e6d883ac",
+      "name": "chickpeas",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chickpeas-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chickpeas-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chickpeas-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chickpeas-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chickpeas-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "80g couscous",
+      "title": "couscous-IQ-03-GRN-FL-07-01",
+      "uid": "blt2a5a50f66f0049b9",
+      "gousto_uuid": "6c2a31e6-3220-4420-97c5-a10c2a2c8b80",
+      "name": "couscous",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-Couscous-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-Couscous-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-Couscous-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-Couscous-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-Couscous-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "15g pomegranate molasses",
+      "title": "pomegranate molasses-I-08-SAU-CD-05",
+      "uid": "bltb4d3e82ee9fe3fb3",
+      "gousto_uuid": "97e56825-0a4e-494d-9a15-7f620f31de96",
+      "name": "pomegranate molasses",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Pomegranate-molasses-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Pomegranate-molasses-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Pomegranate-molasses-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Pomegranate-molasses-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Pomegranate-molasses-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "15ml red wine vinegar",
+      "title": "red wine vinegar-I-08-SAU-LS-13",
+      "uid": "blt8407e6fbf8d8d9c5",
+      "gousto_uuid": "3982abce-0437-40bc-950c-bc4990c45d9a",
+      "name": "red wine vinegar",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sulphites"
+          }
+        ]
+      }
+    },
+    {
+      "label": "250g British diced chicken breast",
+      "title": "British diced chicken breast-I-10-MPF-PO-05",
+      "uid": "bltc205e354c02de571",
+      "gousto_uuid": "d5a5797a-7cef-4d50-970d-d3e08d19836b",
+      "name": "British diced chicken breast",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "5g parsley",
+      "title": "parsley-I-07-HBS-PL-25-5",
+      "uid": "blt0bdf06c69f0591e4",
+      "gousto_uuid": "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+      "name": "parsley",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "50g rocket",
+      "title": "rocket-I-05-FVG-FG-05-01",
+      "uid": "blt15a8c76de05d3a8a",
+      "gousto_uuid": "aa3f67ab-60c3-4cf2-87d5-05bc9a3e5276",
+      "name": "rocket",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "30g chopped dates",
+      "title": "chopped dates-IQ-04-NUT-DF-03",
+      "uid": "blta08df8994b5050e5",
+      "gousto_uuid": "dc38d999-aa2e-46bc-b714-56b8b6c55f6c",
+      "name": "chopped dates",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-bag-of-chopped-dates-30g-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-bag-of-chopped-dates-30g-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-bag-of-chopped-dates-30g-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-bag-of-chopped-dates-30g-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-bag-of-chopped-dates-30g-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Before you begin...</strong></p><p>Get all your ingredients and equipment ready</p><p>Skim through these steps, then wash your fruit and veg</p><p>Before you start cooking, take your <strong>chicken </strong>out of the fridge, open the packet and let it air</p><p>Note: Equipment and pan sizes vary. Make sure you cook food thoroughly (even if it takes you a little longer than 10 min)</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-Admin-1623406051497-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-Admin-1623406051497-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-Admin-1623406051497-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-Admin-1623406051497-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-Admin-1623406051497-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Now, let's get started!</strong></p><p>Add the <strong>diced chicken breast</strong> to a bowl with the <strong>baharat</strong>, <strong>cayenne pepper </strong>(can't handle the heat? Go easy!) and <strong>soy sauce</strong> and give everything a good mix up until the chicken is coated</p><p>Heat a large, wide-based pan (preferably non-stick)<strong> </strong>with a drizzle of <strong>olive oil </strong>over a medium high heat</p><p>Once hot, add the <strong>coated chicken</strong> and cook for 4-5 min until starting to brown</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1608561646573-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1608561646573-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1608561646573-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1608561646573-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1608561646573-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, boil half a kettle</p><p>Add the <strong>butternut squash cubes </strong>to a heatproof bowl</p><p>Cover the bowl with <strong>cling film</strong> and pierce a few holes in the top</p><p>Put the bowl in the <strong>microwave</strong> and cook for 3-4 min or until the butternut squash is fork-tender</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1608561651032-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1608561651032-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1608561651032-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1608561651032-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1608561651032-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Chop the <strong>parsley </strong>finely, including the stalks</p><p>Drain and rinse the <strong>chickpeas</strong></p><p>Combine the<strong> pomegranate molasses</strong>, <strong>red wine vinegar</strong>, 2 tbsp <span class=\"text-danger\">[4 tbsp] </span><strong>olive oil</strong> and 1 tbsp <span class=\"text-danger\">[2 tbsp]</span> <strong>cold water</strong> in a large bowl with a pinch of <strong>salt</strong> and <strong>pepper</strong> – this is your <strong>pomegranate dressing</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1608561660599-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1608561660599-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1608561660599-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1608561660599-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1608561660599-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>couscous</strong> to a large heatproof bowl with the<strong> chopped dates</strong>, 130ml <span class=\"text-danger\">[260ml] </span><strong>boiled water </strong>and a pinch of<strong> salt</strong>, cover with a tea towel and set aside</p><p>Fluff with a fork before serving</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1608561666167-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1608561666167-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1608561666167-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1608561666167-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1608561666167-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the butternut squash is fork-tender, add it to the pan with the <strong>drained chickpeas</strong> and cook for 4-5 min further or until the chicken is cooked through (no pink meat!) – this is your <strong>Moroccan-style</strong> <strong>chicken & butternut squash</strong></p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1608561673085-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1608561673085-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1608561673085-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1608561673085-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1608561673085-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Wash the <strong>rocket</strong>, then pat it dry with<strong> </strong>kitchen paper</p><p>Add the <strong>rocket </strong>and <strong>half</strong> the <strong>chopped parsley</strong> (you'll use the rest later!) to the bowl with the couscous</p><p>Add <strong>half</strong> of the<strong> pomegranate dressing </strong>(save the rest for garnish!) and gently mix it all together – this is your<strong> couscous salad</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1608561682987-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1608561682987-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1608561682987-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1608561682987-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1608561682987-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>couscous salad</strong> with the<strong> Moroccan-style chicken & butternut squash</strong> to the side</p><p>Top with the <strong>remaining chopped parsley </strong>and drizzle over the <strong>remaining</strong> <strong>pomegranate dressing</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "sulphites",
+      "slug": "sulphites"
+    }
+  ],
+  "seo": {
+    "title": "Moroccan Chicken & Squash Salad",
+    "description": "For this speedy salad you'll fry chicken, chickpeas and squash in a baharat spice blend. Serve over a peppery rocket salad tossed with couscous, sweet dates and a tangy pomegranate dressing.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/2752-Moroccan-Style-Chicken--Squash-Salad-without-Flaked-almonds-1646214284474.jpg"
+  },
+  "tags": [],
+  "uid": "blt27184bc9b814c4a7",
+  "_version": 7013,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 116,
+      "energy_kj": 493,
+      "fat_mg": 1125,
+      "fat_saturates_mg": 216,
+      "carbs_mg": 14896,
+      "carbs_sugars_mg": 4721,
+      "fibre_mg": 2215,
+      "protein_mg": 11114,
+      "salt_mg": 370,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 433,
+      "energy_kj": 1836,
+      "fat_mg": 4189,
+      "fat_saturates_mg": 807,
+      "carbs_mg": 55452,
+      "carbs_sugars_mg": 17574,
+      "fibre_mg": 8249,
+      "protein_mg": 41373,
+      "salt_mg": 1380,
+      "net_weight_mg": 372250
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "cb4be6c9-5ba9-4341-a1d9-e2ca87e78775",
+          "code": "I-06-SML-DL-19",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "97e56825-0a4e-494d-9a15-7f620f31de96",
+          "code": "I-08-SAU-CD-05",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "3982abce-0437-40bc-950c-bc4990c45d9a",
+          "code": "I-08-SAU-LS-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+          "code": "I-06-SML-OT-14",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "88852431-ad79-4030-a171-252206c931f7",
+          "code": "I-05-FVG-LF-51",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "a6fd860f-6dda-460b-b577-3ff6e6d883ac",
+          "code": "I-01-CAN-VC-32",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "bf417488-52a0-47f4-97c1-c5832627f1fd",
+          "code": "I-06-SML-DL-49",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d5a5797a-7cef-4d50-970d-d3e08d19836b",
+          "code": "I-10-MPF-PO-05",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "dc38d999-aa2e-46bc-b714-56b8b6c55f6c",
+          "code": "IQ-04-NUT-DF-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "aa3f67ab-60c3-4cf2-87d5-05bc9a3e5276",
+          "code": "I-05-FVG-FG-05-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+          "code": "I-07-HBS-PL-25-5",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "6c2a31e6-3220-4420-97c5-a10c2a2c8b80",
+          "code": "IQ-03-GRN-FL-07-01",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "cb4be6c9-5ba9-4341-a1d9-e2ca87e78775",
+          "code": "I-06-SML-DL-19",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "97e56825-0a4e-494d-9a15-7f620f31de96",
+          "code": "I-08-SAU-CD-05",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "3982abce-0437-40bc-950c-bc4990c45d9a",
+          "code": "I-08-SAU-LS-13",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+          "code": "I-06-SML-OT-14",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "88852431-ad79-4030-a171-252206c931f7",
+          "code": "I-05-FVG-LF-51",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "a6fd860f-6dda-460b-b577-3ff6e6d883ac",
+          "code": "I-01-CAN-VC-32",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "bf417488-52a0-47f4-97c1-c5832627f1fd",
+          "code": "I-06-SML-DL-49",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d5a5797a-7cef-4d50-970d-d3e08d19836b",
+          "code": "I-10-MPF-PO-05",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "dc38d999-aa2e-46bc-b714-56b8b6c55f6c",
+          "code": "IQ-04-NUT-DF-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "aa3f67ab-60c3-4cf2-87d5-05bc9a3e5276",
+          "code": "I-05-FVG-FG-05-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+          "code": "I-07-HBS-PL-25-5",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "6c2a31e6-3220-4420-97c5-a10c2a2c8b80",
+          "code": "IQ-03-GRN-FL-07-01",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    }
+  ]
+}

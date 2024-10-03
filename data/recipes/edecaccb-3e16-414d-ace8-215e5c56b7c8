@@ -1,0 +1,993 @@
+{
+  "url": "/all-in-one-smoky-fish-gnocchi-gratin",
+  "title": "All-In-One Smoky Basa Gnocchi Gratin",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": null,
+      "url": null,
+      "uid": "blt54538aae1331442b"
+    },
+    {
+      "title": "Healthy Choices",
+      "url": "/healthy-choices",
+      "uid": "blt6481386f749a222a"
+    },
+    {
+      "title": "Prepped in 5",
+      "url": "/prepped-in-5",
+      "uid": "blt725e24f0dc71a223"
+    }
+  ],
+  "gousto_id": "3213",
+  "gousto_uid": "edecaccb-3e16-414d-ace8-215e5c56b7c8",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3074---5-Min-Prep-Smoky-Fish-Gnocchi-Gratin0668-1704805869800-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3074---5-Min-Prep-Smoky-Fish-Gnocchi-Gratin0668-1704805869800-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3074---5-Min-Prep-Smoky-Fish-Gnocchi-Gratin0668-1704805869800-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3074---5-Min-Prep-Smoky-Fish-Gnocchi-Gratin0668-1704805869800-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3074---5-Min-Prep-Smoky-Fish-Gnocchi-Gratin0668-1704805869800-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 3852
+  },
+  "description": "Prep the ingredients for a creamy smoked fish gratin in minutes. The gnocchi and cheese give your dish golden, crispy edges while it bakes, and it's served with a dressed salad. All Health Hub recipes meet one of these criteria: <600 calories, 3 of your 5/day, or a source of protein.",
+  "prep_times": {
+    "for_2": 30,
+    "for_4": 35
+  },
+  "cuisine": {
+    "slug": "british",
+    "title": "British"
+  },
+  "ingredients": [
+    {
+      "label": "Rocket (20g)",
+      "title": "rocket-I-05-FVG-FG-05-02",
+      "uid": "blt099d234cf96a670d",
+      "gousto_uuid": "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+      "name": "rocket",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Smoked basa fillet x0",
+      "title": "smoked basa fillet-IQ-10-MPF-SE-63",
+      "uid": "blt34c224329c433a0a",
+      "gousto_uuid": "d9b8e5e2-8097-4e07-bf95-73aa9dffd1cd",
+      "name": "smoked basa fillet",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-x-100g-smoked-basa-fillets-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-x-100g-smoked-basa-fillets-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-x-100g-smoked-basa-fillets-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-x-100g-smoked-basa-fillets-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-x-100g-smoked-basa-fillets-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "fish"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Soft cheese (50g)",
+      "title": "soft cheese-I-09-DAI-CR-15",
+      "uid": "blt5d5a607d98da4457",
+      "gousto_uuid": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+      "name": "soft cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Cornflour (1tsp)",
+      "title": "cornflour-I-06-SML-DL-43",
+      "uid": "blt9465f234bb8e3bf5",
+      "gousto_uuid": "c0fa06ef-52b1-4097-8bac-ec543c38468c",
+      "name": "cornflour",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Gnocchi (350g)",
+      "title": "gnocchi-I-09-DAI-PA-04",
+      "uid": "bltc6220dddc5609045",
+      "gousto_uuid": "2cada79f-be8e-41b5-8c11-3d6e9d3d6503",
+      "name": "gnocchi",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-gnocchi-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-gnocchi-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-gnocchi-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-gnocchi-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-gnocchi-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Grated Italian hard cheese (30g)",
+      "title": "grated Italian hard cheese-I-09-DAI-CH-42",
+      "uid": "blt3eb104a464573b1e",
+      "gousto_uuid": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+      "name": "grated Italian hard cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Smoked basa fillets (2pcs)",
+      "title": "smoked basa fillets-IQ-10-MPF-SE-34",
+      "uid": "blt40badd935398ffcd",
+      "gousto_uuid": "6081d5f4-0961-4dee-b1e9-2e3bda8415bd",
+      "name": "smoked basa fillets",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-basa-fillets-24-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-basa-fillets-24-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-basa-fillets-24-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-basa-fillets-24-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-basa-fillets-24-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "fish"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Leek",
+      "title": "leek-I-05-FVG-LF-03",
+      "uid": "blt8f2a845b088489d2",
+      "gousto_uuid": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+      "name": "leek",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Garlic clove",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Water",
+      "slug": "water"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Before you begin...</strong></p><p>This recipe takes around 5-10 min to prep, so get your oven-proof dish and all your ingredients ready, then wash your fruit and veg</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1606133464213-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1606133464213-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1606133464213-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1606133464213-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1606133464213-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Now, let's get started!</strong></p><p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7</p><p>Boil half a kettle</p><p>Trim your<strong> leek[s]</strong>, wash thoroughly to remove any grit, then top, tail and slice finely into rounds</p><p>Add the <strong>sliced leek</strong> to a large <strong>oven-proof dish</strong></p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1606133470432-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1606133470432-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1606133470432-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1606133470432-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1606133470432-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Peel and finely slice (don't chop!) your <strong>garlic</strong></p><p>Add the <strong>sliced garlic</strong> to the<strong> </strong>oven-proof dish</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1606133478459-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1606133478459-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1606133478459-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1606133478459-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1606133478459-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Chop your<strong> smoked basa fillet[s]</strong> into rough, bite-sized pieces</p><p>Add the<strong> chopped basa</strong> to the oven-proof dish and top with your <strong>gnocchi</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1606133484695-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1606133484695-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1606133484695-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1606133484695-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1606133484695-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Mix<strong> half</strong> your <strong>grated Italian hard cheese </strong>(you'll use the rest later!)<strong> </strong>and your<strong> cornflour </strong>until fully combined</p><p>Add 150ml <span class=\"text-purple\">[225ml]</span><span class=\"text-danger\"> [300ml]</span> <strong>boiled water</strong>, your <strong>soft cheese</strong> and a generous grind of <strong>black pepper</strong></p><p>Stir it all together – this is your <strong>creamy sauce</strong></p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1606133494817-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1606133494817-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1606133494817-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1606133494817-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1606133494817-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Pour your <strong>creamy sauce</strong> over the gnocchi and sprinkle the <strong>remaining</strong> <strong>grated Italian hard cheese</strong> over the top</p><p>Put the dish in the oven for 25-30 min or until bubbling, golden and cooked through – this is your <strong>all-in-one smoky basa gnocchi gratin</strong></p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1606133505620-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1606133505620-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1606133505620-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1606133505620-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1606133505620-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>While the gratin is cooking, wash your <strong>salad</strong>, then pat it dry with kitchen paper</p><p>Use this time to clear up, set the table, have a cup of tea or simply chill!</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1606133512719-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1606133512719-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1606133512719-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1606133512719-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1606133512719-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once done, remove the<strong> all-in-one smoky basa gnocchi gratin</strong> from the oven and leave to stand for 5 min (this helps the flavours to develop and makes it easier to serve!), then season to taste</p><p>Garnish with the <strong>salad</strong></p><p>Add a drizzle of<strong> olive oil</strong> and a pinch of <strong>pepper </strong>to the salad</p><p>Dig in!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "fish",
+      "slug": "fish"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    }
+  ],
+  "seo": {
+    "title": "All-In-One Smoky Fish Gnocchi Gratin",
+    "description": "Prep the ingredients for a creamy smoked fish gratin in minutes. The gnocchi and cheese give your dish golden, crispy edges while it bakes, and it's served with rocket and a squeeze of lemon.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/3074---5-Min-Prep-Smoky-Fish-Gnocchi-Gratin0668-1704805869800.jpg"
+  },
+  "tags": [],
+  "uid": "blt011df0e3987010a8",
+  "_version": 2036,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 108,
+      "energy_kj": 458,
+      "fat_mg": 2850,
+      "fat_saturates_mg": 1751,
+      "carbs_mg": 13563,
+      "carbs_sugars_mg": 1400,
+      "fibre_mg": 1412,
+      "protein_mg": 7468,
+      "salt_mg": 586,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 521,
+      "energy_kj": 2198,
+      "fat_mg": 13670,
+      "fat_saturates_mg": 8398,
+      "carbs_mg": 65039,
+      "carbs_sugars_mg": 6713,
+      "fibre_mg": 6775,
+      "protein_mg": 35812,
+      "salt_mg": 2813,
+      "net_weight_mg": 479500
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 1,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "c0fa06ef-52b1-4097-8bac-ec543c38468c",
+          "code": "I-06-SML-DL-43",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "2cada79f-be8e-41b5-8c11-3d6e9d3d6503",
+          "code": "I-09-DAI-PA-04",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+          "code": "I-09-DAI-CH-42",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+          "code": "I-05-FVG-LF-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+          "code": "I-05-FVG-FG-05-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d9b8e5e2-8097-4e07-bf95-73aa9dffd1cd",
+          "code": "IQ-10-MPF-SE-63",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "c0fa06ef-52b1-4097-8bac-ec543c38468c",
+          "code": "I-06-SML-DL-43",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "2cada79f-be8e-41b5-8c11-3d6e9d3d6503",
+          "code": "I-09-DAI-PA-04",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+          "code": "I-09-DAI-CH-42",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+          "code": "I-05-FVG-LF-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+          "code": "I-05-FVG-FG-05-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "6081d5f4-0961-4dee-b1e9-2e3bda8415bd",
+          "code": "IQ-10-MPF-SE-34",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 3,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "c0fa06ef-52b1-4097-8bac-ec543c38468c",
+          "code": "I-06-SML-DL-43",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "2cada79f-be8e-41b5-8c11-3d6e9d3d6503",
+          "code": "I-09-DAI-PA-04",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+          "code": "I-09-DAI-CH-42",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+          "code": "I-05-FVG-LF-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+          "code": "I-05-FVG-FG-05-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d9b8e5e2-8097-4e07-bf95-73aa9dffd1cd",
+          "code": "IQ-10-MPF-SE-63",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "6081d5f4-0961-4dee-b1e9-2e3bda8415bd",
+          "code": "IQ-10-MPF-SE-34",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "c0fa06ef-52b1-4097-8bac-ec543c38468c",
+          "code": "I-06-SML-DL-43",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "2cada79f-be8e-41b5-8c11-3d6e9d3d6503",
+          "code": "I-09-DAI-PA-04",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+          "code": "I-09-DAI-CH-42",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+          "code": "I-05-FVG-LF-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+          "code": "I-05-FVG-FG-05-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "6081d5f4-0961-4dee-b1e9-2e3bda8415bd",
+          "code": "IQ-10-MPF-SE-34",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 5,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "c0fa06ef-52b1-4097-8bac-ec543c38468c",
+          "code": "I-06-SML-DL-43",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "2cada79f-be8e-41b5-8c11-3d6e9d3d6503",
+          "code": "I-09-DAI-PA-04",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+          "code": "I-09-DAI-CH-42",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+          "code": "I-05-FVG-LF-03",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+          "code": "I-05-FVG-FG-05-02",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "d9b8e5e2-8097-4e07-bf95-73aa9dffd1cd",
+          "code": "IQ-10-MPF-SE-63",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "6081d5f4-0961-4dee-b1e9-2e3bda8415bd",
+          "code": "IQ-10-MPF-SE-34",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 3
+          }
+        }
+      ]
+    }
+  ]
+}

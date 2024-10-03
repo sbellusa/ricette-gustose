@@ -1,0 +1,867 @@
+{
+  "url": "/smoked-fish-creamy-lemon-spaghetti",
+  "title": "Smoked Basa & Creamy Lemon Spaghetti",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": null,
+      "url": null,
+      "uid": "blt54538aae1331442b"
+    },
+    {
+      "title": "10-Minute Meals",
+      "url": "/10-minute-meals",
+      "uid": "blt464f71fb1a92c640"
+    },
+    {
+      "title": "Fish Recipes",
+      "url": "/fish-recipes",
+      "uid": "bltc04cab7baf142a2b"
+    },
+    {
+      "title": "Healthy Choices",
+      "url": "/healthy-choices",
+      "uid": "blt6481386f749a222a"
+    }
+  ],
+  "gousto_id": "2148",
+  "gousto_uid": "177cc6fa-ab42-47f2-91d3-14fb81af3ddb",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2025_10-Min-Smoked-Fish--Creamy-Lemon-Spaghetti-3615-1607342960409-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2025_10-Min-Smoked-Fish--Creamy-Lemon-Spaghetti-3615-1607342960409-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2025_10-Min-Smoked-Fish--Creamy-Lemon-Spaghetti-3615-1607342960409-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2025_10-Min-Smoked-Fish--Creamy-Lemon-Spaghetti-3615-1607342960409-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2025_10-Min-Smoked-Fish--Creamy-Lemon-Spaghetti-3615-1607342960409-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 19073
+  },
+  "description": "This speedy spaghetti comes together in minutes. You'll add pan-fried smoked fish to a luscious lemon sauce, before tossing in your pasta to serve. Sizzle, toss, done!",
+  "prep_times": {
+    "for_2": 10,
+    "for_4": 10
+  },
+  "cuisine": {
+    "slug": "italian",
+    "title": "Italian"
+  },
+  "ingredients": [
+    {
+      "label": "Smoked basa fillet x0",
+      "title": "smoked basa fillet-IQ-10-MPF-SE-63",
+      "uid": "blt34c224329c433a0a",
+      "gousto_uuid": "d9b8e5e2-8097-4e07-bf95-73aa9dffd1cd",
+      "name": "smoked basa fillet",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-x-100g-smoked-basa-fillets-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-x-100g-smoked-basa-fillets-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-x-100g-smoked-basa-fillets-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-x-100g-smoked-basa-fillets-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-x-100g-smoked-basa-fillets-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "fish"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Soft cheese (50g)",
+      "title": "soft cheese-I-09-DAI-CR-15",
+      "uid": "blt5d5a607d98da4457",
+      "gousto_uuid": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+      "name": "soft cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Quick cook spaghetti (160g)",
+      "title": "quick cook spaghetti-I-03-GRN-PA-41",
+      "uid": "blta4a0d4b8a9d9bb9b",
+      "gousto_uuid": "20d7f9a4-2be1-4161-90a7-04f2b8af56a3",
+      "name": "quick cook spaghetti",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/spaghetti-190g-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/spaghetti-190g-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/spaghetti-190g-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/spaghetti-190g-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/spaghetti-190g-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "egg"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Roasted garlic paste (15g)",
+      "title": "roasted garlic paste-I-08-SAU-PS-43",
+      "uid": "blt8c92fc61f3e97abd",
+      "gousto_uuid": "485c12c9-8de2-436e-b1de-9d336ccbf713",
+      "name": "roasted garlic paste",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-roasted-garlic-paste-sachet-15g-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-roasted-garlic-paste-sachet-15g-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-roasted-garlic-paste-sachet-15g-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-roasted-garlic-paste-sachet-15g-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-roasted-garlic-paste-sachet-15g-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Blanched peas (160g)",
+      "title": "blanched peas-IQ-05-FVG-PD-13-01",
+      "uid": "blt732a710c86e7ffb1",
+      "gousto_uuid": "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+      "name": "blanched peas",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-peas-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-peas-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-peas-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-peas-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-peas-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Smoked basa fillets (2pcs)",
+      "title": "smoked basa fillets-IQ-10-MPF-SE-34",
+      "uid": "blt40badd935398ffcd",
+      "gousto_uuid": "6081d5f4-0961-4dee-b1e9-2e3bda8415bd",
+      "name": "smoked basa fillets",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-basa-fillets-24-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-basa-fillets-24-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-basa-fillets-24-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-basa-fillets-24-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-basa-fillets-24-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "fish"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Lemon",
+      "title": "lemon-I-02-SVG-SF-03",
+      "uid": "blte823ccfd82fc22c7",
+      "gousto_uuid": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+      "name": "lemon",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Before you begin...</strong></p><p>Get all your ingredients and equipment ready</p><p>Skim through these steps, then wash your fruit and veg</p><p>Note: Equipment and pan sizes vary. Make sure you cook food thoroughly (even if it takes you a little longer than 10 min)</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin-10mm-Step-1-1612884817633-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin-10mm-Step-1-1612884817633-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin-10mm-Step-1-1612884817633-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin-10mm-Step-1-1612884817633-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin-10mm-Step-1-1612884817633-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Now, let's get started!</strong></p><p>Heat a large, wide-based pan (preferably non-stick with a matching lid) with a drizzle of <strong>vegetable oil</strong> over a high heat and boil a kettle</p><p>Once the pan is hot, add your<strong> roasted garlic paste</strong>, <strong>blanched</strong> <strong>peas </strong>and <strong>smoked</strong> <strong>basa fillet[s]</strong> with a generous pinch of<strong> pepper</strong> and cook, covered, for 3-4 min on each side or until cooked through</p><p>Tip: Your fish is cooked once it turns opaque and flakes easily</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1608131491756-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1608131491756-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1608131491756-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1608131491756-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1608131491756-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Whilst your fish is cooking, add your <strong>quick cook spaghetti</strong> to a pot of <strong>boiled water </strong>with a large pinch of <strong>salt </strong>and bring to the boil over a high heat</p><p>Cook the spaghetti for 2-3 min or until cooked with a slight bite, then drain and keep to one side, reserving a cup of the <strong>starchy pasta water</strong></p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1608131500627-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1608131500627-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1608131500627-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1608131500627-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1608131500627-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Drizzle<strong> </strong>some<strong> olive oil</strong> through the <strong>drained</strong> <strong>spaghetti</strong> and give it a good mix up (this stops the pasta from sticking together!)</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2025.-step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2025.-step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2025.-step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2025.-step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/2025.-step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the fish is cooked, break it apart into bite-sized pieces with a wooden spoon, then add your <strong>soft cheese</strong> and the juice of <strong>half </strong>your<strong><span class=\"text-danger\"> </span>lemon[s]</strong></p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1608131567729-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1608131567729-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1608131567729-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1608131567729-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1608131567729-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Cut the <strong>remaining lemon</strong> into 1 wedge per person</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1608131572531-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1608131572531-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1608131572531-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1608131572531-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1608131572531-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>drained spaghetti </strong>to the pan and give everything a good mix up – this is your<strong> smoked basa & creamy lemon spaghetti</strong></p><p>Tip: Add a splash of the reserved starchy pasta water if the pasta is looking a little dry</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1608131579116-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1608131579116-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1608131579116-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1608131579116-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1608131579116-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the<strong> smoked basa & creamy lemon spaghetti</strong></p><p>Garnish with a <strong>lemon wedge</strong> and season with a grind of<strong> black pepper</strong></p><p>Dig in!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "fish",
+      "slug": "fish"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "egg",
+      "slug": "egg"
+    }
+  ],
+  "seo": {
+    "title": "Smoked Fish & Creamy Lemon Spaghetti",
+    "description": "This speedy spaghetti comes together in minutes. While the smoked fish sizzles in the pan, you'll whip up a luscious lemon sauce, then garnish with zingy capers to serve. Sizzle, toss, done!",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/2025_10-Min-Smoked-Fish--Creamy-Lemon-Spaghetti-3615-1607342960409.jpg"
+  },
+  "tags": [],
+  "uid": "blte317acaf6ecdfc59",
+  "_version": 15646,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 150,
+      "energy_kj": 636,
+      "fat_mg": 3211,
+      "fat_saturates_mg": 1546,
+      "carbs_mg": 20849,
+      "carbs_sugars_mg": 2640,
+      "fibre_mg": 1904,
+      "protein_mg": 9494,
+      "salt_mg": 466,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 516,
+      "energy_kj": 2179,
+      "fat_mg": 10998,
+      "fat_saturates_mg": 5296,
+      "carbs_mg": 71409,
+      "carbs_sugars_mg": 9044,
+      "fibre_mg": 6524,
+      "protein_mg": 32519,
+      "salt_mg": 1597,
+      "net_weight_mg": 342500
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 1,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+          "code": "IQ-05-FVG-PD-13-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+          "code": "I-02-SVG-SF-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "20d7f9a4-2be1-4161-90a7-04f2b8af56a3",
+          "code": "I-03-GRN-PA-41",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "485c12c9-8de2-436e-b1de-9d336ccbf713",
+          "code": "I-08-SAU-PS-43",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d9b8e5e2-8097-4e07-bf95-73aa9dffd1cd",
+          "code": "IQ-10-MPF-SE-63",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+          "code": "IQ-05-FVG-PD-13-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+          "code": "I-02-SVG-SF-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "20d7f9a4-2be1-4161-90a7-04f2b8af56a3",
+          "code": "I-03-GRN-PA-41",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "485c12c9-8de2-436e-b1de-9d336ccbf713",
+          "code": "I-08-SAU-PS-43",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "6081d5f4-0961-4dee-b1e9-2e3bda8415bd",
+          "code": "IQ-10-MPF-SE-34",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 3,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+          "code": "IQ-05-FVG-PD-13-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+          "code": "I-02-SVG-SF-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "20d7f9a4-2be1-4161-90a7-04f2b8af56a3",
+          "code": "I-03-GRN-PA-41",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "485c12c9-8de2-436e-b1de-9d336ccbf713",
+          "code": "I-08-SAU-PS-43",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d9b8e5e2-8097-4e07-bf95-73aa9dffd1cd",
+          "code": "IQ-10-MPF-SE-63",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "6081d5f4-0961-4dee-b1e9-2e3bda8415bd",
+          "code": "IQ-10-MPF-SE-34",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+          "code": "IQ-05-FVG-PD-13-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+          "code": "I-02-SVG-SF-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "20d7f9a4-2be1-4161-90a7-04f2b8af56a3",
+          "code": "I-03-GRN-PA-41",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "485c12c9-8de2-436e-b1de-9d336ccbf713",
+          "code": "I-08-SAU-PS-43",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "6081d5f4-0961-4dee-b1e9-2e3bda8415bd",
+          "code": "IQ-10-MPF-SE-34",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 5,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+          "code": "IQ-05-FVG-PD-13-01",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+          "code": "I-02-SVG-SF-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "20d7f9a4-2be1-4161-90a7-04f2b8af56a3",
+          "code": "I-03-GRN-PA-41",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "485c12c9-8de2-436e-b1de-9d336ccbf713",
+          "code": "I-08-SAU-PS-43",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d9b8e5e2-8097-4e07-bf95-73aa9dffd1cd",
+          "code": "IQ-10-MPF-SE-63",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "6081d5f4-0961-4dee-b1e9-2e3bda8415bd",
+          "code": "IQ-10-MPF-SE-34",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 3
+          }
+        }
+      ]
+    }
+  ]
+}

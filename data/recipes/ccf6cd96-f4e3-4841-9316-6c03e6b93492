@@ -1,0 +1,1278 @@
+{
+  "url": "/baked-ratatouille-chicken-breast-tortiglioni",
+  "title": "Baked Ratatouille & Chicken Breast Tortiglioni",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "5765",
+  "gousto_uid": "ccf6cd96-f4e3-4841-9316-6c03e6b93492",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5610---Baked-Ratatouille--Chicken-Breast-Tortiglioni2503-1695740267023-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5610---Baked-Ratatouille--Chicken-Breast-Tortiglioni2503-1695740267023-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5610---Baked-Ratatouille--Chicken-Breast-Tortiglioni2503-1695740267023-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5610---Baked-Ratatouille--Chicken-Breast-Tortiglioni2503-1695740267023-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5610---Baked-Ratatouille--Chicken-Breast-Tortiglioni2503-1695740267023-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 89
+  },
+  "description": "This quick-prep tomato, chicken and chilli tortiglioni is cooked in the oven with roasted red onion, pepper and courgette. Top with chopped basil to serve. ",
+  "prep_times": {
+    "for_2": 35,
+    "for_4": 40
+  },
+  "cuisine": {
+    "slug": "italian",
+    "title": "Italian"
+  },
+  "ingredients": [
+    {
+      "label": "British diced chicken breast (125g) x0",
+      "title": "British diced chicken breast-I-10-MPF-PO-56",
+      "uid": "blt0dd73712a94306cc",
+      "gousto_uuid": "c38b39cc-f4f9-42c8-a472-bb61f87e6996",
+      "name": "British diced chicken breast",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Basil (5g)",
+      "title": "basil-I-07-HBS-PL-23",
+      "uid": "bltf719958334d8b893",
+      "gousto_uuid": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+      "name": "basil",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Courgette",
+      "title": "courgette-I-05-FVG-FV-03",
+      "uid": "blt49ae7a50bc5644f9",
+      "gousto_uuid": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+      "name": "courgette",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Finely chopped tomatoes (200g)",
+      "title": "finely chopped tomatoes-I-01-CAN-VC-50",
+      "uid": "blt269c8bc966804e9e",
+      "gousto_uuid": "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+      "name": "finely chopped tomatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Vegetable stock mix (11g)",
+      "title": "vegetable stock mix-I-06-SML-SC-27",
+      "uid": "bltebbd714d321e7e43",
+      "gousto_uuid": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+      "name": "vegetable stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Vegetable stock mix (5.5g) x0",
+      "title": "vegetable stock mix-I-06-SML-SC-26",
+      "uid": "blt0ca5e580e2d973c5",
+      "gousto_uuid": "166bfad3-d300-465d-b61c-fef4d2965904",
+      "name": "vegetable stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Dried chilli flakes (0.5tsp)",
+      "title": "dried chilli flakes-I-06-SML-CL-03",
+      "uid": "bltc941509f43a536f0",
+      "gousto_uuid": "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+      "name": "dried chilli flakes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Dried basil (1tsp)",
+      "title": "dried basil-I-06-SML-DL-18",
+      "uid": "bltff02573d08c29139",
+      "gousto_uuid": "8f225055-491a-4b53-9a69-ac7e4810d725",
+      "name": "dried basil",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-basil-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-basil-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-basil-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-basil-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-basil-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Henderson's Relish (15ml)",
+      "title": "Henderson's Relish-I-08-SAU-HD-03",
+      "uid": "bltf3888be38553dc9c",
+      "gousto_uuid": "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+      "name": "Henderson's Relish",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Hendersons-Relish-New-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Hendersons-Relish-New-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Hendersons-Relish-New-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Hendersons-Relish-New-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Hendersons-Relish-New-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "British diced chicken breast (250g)",
+      "title": "British diced chicken breast-I-10-MPF-PO-05",
+      "uid": "bltc205e354c02de571",
+      "gousto_uuid": "d5a5797a-7cef-4d50-970d-d3e08d19836b",
+      "name": "British diced chicken breast",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Tortiglioni (200g)",
+      "title": "tortiglioni-IQ-03-GRN-PA-20-02",
+      "uid": "blt531310de7790801b",
+      "gousto_uuid": "248e9920-213f-426d-90d4-611a29171065",
+      "name": "tortiglioni",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tortiglioni-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tortiglioni-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tortiglioni-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tortiglioni-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tortiglioni-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Garlic clove x2",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Yellow pepper",
+      "title": "yellow pepper-I-05-FVG-FV-10",
+      "uid": "blt6178d42fac323ad4",
+      "gousto_uuid": "4d56f6a8-e1a5-4cf1-b273-088b02206556",
+      "name": "yellow pepper",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/yellow-pepper-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/yellow-pepper-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/yellow-pepper-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/yellow-pepper-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/yellow-pepper-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Red onion",
+      "title": "red onion-I-02-SVG-VG-05",
+      "uid": "bltc69ae0a09122a2b4",
+      "gousto_uuid": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Water",
+      "slug": "water"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Before you begin...</strong></p><p>This recipe takes around 5-10 min to prep, so get your casserole dish and all your ingredients ready, then wash your fruit and veg</p><p>Note: Make sure your dish is oven-proof and safe to use on the hob. Don't have one? Start cooking in a large, wide-based pan then transfer to an oven-proof dish and cover tightly with foil</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1695715945721-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1695715945721-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1695715945721-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1695715945721-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1695715945721-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Now, let's get started!</strong></p><p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7, boil a kettle, then take your <strong>chicken</strong> out of the fridge, open the packet and let it air</p><p>Heat a large, wide-based, <strong>hob-safe</strong> <strong>oven-proof casserole dish </strong>with a matching lid with a drizzle of <strong>olive oil</strong> over a medium heat</p><p>Once hot, add the <strong>diced chicken breast</strong> to the dish with a pinch of <strong>salt</strong> and cook for 3-4 min or until lightly browned</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1695715950258-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1695715950258-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1695715950258-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1695715950258-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1695715950258-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, deseed your <strong>pepper[s]</strong> (scrape the seeds and pith out with a teaspoon) and chop into large, bite-sized pieces</p><p>Top, tail and cut your <strong>courgette[s]</strong> in half lengthways, then chop into large chunks</p><p>Peel and chop your<strong> red onion[s] </strong>into wedges</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1695715954685-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1695715954685-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1695715954685-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1695715954685-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1695715954685-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the<strong> chopped pepper</strong>, <strong>courgette</strong> <strong>chunks</strong> and<strong> red onion wedges</strong> to a baking tray with a generous drizzle of <strong>olive oil </strong>and a pinch of <strong>salt </strong>and <strong>pepper</strong></p><p>Put the tray[s] on the bottom shelf of the oven and cook for 30 min or until golden and cooked through – this is your <strong>roasted veg</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1695715960817-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1695715960817-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1695715960817-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1695715960817-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1695715960817-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, crush your <strong>garlic cloves</strong> open by squashing them with the side of a knife and remove the skins</p><p>Add the<strong> crushed garlic </strong>and <strong>chilli flakes </strong>(can't handle the heat? Go easy!) to the dish with the<strong> </strong>chicken<strong> </strong>and cook for 30 secs</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1695715965981-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1695715965981-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1695715965981-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1695715965981-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1695715965981-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Sprinkle in your<strong> vegetable stock mix</strong>, then add your<strong> chopped tomatoes</strong>, <strong>Henderson's Relish</strong>, <strong>dried basil</strong> and 450ml <span class=\"text-purple\">[650ml] </span><span class=\"text-danger\">[850ml]</span> <strong>boiled water</strong></p><p>Bring to the boil over a high heat</p><p>Stir through your<strong> tortiglioni</strong></p><p>Tip: Nestle as much of the pasta as you can into the sauce to help it cook evenly!</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1695715970867-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1695715970867-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1695715970867-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1695715970867-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1695715970867-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Cover with a lid and put the dish in the oven for 25-30 min or until the pasta and chicken are cooked through (no pink meat!)</p><p>Use this time to clear up, set the table, have a cup of tea or simply chill!</p><p>Tip: Give the pasta a stir and roasted veg a mix after 15 min</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1695715975375-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1695715975375-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1695715975375-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1695715975375-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1695715975375-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>To serve, stir the<strong> roasted veg </strong>through the pasta and season with a generous pinch of <strong>salt </strong>– this is your <strong>baked ratatouille & chicken tortiglioni</strong></p><p>Tear your<strong> basil leaves </strong>over the top and season with a grind of <strong>black pepper</strong></p><p>Dig in!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    }
+  ],
+  "seo": {
+    "title": "Baked Ratatouille & Chicken Breast Tortiglioni",
+    "description": "This quick-prep tomato, chicken and chilli tortiglioni is cooked in the oven with roasted red onion, pepper and courgette. Top with chopped basil to serve. ",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/5610---Baked-Ratatouille--Chicken-Breast-Tortiglioni2503-1695740267023.jpg"
+  },
+  "tags": [],
+  "uid": "blt3cdabcb4d893c7ed",
+  "_version": 111,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 105,
+      "energy_kj": 448,
+      "fat_mg": 677,
+      "fat_saturates_mg": 138,
+      "carbs_mg": 17420,
+      "carbs_sugars_mg": 2747,
+      "fibre_mg": 1535,
+      "protein_mg": 8536,
+      "salt_mg": 314,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 565,
+      "energy_kj": 2401,
+      "fat_mg": 3626,
+      "fat_saturates_mg": 744,
+      "carbs_mg": 93289,
+      "carbs_sugars_mg": 14711,
+      "fibre_mg": 8225,
+      "protein_mg": 45711,
+      "salt_mg": 1684,
+      "net_weight_mg": 535500
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 1,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "c38b39cc-f4f9-42c8-a472-bb61f87e6996",
+          "code": "I-10-MPF-PO-56",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+          "code": "I-08-SAU-HD-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+          "code": "I-07-HBS-PL-23",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+          "code": "I-05-FVG-FV-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8f225055-491a-4b53-9a69-ac7e4810d725",
+          "code": "I-06-SML-DL-18",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+          "code": "I-06-SML-CL-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+          "code": "I-01-CAN-VC-50",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "248e9920-213f-426d-90d4-611a29171065",
+          "code": "IQ-03-GRN-PA-20-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4d56f6a8-e1a5-4cf1-b273-088b02206556",
+          "code": "I-05-FVG-FV-10",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "d5a5797a-7cef-4d50-970d-d3e08d19836b",
+          "code": "I-10-MPF-PO-05",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+          "code": "I-08-SAU-HD-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+          "code": "I-07-HBS-PL-23",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+          "code": "I-05-FVG-FV-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8f225055-491a-4b53-9a69-ac7e4810d725",
+          "code": "I-06-SML-DL-18",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+          "code": "I-06-SML-CL-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+          "code": "I-01-CAN-VC-50",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "248e9920-213f-426d-90d4-611a29171065",
+          "code": "IQ-03-GRN-PA-20-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4d56f6a8-e1a5-4cf1-b273-088b02206556",
+          "code": "I-05-FVG-FV-10",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 3,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "d5a5797a-7cef-4d50-970d-d3e08d19836b",
+          "code": "I-10-MPF-PO-05",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "c38b39cc-f4f9-42c8-a472-bb61f87e6996",
+          "code": "I-10-MPF-PO-56",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+          "code": "I-08-SAU-HD-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+          "code": "I-07-HBS-PL-23",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+          "code": "I-05-FVG-FV-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "8f225055-491a-4b53-9a69-ac7e4810d725",
+          "code": "I-06-SML-DL-18",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+          "code": "I-06-SML-CL-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+          "code": "I-01-CAN-VC-50",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "248e9920-213f-426d-90d4-611a29171065",
+          "code": "IQ-03-GRN-PA-20-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4d56f6a8-e1a5-4cf1-b273-088b02206556",
+          "code": "I-05-FVG-FV-10",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "d5a5797a-7cef-4d50-970d-d3e08d19836b",
+          "code": "I-10-MPF-PO-05",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+          "code": "I-08-SAU-HD-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+          "code": "I-07-HBS-PL-23",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+          "code": "I-05-FVG-FV-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "8f225055-491a-4b53-9a69-ac7e4810d725",
+          "code": "I-06-SML-DL-18",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+          "code": "I-06-SML-CL-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+          "code": "I-01-CAN-VC-50",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "248e9920-213f-426d-90d4-611a29171065",
+          "code": "IQ-03-GRN-PA-20-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4d56f6a8-e1a5-4cf1-b273-088b02206556",
+          "code": "I-05-FVG-FV-10",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 5,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "d5a5797a-7cef-4d50-970d-d3e08d19836b",
+          "code": "I-10-MPF-PO-05",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "c38b39cc-f4f9-42c8-a472-bb61f87e6996",
+          "code": "I-10-MPF-PO-56",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+          "code": "I-08-SAU-HD-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+          "code": "I-07-HBS-PL-23",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+          "code": "I-05-FVG-FV-03",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "8f225055-491a-4b53-9a69-ac7e4810d725",
+          "code": "I-06-SML-DL-18",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+          "code": "I-06-SML-CL-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+          "code": "I-01-CAN-VC-50",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 5
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "248e9920-213f-426d-90d4-611a29171065",
+          "code": "IQ-03-GRN-PA-20-02",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4d56f6a8-e1a5-4cf1-b273-088b02206556",
+          "code": "I-05-FVG-FV-10",
+          "quantities": {
+            "in_box": 3
+          }
+        }
+      ]
+    }
+  ]
+}

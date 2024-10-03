@@ -1,0 +1,960 @@
+{
+  "url": "/sun-dried-tomato-gnocchi",
+  "title": "Sun-Dried Tomato Gnocchi",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "5937",
+  "gousto_uid": "54a3b736-37fb-4c27-9dd3-5e5f5060a31e",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5782---Sundried-Tomato-Gnocchi1537-1681208309145-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5782---Sundried-Tomato-Gnocchi1537-1681208309145-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5782---Sundried-Tomato-Gnocchi1537-1681208309145-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5782---Sundried-Tomato-Gnocchi1537-1681208309145-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5782---Sundried-Tomato-Gnocchi1537-1681208309145-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 5977
+  },
+  "description": "This pan-fried gnocchi is crispy, speedy and super easy. You’ll rustle up a tangy sun-dried tomato sauce before tossing through crispy gnocchi. Serve with a sprinkle of grated Italian hard cheese and rocket salad on the side.",
+  "prep_times": {
+    "for_2": 20,
+    "for_4": 25
+  },
+  "cuisine": {
+    "slug": "italian",
+    "title": "Italian"
+  },
+  "ingredients": [
+    {
+      "label": "Balsamic sun-dried tomato paste (30g)",
+      "title": "balsamic sun-dried tomato paste-I-08-SAU-PS-73",
+      "uid": "blt9aee244f816b5f65",
+      "gousto_uuid": "c6e9cd4a-b156-4852-9b2e-fcfceea5eaee",
+      "name": "balsamic sun-dried tomato paste",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sun-dried-tomato-nut-pesto-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sun-dried-tomato-nut-pesto-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sun-dried-tomato-nut-pesto-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sun-dried-tomato-nut-pesto-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sun-dried-tomato-nut-pesto-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Cherry tomatoes (125g)",
+      "title": "cherry tomatoes-I-05-FVG-FV-02-08",
+      "uid": "blt60df91997e03dd15",
+      "gousto_uuid": "b3374bc8-0097-449f-9ac6-b53299104e11",
+      "name": "cherry tomatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Rocket (20g)",
+      "title": "rocket-I-05-FVG-FG-05-02",
+      "uid": "blt099d234cf96a670d",
+      "gousto_uuid": "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+      "name": "rocket",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Italian hard cheese (20g)",
+      "title": "Italian hard cheese-I-09-DAI-CH-41",
+      "uid": "blteef8db6635d96ea9",
+      "gousto_uuid": "d5fc7e99-0340-4983-a486-e4f18ce5483b",
+      "name": "Italian hard cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/35g-Italian-hard-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/35g-Italian-hard-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/35g-Italian-hard-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/35g-Italian-hard-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/35g-Italian-hard-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Gnocchi (350g)",
+      "title": "gnocchi-I-09-DAI-PA-04",
+      "uid": "bltc6220dddc5609045",
+      "gousto_uuid": "2cada79f-be8e-41b5-8c11-3d6e9d3d6503",
+      "name": "gnocchi",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-gnocchi-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-gnocchi-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-gnocchi-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-gnocchi-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-gnocchi-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Vegetable stock mix (5.5g)",
+      "title": "vegetable stock mix-I-06-SML-SC-26",
+      "uid": "blt0ca5e580e2d973c5",
+      "gousto_uuid": "166bfad3-d300-465d-b61c-fef4d2965904",
+      "name": "vegetable stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Dried oregano (1tsp) x2",
+      "title": "dried oregano-I-06-SML-DL-11",
+      "uid": "blt3e73399d67676327",
+      "gousto_uuid": "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+      "name": "dried oregano",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Cherry tomatoes (250g) x0",
+      "title": "cherry tomatoes-I-05-FVG-FV-02-04",
+      "uid": "blt45689303fed45d62",
+      "gousto_uuid": "f56ddebd-04ab-40ec-8bb5-d87c08a236db",
+      "name": "cherry tomatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Red onion",
+      "title": "red onion-I-02-SVG-VG-05",
+      "uid": "bltc69ae0a09122a2b4",
+      "gousto_uuid": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Sugar",
+      "slug": "sugar"
+    },
+    {
+      "title": "Water",
+      "slug": "water"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Boil half a kettle, then heat a large, wide-based pan (preferably non-stick) with a generous drizzle of <strong>olive oil </strong>over a medium-high heat</p><p>Once hot, add your<strong> gnocchi</strong> and cook for 8-10 min or until beginning to crisp, then transfer to a plate, reserving the pan</p><p>Tip: Don’t stir too often as this will prevent the gnocchi from crisping!</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1680079294414-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1680079294414-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1680079294414-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1680079294414-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1680079294414-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>While the gnocchi is cooking, peel and finely slice your <strong>red onion[s]</strong></p><p>Chop your <strong>cherry tomatoes </strong>in half</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1680079300757-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1680079300757-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1680079300757-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1680079300757-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1680079300757-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Return the reserved pan to a medium-high heat with a drizzle of <strong>olive oil</strong></p><p>Once hot, add the <strong>sliced onion </strong>and<strong> chopped tomatoes </strong>to the pan<strong> </strong>with a pinch of <strong>salt </strong>and <strong>sugar </strong>and give everything a good mix up</p><p>Cook for 2-3 min or until the onion is starting to soften</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1680079304128-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1680079304128-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1680079304128-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1680079304128-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1680079304128-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once softened, add your<strong> balsamic sun-dried tomato paste </strong>and your <strong>dried oregano </strong>and cook for 1-2 min or until fragrant</p><p>Once fragrant, add your <strong>vegetable stock mix</strong> with 150ml <span class=\"text-purple\">[225ml] </span><span class=\"text-danger\">[300ml] </span><strong>boiled water</strong></p><p>Cook for 4-5 min or until the sauce begins to thicken to a gravy-like consistency – this is your <strong>sun-dried tomato sauce</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1680079307201-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1680079307201-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1680079307201-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1680079307201-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1680079307201-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, grate your <strong>Italian hard cheese</strong></p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1680079311080-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1680079311080-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1680079311080-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1680079311080-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1680079311080-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Wash your<strong> salad</strong>, then pat dry with kitchen paper</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1-1680079314771-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1-1680079314771-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1-1680079314771-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1-1680079314771-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1-1680079314771-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the sauce has thickened, add your <strong>crispy gnocchi </strong>and cook for 2-3 min or until warmed through – this is your <strong>sun-dried tomato gnocchi</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1680079317951-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1680079317951-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1680079317951-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1680079317951-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1680079317951-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>sun-dried tomato gnocchi </strong>and top with the <strong>grated Italian hard cheese </strong>and a pinch of <strong>pepper</strong></p><p>Serve the <strong>salad</strong> to the side with a small drizzle of<strong> olive oil</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    }
+  ],
+  "seo": {
+    "title": "Sun-Dried Tomato Gnocchi",
+    "description": "This pan-fried gnocchi is crispy, speedy and super easy. You’ll rustle up a tangy balsamic sun-dried tomato sauce before tossing through crispy gnocchi. Serve with a sprinkle of grated Italian hard cheese and rocket salad on the side.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/5782---Sundried-Tomato-Gnocchi1537-1681208309145.jpg"
+  },
+  "tags": [],
+  "uid": "blt13bfc4d496bcd340",
+  "_version": 6036,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 121,
+      "energy_kj": 513,
+      "fat_mg": 2274,
+      "fat_saturates_mg": 883,
+      "carbs_mg": 20956,
+      "carbs_sugars_mg": 2058,
+      "fibre_mg": 1789,
+      "protein_mg": 4706,
+      "salt_mg": 767,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 385,
+      "energy_kj": 1628,
+      "fat_mg": 7215,
+      "fat_saturates_mg": 2802,
+      "carbs_mg": 66486,
+      "carbs_sugars_mg": 6530,
+      "fibre_mg": 5676,
+      "protein_mg": 14932,
+      "salt_mg": 2435,
+      "net_weight_mg": 317250
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 1,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "d5fc7e99-0340-4983-a486-e4f18ce5483b",
+          "code": "I-09-DAI-CH-41",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "c6e9cd4a-b156-4852-9b2e-fcfceea5eaee",
+          "code": "I-08-SAU-PS-73",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b3374bc8-0097-449f-9ac6-b53299104e11",
+          "code": "I-05-FVG-FV-02-08",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+          "code": "I-06-SML-DL-11",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "2cada79f-be8e-41b5-8c11-3d6e9d3d6503",
+          "code": "I-09-DAI-PA-04",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+          "code": "I-05-FVG-FG-05-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "d5fc7e99-0340-4983-a486-e4f18ce5483b",
+          "code": "I-09-DAI-CH-41",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "c6e9cd4a-b156-4852-9b2e-fcfceea5eaee",
+          "code": "I-08-SAU-PS-73",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b3374bc8-0097-449f-9ac6-b53299104e11",
+          "code": "I-05-FVG-FV-02-08",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+          "code": "I-06-SML-DL-11",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "2cada79f-be8e-41b5-8c11-3d6e9d3d6503",
+          "code": "I-09-DAI-PA-04",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+          "code": "I-05-FVG-FG-05-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 3,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "d5fc7e99-0340-4983-a486-e4f18ce5483b",
+          "code": "I-09-DAI-CH-41",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "c6e9cd4a-b156-4852-9b2e-fcfceea5eaee",
+          "code": "I-08-SAU-PS-73",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "f56ddebd-04ab-40ec-8bb5-d87c08a236db",
+          "code": "I-05-FVG-FV-02-04",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+          "code": "I-06-SML-DL-11",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "2cada79f-be8e-41b5-8c11-3d6e9d3d6503",
+          "code": "I-09-DAI-PA-04",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+          "code": "I-05-FVG-FG-05-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "d5fc7e99-0340-4983-a486-e4f18ce5483b",
+          "code": "I-09-DAI-CH-41",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "c6e9cd4a-b156-4852-9b2e-fcfceea5eaee",
+          "code": "I-08-SAU-PS-73",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "f56ddebd-04ab-40ec-8bb5-d87c08a236db",
+          "code": "I-05-FVG-FV-02-04",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+          "code": "I-06-SML-DL-11",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "2cada79f-be8e-41b5-8c11-3d6e9d3d6503",
+          "code": "I-09-DAI-PA-04",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+          "code": "I-05-FVG-FG-05-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 5,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "d5fc7e99-0340-4983-a486-e4f18ce5483b",
+          "code": "I-09-DAI-CH-41",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "c6e9cd4a-b156-4852-9b2e-fcfceea5eaee",
+          "code": "I-08-SAU-PS-73",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "f56ddebd-04ab-40ec-8bb5-d87c08a236db",
+          "code": "I-05-FVG-FV-02-04",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b3374bc8-0097-449f-9ac6-b53299104e11",
+          "code": "I-05-FVG-FV-02-08",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+          "code": "I-06-SML-DL-11",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "2cada79f-be8e-41b5-8c11-3d6e9d3d6503",
+          "code": "I-09-DAI-PA-04",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+          "code": "I-05-FVG-FG-05-02",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 3
+          }
+        }
+      ]
+    }
+  ]
+}

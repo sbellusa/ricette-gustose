@@ -1,0 +1,1342 @@
+{
+  "url": "/prawn-courgette-noodle-soup",
+  "title": "King Prawn & Courgette Noodle Soup",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Dairy-Free ",
+      "url": "/dairy-free",
+      "uid": "bltba0f45afb7165184"
+    },
+    {
+      "title": null,
+      "url": null,
+      "uid": "blt54538aae1331442b"
+    },
+    {
+      "title": "10-Minute Meals",
+      "url": "/10-minute-meals",
+      "uid": "blt464f71fb1a92c640"
+    },
+    {
+      "title": "Fish Recipes",
+      "url": "/fish-recipes",
+      "uid": "bltc04cab7baf142a2b"
+    },
+    {
+      "title": "World Food",
+      "url": "/world-food",
+      "uid": "blt3d294749a6bef9e6"
+    }
+  ],
+  "gousto_id": "1816",
+  "gousto_uid": "315b678e-6204-42f8-9680-31533cd83f6f",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1761-2_Prawn--Courgette-Noodle-Soup_001_0-1688027520845-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1761-2_Prawn--Courgette-Noodle-Soup_001_0-1688027520845-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1761-2_Prawn--Courgette-Noodle-Soup_001_0-1688027520845-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1761-2_Prawn--Courgette-Noodle-Soup_001_0-1688027520845-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1761-2_Prawn--Courgette-Noodle-Soup_001_0-1688027520845-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 4573
+  },
+  "description": "You'll have this noodle soup on the table in minutes. While the egg noodles soak, you'll make a speedy, punchy broth packed with courgette and creamed coconut to cool it all down. Soak, simmer, done!",
+  "prep_times": {
+    "for_2": 10,
+    "for_4": 10
+  },
+  "cuisine": {
+    "slug": "asian",
+    "title": "Asian"
+  },
+  "ingredients": [
+    {
+      "label": "Raw peeled king prawns (85g) x0",
+      "title": "raw peeled king prawns-IQ-10-MPF-SE-59",
+      "uid": "bltfcd9b6952914198a",
+      "gousto_uuid": "a3a2f2db-208c-49ba-905d-b51885be42b3",
+      "name": "raw peeled king prawns",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/king-prawns-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/king-prawns-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/king-prawns-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/king-prawns-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/king-prawns-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "crustacean"
+          },
+          {
+            "title": null,
+            "slug": "mollusc"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Fine egg noodle nest x0",
+      "title": "fine egg noodle nest-I-03-GRN-PA-65",
+      "uid": "bltda10216e1491e48c",
+      "gousto_uuid": "814b025e-917f-4a7f-9cff-6c5b97ba50cb",
+      "name": "fine egg noodle nest",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fine-egg-noodle-nest-x1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fine-egg-noodle-nest-x1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fine-egg-noodle-nest-x1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fine-egg-noodle-nest-x1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fine-egg-noodle-nest-x1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "egg"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Fine egg noodle nests (2pcs)",
+      "title": "fine egg noodle nests-I-03-GRN-PA-64",
+      "uid": "blt705cba5ef513435e",
+      "gousto_uuid": "c183d798-492c-4b03-8729-21e57f828e89",
+      "name": "fine egg noodle nests",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fine-egg-noodle-nest-x2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fine-egg-noodle-nest-x2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fine-egg-noodle-nest-x2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fine-egg-noodle-nest-x2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fine-egg-noodle-nest-x2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "egg"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Courgette",
+      "title": "courgette-I-05-FVG-FV-03",
+      "uid": "blt49ae7a50bc5644f9",
+      "gousto_uuid": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+      "name": "courgette",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Ground turmeric (1tsp)",
+      "title": "ground turmeric-I-06-SML-IN-20",
+      "uid": "bltd85ec4fd0fc24758",
+      "gousto_uuid": "44c1fcff-fadf-4b69-9d80-3d0b0baa38a2",
+      "name": "ground turmeric",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Raw peeled king prawns (171g)",
+      "title": "raw peeled king prawns-IQ-10-MPF-SE-48",
+      "uid": "blt01cf20ef6ca28e39",
+      "gousto_uuid": "48c7b19a-f68a-4b5d-91ca-cab712024589",
+      "name": "raw peeled king prawns",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/raw-peeled-king-prawns-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/raw-peeled-king-prawns-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/raw-peeled-king-prawns-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/raw-peeled-king-prawns-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/raw-peeled-king-prawns-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "crustacean"
+          },
+          {
+            "title": null,
+            "slug": "mollusc"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Red Thai curry paste (40g)",
+      "title": "red Thai curry paste-I-08-SAU-PS-67",
+      "uid": "blt07fd69e1c5ba61fd",
+      "gousto_uuid": "84cc9e51-a2e2-4fd7-9fc4-42006c6c5c85",
+      "name": "red Thai curry paste",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/thai-red-curry-paste-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/thai-red-curry-paste-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/thai-red-curry-paste-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/thai-red-curry-paste-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/thai-red-curry-paste-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Soy sauce (15ml)",
+      "title": "soy sauce-I-06-SML-OT-14",
+      "uid": "blt3a79c2be8bfcc885",
+      "gousto_uuid": "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+      "name": "soy sauce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Dried chilli flakes (0.5tsp) x0",
+      "title": "dried chilli flakes-I-06-SML-CL-03",
+      "uid": "bltc941509f43a536f0",
+      "gousto_uuid": "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+      "name": "dried chilli flakes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Ground turmeric (0.5tsp) x0",
+      "title": "ground turmeric-I-06-SML-DL-14",
+      "uid": "blt37b4da4bd600ecc3",
+      "gousto_uuid": "abb2d5af-131e-4e82-9546-705ab185cc37",
+      "name": "ground turmeric",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Dried chilli flakes (1tsp)",
+      "title": "dried chilli flakes-I-06-SML-CL-04",
+      "uid": "blt6b909ed203a7313b",
+      "gousto_uuid": "e005cb1e-5d67-45e3-8728-187e9bc0812c",
+      "name": "dried chilli flakes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Ginger paste (15g)",
+      "title": "ginger paste-I-08-SAU-PS-46",
+      "uid": "blt994082dd517e0f77",
+      "gousto_uuid": "88966efb-30c6-425b-9a90-0e6087c8b326",
+      "name": "ginger paste",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Solid creamed coconut (25g)",
+      "title": "solid creamed coconut-I-06-SML-CO-13",
+      "uid": "bltb15d406b19839742",
+      "gousto_uuid": "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+      "name": "solid creamed coconut",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Soy sauce (8ml) x0",
+      "title": "soy sauce-I-06-SML-OT-05",
+      "uid": "bltaa4a46c7cb59b000",
+      "gousto_uuid": "3c07d126-f655-437c-aa1d-c38dbbae0398",
+      "name": "soy sauce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Lime",
+      "title": "lime-I-05-FVG-FV-11",
+      "uid": "blteca16c5afda2f93e",
+      "gousto_uuid": "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+      "name": "lime",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Sugar",
+      "slug": "sugar"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    },
+    {
+      "title": "Water",
+      "slug": "water"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Before you begin...</strong></p><p>Get all your ingredients and equipment ready</p><p>Skim through these steps, the wash your fruit and veg</p><p>Note: Equipment and pan sizes vary. Make sure you cook food thoroughly (even if it takes you a little longer than 10 min)</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-1618325372303-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-1618325372303-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-1618325372303-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-1618325372303-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-1618325372303-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Now, let's get started!</strong></p><p>Boil a full kettle</p><p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>vegetable oil</strong> over a medium-low heat</p><p>Top, tail and cut your <strong>courgette[s]</strong> in half, then slice finely</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once hot, add your <strong>red Thai curry paste</strong>, <strong>ginger paste</strong>, <strong>ground turmeric</strong> and <strong>chilli flakes</strong> (can't handle the heat? Go easy!) to the pan and cook for 30 secs</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Chop your <strong>creamed coconut</strong> roughly (if required!)</p><p>Add the<strong> chopped creamed coconut</strong> to the pan with 450ml <span class=\"text-purple\">[600ml]</span> <span class=\"text-danger\">[750ml]</span> <strong>boiled water</strong>, give everything a good mix up and bring to the boil over a high heat</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, add your<strong> fine egg noodles </strong>to a large bowl, cover them with <strong>boiled water</strong> until fully submerged and stir for 10 secs until the noodles separate</p><p>Set aside to soak for 4 min, or until softened</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Drain, then add your <strong>king prawns</strong> and <strong>sliced courgette</strong> to the pan with your <strong>soy sauce</strong>, the juice of <strong>half</strong> your<strong> lime[s]</strong> and 1 tsp <span class=\"text-purple\">[1 1/2 tsp]</span> <span class=\"text-danger\">[2 tsp]</span> <strong>sugar</strong></p><p>Cook for 4-5 min or until the courgette is tender with a bite and the prawns are cooked through</p><p>Note: Please make sure you cook your prawns thoroughly (until piping hot!) as cooking equipment varies</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>While the prawns are cooking, cut the <strong>remaining lime</strong> into 1 wedge per person</p><p>Drain the <strong>softened noodles</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1761.-step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the<strong> drained noodles</strong> in bowls and pour over the <strong>king</strong> <strong>prawn & courgette soup</strong></p><p>Garnish with the a <strong>lime wedge</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "egg",
+      "slug": "egg"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "crustacean",
+      "slug": "crustacean"
+    },
+    {
+      "title": "mollusc",
+      "slug": "mollusc"
+    },
+    {
+      "title": "soya",
+      "slug": "soya"
+    }
+  ],
+  "seo": {
+    "title": "Prawn & Courgette Noodle Soup",
+    "description": "You'll have this noodle soup on the table in minutes. While the egg noodles soak, you'll make a speedy, punchy broth packed with courgette and coconut cream to cool it all down. Soak, simmer, done!",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/1761-2_Prawn--Courgette-Noodle-Soup_001_0-1688027520845.jpg"
+  },
+  "tags": [],
+  "uid": "blt6d63d9431da9bbf0",
+  "_version": 2368,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 133,
+      "energy_kj": 557,
+      "fat_mg": 3763,
+      "fat_saturates_mg": 2739,
+      "carbs_mg": 17910,
+      "carbs_sugars_mg": 1769,
+      "fibre_mg": 1361,
+      "protein_mg": 6891,
+      "salt_mg": 911,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 441,
+      "energy_kj": 1839,
+      "fat_mg": 12420,
+      "fat_saturates_mg": 9039,
+      "carbs_mg": 59104,
+      "carbs_sugars_mg": 5839,
+      "fibre_mg": 4494,
+      "protein_mg": 22743,
+      "salt_mg": 3007,
+      "net_weight_mg": 330000
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 1,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+          "code": "I-05-FVG-FV-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+          "code": "I-06-SML-CL-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "814b025e-917f-4a7f-9cff-6c5b97ba50cb",
+          "code": "I-03-GRN-PA-65",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "88966efb-30c6-425b-9a90-0e6087c8b326",
+          "code": "I-08-SAU-PS-46",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "abb2d5af-131e-4e82-9546-705ab185cc37",
+          "code": "I-06-SML-DL-14",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+          "code": "I-05-FVG-FV-11",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "a3a2f2db-208c-49ba-905d-b51885be42b3",
+          "code": "IQ-10-MPF-SE-59",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "84cc9e51-a2e2-4fd7-9fc4-42006c6c5c85",
+          "code": "I-08-SAU-PS-67",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+          "code": "I-06-SML-CO-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "3c07d126-f655-437c-aa1d-c38dbbae0398",
+          "code": "I-06-SML-OT-05",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+          "code": "I-05-FVG-FV-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "e005cb1e-5d67-45e3-8728-187e9bc0812c",
+          "code": "I-06-SML-CL-04",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "c183d798-492c-4b03-8729-21e57f828e89",
+          "code": "I-03-GRN-PA-64",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "88966efb-30c6-425b-9a90-0e6087c8b326",
+          "code": "I-08-SAU-PS-46",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "44c1fcff-fadf-4b69-9d80-3d0b0baa38a2",
+          "code": "I-06-SML-IN-20",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+          "code": "I-05-FVG-FV-11",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "48c7b19a-f68a-4b5d-91ca-cab712024589",
+          "code": "IQ-10-MPF-SE-48",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "84cc9e51-a2e2-4fd7-9fc4-42006c6c5c85",
+          "code": "I-08-SAU-PS-67",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+          "code": "I-06-SML-CO-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+          "code": "I-06-SML-OT-14",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 3,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+          "code": "I-05-FVG-FV-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "e005cb1e-5d67-45e3-8728-187e9bc0812c",
+          "code": "I-06-SML-CL-04",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "814b025e-917f-4a7f-9cff-6c5b97ba50cb",
+          "code": "I-03-GRN-PA-65",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "c183d798-492c-4b03-8729-21e57f828e89",
+          "code": "I-03-GRN-PA-64",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "88966efb-30c6-425b-9a90-0e6087c8b326",
+          "code": "I-08-SAU-PS-46",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "44c1fcff-fadf-4b69-9d80-3d0b0baa38a2",
+          "code": "I-06-SML-IN-20",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+          "code": "I-05-FVG-FV-11",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "48c7b19a-f68a-4b5d-91ca-cab712024589",
+          "code": "IQ-10-MPF-SE-48",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "a3a2f2db-208c-49ba-905d-b51885be42b3",
+          "code": "IQ-10-MPF-SE-59",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "84cc9e51-a2e2-4fd7-9fc4-42006c6c5c85",
+          "code": "I-08-SAU-PS-67",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+          "code": "I-06-SML-CO-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "3c07d126-f655-437c-aa1d-c38dbbae0398",
+          "code": "I-06-SML-OT-05",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+          "code": "I-06-SML-OT-14",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+          "code": "I-05-FVG-FV-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "e005cb1e-5d67-45e3-8728-187e9bc0812c",
+          "code": "I-06-SML-CL-04",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "c183d798-492c-4b03-8729-21e57f828e89",
+          "code": "I-03-GRN-PA-64",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "88966efb-30c6-425b-9a90-0e6087c8b326",
+          "code": "I-08-SAU-PS-46",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "44c1fcff-fadf-4b69-9d80-3d0b0baa38a2",
+          "code": "I-06-SML-IN-20",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+          "code": "I-05-FVG-FV-11",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "48c7b19a-f68a-4b5d-91ca-cab712024589",
+          "code": "IQ-10-MPF-SE-48",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "84cc9e51-a2e2-4fd7-9fc4-42006c6c5c85",
+          "code": "I-08-SAU-PS-67",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+          "code": "I-06-SML-CO-13",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+          "code": "I-06-SML-OT-14",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 5,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+          "code": "I-05-FVG-FV-03",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "e005cb1e-5d67-45e3-8728-187e9bc0812c",
+          "code": "I-06-SML-CL-04",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "814b025e-917f-4a7f-9cff-6c5b97ba50cb",
+          "code": "I-03-GRN-PA-65",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "c183d798-492c-4b03-8729-21e57f828e89",
+          "code": "I-03-GRN-PA-64",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "88966efb-30c6-425b-9a90-0e6087c8b326",
+          "code": "I-08-SAU-PS-46",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "44c1fcff-fadf-4b69-9d80-3d0b0baa38a2",
+          "code": "I-06-SML-IN-20",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+          "code": "I-05-FVG-FV-11",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "48c7b19a-f68a-4b5d-91ca-cab712024589",
+          "code": "IQ-10-MPF-SE-48",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "a3a2f2db-208c-49ba-905d-b51885be42b3",
+          "code": "IQ-10-MPF-SE-59",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "84cc9e51-a2e2-4fd7-9fc4-42006c6c5c85",
+          "code": "I-08-SAU-PS-67",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+          "code": "I-06-SML-CO-13",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "3c07d126-f655-437c-aa1d-c38dbbae0398",
+          "code": "I-06-SML-OT-05",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+          "code": "I-06-SML-OT-14",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    }
+  ]
+}

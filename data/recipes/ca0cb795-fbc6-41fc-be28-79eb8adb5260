@@ -1,0 +1,965 @@
+{
+  "url": "/zingy-chicken-with-vegetable-rice",
+  "title": "Zingy Chicken With Vegetable Brown Rice",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "5009",
+  "gousto_uid": "ca0cb795-fbc6-41fc-be28-79eb8adb5260",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4864_Zingy-Chicken-With-Vegetable-Rice_002_0-1683797492663-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4864_Zingy-Chicken-With-Vegetable-Rice_002_0-1683797492663-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4864_Zingy-Chicken-With-Vegetable-Rice_002_0-1683797492663-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4864_Zingy-Chicken-With-Vegetable-Rice_002_0-1683797492663-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/4864_Zingy-Chicken-With-Vegetable-Rice_002_0-1683797492663-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 2155
+  },
+  "description": "Put some zing in your step with this Gousto twist on good old chicken and rice. You’ll drizzle tangy Asian-inspired dressing over juicy chicken breast, then serve with colourful mangetout and carrot ribbons.",
+  "prep_times": {
+    "for_2": 30,
+    "for_4": 40
+  },
+  "cuisine": {
+    "slug": "asian",
+    "title": "Asian"
+  },
+  "ingredients": [
+    {
+      "label": "15ml rice vinegar",
+      "title": "rice vinegar-I-08-SAU-LS-28",
+      "uid": "blt7a7555dc13581d6f",
+      "gousto_uuid": "d6d25e38-aefd-4e18-972b-fe0eb9378ca8",
+      "name": "rice vinegar",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-rice-vinegar-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-rice-vinegar-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-rice-vinegar-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-rice-vinegar-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-rice-vinegar-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "130g long grain brown rice",
+      "title": "brown long grain rice-IQ-03-GRN-RC-38-02",
+      "uid": "blt3956fcf41c86bd89",
+      "gousto_uuid": "39e0c941-6dad-405a-9987-2b662c32bcd8",
+      "name": "brown long grain rice",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-brown-rice-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-brown-rice-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-brown-rice-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-brown-rice-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-brown-rice-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "15g fresh root ginger",
+      "title": "fresh root ginger-I-06-SML-OT-25",
+      "uid": "bltc22d54e029ba9745",
+      "gousto_uuid": "43c515bb-1548-41df-b08e-f10fa8369172",
+      "name": "fresh root ginger",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "10ml toasted sesame oil",
+      "title": "toasted sesame oil-I-08-SAU-LS-40",
+      "uid": "blt6f1e023be8b485ba",
+      "gousto_uuid": "68941ea3-449d-4ce5-8fd5-f83ef98b1d69",
+      "name": "toasted sesame oil",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sesame"
+          },
+          {
+            "title": null,
+            "slug": "fish"
+          },
+          {
+            "title": null,
+            "slug": "peanut"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          },
+          {
+            "title": null,
+            "slug": "nut"
+          },
+          {
+            "title": null,
+            "slug": "celery"
+          },
+          {
+            "title": null,
+            "slug": "mustard"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1/2 tsp dried chilli flakes",
+      "title": "dried chilli flakes-I-06-SML-CL-03",
+      "uid": "bltc941509f43a536f0",
+      "gousto_uuid": "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+      "name": "dried chilli flakes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "15ml tamari soy sauce",
+      "title": "tamari soy sauce-I-06-SML-OT-16",
+      "uid": "blt3e4377abf25dd223",
+      "gousto_uuid": "4d9b777f-b6fe-4cc5-b613-52a724079e5f",
+      "name": "tamari soy sauce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "2 British chicken breast portions",
+      "title": "British chicken breast portions-I-10-MPF-PO-45",
+      "uid": "blt74bdd7e596c869f4",
+      "gousto_uuid": "1eef05cd-1b5c-45ca-8a9c-f3bb72d70947",
+      "name": "British chicken breast portions",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chicken-breast-edit-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chicken-breast-edit-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chicken-breast-edit-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chicken-breast-edit-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Chicken-breast-edit-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 carrot",
+      "title": "carrot-I-05-FVG-VG-02",
+      "uid": "bltecb864411e0c0684",
+      "gousto_uuid": "4cd305c4-d372-4d9f-8110-dae88209ce57",
+      "name": "carrot",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "30ml mirin",
+      "title": "mirin-I-08-SAU-LS-27",
+      "uid": "blt2ccf505efc9077b3",
+      "gousto_uuid": "7eb70cf4-458d-4be8-b513-972188692b59",
+      "name": "mirin",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mirin-sachet-15ml-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mirin-sachet-15ml-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mirin-sachet-15ml-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mirin-sachet-15ml-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mirin-sachet-15ml-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "80g mangetout",
+      "title": "mangetout-I-05-FVG-PD-02-01",
+      "uid": "bltd407b1f1069ae094",
+      "gousto_uuid": "b54cc858-8ac5-4bcc-b0b3-17f88960a94e",
+      "name": "mangetout",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/mangetout-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/mangetout-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/mangetout-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/mangetout-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/mangetout-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 spring onion",
+      "title": "spring onion-I-07-HBS-PL-10",
+      "uid": "blt7f30073f4f7cf590",
+      "gousto_uuid": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+      "name": "spring onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 garlic cloves",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Sugar",
+      "slug": "sugar"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Before you start cooking, take your <strong>chicken</strong> out of the fridge, open the packet and let it air</p><p>Rinse the<strong> long grain brown rice</strong>, add it to a pot with plenty of <strong>cold water</strong> and bring to the boil over a high heat</p><p>Once boiling, reduce the heat to medium and cook for 15-20 min or until it's tender with a slight bite</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1683889549412-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1683889549412-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1683889549412-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1683889549412-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1683889549412-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, peel (scrape the skin off with a teaspoon) and finely chop (or grate) the <strong>ginger</strong></p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1683889553805-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1683889553805-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1683889553805-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1683889553805-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1683889553805-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Combine the <strong>chopped ginger</strong>, <strong>mirin</strong>, <strong>toasted</strong> <strong>sesame oil</strong>,<strong> rice vinegar</strong>, <strong>tamari</strong> <strong>soy sauce</strong>, <strong>chilli flakes</strong> (can't handle the heat? Go easy!), 1/2 tsp <span class=\"text-danger\">[1 tsp] </span><strong>sugar</strong> and a pinch of <strong>salt</strong> in a bowl and give everything a good mix up – this is your <strong>zingy</strong> <strong>sauce</strong></p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1683889560711-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1683889560711-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1683889560711-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1683889560711-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1683889560711-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>chicken breast portions </strong>to a chopping board</p><p>Slice through the thickest part of the chicken breast being careful not to cut all the way through to the other side and open it out like a book</p><p>Cover with<strong> cling film</strong> and bash with a <strong>rolling pin</strong> until you have an even thickness – this is your <strong>butterflied chicken</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1683889564632-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1683889564632-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1683889564632-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1683889564632-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1683889564632-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>olive oil</strong> over a high heat</p><p>Once hot, add the <strong>butterflied chicken</strong> and cook for 4 min on each side until golden, then reduce the heat to medium</p><p>Add the <strong>zingy</strong> <strong>sauce </strong>and cook for a further 3-4 min or until cooked through (no pink meat!)</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1683889568540-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1683889568540-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1683889568540-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1683889568540-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1683889568540-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, peel and finely chop (or grate) the <strong>garlic</strong></p><p>Trim, then slice the <strong>spring onion<span class=\"text-danger\">[s]</span></strong> finely</p><p>Peel the <strong>carrot<span class=\"text-danger\">[s]</span></strong>, then continue to peel lengths until you end up with a pile of carrot ribbons</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1683889572427-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1683889572427-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1683889572427-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1683889572427-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1683889572427-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the rice is nearly tender, add the <strong>chopped garlic</strong> and <strong>mangetout</strong> to the same pot</p><p>Cook for a further 5 min before draining everything</p><p>Once drained, season with a generous pinch of <strong>salt</strong> and <strong>pepper</strong> and stir through the<strong> carrot ribbons</strong> until they've softened slightly – this is your <strong>vegetable rice</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1683889575866-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1683889575866-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1683889575866-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1683889575866-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1683889575866-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Transfer the <strong>cooked chicken </strong>to a clean chopping board and slice – this is your <strong>zingy chicken</strong></p><p>Serve the<strong> zingy chicken</strong> with the <strong>vegetable rice</strong> to the side</p><p>Pour over any <strong>remaining</strong> <strong>zingy</strong> <strong>sauce </strong>and garnish with the <strong>sliced spring onion</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    },
+    {
+      "title": "fish",
+      "slug": "fish"
+    },
+    {
+      "title": "peanut",
+      "slug": "peanut"
+    },
+    {
+      "title": "nut",
+      "slug": "nut"
+    },
+    {
+      "title": "celery",
+      "slug": "celery"
+    },
+    {
+      "title": "mustard",
+      "slug": "mustard"
+    }
+  ],
+  "seo": {
+    "title": "Zingy Chicken With Vegetable Rice",
+    "description": "Put some zing in your step with this Gousto twist on good old chicken and rice. You’ll drizzle tangy Asian-inspired dressing over juicy chicken breast, then serve with colourful mangetout and carrot ribbons.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/4864_Zingy-Chicken-With-Vegetable-Rice_002_0-1683797492663.jpg"
+  },
+  "tags": [],
+  "uid": "blt1103e9b0c014c26a",
+  "_version": 2183,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 149,
+      "energy_kj": 632,
+      "fat_mg": 2347,
+      "fat_saturates_mg": 417,
+      "carbs_mg": 19542,
+      "carbs_sugars_mg": 3581,
+      "fibre_mg": 1003,
+      "protein_mg": 11503,
+      "salt_mg": 469,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 499,
+      "energy_kj": 2107,
+      "fat_mg": 7818,
+      "fat_saturates_mg": 1391,
+      "carbs_mg": 65076,
+      "carbs_sugars_mg": 11928,
+      "fibre_mg": 3340,
+      "protein_mg": 38307,
+      "salt_mg": 1565,
+      "net_weight_mg": 333000
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+          "code": "I-07-HBS-PL-10",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b54cc858-8ac5-4bcc-b0b3-17f88960a94e",
+          "code": "I-05-FVG-PD-02-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4cd305c4-d372-4d9f-8110-dae88209ce57",
+          "code": "I-05-FVG-VG-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4d9b777f-b6fe-4cc5-b613-52a724079e5f",
+          "code": "I-06-SML-OT-16",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "7eb70cf4-458d-4be8-b513-972188692b59",
+          "code": "I-08-SAU-LS-27",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d6d25e38-aefd-4e18-972b-fe0eb9378ca8",
+          "code": "I-08-SAU-LS-28",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "1eef05cd-1b5c-45ca-8a9c-f3bb72d70947",
+          "code": "I-10-MPF-PO-45",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+          "code": "I-06-SML-CL-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "43c515bb-1548-41df-b08e-f10fa8369172",
+          "code": "I-06-SML-OT-25",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "68941ea3-449d-4ce5-8fd5-f83ef98b1d69",
+          "code": "I-08-SAU-LS-40",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "39e0c941-6dad-405a-9987-2b662c32bcd8",
+          "code": "IQ-03-GRN-RC-38-02",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+          "code": "I-07-HBS-PL-10",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "b54cc858-8ac5-4bcc-b0b3-17f88960a94e",
+          "code": "I-05-FVG-PD-02-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4cd305c4-d372-4d9f-8110-dae88209ce57",
+          "code": "I-05-FVG-VG-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4d9b777f-b6fe-4cc5-b613-52a724079e5f",
+          "code": "I-06-SML-OT-16",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "7eb70cf4-458d-4be8-b513-972188692b59",
+          "code": "I-08-SAU-LS-27",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d6d25e38-aefd-4e18-972b-fe0eb9378ca8",
+          "code": "I-08-SAU-LS-28",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "1eef05cd-1b5c-45ca-8a9c-f3bb72d70947",
+          "code": "I-10-MPF-PO-45",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+          "code": "I-06-SML-CL-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "43c515bb-1548-41df-b08e-f10fa8369172",
+          "code": "I-06-SML-OT-25",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "68941ea3-449d-4ce5-8fd5-f83ef98b1d69",
+          "code": "I-08-SAU-LS-40",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "39e0c941-6dad-405a-9987-2b662c32bcd8",
+          "code": "IQ-03-GRN-RC-38-02",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    }
+  ]
+}

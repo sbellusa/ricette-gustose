@@ -1,0 +1,937 @@
+{
+  "url": "/summery-salmon-pea-pesto-spaghetti",
+  "title": "Summery Salmon & Pea Pesto Spaghetti",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "3576",
+  "gousto_uid": "bcffc604-7a0a-4b6b-a874-92da57323da0",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3435-2_Summery-Salmon--Pea-Pesto-Spaghetti_003_0-1693819086617-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3435-2_Summery-Salmon--Pea-Pesto-Spaghetti_003_0-1693819086617-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3435-2_Summery-Salmon--Pea-Pesto-Spaghetti_003_0-1693819086617-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3435-2_Summery-Salmon--Pea-Pesto-Spaghetti_003_0-1693819086617-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3435-2_Summery-Salmon--Pea-Pesto-Spaghetti_003_0-1693819086617-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 6223
+  },
+  "description": "Whip up this summery pasta in no time. You'll coat your spaghetti in a creamy pesto sauce, bursting with sweet peas, tender salmon and tangy sun-dried tomato. Season with a generous grind of black pepper before serving. ",
+  "prep_times": {
+    "for_2": 15,
+    "for_4": 20
+  },
+  "cuisine": {
+    "slug": "fusion",
+    "title": "Fusion"
+  },
+  "ingredients": [
+    {
+      "label": "Spaghetti (190g)",
+      "title": "spaghetti-I-03-GRN-PA-40",
+      "uid": "blt24d85a164eaf8302",
+      "gousto_uuid": "8deb2d63-8771-4bd0-8a9b-55cf5d96a2bc",
+      "name": "spaghetti",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/spaghetti-190g-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/spaghetti-190g-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/spaghetti-190g-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/spaghetti-190g-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/spaghetti-190g-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "egg"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Soft cheese (50g)",
+      "title": "soft cheese-I-09-DAI-CR-15",
+      "uid": "blt5d5a607d98da4457",
+      "gousto_uuid": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+      "name": "soft cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Sun-dried tomatoes (30g)",
+      "title": "sun-dried tomatoes-I-08-SAU-PS-74",
+      "uid": "bltee23cc1e5dda047c",
+      "gousto_uuid": "da1c404f-d1fd-47f5-ae8b-36cb93e281f3",
+      "name": "sun-dried tomatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Sundried-tomatoes---hydrated--x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Sundried-tomatoes---hydrated--x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Sundried-tomatoes---hydrated--x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Sundried-tomatoes---hydrated--x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Sundried-tomatoes---hydrated--x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Traditional Italian pesto (45g)",
+      "title": "traditional Italian pesto-I-08-SAU-PS-71",
+      "uid": "bltf5b5feb83b73caab",
+      "gousto_uuid": "89dff518-1f85-45d5-819d-28ff8f724133",
+      "name": "traditional Italian pesto",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/45g-classic-basil-nut-pesto-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/45g-classic-basil-nut-pesto-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/45g-classic-basil-nut-pesto-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/45g-classic-basil-nut-pesto-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/45g-classic-basil-nut-pesto-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Vegetable stock mix (5.5g)",
+      "title": "vegetable stock mix-I-06-SML-SC-26",
+      "uid": "blt0ca5e580e2d973c5",
+      "gousto_uuid": "166bfad3-d300-465d-b61c-fef4d2965904",
+      "name": "vegetable stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Salmon flakes (100g)",
+      "title": "salmon flakes-I-10-MPF-SE-47",
+      "uid": "blt341f4d1b1266fa1b",
+      "gousto_uuid": "9d133c08-204d-4dfe-8232-93930522a871",
+      "name": "salmon flakes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Steamed-Salmon-Flakes-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Steamed-Salmon-Flakes-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Steamed-Salmon-Flakes-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Steamed-Salmon-Flakes-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Steamed-Salmon-Flakes-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "fish"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Blanched peas (160g)",
+      "title": "blanched peas-IQ-05-FVG-PD-13-01",
+      "uid": "blt732a710c86e7ffb1",
+      "gousto_uuid": "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+      "name": "blanched peas",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-peas-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-peas-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-peas-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-peas-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-peas-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Garlic clove",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Water",
+      "slug": "water"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Boil a full kettle</p><p>Add your <strong>spaghetti</strong> to a pot of <strong>boiled water</strong> with a large pinch of <strong>salt</strong> and bring to the boil over a high heat</p><p>Cook the<strong> spaghetti </strong>for 8-10 min or until cooked with a slight bite</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1625571853913-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1625571853913-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1625571853913-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1625571853913-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1625571853913-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Reboil half a kettle</p><p>While the spaghetti is cooking, peel and finely chop (or grate) your <strong>garlic</strong></p><p>Slice your <strong>sun-dried tomatoes </strong>finely</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1625571857773-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1625571857773-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1625571857773-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1625571857773-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1625571857773-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Combine your <strong>soft cheese</strong>,<strong> pesto </strong>and<strong> vegetable stock mix</strong> with 150ml <span class=\"text-purple\">[195ml]</span> <span class=\"text-danger\">[255ml]</span> <strong>boiled water</strong> – this is your <strong>creamy pesto stock</strong></p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1625571861702-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1625571861702-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1625571861702-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1625571861702-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1625571861702-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>olive oil </strong>over a medium heat</p><p>Once hot, add the <strong>chopped garlic</strong> and most of the <strong>sliced sun-dried tomatoes</strong> (save a little for garnish!) and cook for 1-2 min or until the garlic has softened</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1625571871801-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1625571871801-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1625571871801-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1625571871801-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1625571871801-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>creamy pesto stock</strong> to the pan</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1625571877513-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1625571877513-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1625571877513-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1625571877513-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1625571877513-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add your<strong> salmon flakes</strong> and give everything a good mix up</p><p>Season with a generous grind of <strong>black pepper </strong>and cook for 1-2 min or until the sauce has thickened slightly</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1625571881901-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1625571881901-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1625571881901-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1625571881901-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1625571881901-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the spaghetti is almost cooked, add your <strong>blanched peas</strong> to the pot and allow to warm through for 1 min</p><p>Once done, drain the <strong>spaghetti</strong> <strong>& peas</strong>, reserving 50ml <span class=\"text-purple\">[65ml]</span> <span class=\"text-danger\">[85ml]</span> <strong>starchy pasta water</strong></p><p>Add the <strong>drained spaghetti &</strong> <strong>peas</strong> to the pan with the<strong> reserved starchy pasta water</strong>, stir to combine and cook for 1 min further</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1625571885980-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1625571885980-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1625571885980-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1625571885980-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1625571885980-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>summery</strong> <strong>salmon & pea spaghetti</strong> with the <strong>remaining sliced sun-dried tomatoes </strong>on top</p><p>Season with a final grind of <strong>black pepper</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "fish",
+      "slug": "fish"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "egg",
+      "slug": "egg"
+    }
+  ],
+  "seo": {
+    "title": "Summery Salmon & Pea Pesto Spaghetti",
+    "description": "\"Whip up this summery pasta in no time. Add sweet peas, steamed salmon and sun-dried tomato to creamy pesto spaghetti. Winner!\"",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/3435-2_Summery-Salmon--Pea-Pesto-Spaghetti_003_0-1693819086617.jpg"
+  },
+  "tags": [],
+  "uid": "bltfe5c45a03f808940",
+  "_version": 6305,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 241,
+      "energy_kj": 1015,
+      "fat_mg": 9554,
+      "fat_saturates_mg": 2489,
+      "carbs_mg": 28333,
+      "carbs_sugars_mg": 3517,
+      "fibre_mg": 3105,
+      "protein_mg": 10234,
+      "salt_mg": 925,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 709,
+      "energy_kj": 2978,
+      "fat_mg": 28020,
+      "fat_saturates_mg": 7301,
+      "carbs_mg": 83087,
+      "carbs_sugars_mg": 10316,
+      "fibre_mg": 9108,
+      "protein_mg": 30012,
+      "salt_mg": 2714,
+      "net_weight_mg": 293250
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 1,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+          "code": "IQ-05-FVG-PD-13-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "9d133c08-204d-4dfe-8232-93930522a871",
+          "code": "I-10-MPF-SE-47",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8deb2d63-8771-4bd0-8a9b-55cf5d96a2bc",
+          "code": "I-03-GRN-PA-40",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "da1c404f-d1fd-47f5-ae8b-36cb93e281f3",
+          "code": "I-08-SAU-PS-74",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "89dff518-1f85-45d5-819d-28ff8f724133",
+          "code": "I-08-SAU-PS-71",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+          "code": "IQ-05-FVG-PD-13-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "9d133c08-204d-4dfe-8232-93930522a871",
+          "code": "I-10-MPF-SE-47",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "8deb2d63-8771-4bd0-8a9b-55cf5d96a2bc",
+          "code": "I-03-GRN-PA-40",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "da1c404f-d1fd-47f5-ae8b-36cb93e281f3",
+          "code": "I-08-SAU-PS-74",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "89dff518-1f85-45d5-819d-28ff8f724133",
+          "code": "I-08-SAU-PS-71",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 3,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+          "code": "IQ-05-FVG-PD-13-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "9d133c08-204d-4dfe-8232-93930522a871",
+          "code": "I-10-MPF-SE-47",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "8deb2d63-8771-4bd0-8a9b-55cf5d96a2bc",
+          "code": "I-03-GRN-PA-40",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "da1c404f-d1fd-47f5-ae8b-36cb93e281f3",
+          "code": "I-08-SAU-PS-74",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "89dff518-1f85-45d5-819d-28ff8f724133",
+          "code": "I-08-SAU-PS-71",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+          "code": "IQ-05-FVG-PD-13-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "9d133c08-204d-4dfe-8232-93930522a871",
+          "code": "I-10-MPF-SE-47",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "8deb2d63-8771-4bd0-8a9b-55cf5d96a2bc",
+          "code": "I-03-GRN-PA-40",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "da1c404f-d1fd-47f5-ae8b-36cb93e281f3",
+          "code": "I-08-SAU-PS-74",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "89dff518-1f85-45d5-819d-28ff8f724133",
+          "code": "I-08-SAU-PS-71",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 5,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+          "code": "IQ-05-FVG-PD-13-01",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "9d133c08-204d-4dfe-8232-93930522a871",
+          "code": "I-10-MPF-SE-47",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+          "code": "I-09-DAI-CR-15",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "8deb2d63-8771-4bd0-8a9b-55cf5d96a2bc",
+          "code": "I-03-GRN-PA-40",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "da1c404f-d1fd-47f5-ae8b-36cb93e281f3",
+          "code": "I-08-SAU-PS-74",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "89dff518-1f85-45d5-819d-28ff8f724133",
+          "code": "I-08-SAU-PS-71",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 3
+          }
+        }
+      ]
+    }
+  ]
+}

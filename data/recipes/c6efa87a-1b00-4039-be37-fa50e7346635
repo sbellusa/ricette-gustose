@@ -1,0 +1,634 @@
+{
+  "url": "/pomegranate-glazed-kofta",
+  "title": "Pomegranate Glazed Kofta",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "201",
+  "gousto_uid": "c6efa87a-1b00-4039-be37-fa50e7346635",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/210.PomegranateGlazedKofta-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/210.PomegranateGlazedKofta-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/210.PomegranateGlazedKofta-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/210.PomegranateGlazedKofta-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/210.PomegranateGlazedKofta-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 551
+  },
+  "description": "The Gousto twist: Here we have given the classic kofta a bit of a re-vamp. Scorching hot from under the grill, you'll coat these little lamb meatballs in pomegranate molasses. Sticky and sour, they are then rolled in toasted pine nuts for a delicious crumb crust.",
+  "prep_times": {
+    "for_2": 35,
+    "for_4": 35
+  },
+  "cuisine": {
+    "slug": "middle-eastern",
+    "title": "Middle Eastern"
+  },
+  "ingredients": [
+    {
+      "label": "300g British lamb mince",
+      "title": "British lamb mince-I-10-MPF-ME-111",
+      "uid": "blt4d6b063b1f9a9a48",
+      "gousto_uuid": "6b169ed1-5fb7-47f8-9265-437b39a47746",
+      "name": "British lamb mince",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-lamb-mince-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-lamb-mince-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-lamb-mince-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-lamb-mince-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/british-lamb-mince-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 bag of pine nuts",
+      "title": "pine nuts-I-04-NUT-NT-05-30",
+      "uid": "bltc7c7d1c66874d587",
+      "gousto_uuid": "7f17b3ed-46f6-481e-85ab-857d1d201d20",
+      "name": "pine nuts",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pinenuts-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pinenuts-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pinenuts-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pinenuts-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pinenuts-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "peanut"
+          },
+          {
+            "title": null,
+            "slug": "nut"
+          },
+          {
+            "title": null,
+            "slug": "sesame"
+          }
+        ]
+      }
+    },
+    {
+      "label": "10g fresh mint",
+      "title": "mint-I-07-HBS-PL-18",
+      "uid": "blt4917b824e9da6a94",
+      "gousto_uuid": "30a51d70-fcaf-4ed8-975d-9c0599d8492a",
+      "name": "mint",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Mint-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Mint-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Mint-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Mint-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Mint-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "120g organic natural yoghurt",
+      "title": "natural yoghurt-IQ-09-DAI-CR-06-02",
+      "uid": "blte333f1192f6699e9",
+      "gousto_uuid": "90a3c2fa-9838-4d72-bc02-b545ba673edf",
+      "name": "natural yoghurt",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "fish"
+          },
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "sulphites"
+          },
+          {
+            "title": null,
+            "slug": "celery"
+          },
+          {
+            "title": null,
+            "slug": "mustard"
+          },
+          {
+            "title": null,
+            "slug": "sesame"
+          },
+          {
+            "title": null,
+            "slug": "milk"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          },
+          {
+            "title": null,
+            "slug": "egg"
+          },
+          {
+            "title": null,
+            "slug": "lupin"
+          },
+          {
+            "title": null,
+            "slug": "crustacean"
+          },
+          {
+            "title": null,
+            "slug": "mollusc"
+          },
+          {
+            "title": null,
+            "slug": "nut"
+          },
+          {
+            "title": null,
+            "slug": "peanut"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 garlic clove",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "120g couscous",
+      "title": "couscous-IQ-03-GRN-FL-03-03",
+      "uid": "blt29322c298e84bdc1",
+      "gousto_uuid": "c22b05a4-f2db-4522-be07-2273a960b483",
+      "name": "couscous",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/couscous-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/couscous-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/couscous-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/couscous-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/couscous-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 tsp fennel seeds",
+      "title": "fennel seeds-IQ-06-SML-SD-03-08",
+      "uid": "blt9aef1add173b149d",
+      "gousto_uuid": "5704ac4a-8a97-45ec-a336-9dcc004c536b",
+      "name": "fennel seeds",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-fennel-seeds-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-fennel-seeds-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-fennel-seeds-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-fennel-seeds-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-fennel-seeds-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 tbsp pomegranate molasses",
+      "title": "pomegranate molasses-IQ-08-SAU-CD-03-01",
+      "uid": "blt2134d885214dcd84",
+      "gousto_uuid": "abbafe84-e55a-4ed4-804a-4e254d0ff1a2",
+      "name": "pomegranate molasses",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pomegranate-molasses-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pomegranate-molasses-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pomegranate-molasses-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pomegranate-molasses-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pomegranate-molasses-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "30g sultanas",
+      "title": "sultanas-IQ-04-NUT-DF-04-03",
+      "uid": "bltb330fbbf928754bb",
+      "gousto_uuid": "274dea3a-0316-4b3f-ac8a-7fbf2d03ad9d",
+      "name": "sultanas",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sultanas-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sultanas-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sultanas-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sultanas-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sultanas-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 red onion",
+      "title": "red onion-I-02-SVG-VG-05",
+      "uid": "bltc69ae0a09122a2b4",
+      "gousto_uuid": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Preheat</strong> the oven to 220&deg;C/ 200&deg;C (fan)/ 425&deg;F/ Gas 7</p>\r\n<p><strong>Peel</strong> and chop the onion<span class=\"text-danger\">(s)</span> into quarters</p>\r\n<p><strong>Coat</strong> well with 1-2 tbsp of olive oil and salt to taste on an oven tray</p>\r\n<p><strong>Put</strong> in the oven for 20 min, or until starting to caramelise (used in step 3)</p>",
+      "order": 1,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Combine</strong> the fennel seeds, lamb mince, salt and pepper to your taste</p>\r\n<p><strong>Form</strong> 4 <span class=\"text-danger\">(8)</span> oblong koftas, similar to a sausage shape</p>\r\n<p><strong>Cook</strong> in a pan on a high heat for 2 min or until brown all over, then add to the onion tray and cook for 8 min or until cooked through</p>\r\n<p><strong>Set</strong> aside for step 7</p>",
+      "order": 2,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Reserve</strong> the lamb pan (used in step 5)</p>\r\n<p><strong>Meanwhile</strong>, add the couscous and sultanas to a bowl with 200ml <span class=\"text-danger\">(400ml)</span> of boiling water- cover well and set aside for 10 min (used in step 6)</p>",
+      "order": 3,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Chop</strong> the mint finely, including the soft stems (used in step 6)</p>\r\n<p><strong>Crush</strong> the garlic with the side of a knife, peel it and mince very finely</p>\r\n<p><strong>Add</strong> the garlic to the yoghurt, season to your taste with salt and pepper and mix well</p>",
+      "order": 4,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Wipe</strong> off any leftover grease from the lamb pan</p>\r\n<p><strong>Add</strong> the pine nuts to the pan and cook for 2-3 min on a medium heat, or until lightly browned and aromatic</p>\r\n<p><strong>Bash</strong> the pine nuts in a pestle and mortar to form a crumb (alternatively, chop finely) and set aside (used in step 7)</p>",
+      "order": 5,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Peel</strong> apart the onion layers with your fingers (or a fork if too hot to handle) into petals</p>\r\n<p><strong>Add</strong> the onion petals, mint and 1-2 tsp of olive oil to the couscous bowl</p>\r\n<p><strong>Mix</strong> well and season to your taste with salt and pepper</p>",
+      "order": 6,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Drain</strong> and discard the fat from the koftas</p>\r\n<p><strong>Add</strong> the pomegranate molasses to a flat plate and gently roll the koftas in it</p>\r\n<p><strong>Coat</strong> the glazed koftas with the pine nuts</p>",
+      "order": 7,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Serve</strong> all the elements on the table and fill your bowl with these amazing flavours</p>\r\n<p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "peanut",
+      "slug": "peanut"
+    },
+    {
+      "title": "nut",
+      "slug": "nut"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "crustacean",
+      "slug": "crustacean"
+    },
+    {
+      "title": "egg",
+      "slug": "egg"
+    },
+    {
+      "title": "fish",
+      "slug": "fish"
+    },
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "celery",
+      "slug": "celery"
+    },
+    {
+      "title": "mustard",
+      "slug": "mustard"
+    },
+    {
+      "title": "sulphites",
+      "slug": "sulphites"
+    },
+    {
+      "title": "lupin",
+      "slug": "lupin"
+    },
+    {
+      "title": "mollusc",
+      "slug": "mollusc"
+    }
+  ],
+  "seo": {
+    "title": "Pomegranate Glazed Kofta",
+    "description": "The Gousto twist: Here we have given the classic kofta a bit of a re-vamp. Scorching hot from under the grill, you'll coat these little lamb meatballs in pomegranate molasses. Sticky and sour, they are then rolled in toasted pine nuts for a delicious crumb crust.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/210.PomegranateGlazedKofta.jpg"
+  },
+  "tags": [],
+  "uid": "bltca615303687ad213",
+  "_version": 47,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 209,
+      "energy_kj": 881,
+      "fat_mg": 8738,
+      "fat_saturates_mg": 3069,
+      "carbs_mg": 21225,
+      "carbs_sugars_mg": 7533,
+      "fibre_mg": 1027,
+      "protein_mg": 11465,
+      "salt_mg": 144,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 702,
+      "energy_kj": 2948,
+      "fat_mg": 29229,
+      "fat_saturates_mg": 10268,
+      "carbs_mg": 70998,
+      "carbs_sugars_mg": 25198,
+      "fibre_mg": 3437,
+      "protein_mg": 38352,
+      "salt_mg": 484,
+      "net_weight_mg": 334500
+    }
+  },
+  "portion_sizes": null
+}

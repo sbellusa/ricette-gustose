@@ -1,0 +1,981 @@
+{
+  "url": "/thai-inspired-butternut-squash-soup",
+  "title": "Thai-Style Butternut Squash Soup",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "5166",
+  "gousto_uid": "b7edb75f-357b-4e6c-84b3-bb51adcff671",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5011_Thai-Inspired-Butternut-Squash-Soup-V_002_0-1666196060940-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5011_Thai-Inspired-Butternut-Squash-Soup-V_002_0-1666196060940-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5011_Thai-Inspired-Butternut-Squash-Soup-V_002_0-1666196060940-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5011_Thai-Inspired-Butternut-Squash-Soup-V_002_0-1666196060940-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5011_Thai-Inspired-Butternut-Squash-Soup-V_002_0-1666196060940-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 790
+  },
+  "description": "For this Thai flavoured butternut squash soup you'll cook butternut squash in a fragrant coconut stock with lemongrass, chilli and ginger before blitzing until smooth and velvety. Top with peanuts and serve with warmed rotis for dipping. Soup-erb!",
+  "prep_times": {
+    "for_2": 35,
+    "for_4": 40
+  },
+  "cuisine": {
+    "slug": "thai",
+    "title": "Thai"
+  },
+  "ingredients": [
+    {
+      "label": "25g roasted peanuts",
+      "title": "roasted peanuts-I-04-NUT-SD-02-30",
+      "uid": "blt5c5286b5eabbcf21",
+      "gousto_uuid": "b2ed8a90-5335-4ba0-851b-2948f9426a00",
+      "name": "roasted peanuts",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Roasted-peanuts-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Roasted-peanuts-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Roasted-peanuts-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Roasted-peanuts-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Roasted-peanuts-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "peanut"
+          },
+          {
+            "title": null,
+            "slug": "nut"
+          },
+          {
+            "title": null,
+            "slug": "sesame"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 red chilli",
+      "title": "red chilli-I-05-FVG-FV-06",
+      "uid": "blt9449c22aa5aa8996",
+      "gousto_uuid": "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+      "name": "red chilli",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 whole butternut squash",
+      "title": "whole butternut squash-I-05-FVG-FV-23",
+      "uid": "blt15ab4f6c617df6b7",
+      "gousto_uuid": "135a58fe-8ee2-4a2d-975a-be85a331fd16",
+      "name": "whole butternut squash",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-whole-butternut-squash-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-whole-butternut-squash-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-whole-butternut-squash-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-whole-butternut-squash-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-whole-butternut-squash-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "4 rotis",
+      "title": "roti-I-11-BRD-BR-62",
+      "uid": "blt7650a59cb97a7d40",
+      "gousto_uuid": "37145a20-bbdc-4b7c-bda4-d5ed1d55af46",
+      "name": "roti",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/roti-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/roti-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/roti-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/roti-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/roti-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "15g fresh root ginger",
+      "title": "fresh root ginger-I-06-SML-OT-25",
+      "uid": "bltc22d54e029ba9745",
+      "gousto_uuid": "43c515bb-1548-41df-b08e-f10fa8369172",
+      "name": "fresh root ginger",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "11g vegetable stock mix",
+      "title": "vegetable stock mix-I-06-SML-SC-27",
+      "uid": "bltebbd714d321e7e43",
+      "gousto_uuid": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+      "name": "vegetable stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "25g solid creamed coconut",
+      "title": "solid creamed coconut-I-06-SML-CO-13",
+      "uid": "bltb15d406b19839742",
+      "gousto_uuid": "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+      "name": "solid creamed coconut",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "10g coriander",
+      "title": "coriander-I-07-HBS-PL-13",
+      "uid": "blt0c3cb2b678b3b373",
+      "gousto_uuid": "44417cd2-bdb0-48e2-b6a3-b75bdd8ba6b7",
+      "name": "coriander",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 fresh lemongrass stalk",
+      "title": "fresh lemongrass stalk-I-07-HBS-PL-40",
+      "uid": "blt77cb1bbb2dd44b40",
+      "gousto_uuid": "2476df32-b40f-4b37-8362-18bf91f454dd",
+      "name": "fresh lemongrass stalk",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-fresh-lemongrass-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-fresh-lemongrass-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-fresh-lemongrass-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-fresh-lemongrass-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-fresh-lemongrass-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "3 garlic cloves",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 lime",
+      "title": "lime-I-05-FVG-FV-11",
+      "uid": "blteca16c5afda2f93e",
+      "gousto_uuid": "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+      "name": "lime",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 pepper",
+      "title": "red pepper-I-05-FVG-FV-07",
+      "uid": "blt0f5f2591749c88e3",
+      "gousto_uuid": "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+      "name": "red pepper",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 red onion",
+      "title": "red onion-I-02-SVG-VG-05",
+      "uid": "bltc69ae0a09122a2b4",
+      "gousto_uuid": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Peel the <strong>butternut squash<span class=\"text-danger\">[es]</span></strong> and cut in half using a sharp knife</p><p>Scoop out the seeds with a spoon and discard</p><p>Chop the <strong>peeled butternut squash</strong> into bite-sized pieces</p><p>Peel and finely slice the <strong>red onion<span class=\"text-danger\">[s]</span></strong></p><p>Deseed the<strong> pepper<span class=\"text-danger\">[s]</span></strong> (scrape the seeds and pith out with a teaspoon) and chop into bite-sized pieces</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1666708508570-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1666708508570-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1666708508570-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1666708508570-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1666708508570-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Boil a kettle</p><p>Heat a large pot, with a lid, with a drizzle of <strong>vegetable oil</strong> over a medium heat</p><p>Once hot, add the <strong>sliced onion</strong>, <strong>chopped butternut squash </strong>and <strong>chopped pepper </strong>with a generous pinch of <strong>salt</strong> and<strong> pepper</strong> and cook for 6-8 min or until the vegetables are beginning to soften</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1666708513180-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1666708513180-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1666708513180-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1666708513180-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1666708513180-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, peel and roughly chop the <strong>garlic</strong> and peel (scrape the skin off with a teaspoon) and roughly chop (or grate) the <strong>ginger</strong></p><p>Slice the <strong>red chilli<span class=\"text-danger\">[es]</span></strong> finely and separate the <strong>coriander leaves</strong> from the stems</p><p>Bash the <strong>lemongrass</strong> with a <strong>rolling pin</strong>, then chop in half</p><p>Roll the <strong>lime<span class=\"text-danger\">[s]</span> </strong>with your hand on a hard surface (to release more juice) and cut in half</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1666708516844-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1666708516844-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1666708516844-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1666708516844-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1666708516844-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the vegetables have softened, add the <strong>chopped garlic</strong>, <strong>chopped ginger</strong>, <strong>coriander stems </strong>and <strong>half </strong>the <strong>coriander leaves </strong>(save some for garnish!) to the pot and mix it all together</p><p>Add the <strong>halved lemongrass</strong> and <strong>half</strong> the <strong>sliced chilli </strong>(can't handle the heat? Go easy!) and cook for 1-2 min further or until fragrant</p><p>Combine the <strong>creamed coconut</strong> and <strong>vegetable stock mix</strong> with 500ml <span class=\"text-danger\">[950ml]</span> <strong>boiled water</strong> – this is your <strong>coconut stock</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1666708520139-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1666708520139-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1666708520139-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1666708520139-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1666708520139-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once fragrant, add the <strong>coconut stock</strong> to the pot with the juice of 1/2 <span class=\"text-danger\">[1]</span> <strong>lime  </strong>and bring to the boil over a high heat</p><p>Once boiling, reduce the heat to medium and cook, covered, for 10-12 min or until the butternut squash is fork-tender</p><p>Cut the <strong>remaining lime</strong> into wedges</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1666708524050-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1666708524050-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1666708524050-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1666708524050-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1666708524050-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a large, dry, wide-based pan over a medium-high heat</p><p>Sprinkle the <strong>rotis </strong>with a little <strong>cold water</strong></p><p>Once hot, add the <strong>rotis</strong> to the pan and cook for 1-2 min on each side or until warmed through</p><p>Tip: Cooking for 4? You may need to do this in 2 batches!</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1666708527230-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1666708527230-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1666708527230-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1666708527230-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1666708527230-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Remove the pot from the heat and discard the cooked lemongrass</p><p>Blitz until smooth with a <strong>(stick) blender </strong>and<strong> </strong>season with a pinch<strong> </strong>of<strong> salt </strong>and<strong> pepper </strong>–<strong> </strong>this is your<strong> Thai-style butternut squash soup</strong></p><p>Tip: Add a splash of boiled water if the soup is looking a little thick!</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1666708530309-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1666708530309-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1666708530309-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1666708530309-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1666708530309-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>Thai-style butternut squash soup</strong> in bowls with the <strong>warmed rotis</strong> to the side</p><p>Top the soup with the <strong>peanuts</strong>, <strong>remaining sliced chilli </strong>(not a fan of spice? Just add a little!)<strong> </strong>and <strong>remaining coriander leaves</strong></p><p>Garnish with a <strong>lime wedge</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "peanut",
+      "slug": "peanut"
+    },
+    {
+      "title": "nut",
+      "slug": "nut"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    }
+  ],
+  "seo": {
+    "title": "Thai-Inspired Butternut Squash Soup",
+    "description": "For this Thai flavoured butternut squash soup you'll cook butternut squash in a fragrant coconut stock with lemongrass, chilli and ginger before blitzing until smooth and velvety. Top with peanuts and serve with warmed rotis for dipping. Soup-erb!",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/5011_Thai-Inspired-Butternut-Squash-Soup-V_002_0-1666196060940.jpg"
+  },
+  "tags": [],
+  "uid": "blt766d6f74f031c0a5",
+  "_version": 838,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 109,
+      "energy_kj": 431,
+      "fat_mg": 4050,
+      "fat_saturates_mg": 1766,
+      "carbs_mg": 15167,
+      "carbs_sugars_mg": 3518,
+      "fibre_mg": 1740,
+      "protein_mg": 3087,
+      "salt_mg": 342,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 637,
+      "energy_kj": 2502,
+      "fat_mg": 23492,
+      "fat_saturates_mg": 10245,
+      "carbs_mg": 87972,
+      "carbs_sugars_mg": 20408,
+      "fibre_mg": 10094,
+      "protein_mg": 17910,
+      "salt_mg": 1989,
+      "net_weight_mg": 580000
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "2476df32-b40f-4b37-8362-18bf91f454dd",
+          "code": "I-07-HBS-PL-40",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+          "code": "I-05-FVG-FV-11",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+          "code": "I-05-FVG-FV-06",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+          "code": "I-05-FVG-FV-07",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "135a58fe-8ee2-4a2d-975a-be85a331fd16",
+          "code": "I-05-FVG-FV-23",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "44417cd2-bdb0-48e2-b6a3-b75bdd8ba6b7",
+          "code": "I-07-HBS-PL-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "43c515bb-1548-41df-b08e-f10fa8369172",
+          "code": "I-06-SML-OT-25",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b2ed8a90-5335-4ba0-851b-2948f9426a00",
+          "code": "I-04-NUT-SD-02-30",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+          "code": "I-06-SML-CO-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "37145a20-bbdc-4b7c-bda4-d5ed1d55af46",
+          "code": "I-11-BRD-BR-62",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "2476df32-b40f-4b37-8362-18bf91f454dd",
+          "code": "I-07-HBS-PL-40",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 6
+          }
+        },
+        {
+          "id": "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+          "code": "I-05-FVG-FV-11",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+          "code": "I-05-FVG-FV-06",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+          "code": "I-02-SVG-VG-05",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+          "code": "I-05-FVG-FV-07",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "135a58fe-8ee2-4a2d-975a-be85a331fd16",
+          "code": "I-05-FVG-FV-23",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "44417cd2-bdb0-48e2-b6a3-b75bdd8ba6b7",
+          "code": "I-07-HBS-PL-13",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "43c515bb-1548-41df-b08e-f10fa8369172",
+          "code": "I-06-SML-OT-25",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "b2ed8a90-5335-4ba0-851b-2948f9426a00",
+          "code": "I-04-NUT-SD-02-30",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+          "code": "I-06-SML-CO-13",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "37145a20-bbdc-4b7c-bda4-d5ed1d55af46",
+          "code": "I-11-BRD-BR-62",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    }
+  ]
+}

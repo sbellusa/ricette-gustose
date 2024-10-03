@@ -1,0 +1,866 @@
+{
+  "url": "/courgette-black-pepper-sauce-with-spinach-ricotta-ravioli",
+  "title": "Black Pepper Sauce With Spinach & Ricotta Ravioli",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "4710",
+  "gousto_uid": "81d21b10-ecf9-4fae-a089-7f9edb27b844",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-4565-2_Courgette--Black-Pepper-Sauce-With-Spinach-and-Ricotta-Ravioli_0653-1655122040846-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-4565-2_Courgette--Black-Pepper-Sauce-With-Spinach-and-Ricotta-Ravioli_0653-1655122040846-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-4565-2_Courgette--Black-Pepper-Sauce-With-Spinach-and-Ricotta-Ravioli_0653-1655122040846-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-4565-2_Courgette--Black-Pepper-Sauce-With-Spinach-and-Ricotta-Ravioli_0653-1655122040846-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/R-4565-2_Courgette--Black-Pepper-Sauce-With-Spinach-and-Ricotta-Ravioli_0653-1655122040846-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 5643
+  },
+  "description": "Try your hand at simple Southern Italian cooking. Toss delicious spinach and ricotta ravioli with fried courgette, cracked black pepper, a squeeze of lemon and fresh basil. It’s Sorrento in a momento. ",
+  "prep_times": {
+    "for_2": 10,
+    "for_4": 10
+  },
+  "cuisine": {
+    "slug": "italian",
+    "title": "Italian"
+  },
+  "ingredients": [
+    {
+      "label": "Basil (5g)",
+      "title": "basil-I-07-HBS-PL-23",
+      "uid": "bltf719958334d8b893",
+      "gousto_uuid": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+      "name": "basil",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Spinach & ricotta ravioli (250g)",
+      "title": "spinach & ricotta ravioli-I-03-GRN-PA-50",
+      "uid": "bltbdfaebcb3617159a",
+      "gousto_uuid": "102ebb47-cb8b-4428-894a-9880e3c234cc",
+      "name": "spinach & ricotta ravioli",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ravioli-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ravioli-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ravioli-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ravioli-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ravioli-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "egg"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          },
+          {
+            "title": null,
+            "slug": "milk"
+          },
+          {
+            "title": null,
+            "slug": "mustard"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Courgette",
+      "title": "courgette-I-05-FVG-FV-03",
+      "uid": "blt49ae7a50bc5644f9",
+      "gousto_uuid": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+      "name": "courgette",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Grated Italian hard cheese (30g)",
+      "title": "grated Italian hard cheese-I-09-DAI-CH-42",
+      "uid": "blt3eb104a464573b1e",
+      "gousto_uuid": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+      "name": "grated Italian hard cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Cracked black pepper (2.5g)",
+      "title": "cracked black pepper-I-01-PEP-SP-02",
+      "uid": "blt5882cc9a30c8bd9b",
+      "gousto_uuid": "716cbc79-cd4d-4df1-b549-e04c70f8b031",
+      "name": "cracked black pepper",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-cracked-black-pepper-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-cracked-black-pepper-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-cracked-black-pepper-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-cracked-black-pepper-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-cracked-black-pepper-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Garlic clove x2",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Lemon",
+      "title": "lemon-I-02-SVG-SF-03",
+      "uid": "blte823ccfd82fc22c7",
+      "gousto_uuid": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+      "name": "lemon",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Before you begin...</strong></p><p>Get all your ingredients and equipment ready</p><p>Skim through these steps, then wash your fruit and veg</p><p>Note: Equipment and pan sizes vary. Make sure you cook food thoroughly (even if it takes you a little longer than 10 min)</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-2-1655799573730-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-2-1655799573730-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-2-1655799573730-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-2-1655799573730-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-2-1655799573730-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Now, let's get started!</strong></p><p>Boil a kettle and heat a large, wide-based pan (preferably non-stick) with 2 tbsp <span class=\"text-purple\">[3 tbsp] </span><span class=\"text-danger\">[4 tbsp]</span> <strong>olive oil</strong> over a high heat</p><p>Top, tail and slice your <strong>courgette[s]</strong><span class=\"text-danger\"> </span>into discs</p><p>Once hot, add the <strong>courgette discs </strong>to the pan with a pinch of <strong>salt</strong> and cook for 5-6 min, turning halfway, until starting to soften</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1655799583147-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1655799583147-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1655799583147-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1655799583147-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1655799583147-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, add your <strong>spinach & ricotta ravioli</strong> to a pot of <strong>boiled water</strong> and bring to the boil over a high heat</p><p>Cook the<strong> ravioli </strong>for 3-4 min or until cooked with a slight bite</p><p>Once done, drain the <strong>cooked spinach & ricotta ravioli</strong>, reserving a cup of the<strong> starchy pasta water</strong></p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1655799593111-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1655799593111-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1655799593111-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1655799593111-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1655799593111-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Peel and slice (don't chop!) your <strong>garlic</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1655799600813-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1655799600813-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1655799600813-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1655799600813-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1655799600813-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the courgette has started to soften, add the <strong>sliced garlic </strong>to the pan and cook for 1 min or until fragrant</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1655799603628-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1655799603628-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1655799603628-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1655799603628-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1655799603628-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once fragrant, add <strong>half </strong>your <strong>grated Italian hard cheese</strong> and <strong>half </strong>your <strong>cracked black pepper</strong> (you'll use the rest later!) to the pan with the juice of <strong>half </strong>your <strong>lemon[s] </strong>and a splash of the<strong> reserved starchy pasta water</strong></p><p>Give everything a good mix up –<strong> </strong>this is your<strong> black pepper sauce</strong></p><p>Cut the <strong>remaining lemon</strong> into 1 wedge per person</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1655799612132-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1655799612132-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1655799612132-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1655799612132-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1655799612132-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Stir the <strong>drained spinach & ricotta ravioli</strong> into the sauce and give everything a gentle mix up until the pasta is nicely coated – this is your <strong>black pepper sauce with spinach & ricotta ravioli</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1655799614931-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1655799614931-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1655799614931-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1655799614931-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1655799614931-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>black pepper sauce with spinach & ricotta ravioli</strong> with a <strong>lemon</strong> <strong>wedge</strong> to the side</p><p>Tear over the<strong> basil</strong> and garnish with the <strong>remaining grated Italian hard cheese</strong> and<strong> remaining cracked black pepper</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "egg",
+      "slug": "egg"
+    },
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "mustard",
+      "slug": "mustard"
+    }
+  ],
+  "seo": {
+    "title": "Courgette & Black Pepper Sauce With Spinach & Ricotta Ravioli",
+    "description": "Try your hand at simple Southern Italian cooking. Toss delicious spinach and ricotta ravioli with fried courgettes, cracked black pepper, a squeeze of lemon and fresh basil. It’s Sorrento in a momento. ",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/R-4565-2_Courgette--Black-Pepper-Sauce-With-Spinach-and-Ricotta-Ravioli_0653-1655122040846.jpg"
+  },
+  "tags": [],
+  "uid": "blt417024b1227a1239",
+  "_version": 5711,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 149,
+      "energy_kj": 628,
+      "fat_mg": 6168,
+      "fat_saturates_mg": 2593,
+      "carbs_mg": 17044,
+      "carbs_sugars_mg": 2613,
+      "fibre_mg": 1219,
+      "protein_mg": 6263,
+      "salt_mg": 742,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 419,
+      "energy_kj": 1758,
+      "fat_mg": 17257,
+      "fat_saturates_mg": 7254,
+      "carbs_mg": 47681,
+      "carbs_sugars_mg": 7311,
+      "fibre_mg": 3411,
+      "protein_mg": 17522,
+      "salt_mg": 2077,
+      "net_weight_mg": 279750
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 1,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+          "code": "I-07-HBS-PL-23",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+          "code": "I-05-FVG-FV-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "716cbc79-cd4d-4df1-b549-e04c70f8b031",
+          "code": "I-01-PEP-SP-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+          "code": "I-09-DAI-CH-42",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+          "code": "I-02-SVG-SF-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "102ebb47-cb8b-4428-894a-9880e3c234cc",
+          "code": "I-03-GRN-PA-50",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+          "code": "I-07-HBS-PL-23",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+          "code": "I-05-FVG-FV-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "716cbc79-cd4d-4df1-b549-e04c70f8b031",
+          "code": "I-01-PEP-SP-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+          "code": "I-09-DAI-CH-42",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+          "code": "I-02-SVG-SF-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "102ebb47-cb8b-4428-894a-9880e3c234cc",
+          "code": "I-03-GRN-PA-50",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 3,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+          "code": "I-07-HBS-PL-23",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+          "code": "I-05-FVG-FV-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "716cbc79-cd4d-4df1-b549-e04c70f8b031",
+          "code": "I-01-PEP-SP-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+          "code": "I-09-DAI-CH-42",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+          "code": "I-02-SVG-SF-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "102ebb47-cb8b-4428-894a-9880e3c234cc",
+          "code": "I-03-GRN-PA-50",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+          "code": "I-07-HBS-PL-23",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+          "code": "I-05-FVG-FV-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "716cbc79-cd4d-4df1-b549-e04c70f8b031",
+          "code": "I-01-PEP-SP-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+          "code": "I-09-DAI-CH-42",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+          "code": "I-02-SVG-SF-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "102ebb47-cb8b-4428-894a-9880e3c234cc",
+          "code": "I-03-GRN-PA-50",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 5,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+          "code": "I-07-HBS-PL-23",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+          "code": "I-05-FVG-FV-03",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "716cbc79-cd4d-4df1-b549-e04c70f8b031",
+          "code": "I-01-PEP-SP-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 5
+          }
+        },
+        {
+          "id": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+          "code": "I-09-DAI-CH-42",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+          "code": "I-02-SVG-SF-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "102ebb47-cb8b-4428-894a-9880e3c234cc",
+          "code": "I-03-GRN-PA-50",
+          "quantities": {
+            "in_box": 3
+          }
+        }
+      ]
+    }
+  ]
+}

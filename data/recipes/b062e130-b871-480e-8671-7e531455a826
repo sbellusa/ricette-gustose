@@ -1,0 +1,836 @@
+{
+  "url": "/aubergine-honey-thyme-halloumi-stack",
+  "title": "Aubergine & Honey-Thyme Halloumi Stack",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Vegetarian Recipes ",
+      "url": "/vegetarian-recipes",
+      "uid": "blta762d7d1d30213a2"
+    },
+    {
+      "title": "Vegetarian",
+      "url": "/vegetarian",
+      "uid": "blt5cc8b5413c283f12"
+    },
+    {
+      "title": "Aubergine Recipes",
+      "url": "/aubergine-recipes",
+      "uid": "bltc005f04ace309f93"
+    }
+  ],
+  "gousto_id": "405",
+  "gousto_uid": "b062e130-b871-480e-8671-7e531455a826",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/429_Aubergine--Honey-Thyme-Halloumi-Stack-0395-1600247580261-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/429_Aubergine--Honey-Thyme-Halloumi-Stack-0395-1600247580261-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/429_Aubergine--Honey-Thyme-Halloumi-Stack-0395-1600247580261-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/429_Aubergine--Honey-Thyme-Halloumi-Stack-0395-1600247580261-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/429_Aubergine--Honey-Thyme-Halloumi-Stack-0395-1600247580261-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 2120
+  },
+  "description": "Layer up halloumi and aubergine for this vegetarian treat. To balance the savoury cheese, serve them with a peppery rocket and bulgur salad drizzled with thyme-infused honey dressing. Stack-tacular!",
+  "prep_times": {
+    "for_2": 30,
+    "for_4": 35
+  },
+  "cuisine": {
+    "slug": "mediterranean",
+    "title": "Mediterranean"
+  },
+  "ingredients": [
+    {
+      "label": "200g halloumi",
+      "title": "halloumi-I-09-DAI-CH-30",
+      "uid": "blt8a0aa7bc605989b2",
+      "gousto_uuid": "14341c5e-3c23-4fb0-b591-8ea2baa90e12",
+      "name": "halloumi",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/200g-halloumi-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/200g-halloumi-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/200g-halloumi-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/200g-halloumi-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/200g-halloumi-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "50g honey",
+      "title": "honey-I-01-CAN-LQ-06",
+      "uid": "bltc92f99bd088d381a",
+      "gousto_uuid": "79f3354b-1c07-4ead-a173-f97e8cddd843",
+      "name": "honey",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "50g rocket",
+      "title": "rocket-I-05-FVG-FG-05-01",
+      "uid": "blt15a8c76de05d3a8a",
+      "gousto_uuid": "aa3f67ab-60c3-4cf2-87d5-05bc9a3e5276",
+      "name": "rocket",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "5g thyme",
+      "title": "thyme-I-07-HBS-PL-27",
+      "uid": "bltb384c356068db77a",
+      "gousto_uuid": "b69a875d-2105-4280-9890-7a3fba1afa14",
+      "name": "thyme",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-thyme-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-thyme-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-thyme-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-thyme-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-thyme-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 garlic clove",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 skewers",
+      "title": "skewers-I-99-OTH-OT-01",
+      "uid": "blt7fcbac8dd948b5f1",
+      "gousto_uuid": "551b135e-3ca3-4d63-b219-23c9a068523d",
+      "name": "skewers",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Skewer-one-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Skewer-one-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Skewer-one-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Skewer-one-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Skewer-one-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 aubergine ",
+      "title": "aubergine-I-05-FVG-FV-01",
+      "uid": "blt0468004242ef90dc",
+      "gousto_uuid": "5cac128e-7775-463a-8ddd-87a2f1588003",
+      "name": "aubergine",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/aubergine-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/aubergine-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/aubergine-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/aubergine-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/aubergine-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "30g sultanas ",
+      "title": "sultanas-IQ-04-NUT-DF-04-03",
+      "uid": "bltb330fbbf928754bb",
+      "gousto_uuid": "274dea3a-0316-4b3f-ac8a-7fbf2d03ad9d",
+      "name": "sultanas",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sultanas-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sultanas-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sultanas-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sultanas-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sultanas-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 lemon",
+      "title": "lemon-I-02-SVG-SF-03",
+      "uid": "blte823ccfd82fc22c7",
+      "gousto_uuid": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+      "name": "lemon",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "75g bulgur wheat",
+      "title": "bulgur wheat-IQ-03-GRN-FL-02-03",
+      "uid": "blt8f3572bd482d0f63",
+      "gousto_uuid": "fe2213da-0158-4a69-a5be-df613b59a1ab",
+      "name": "bulgur wheat",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-bulgur-wheat-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-bulgur-wheat-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-bulgur-wheat-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-bulgur-wheat-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-bulgur-wheat-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Boil a kettle</p><p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7</p><p>Add the <strong>bulgur wheat</strong> to a pot with plenty of<strong> boiled water</strong></p><p>Bring to the boil over a high heat and cook for 7-9 min or until tender with a slight bite</p><p>Once cooked, drain thoroughly and return to the pot</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1600360679445-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1600360679445-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1600360679445-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1600360679445-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1600360679445-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, trim the green stalks off the <strong>aubergine<span class=\"text-danger\">[s]</span> </strong>and discard, then cut into 6 [12] discs</p><p>Tip: Cut the slices of the narrow end slightly wider than that of the fatter end to maintain even cooking</p><p>Pat the <strong>halloumi </strong>dry with kitchen paper<strong> </strong>then cut into 6 <span class=\"text-danger\">[12]</span> even slices</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1600360685592-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1600360685592-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1600360685592-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1600360685592-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1600360685592-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>aubergine slices </strong>to a large baking tray with a drizzle of <strong>olive oil</strong> and a pinch of <strong>salt</strong></p><p>Give it a good mix up then put the tray in the oven for 12-15 min or until the aubergine is soft and golden</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1600360692302-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1600360692302-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1600360692302-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1600360692302-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1600360692302-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, peel and chop (or grate) the <strong>garlic</strong></p><p>Strip the <strong>thyme leaves</strong> from their stalks and chop the leaves finely (reserve a few leaves for garnish!)</p><p>Combine the juice of 1/2 <span class=\"text-danger\">[1] </span><strong>lemon</strong> with the <strong>honey</strong>, <strong>chopped thyme</strong>, <strong>chopped garlic </strong>(not a fan of raw garlic? Just add a little!), 2 tbsp <span class=\"text-danger\">[4 tbsp]</span><strong> olive oil</strong>, and a pinch of<strong> salt</strong> and <strong>pepper </strong>in a small bowl – this is your <strong>honey-thyme dressing</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1600360696451-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1600360696451-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1600360696451-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1600360696451-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1600360696451-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat a large, wide-based pan (preferably non-stick) over a medium-high heat</p><p>Add the <strong>sliced halloumi</strong> and cook for 2 min on each side or until starting to brown</p><p>Add <strong>half</strong> of the <strong>honey-thyme dressing </strong>to the pan and cook for 2-3 min further on each side until the halloumi is sticky and caramelised</p><p>Once done, remove from the heat and set aside</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1600360717759-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1600360717759-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1600360717759-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1600360717759-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1600360717759-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Wash the <strong>rocket</strong>, then pat it dry with kitchen paper</p><p>Fluff the <strong>drained bulgur wheat </strong>with a fork then add the <strong>sultanas</strong>, <strong>rocket</strong> and 1 tbsp<strong><span class=\"text-danger\"> </strong>[2 tbsp]</span> <strong>honey-thyme dressing</strong> and gently mix – this is your <strong>bulgur salad</strong></p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1600360725987-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1600360725987-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1600360725987-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1600360725987-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1600360725987-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the halloumi and aubergine slices are cool enough to touch, thread them evenly onto the <strong>skewers </strong>– these are your <strong>aubergine and honey-thyme halloumi stacks</strong></p><p>Slice the <strong>remaining</strong> <strong>lemon</strong> into 2 <span class=\"text-danger\">[4]</span> wedges</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1600360770360-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1600360770360-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1600360770360-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1600360770360-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1600360770360-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>aubergine & honey-thyme halloumi stacks</strong> over the <strong>bulgur salad</strong></p><p>Drizzle over any <strong>remaining honey-thyme dressing</strong> and garnish with the <strong>reserved</strong> <strong>thyme leaves </strong>and a <strong>lemon wedge</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    }
+  ],
+  "seo": {
+    "title": "Aubergine & Honey-Thyme Halloumi Stack ",
+    "description": "Layer up halloumi and aubergine for this vegetarian treat. To balance the savoury cheese, serve them with a peppery rocket and bulgur salad drizzled with thyme-infused honey dressing. Stack-tacular!",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/429_Aubergine--Honey-Thyme-Halloumi-Stack-0395-1600247580261.jpg"
+  },
+  "tags": [],
+  "uid": "blt376219de9f47a68c",
+  "_version": 597,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 125,
+      "energy_kj": 525,
+      "fat_mg": 5378,
+      "fat_saturates_mg": 3105,
+      "carbs_mg": 13693,
+      "carbs_sugars_mg": 6883,
+      "fibre_mg": 2301,
+      "protein_mg": 6103,
+      "salt_mg": 470,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 607,
+      "energy_kj": 2539,
+      "fat_mg": 25978,
+      "fat_saturates_mg": 14998,
+      "carbs_mg": 66139,
+      "carbs_sugars_mg": 33248,
+      "fibre_mg": 11115,
+      "protein_mg": 29480,
+      "salt_mg": 2272,
+      "net_weight_mg": 483000
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "5cac128e-7775-463a-8ddd-87a2f1588003",
+          "code": "I-05-FVG-FV-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+          "code": "I-02-SVG-SF-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "14341c5e-3c23-4fb0-b591-8ea2baa90e12",
+          "code": "I-09-DAI-CH-30",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "79f3354b-1c07-4ead-a173-f97e8cddd843",
+          "code": "I-01-CAN-LQ-06",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "274dea3a-0316-4b3f-ac8a-7fbf2d03ad9d",
+          "code": "IQ-04-NUT-DF-04-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "aa3f67ab-60c3-4cf2-87d5-05bc9a3e5276",
+          "code": "I-05-FVG-FG-05-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b69a875d-2105-4280-9890-7a3fba1afa14",
+          "code": "I-07-HBS-PL-27",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "fe2213da-0158-4a69-a5be-df613b59a1ab",
+          "code": "IQ-03-GRN-FL-02-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "551b135e-3ca3-4d63-b219-23c9a068523d",
+          "code": "I-99-OTH-OT-01",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "5cac128e-7775-463a-8ddd-87a2f1588003",
+          "code": "I-05-FVG-FV-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+          "code": "I-02-SVG-SF-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "14341c5e-3c23-4fb0-b591-8ea2baa90e12",
+          "code": "I-09-DAI-CH-30",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "79f3354b-1c07-4ead-a173-f97e8cddd843",
+          "code": "I-01-CAN-LQ-06",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "274dea3a-0316-4b3f-ac8a-7fbf2d03ad9d",
+          "code": "IQ-04-NUT-DF-04-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "aa3f67ab-60c3-4cf2-87d5-05bc9a3e5276",
+          "code": "I-05-FVG-FG-05-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "b69a875d-2105-4280-9890-7a3fba1afa14",
+          "code": "I-07-HBS-PL-27",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "fe2213da-0158-4a69-a5be-df613b59a1ab",
+          "code": "IQ-03-GRN-FL-02-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "551b135e-3ca3-4d63-b219-23c9a068523d",
+          "code": "I-99-OTH-OT-01",
+          "quantities": {
+            "in_box": 4
+          }
+        }
+      ]
+    }
+  ]
+}

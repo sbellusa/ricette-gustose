@@ -1,0 +1,534 @@
+{
+  "url": "/pork-mushroom-stroganoff",
+  "title": "Pork Mushroom Stroganoff",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Steak Recipes",
+      "url": "/steak-recipes",
+      "uid": "bltcc6f56c57fb58c69"
+    },
+    {
+      "title": "Pork Recipes",
+      "url": "/pork-recipes",
+      "uid": "bltf0761ae94eddf574"
+    },
+    {
+      "title": "Mushroom Recipes",
+      "url": "/mushroom-recipes",
+      "uid": "bltd605efe72e010d8d"
+    }
+  ],
+  "gousto_id": "223",
+  "gousto_uid": "a2b7ddb4-a8cd-444f-900e-c07619322a83",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/229.PorkMushroomStroganoff-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/229.PorkMushroomStroganoff-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/229.PorkMushroomStroganoff-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/229.PorkMushroomStroganoff-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/229.PorkMushroomStroganoff-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 306
+  },
+  "description": "Stroganoff first appeared in a Russian cookbook some 200 years ago. Today, it’s garnered an international fan following. No two recipes are quite the same, but the end result is always creamy, mushroomy and meaty.",
+  "prep_times": {
+    "for_2": 40,
+    "for_4": 40
+  },
+  "cuisine": {
+    "slug": "russian",
+    "title": "Russian"
+  },
+  "ingredients": [
+    {
+      "label": "120g green beans",
+      "title": "green beans-I-05-FVG-PD-01-03",
+      "uid": "bltc16c4c637535a178",
+      "gousto_uuid": "0ff78f1b-7ba4-490d-8bd2-602ac8f8de6d",
+      "name": "green beans",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-beans-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-beans-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-beans-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-beans-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-beans-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "10g fresh chives",
+      "title": "chives-I-07-HBS-PL-39",
+      "uid": "blt8e352658fb47319c",
+      "gousto_uuid": "d637a863-92c6-47c4-96d0-c0886020ea38",
+      "name": "chives",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-chives-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-chives-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-chives-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-chives-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-chives-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 pot of organic double cream (227ml)",
+      "title": "double cream-IQ-09-DAI-CR-02-01",
+      "uid": "blt205db5e972286139",
+      "gousto_uuid": "e03acca2-0e90-4ea0-8345-e79de07379f8",
+      "name": "double cream",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/double-cream-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/double-cream-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/double-cream-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/double-cream-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/double-cream-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "fish"
+          },
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "sulphites"
+          },
+          {
+            "title": null,
+            "slug": "celery"
+          },
+          {
+            "title": null,
+            "slug": "mustard"
+          },
+          {
+            "title": null,
+            "slug": "sesame"
+          },
+          {
+            "title": null,
+            "slug": "milk"
+          },
+          {
+            "title": null,
+            "slug": "soya"
+          },
+          {
+            "title": null,
+            "slug": "egg"
+          },
+          {
+            "title": null,
+            "slug": "lupin"
+          },
+          {
+            "title": null,
+            "slug": "crustacean"
+          },
+          {
+            "title": null,
+            "slug": "mollusc"
+          },
+          {
+            "title": null,
+            "slug": "nut"
+          },
+          {
+            "title": null,
+            "slug": "peanut"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 chicken stock cube",
+      "title": "chicken stock cube-I-06-SML-SC-08",
+      "uid": "blta2fd41dccba5257f",
+      "gousto_uuid": "9375f43b-9967-49f2-875a-f905f2b4c701",
+      "name": "chicken stock cube",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Chicken-stock-cube.new-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Chicken-stock-cube.new-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Chicken-stock-cube.new-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Chicken-stock-cube.new-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Chicken-stock-cube.new-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "celery"
+          }
+        ]
+      }
+    },
+    {
+      "label": "2 British pork neck steaks",
+      "title": "pork neck steak-I-10-MPF-ME-27",
+      "uid": "blteea32ba69c985ef2",
+      "gousto_uuid": "8c25add5-6e74-4096-8822-0d0444bf6cf6",
+      "name": "pork neck steak",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pork-neck-steaks-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pork-neck-steaks-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pork-neck-steaks-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pork-neck-steaks-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/pork-neck-steaks-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "100g chestnut mushrooms",
+      "title": "80g chestnut mushrooms-IQ-05-FVG-MS-01-12",
+      "uid": "blt562fe4951c6d233b",
+      "gousto_uuid": "9d06b76c-7bfa-4276-9ad4-eea2a9164dde",
+      "name": "80g chestnut mushrooms",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chestnut-mushrooms-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chestnut-mushrooms-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chestnut-mushrooms-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chestnut-mushrooms-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/chestnut-mushrooms-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "300g potatoes",
+      "title": "potatoes-I-02-SVG-VG-01-02",
+      "uid": "blte9f23de0e0d75ca0",
+      "gousto_uuid": "208b5e77-7e95-4ef6-8621-727f29f6b513",
+      "name": "potatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Boil</strong> a kettle</p>\r\n<p><strong>Pour</strong> the water into a pot (for the potatoes) and bring it to a boil (used in step 3)</p>\r\n<p><strong>Meanwhile</strong> cut the mushrooms in half and slice finely, then slice the pork steaks into thin strips (approx. 0.5cm)</p>",
+      "order": 1,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> 1-2 tbsp of olive oil to a pan over a high heat</p>\r\n<p><strong>Add</strong> the mushrooms to the pan and cook for 2 min, or until starting to brown</p>\r\n<p><strong>Season</strong> with salt and pepper to your taste</p>\r\n<p><strong>Add</strong> the pork and continue to cook for 3 min or until the pork is brown, stirring frequently</p>",
+      "order": 2,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Meanwhile</strong> cut all the potatoes to roughly equal size (approx. 4cm chunks)</p>\r\n<p><strong>Add</strong> the potatoes and salt (optional) to the pot and boil for 10 min</p>\r\n<p><strong>Once</strong> the potatoes have been cooking for 10 min, start step 7</p>",
+      "order": 3,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> 250ml <span class=\"text-danger\">(400ml)</span> of cold water to the pork pan</p>\r\n<p><strong>Deglaze</strong> the pan by scraping the bottom and stir well</p>\r\n<p><strong>Add</strong> half the <span class=\"text-danger\">(whole)</span> stock cube to the pork pan and stir thoroughly</p>\r\n<p><strong>Cook</strong> for 3-4 min, or until the stock is reduced by half</p>",
+      "order": 4,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Meanwhile</strong> chop the chives finely</p>\r\n<p><strong>Trim</strong> the stem ends of the green beans</p>",
+      "order": 5,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> the double cream to the pork pan and mix well</p>\r\n<p><strong>Simmer</strong> for 10 min or until the sauce is reduced by half</p>\r\n<p><strong>Remove</strong> from the heat and sprinkle on the chives</p>",
+      "order": 6,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> the green beans to the potato pot</p>\r\n<p><strong>Cook</strong> for a further 5 min or until you can pierce the potatoes easily with a fork, and the beans are tender</p>\r\n<p><strong>Drain</strong>, cover well and set aside until serving</p>",
+      "order": 7,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p>Serve the pork with potatoes and green beans, drizzled with the cream sauce</p>\r\n<p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "crustacean",
+      "slug": "crustacean"
+    },
+    {
+      "title": "egg",
+      "slug": "egg"
+    },
+    {
+      "title": "fish",
+      "slug": "fish"
+    },
+    {
+      "title": "peanut",
+      "slug": "peanut"
+    },
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "nut",
+      "slug": "nut"
+    },
+    {
+      "title": "celery",
+      "slug": "celery"
+    },
+    {
+      "title": "mustard",
+      "slug": "mustard"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    },
+    {
+      "title": "sulphites",
+      "slug": "sulphites"
+    },
+    {
+      "title": "lupin",
+      "slug": "lupin"
+    },
+    {
+      "title": "mollusc",
+      "slug": "mollusc"
+    }
+  ],
+  "seo": {
+    "title": "Pork Mushroom Stroganoff",
+    "description": "Stroganoff first appeared in a Russian cookbook some 200 years ago. Today, it’s garnered an international fan following. No two recipes are quite the same, but the end result is always creamy, mushroomy and meaty.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/229.PorkMushroomStroganoff.jpg"
+  },
+  "tags": [],
+  "uid": "bltf928490864465f27",
+  "_version": 51,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 170,
+      "energy_kj": 709,
+      "fat_mg": 12766,
+      "fat_saturates_mg": 7224,
+      "carbs_mg": 6820,
+      "carbs_sugars_mg": 1122,
+      "fibre_mg": 1044,
+      "protein_mg": 7302,
+      "salt_mg": 496,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 896,
+      "energy_kj": 3719,
+      "fat_mg": 66894,
+      "fat_saturates_mg": 37856,
+      "carbs_mg": 35739,
+      "carbs_sugars_mg": 5884,
+      "fibre_mg": 5473,
+      "protein_mg": 38266,
+      "salt_mg": 2603,
+      "net_weight_mg": 524000
+    }
+  },
+  "portion_sizes": null
+}

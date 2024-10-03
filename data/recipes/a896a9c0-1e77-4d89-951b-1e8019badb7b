@@ -1,0 +1,626 @@
+{
+  "url": "/sausage-red-cabbage-leek-tray-bake",
+  "title": "Sausage, Red Cabbage & Leek Tray Bake",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Beef & Pork",
+      "url": "/beef-pork",
+      "uid": "blt139a776cc9eef76c"
+    },
+    {
+      "title": "Leek Recipes",
+      "url": "/leek-recipes",
+      "uid": "bltb80640308fd57c3f"
+    },
+    {
+      "title": "Red Cabbage Recipes",
+      "url": "/red-cabbage-recipes",
+      "uid": "bltf66b9b1628770b8c"
+    }
+  ],
+  "gousto_id": "2780",
+  "gousto_uid": "a896a9c0-1e77-4d89-951b-1e8019badb7b",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2647-2-Sausage-Red-Cabbage--Leek-Tray-Bake-0684-1582891170843-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2647-2-Sausage-Red-Cabbage--Leek-Tray-Bake-0684-1582891170843-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2647-2-Sausage-Red-Cabbage--Leek-Tray-Bake-0684-1582891170843-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2647-2-Sausage-Red-Cabbage--Leek-Tray-Bake-0684-1582891170843-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/2647-2-Sausage-Red-Cabbage--Leek-Tray-Bake-0684-1582891170843-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 712
+  },
+  "description": "For this crowd pleasing tray bake, you'll roast juicy sausages with a colourful mix of red cabbage, leeks and a tangy green tomato chutney sauce. Simply delicious!  ",
+  "prep_times": {
+    "for_2": 35,
+    "for_4": 40
+  },
+  "cuisine": {
+    "slug": "british",
+    "title": "British"
+  },
+  "ingredients": [
+    {
+      "label": "1 beef stock mix sachet (5.5g)",
+      "title": "beef stock mix-I-06-SML-SC-24",
+      "uid": "blt1df66bf5f36b8a1b",
+      "gousto_uuid": "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+      "name": "beef stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-powder-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-powder-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-powder-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-powder-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-powder-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "6 Cumberland sausages",
+      "title": "Cumberland sausage-I-10-MPF-PM-031",
+      "uid": "bltcaccfcd228c03a8b",
+      "gousto_uuid": "69c164d2-44a0-446b-89ec-a9de2d899569",
+      "name": "Cumberland sausage",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/6-cumberlandsausages-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/6-cumberlandsausages-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/6-cumberlandsausages-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/6-cumberlandsausages-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/6-cumberlandsausages-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sulphites"
+          },
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 ciabatta roll",
+      "title": "ciabatta roll square-I-11-BRD-BR-32",
+      "uid": "blt863f13d10af9149a",
+      "gousto_uuid": "88df7579-def8-4498-b03c-6ecf39e05d21",
+      "name": "ciabatta roll square",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-ciabatta-rolls-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-ciabatta-rolls-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-ciabatta-rolls-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-ciabatta-rolls-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-ciabatta-rolls-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "soya"
+          },
+          {
+            "title": null,
+            "slug": "gluten"
+          },
+          {
+            "title": null,
+            "slug": "egg"
+          },
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 green tomato chutney pot (20g)",
+      "title": "green tomato chutney-I-06-SML-TRK-11",
+      "uid": "blt4ef4f7ecb1448dc2",
+      "gousto_uuid": "26a55263-c20c-459b-952b-7c8f07be5037",
+      "name": "green tomato chutney",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-tomato-chutney-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-tomato-chutney-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-tomato-chutney-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-tomato-chutney-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/green-tomato-chutney-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "mustard"
+          }
+        ]
+      }
+    },
+    {
+      "label": "10g rosemary & thyme mix",
+      "title": "rosemary & thyme-I-07-HBS-PL-47",
+      "uid": "blt519acfd0064d3cb9",
+      "gousto_uuid": "0f9aa4f8-ac9e-4119-a056-63757fd26173",
+      "name": "rosemary & thyme",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rosemary--thyme-mix-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rosemary--thyme-mix-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rosemary--thyme-mix-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rosemary--thyme-mix-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/rosemary--thyme-mix-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "250g red cabbage",
+      "title": "red cabbage-I-05-FVG-LF-41",
+      "uid": "blt6162745da1f6359b",
+      "gousto_uuid": "366796ee-a36d-41e8-9341-4b065e86719c",
+      "name": "red cabbage",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-cabbage-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-cabbage-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-cabbage-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-cabbage-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/red-cabbage-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 leek",
+      "title": "leek-I-05-FVG-LF-03",
+      "uid": "blt8f2a845b088489d2",
+      "gousto_uuid": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+      "name": "leek",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Butter",
+      "slug": "butter"
+    },
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Flour",
+      "slug": "flour"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 220°C/ 200°C (fan)/ 425°F/ Gas 7</p><p>Shred the <strong>red cabbage </strong>(not too finely), discard the root</p><p>Remove some <strong>butter</strong> from the fridge and set it aside to soften</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1582891217192-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1582891217192-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1582891217192-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1582891217192-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1582891217192-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>shredded red cabbage </strong>to a baking tray with a drizzle of <strong>olive oil</strong> and a pinch of <strong>salt</strong> and give everything a good mix up</p><p>Layer the <strong>Cumberland sausages</strong> over the top of the cabbage and put the tray in the oven for an initial 10 min</p><p>Tip: Cooking for 4? Use 2 trays!</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1582891221795-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1582891221795-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1582891221795-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1582891221795-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1582891221795-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Whilst everything is in the oven, wash the <strong>leek<span class=\"text-danger\">[s]</span> </strong>carefully to remove any grit from between the leaves, then top, tail and slice in half lengthways and chop into 8 <span class=\"text-danger\">[16]</span> pieces</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1582891226294-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1582891226294-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1582891226294-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1582891226294-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1582891226294-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Strip the <strong>thyme</strong> and <strong>rosemary leaves</strong> from their stems and discard the stems</p><p>Boil a kettle</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1582891231675-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1582891231675-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1582891231675-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1582891231675-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1582891231675-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the sausages and red cabbage have had an initial 10 min, remove the tray from the oven</p><p>Add the <strong>chopped leek </strong>with<strong> </strong>a<strong> </strong>drizzle of <strong>olive oil</strong> and a crack of <strong>black pepper</strong>, then<strong> </strong>sprinkle over the <strong>rosemary leaves</strong> and <strong>half </strong>the <strong>thyme leaves </strong>(save the rest for later!)</p><p>Return the tray to the oven for a further 6-8 min or until everything is beginning to brown</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1582891236520-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1582891236520-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1582891236520-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1582891236520-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1582891236520-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, rip the <strong>ciabatta roll<span class=\"text-danger\">[s]</span></strong> roughly into croutons</p><p>Add the <strong>croutons</strong> to a bowl with a knob of <strong>butter</strong> and the <strong>remaining thyme leaves</strong></p><p>Mix everything together so that the croutons are evenly coated – these are your <strong>thyme croutons</strong></p><p>Dissolve the<strong> beef stock mix</strong> in<strong> </strong>250ml<span class=\"text-danger\"> [450ml] </span><strong>boiled water </strong>with the <strong>green tomato chutney </strong>– this is your <strong>stock</strong></p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1582891240341-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1582891240341-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1582891240341-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1582891240341-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1582891240341-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the <strong>thyme croutons</strong> to the tray</p><p>Return the tray to the oven for a final 8-10 min or until the sausages are cooked through (no pink meat!) and everything is golden - this is your <strong>sausage, red cabbage & leek tray bake</strong></p><p>Meanwhile, heat a large, wide-based pan with a drizzle of <strong>olive oil </strong>over a medium heat and once hot, add 1/2 tbsp <span class=\"text-danger\">[1 tbsp]</span><strong> flour</strong> and cook for 1 min</p><p>Add the<strong> stock </strong>and whisk until combined and cook for 3-4 min or until thickened to a gravy-like consistency</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1582891244693-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1582891244693-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1582891244693-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1582891244693-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1582891244693-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>sausage</strong>,<strong> red cabbage & leek tray bake </strong>in bowls and drizzle over the <strong>green tomato gravy</strong></p><p>Season with a crack of <strong>black pepper</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "sulphites",
+      "slug": "sulphites"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "mustard",
+      "slug": "mustard"
+    },
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "egg",
+      "slug": "egg"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    }
+  ],
+  "seo": {
+    "title": "Sausage, Red Cabbage & Leek Tray Bake",
+    "description": "For this crowd pleasing tray bake, you'll roast juicy sausages with a colourful mix of red cabbage, leeks and a tangy green tomato chutney sauce. Simply delicious!  ",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://s3-eu-west-1.amazonaws.com/s3-gousto-production-media/cms/mood-image/2647-2-Sausage-Red-Cabbage--Leek-Tray-Bake-0684-1582891170843.jpg"
+  },
+  "tags": [],
+  "uid": "blt52fec71924919616",
+  "_version": 57,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 125,
+      "energy_kj": 523,
+      "fat_mg": 6538,
+      "fat_saturates_mg": 2184,
+      "carbs_mg": 10060,
+      "carbs_sugars_mg": 3551,
+      "fibre_mg": 2267,
+      "protein_mg": 5866,
+      "salt_mg": 612,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 637,
+      "energy_kj": 2658,
+      "fat_mg": 33198,
+      "fat_saturates_mg": 11091,
+      "carbs_mg": 51081,
+      "carbs_sugars_mg": 18033,
+      "fibre_mg": 11512,
+      "protein_mg": 29789,
+      "salt_mg": 3112,
+      "net_weight_mg": 507750
+    }
+  },
+  "portion_sizes": null
+}

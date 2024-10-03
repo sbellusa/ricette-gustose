@@ -1,0 +1,472 @@
+{
+  "url": "/steak-creamy-leek-mash",
+  "title": "Steak & Creamy Leek Mash",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Leek Recipes",
+      "url": "/leek-recipes",
+      "uid": "bltb80640308fd57c3f"
+    }
+  ],
+  "gousto_id": "137",
+  "gousto_uid": "888d354f-b34c-4e84-a0a1-bab8d915c4cf",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/140.SteakCreamyLeekMash-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/140.SteakCreamyLeekMash-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/140.SteakCreamyLeekMash-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/140.SteakCreamyLeekMash-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/140.SteakCreamyLeekMash-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 690
+  },
+  "description": "This homely dish demonstrates how simple food can really shine. It's all about the quality of the produce and a little extra love in the form of honey, cinnamon and butter.",
+  "prep_times": {
+    "for_2": 30,
+    "for_4": 30
+  },
+  "cuisine": {
+    "slug": "british",
+    "title": "British"
+  },
+  "ingredients": [
+    {
+      "label": "400g carrots",
+      "title": "Carrots-IQ-05-FVG-VG-01-09",
+      "uid": "blt2d3c4d38684498e7",
+      "gousto_uuid": "08c40346-e6d3-475b-a9cb-b1adf9c5d5e6",
+      "name": "Carrots",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 Bristish minute steaks",
+      "title": "British thick flank steaks-I-10-MPF-ME-13",
+      "uid": "blt464db8ab861f813c",
+      "gousto_uuid": "4addefc4-01ca-40dd-bd96-ea9184b057cf",
+      "name": "British thick flank steaks",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/minute-steaks-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/minute-steaks-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/minute-steaks-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/minute-steaks-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/minute-steaks-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1/2 tsp cinnamon",
+      "title": "Ground cinnamon bark-I-06-SML-IN-01-01",
+      "uid": "bltfecef9000cadb72e",
+      "gousto_uuid": "225f019e-406c-43cd-bd2b-dbe8fe85cc06",
+      "name": "Ground cinnamon bark",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cinnamon-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cinnamon-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cinnamon-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cinnamon-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/cinnamon-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 leek",
+      "title": "leek-I-05-FVG-LF-03",
+      "uid": "blt8f2a845b088489d2",
+      "gousto_uuid": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+      "name": "leek",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 honey pot (28g)",
+      "title": "honey-I-01-CAN-LQ-06",
+      "uid": "bltc92f99bd088d381a",
+      "gousto_uuid": "79f3354b-1c07-4ead-a173-f97e8cddd843",
+      "name": "honey",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "400g potatoes",
+      "title": "potatoes-I-02-SVG-VG-01-04",
+      "uid": "blt9a854f6d88c0b7d0",
+      "gousto_uuid": "d3d0d01e-fd04-4393-bfd6-603fb5e030e8",
+      "name": "potatoes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Butter",
+      "slug": "butter"
+    },
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Preheat</strong> the oven to 220&deg;C/ 200&deg;C (fan)/ 425&deg;F/ Gas 7 </p>\r\n<p><strong>Peel</strong>, quarter, and cut the carrots lengthwise into sticks (approx. 6cm long)</p>\r\n<p><strong>Place</strong> on an oven-proof tray and mix well with the honey, cinnamon, and 1-2 tbsp of olive oil</p>\r\n<p><strong>Oven</strong>-roast for 20-25 min, or until caramelized</p>",
+      "order": 1,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Boil</strong> a kettle</p>\r\n<p><strong>Peel</strong> and cut all the potatoes to roughly equal size (approx. 5cm chunks)</p>\r\n<p><strong>Add</strong> the potatoes and salt (optional) to a pot of boiling water and boil for 12 min or until you canbegin to pierce them with a knife (they will continue cooking in step 4)</p>",
+      "order": 2,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Cut</strong> the leek<span class=\"text-danger\">(s)</span> in half and wash carefully to remove any grit from between the leaves</p>\r\n<p><strong>Slice</strong> the leek<span class=\"text-danger\">(s)</span> thinly (approx. 1cm)</p>",
+      "order": 3,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> the leek to the pot approx. 3 min before the potatoes are completely tender</p>\r\n<p><strong>Once</strong> the potatoes and leeks are done drain them, add 15g <span class=\"text-danger\">(30g)</span> of butter and mash</p>\r\n<p><strong>Season</strong> to your taste with salt and pepper and cover until serving</p>",
+      "order": 4,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Check</strong> the carrots and remove from the oven once done</p>\r\n<p><strong>Season</strong> the steaks to your taste on both sides with salt and pepper</p>",
+      "order": 5,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Add</strong> 1-2 tbsp of olive oil to a pan on a high heat </p>\r\n<p><strong>Once</strong> the oil is hot, add the steaks and cook for 2-4 min on each side or until cooked through to your preference</p>\r\n<p><strong>Remove</strong> the steaks from the pan, cover well and allow to rest for 2 min</p>",
+      "order": 6,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Return</strong> the steak pan to the heat</p>\r\n<p><strong>Add</strong> 100ml <span class=\"text-danger\">(150ml)</span> of water, scrape the bottom and stir well </p>\r\n<p><strong>Reduce</strong> by half, remove from the heat and add any juices from the resting meat to make a pan sauce</p>\r\n<p>Tip: For a richer sauce, swirl in a knob of butter just before taking off the heat</p>",
+      "order": 7,
+      "media": {
+        "images": []
+      }
+    },
+    {
+      "instruction": "<p><strong>Serve</strong> the mash, carrot and steak together </p>\r\n<p><strong>Drizzle</strong> with the pan sauce</p>\r\n<p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [],
+  "seo": {
+    "title": "Steak & Creamy Leek Mash",
+    "description": "This homely dish demonstrates how simple food can really shine. It's all about the quality of the produce and a little extra love in the form of honey, cinnamon and butter.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/140.SteakCreamyLeekMash.jpg"
+  },
+  "tags": [],
+  "uid": "blt3216ecdd91f72bb9",
+  "_version": 58,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 75,
+      "energy_kj": 316,
+      "fat_mg": 2064,
+      "fat_saturates_mg": 830,
+      "carbs_mg": 9840,
+      "carbs_sugars_mg": 3988,
+      "fibre_mg": 1200,
+      "protein_mg": 4855,
+      "salt_mg": 57,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 518,
+      "energy_kj": 2181,
+      "fat_mg": 14212,
+      "fat_saturates_mg": 5713,
+      "carbs_mg": 67725,
+      "carbs_sugars_mg": 27450,
+      "fibre_mg": 8263,
+      "protein_mg": 33417,
+      "salt_mg": 398,
+      "net_weight_mg": 688250
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+          "code": "I-05-FVG-LF-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "08c40346-e6d3-475b-a9cb-b1adf9c5d5e6",
+          "code": "IQ-05-FVG-VG-01-09",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4addefc4-01ca-40dd-bd96-ea9184b057cf",
+          "code": "I-10-MPF-ME-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "225f019e-406c-43cd-bd2b-dbe8fe85cc06",
+          "code": "I-06-SML-IN-01-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d3d0d01e-fd04-4393-bfd6-603fb5e030e8",
+          "code": "I-02-SVG-VG-01-04",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "79f3354b-1c07-4ead-a173-f97e8cddd843",
+          "code": "I-01-CAN-LQ-06",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+          "code": "I-05-FVG-LF-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "08c40346-e6d3-475b-a9cb-b1adf9c5d5e6",
+          "code": "IQ-05-FVG-VG-01-09",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4addefc4-01ca-40dd-bd96-ea9184b057cf",
+          "code": "I-10-MPF-ME-13",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "225f019e-406c-43cd-bd2b-dbe8fe85cc06",
+          "code": "I-06-SML-IN-01-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d3d0d01e-fd04-4393-bfd6-603fb5e030e8",
+          "code": "I-02-SVG-VG-01-04",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "79f3354b-1c07-4ead-a173-f97e8cddd843",
+          "code": "I-01-CAN-LQ-06",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    }
+  ]
+}

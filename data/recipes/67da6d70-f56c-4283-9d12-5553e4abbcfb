@@ -1,0 +1,938 @@
+{
+  "url": "/spicy-curried-hake-coconut-noodles",
+  "title": "Spicy Curried Hake Coconut Noodles",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "6343",
+  "gousto_uid": "67da6d70-f56c-4283-9d12-5553e4abbcfb",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5864_Spicy-Curried-Basa-Coconut-Noodles_003_0-1686053791153-1686145622241-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5864_Spicy-Curried-Basa-Coconut-Noodles_003_0-1686053791153-1686145622241-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5864_Spicy-Curried-Basa-Coconut-Noodles_003_0-1686053791153-1686145622241-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5864_Spicy-Curried-Basa-Coconut-Noodles_003_0-1686053791153-1686145622241-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/5864_Spicy-Curried-Basa-Coconut-Noodles_003_0-1686053791153-1686145622241-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.0,
+    "count": 104
+  },
+  "description": "Warm up your week with an umami-packed spicy coconut noodle soup. Toss in curry spices, hake and rice noodles before scattering with toasted coconut flakes to serve. It’s bowl food at its best.\n",
+  "prep_times": {
+    "for_2": 20,
+    "for_4": 25
+  },
+  "cuisine": {
+    "slug": "asian",
+    "title": "Asian"
+  },
+  "ingredients": [
+    {
+      "label": "150g rice noodles",
+      "title": "rice noodles-I-03-GRN-PA-31",
+      "uid": "blt5f56fcced49d47c4",
+      "gousto_uuid": "fc5dd782-e0c3-46c3-a8df-0fa22d2ea86f",
+      "name": "rice noodles",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-thai-rice-noodles-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-thai-rice-noodles-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-thai-rice-noodles-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-thai-rice-noodles-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-thai-rice-noodles-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "80g fine green beans",
+      "title": "fine green beans-I-05-FVG-PD-01-14",
+      "uid": "blta9baeecca109d356",
+      "gousto_uuid": "846b56c4-4dad-4edb-a09d-9e2bbd5b3a73",
+      "name": "fine green beans",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-trimmed-fine-green-beans-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-trimmed-fine-green-beans-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-trimmed-fine-green-beans-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-trimmed-fine-green-beans-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-trimmed-fine-green-beans-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "20g coconut flakes ",
+      "title": "coconut flakes-I-04-NUT-NT-10",
+      "uid": "blt98a616493aef2339",
+      "gousto_uuid": "5487587b-eaf7-48a8-aa9a-d06c7b9b3569",
+      "name": "coconut flakes",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Coconut-flakes-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Coconut-flakes-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Coconut-flakes-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Coconut-flakes-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Coconut-flakes-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sulphites"
+          },
+          {
+            "title": null,
+            "slug": "nut"
+          },
+          {
+            "title": null,
+            "slug": "sesame"
+          }
+        ]
+      }
+    },
+    {
+      "label": "8ml Sriracha hot chilli sauce ",
+      "title": "sriracha hot chilli sauce-I-06-SML-OT-34",
+      "uid": "blt0426a3775f71bac7",
+      "gousto_uuid": "34ad5b48-6f2b-402b-8699-1237fb821ae2",
+      "name": "sriracha hot chilli sauce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Sriracha-hot-chilli-sauce-sachet-8ml-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Sriracha-hot-chilli-sauce-sachet-8ml-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Sriracha-hot-chilli-sauce-sachet-8ml-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Sriracha-hot-chilli-sauce-sachet-8ml-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Sriracha-hot-chilli-sauce-sachet-8ml-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "2 hake fillets",
+      "title": "hake fillets-IQ-10-MPF-SE-56",
+      "uid": "blt7c5bf673b43ffab4",
+      "gousto_uuid": "4f171c2d-c380-4257-a4f9-ff7d9ec50caf",
+      "name": "hake fillets",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-x-125g-hake-fillets-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-x-125g-hake-fillets-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-x-125g-hake-fillets-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-x-125g-hake-fillets-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-x-125g-hake-fillets-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "fish"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1/2 tbsp curry powder",
+      "title": "curry powder-I-06-SML-DL-40",
+      "uid": "blt4b51a2f777ee25cf",
+      "gousto_uuid": "425972b7-82d8-447d-94d0-b5690e6c65cc",
+      "name": "curry powder",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "5.5g vegetable stock mix",
+      "title": "vegetable stock mix-I-06-SML-SC-26",
+      "uid": "blt0ca5e580e2d973c5",
+      "gousto_uuid": "166bfad3-d300-465d-b61c-fef4d2965904",
+      "name": "vegetable stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1/2 tsp ground turmeric",
+      "title": "ground turmeric-I-06-SML-DL-14",
+      "uid": "blt37b4da4bd600ecc3",
+      "gousto_uuid": "abb2d5af-131e-4e82-9546-705ab185cc37",
+      "name": "ground turmeric",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "15ml tamari soy sauce",
+      "title": "tamari soy sauce-I-06-SML-OT-16",
+      "uid": "blt3e4377abf25dd223",
+      "gousto_uuid": "4d9b777f-b6fe-4cc5-b613-52a724079e5f",
+      "name": "tamari soy sauce",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "soya"
+          }
+        ]
+      }
+    },
+    {
+      "label": "15g ginger & garlic paste",
+      "title": "ginger & garlic paste-I-08-SAU-PS-50",
+      "uid": "blteecc3ed8350d1be1",
+      "gousto_uuid": "66613362-e511-4465-b1a4-9992a919b5d0",
+      "name": "ginger & garlic paste",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "25g solid creamed coconut",
+      "title": "solid creamed coconut-I-06-SML-CO-13",
+      "uid": "bltb15d406b19839742",
+      "gousto_uuid": "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+      "name": "solid creamed coconut",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "1 brown onion",
+      "title": "brown onion-I-02-SVG-VG-07",
+      "uid": "blt8f3ebc667e318aad",
+      "gousto_uuid": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Boil a kettle</p><p>Heat a large, dry, wide-based pan (preferably non-stick with a matching lid) over a medium heat</p><p>Once hot, add the <strong>coconut flakes</strong> and cook for 2-3 min or until toasted and lightly golden, then set aside and reserve the pan</p><p>Tip: Watch them like a hawk to make sure they don’t burn!</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1682419405640-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1682419405640-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1682419405640-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1682419405640-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1682419405640-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add the<strong> rice noodles</strong> to a bowl and cover with <strong>boiled water</strong></p><p>Set aside for 12-15 min or until softened</p><p>Once softened, drain the noodles, reserving a cup of <strong>starchy noodle water </strong>and set aside</p><p>Reboil half a kettle</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1682419409276-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1682419409276-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1682419409276-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1682419409276-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1682419409276-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, peel and chop the <strong>brown onion<span class=\"text-danger\">[s]</strong> </span>into wedges</p><p>Trim, then chop the <strong>green beans</strong> in half</p><p>Chop the<strong> creamed coconut</strong> roughly (if required!)</p><p>Dissolve the <strong>chopped creamed coconut</strong>, <strong>vegetable stock mix</strong>, <strong>tamari soy sauce </strong>and <strong>sriracha </strong>(can't handle the heat? Go easy!) in 300ml <span class=\"text-danger\">[550ml]</span> <strong>boiled water </strong>– this is your <strong>coconut stock</strong></p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1682419412797-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1682419412797-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1682419412797-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1682419412797-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1682419412797-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Heat the reserved pan with a drizzle of <strong>vegetable oil</strong> over a medium-high heat</p><p>Once hot, add the <strong>onion wedges </strong>to the pan with a pinch of <strong>salt </strong>and<strong> </strong>cook for 2-3 min or until starting to soften</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1682419416637-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1682419416637-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1682419416637-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1682419416637-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1682419416637-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once starting to soften, add the <strong>ginger & garlic paste</strong>, <strong>curry powder </strong>and <strong>ground turmeric </strong>to the pan and cook for 1 min or until fragrant</p><p>Once fragrant, add the <strong>coconut stock </strong>and bring to the boil over a high heat</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1682419420259-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1682419420259-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1682419420259-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1682419420259-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1682419420259-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Chop the <strong>hake fillets</strong> into large, bite-sized pieces</p><p>Add the <strong>chopped hake</strong> and <strong>halved green beans </strong>to the pan</p><p>Once boiling, reduce the heat to medium and cook, covered, for 3-4 min further or until the fish is cooked through and the green beans are tender</p><p>Tip: Your fish is cooked once it turns opaque and flakes easily</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1682419423928-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1682419423928-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1682419423928-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1682419423928-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1682419423928-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the fish is cooked through, add the <strong>drained rice noodles </strong>to the pan and give everything a good mix up – these are your <strong>spicy curried hake coconut noodles</strong></p><p>Tip: Add a splash of starchy noodle water if your sauce is looking a little dry!</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1682419428038-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1682419428038-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1682419428038-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1682419428038-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1682419428038-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>spicy curried hake coconut noodles </strong>in bowls and garnish with the <strong>toasted coconut flakes</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "fish",
+      "slug": "fish"
+    },
+    {
+      "title": "soya",
+      "slug": "soya"
+    },
+    {
+      "title": "sulphites",
+      "slug": "sulphites"
+    },
+    {
+      "title": "nut",
+      "slug": "nut"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    }
+  ],
+  "seo": {
+    "title": "Spicy Curried Hake Coconut Noodles",
+    "description": "Warm up your week with an umami-packed spicy coconut noodle soup. Toss in curry spices, hake and rice noodles before scattering with toasted coconut flakes to serve. It’s bowl food at its best.\n",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/5864_Spicy-Curried-Basa-Coconut-Noodles_003_0-1686053791153-1686145622241.jpg"
+  },
+  "tags": [],
+  "uid": "blt3468a038c1d54264",
+  "_version": 40,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 188,
+      "energy_kj": 729,
+      "fat_mg": 6276,
+      "fat_saturates_mg": 4729,
+      "carbs_mg": 23845,
+      "carbs_sugars_mg": 2579,
+      "fibre_mg": 2640,
+      "protein_mg": 8882,
+      "salt_mg": 900,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 569,
+      "energy_kj": 2202,
+      "fat_mg": 18949,
+      "fat_saturates_mg": 14277,
+      "carbs_mg": 71991,
+      "carbs_sugars_mg": 7787,
+      "fibre_mg": 7971,
+      "protein_mg": 26817,
+      "salt_mg": 2719,
+      "net_weight_mg": 301900
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+          "code": "I-02-SVG-VG-07",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "846b56c4-4dad-4edb-a09d-9e2bbd5b3a73",
+          "code": "I-05-FVG-PD-01-14",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4d9b777f-b6fe-4cc5-b613-52a724079e5f",
+          "code": "I-06-SML-OT-16",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+          "code": "I-06-SML-CO-13",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "fc5dd782-e0c3-46c3-a8df-0fa22d2ea86f",
+          "code": "I-03-GRN-PA-31",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "66613362-e511-4465-b1a4-9992a919b5d0",
+          "code": "I-08-SAU-PS-50",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "abb2d5af-131e-4e82-9546-705ab185cc37",
+          "code": "I-06-SML-DL-14",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "425972b7-82d8-447d-94d0-b5690e6c65cc",
+          "code": "I-06-SML-DL-40",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "5487587b-eaf7-48a8-aa9a-d06c7b9b3569",
+          "code": "I-04-NUT-NT-10",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "34ad5b48-6f2b-402b-8699-1237fb821ae2",
+          "code": "I-06-SML-OT-34",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "4f171c2d-c380-4257-a4f9-ff7d9ec50caf",
+          "code": "IQ-10-MPF-SE-56",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+          "code": "I-02-SVG-VG-07",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "846b56c4-4dad-4edb-a09d-9e2bbd5b3a73",
+          "code": "I-05-FVG-PD-01-14",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4d9b777f-b6fe-4cc5-b613-52a724079e5f",
+          "code": "I-06-SML-OT-16",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+          "code": "I-06-SML-CO-13",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "fc5dd782-e0c3-46c3-a8df-0fa22d2ea86f",
+          "code": "I-03-GRN-PA-31",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "66613362-e511-4465-b1a4-9992a919b5d0",
+          "code": "I-08-SAU-PS-50",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "abb2d5af-131e-4e82-9546-705ab185cc37",
+          "code": "I-06-SML-DL-14",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "425972b7-82d8-447d-94d0-b5690e6c65cc",
+          "code": "I-06-SML-DL-40",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "5487587b-eaf7-48a8-aa9a-d06c7b9b3569",
+          "code": "I-04-NUT-NT-10",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "34ad5b48-6f2b-402b-8699-1237fb821ae2",
+          "code": "I-06-SML-OT-34",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "4f171c2d-c380-4257-a4f9-ff7d9ec50caf",
+          "code": "IQ-10-MPF-SE-56",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    }
+  ]
+}

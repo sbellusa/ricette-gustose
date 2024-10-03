@@ -1,0 +1,922 @@
+{
+  "url": "/creamy-tuna-pasta-bake",
+  "title": "Creamy Tuna Pasta Bake",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "6388",
+  "gousto_uid": "773f30e3-471f-4882-8e10-822a5c1d084f",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/6233_Creamy-Tuna-Pasta-Bake_003_0-1704379537024-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/6233_Creamy-Tuna-Pasta-Bake_003_0-1704379537024-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/6233_Creamy-Tuna-Pasta-Bake_003_0-1704379537024-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/6233_Creamy-Tuna-Pasta-Bake_003_0-1704379537024-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/6233_Creamy-Tuna-Pasta-Bake_003_0-1704379537024-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": null,
+  "description": "For a hearty, creamy pasta bake packed with garden veg and juicy chunks of tuna, look no further. Finish it off with a cheesy panko crumb before baking till golden. Perfect for the whole fam.",
+  "prep_times": {
+    "for_2": 25,
+    "for_4": 30
+  },
+  "cuisine": {
+    "slug": "fusion",
+    "title": "Fusion"
+  },
+  "ingredients": [
+    {
+      "label": "40g cheddar",
+      "title": "cheddar cheese-I-09-DAI-CH-02",
+      "uid": "bltcf8784004b8281e0",
+      "gousto_uuid": "aed1561d-bae6-487b-a645-4125a6829119",
+      "name": "cheddar cheese",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 tuna chunks in spring water",
+      "title": "tuna chunks in spring water-I-01-CAN-VC-52",
+      "uid": "blt8b24e73929ef4aaa",
+      "gousto_uuid": "6043bf65-c8e6-4a57-b877-ad085e57d15c",
+      "name": "tuna chunks in spring water",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/can-of-tuna-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/can-of-tuna-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/can-of-tuna-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/can-of-tuna-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/can-of-tuna-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "fish"
+          }
+        ]
+      }
+    },
+    {
+      "label": "160g garden veg mix",
+      "title": "garden veg mix-IQ-05-FVG-PD-21-01",
+      "uid": "blta0f04e293cb823f0",
+      "gousto_uuid": "dfbba3b9-0817-4ba9-aaa6-fa6192db1a12",
+      "name": "garden veg mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garden-veg-mix-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garden-veg-mix-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garden-veg-mix-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garden-veg-mix-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garden-veg-mix-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "30g panko breadcrumbs",
+      "title": "panko breadcrumbs-IQ-07-GRN-FL-09-01",
+      "uid": "blt0a0073cbb9b46ccf",
+      "gousto_uuid": "bd9a0571-27e5-48ee-a951-f2beeaa1099a",
+      "name": "panko breadcrumbs",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "5.5g vegetable stock mix",
+      "title": "vegetable stock mix-I-06-SML-SC-26",
+      "uid": "blt0ca5e580e2d973c5",
+      "gousto_uuid": "166bfad3-d300-465d-b61c-fef4d2965904",
+      "name": "vegetable stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "0 farfalle",
+      "title": "farfalle-IQ-03-GRN-PA-15-01",
+      "uid": "blt60da8838bb34a379",
+      "gousto_uuid": "1ff4910c-02aa-4140-a123-3e9fe37a2f2a",
+      "name": "farfalle",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/farfalle-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/farfalle-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/farfalle-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/farfalle-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/farfalle-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "200g farfalle",
+      "title": "farfalle-IQ-03-GRN-PA-15-02",
+      "uid": "blt7c04f2bb6d26f381",
+      "gousto_uuid": "de1bcc40-64bb-49c4-9138-be3f5f3c5c7f",
+      "name": "farfalle",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/farfalle-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/farfalle-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/farfalle-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/farfalle-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/farfalle-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "1 garlic clove",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Butter",
+      "slug": "butter"
+    },
+    {
+      "title": "Flour",
+      "slug": "flour"
+    },
+    {
+      "title": "Milk",
+      "slug": "milk"
+    },
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Water",
+      "slug": "water"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7</p><p>Boil a full kettle</p><p>Peel and finely chop (or grate) your <strong>garlic</strong></p><p>Grate your<strong> cheddar cheese</strong></p><p>Drain your <strong>tuna</strong></p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1697645655396-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1697645655396-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1697645655396-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1697645655396-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1697645655396-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add your <strong>farfalle</strong> to a pot of boiled water with a large pinch of <strong>salt</strong> and bring to the boil over a high heat</p><p>Cook the <strong>farfalle</strong> for 6-7 min</p><p>Tip: It doesn't need to be fully cooked, as it will go in the oven later!</p><p>Once done, drain the <strong>farfalle</strong>, reserving a cup of the <strong>starchy pasta water</strong></p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1697645659406-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1697645659406-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1697645659406-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1697645659406-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1697645659406-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>While the pasta is cooking, melt 20g <span class=\"text-purple\">[30g]</span> <span class=\"text-danger\">[40g]</span><strong> butter</strong> in a pot over a medium heat</p><p>Once melted, add 20g <span class=\"text-purple\">[30g]</span> <span class=\"text-danger\">[40g]</span> <strong>flour</strong> and <strong>chopped garlic</strong> and stir with a wooden spoon for 1-2 min or until a sandy paste forms – this is your <strong>roux</strong></p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1697645664002-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1697645664002-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1697645664002-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1697645664002-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1697645664002-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Gradually whisk 250ml<span class=\"text-purple\"> [375ml]</span> <span class=\"text-danger\">[500ml]</span> <strong>milk</strong> into the roux, a little at a time, and cook for 5 min or until a smooth, thick sauce remains – this is your <strong>béchamel sauce</strong></p><p>Add your <strong>vegetable stock mix</strong> and<strong> half </strong>the <strong>grated cheese </strong>(you'll use the rest later!)<strong> </strong>to the béchamel sauce and give everything a good mix up – this is your <strong>cheese sauce</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1697645668009-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1697645668009-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1697645668009-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1697645668009-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1697645668009-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Remove the pot from the heat and stir your <strong>garden veg mix</strong> and <strong>drained farfalle</strong> through the<strong> cheese sauce</strong> with the <strong>drained tuna </strong>and 100ml <span class=\"text-purple\">[150ml]</span> <span class=\"text-danger\">[200ml] </span><strong>reserved starchy pasta water</strong></p><p>Season with a pinch of <strong>salt</strong> and <strong>pepper</strong> and give everything a good mix up – this is your <strong>tuna pasta mix</strong></p><p>Transfer the<strong> tuna pasta mix </strong>to an <strong>oven-proof dish</strong></p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1697645672066-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1697645672066-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1697645672066-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1697645672066-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1697645672066-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add your<strong> panko breadcrumbs</strong> and <strong>remaining grated cheese</strong> to a small bowl with a pinch of <strong>salt</strong> and <strong>pepper </strong>and a drizzle of<strong> olive oil</strong></p><p>Give everything a good mix up – this is your <strong>cheesy crunchy topping</strong></p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1697645675277-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1697645675277-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1697645675277-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1697645675277-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1697645675277-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Top the tuna pasta mix evenly with the <strong>cheesy crunchy topping</strong></p><p>Put the dish in the oven for 10-12 min or until golden and bubbling – this is your<strong> creamy tuna pasta bake</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1697645679453-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1697645679453-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1697645679453-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1697645679453-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1697645679453-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once done, remove the dish from the oven and leave to stand for a few min before serving (this helps the flavours to develop and makes it easier to serve!)</p><p>Serve the <strong>creamy tuna pasta bake</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "fish",
+      "slug": "fish"
+    }
+  ],
+  "seo": {
+    "title": "Creamy Tuna Pasta Bake",
+    "description": "For a hearty, creamy pasta bake packed with garden veg and juicy chunks of tuna, look no further. Finish it off with a cheesy panko crumb before baking till golden. Perfect for the whole fam.",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/6233_Creamy-Tuna-Pasta-Bake_003_0-1704379537024.jpg"
+  },
+  "tags": [],
+  "uid": "blt6f07e68ab15b2448",
+  "_version": 22,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 208,
+      "energy_kj": 882,
+      "fat_mg": 3463,
+      "fat_saturates_mg": 1814,
+      "carbs_mg": 32271,
+      "carbs_sugars_mg": 1805,
+      "fibre_mg": 1283,
+      "protein_mg": 13146,
+      "salt_mg": 632,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 611,
+      "energy_kj": 2587,
+      "fat_mg": 10157,
+      "fat_saturates_mg": 5321,
+      "carbs_mg": 94637,
+      "carbs_sugars_mg": 5296,
+      "fibre_mg": 3763,
+      "protein_mg": 38552,
+      "salt_mg": 1854,
+      "net_weight_mg": 293250
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 1,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "aed1561d-bae6-487b-a645-4125a6829119",
+          "code": "I-09-DAI-CH-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "1ff4910c-02aa-4140-a123-3e9fe37a2f2a",
+          "code": "IQ-03-GRN-PA-15-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "dfbba3b9-0817-4ba9-aaa6-fa6192db1a12",
+          "code": "IQ-05-FVG-PD-21-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "bd9a0571-27e5-48ee-a951-f2beeaa1099a",
+          "code": "IQ-07-GRN-FL-09-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "6043bf65-c8e6-4a57-b877-ad085e57d15c",
+          "code": "I-01-CAN-VC-52",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "aed1561d-bae6-487b-a645-4125a6829119",
+          "code": "I-09-DAI-CH-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "de1bcc40-64bb-49c4-9138-be3f5f3c5c7f",
+          "code": "IQ-03-GRN-PA-15-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "dfbba3b9-0817-4ba9-aaa6-fa6192db1a12",
+          "code": "IQ-05-FVG-PD-21-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "bd9a0571-27e5-48ee-a951-f2beeaa1099a",
+          "code": "IQ-07-GRN-FL-09-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "6043bf65-c8e6-4a57-b877-ad085e57d15c",
+          "code": "I-01-CAN-VC-52",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 3,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "aed1561d-bae6-487b-a645-4125a6829119",
+          "code": "I-09-DAI-CH-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "1ff4910c-02aa-4140-a123-3e9fe37a2f2a",
+          "code": "IQ-03-GRN-PA-15-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "de1bcc40-64bb-49c4-9138-be3f5f3c5c7f",
+          "code": "IQ-03-GRN-PA-15-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "dfbba3b9-0817-4ba9-aaa6-fa6192db1a12",
+          "code": "IQ-05-FVG-PD-21-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "bd9a0571-27e5-48ee-a951-f2beeaa1099a",
+          "code": "IQ-07-GRN-FL-09-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "6043bf65-c8e6-4a57-b877-ad085e57d15c",
+          "code": "I-01-CAN-VC-52",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "aed1561d-bae6-487b-a645-4125a6829119",
+          "code": "I-09-DAI-CH-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "de1bcc40-64bb-49c4-9138-be3f5f3c5c7f",
+          "code": "IQ-03-GRN-PA-15-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "dfbba3b9-0817-4ba9-aaa6-fa6192db1a12",
+          "code": "IQ-05-FVG-PD-21-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "bd9a0571-27e5-48ee-a951-f2beeaa1099a",
+          "code": "IQ-07-GRN-FL-09-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "6043bf65-c8e6-4a57-b877-ad085e57d15c",
+          "code": "I-01-CAN-VC-52",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 5,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "aed1561d-bae6-487b-a645-4125a6829119",
+          "code": "I-09-DAI-CH-02",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "1ff4910c-02aa-4140-a123-3e9fe37a2f2a",
+          "code": "IQ-03-GRN-PA-15-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "de1bcc40-64bb-49c4-9138-be3f5f3c5c7f",
+          "code": "IQ-03-GRN-PA-15-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "dfbba3b9-0817-4ba9-aaa6-fa6192db1a12",
+          "code": "IQ-05-FVG-PD-21-01",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "bd9a0571-27e5-48ee-a951-f2beeaa1099a",
+          "code": "IQ-07-GRN-FL-09-01",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "6043bf65-c8e6-4a57-b877-ad085e57d15c",
+          "code": "I-01-CAN-VC-52",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 3
+          }
+        }
+      ]
+    }
+  ]
+}

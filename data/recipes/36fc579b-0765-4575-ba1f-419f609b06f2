@@ -1,0 +1,977 @@
+{
+  "url": "/creamy-sun-dried-tomato-salmon-with-spinach-gnocchi",
+  "title": "Salmon With Creamy Sun-Dried Tomato Gnocchi",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    }
+  ],
+  "gousto_id": "3866",
+  "gousto_uid": "36fc579b-0765-4575-ba1f-419f609b06f2",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3724---Creamy-Tuscan-Salmon-Gnocchi6123-1627923430828-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3724---Creamy-Tuscan-Salmon-Gnocchi6123-1627923430828-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3724---Creamy-Tuscan-Salmon-Gnocchi6123-1627923430828-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3724---Creamy-Tuscan-Salmon-Gnocchi6123-1627923430828-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/3724---Creamy-Tuscan-Salmon-Gnocchi6123-1627923430828-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 2620
+  },
+  "description": "This speedy salmon supper is on the table in 10. You’ll simmer gnocchi in a creamy sun-dried tomato, pea and spinach sauce before topping with a crispy salmon fillet. Now that’s some fast flavour.",
+  "prep_times": {
+    "for_2": 10,
+    "for_4": 10
+  },
+  "cuisine": {
+    "slug": "italian",
+    "title": "Italian"
+  },
+  "ingredients": [
+    {
+      "label": "Balsamic sun-dried tomato paste (30g)",
+      "title": "balsamic sun-dried tomato paste-I-08-SAU-PS-73",
+      "uid": "blt9aee244f816b5f65",
+      "gousto_uuid": "c6e9cd4a-b156-4852-9b2e-fcfceea5eaee",
+      "name": "balsamic sun-dried tomato paste",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sun-dried-tomato-nut-pesto-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sun-dried-tomato-nut-pesto-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sun-dried-tomato-nut-pesto-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sun-dried-tomato-nut-pesto-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/sun-dried-tomato-nut-pesto-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Crème fraîche (80g)",
+      "title": "crème fraîche-I-09-DAI-CR-31",
+      "uid": "blt73f591dd11f53f92",
+      "gousto_uuid": "d343996b-36eb-4918-9340-ca527fb4296c",
+      "name": "crème fraîche",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pot-of-creme-fraiche-200g-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pot-of-creme-fraiche-200g-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pot-of-creme-fraiche-200g-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pot-of-creme-fraiche-200g-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pot-of-creme-fraiche-200g-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "milk"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Gnocchi (350g)",
+      "title": "gnocchi-I-09-DAI-PA-04",
+      "uid": "bltc6220dddc5609045",
+      "gousto_uuid": "2cada79f-be8e-41b5-8c11-3d6e9d3d6503",
+      "name": "gnocchi",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-gnocchi-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-gnocchi-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-gnocchi-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-gnocchi-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-gnocchi-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Skin on salmon fillet x0",
+      "title": "skin on salmon fillet-IQ-10-MPF-SE-64",
+      "uid": "blt6ef8a7ff8c2f8a14",
+      "gousto_uuid": "5d6b3f91-55f6-429e-b7cf-004b74520249",
+      "name": "skin on salmon fillet",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/salmon-fillets-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/salmon-fillets-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/salmon-fillets-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/salmon-fillets-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/salmon-fillets-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "fish"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Vegetable stock mix (5.5g)",
+      "title": "vegetable stock mix-I-06-SML-SC-26",
+      "uid": "blt0ca5e580e2d973c5",
+      "gousto_uuid": "166bfad3-d300-465d-b61c-fef4d2965904",
+      "name": "vegetable stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Skin on salmon fillets (2pcs)",
+      "title": "skin on salmon fillets-IQ-10-MPF-SE-44",
+      "uid": "blt9841850f67971cd5",
+      "gousto_uuid": "ad9a92c9-f5b3-49ce-a582-be130ba3908b",
+      "name": "skin on salmon fillets",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-salmon-fillets-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-salmon-fillets-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-salmon-fillets-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-salmon-fillets-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/2-salmon-fillets-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "fish"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Blanched peas (160g)",
+      "title": "blanched peas-IQ-05-FVG-PD-13-01",
+      "uid": "blt732a710c86e7ffb1",
+      "gousto_uuid": "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+      "name": "blanched peas",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-peas-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-peas-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-peas-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-peas-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-peas-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Spinach (80g)",
+      "title": "spinach-I-05-FVG-FG-02-03",
+      "uid": "blte6edae427c7fa86f",
+      "gousto_uuid": "d240500f-9c26-4286-88bc-6be3e774e96b",
+      "name": "spinach",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Garlic clove",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Water",
+      "slug": "water"
+    },
+    {
+      "title": "Vegetable oil",
+      "slug": "vegetable-oil"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p><strong>Before you begin...</strong></p><p>Get all your ingredients and equipment ready</p><p>Skim through these steps, then wash your fruit and veg</p><p>Note: Equipment and pan sizes vary. Make sure you cook food thoroughly (even if it takes you a little longer than 10 min)</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin-10mm-Step-1-1645544158520-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin-10mm-Step-1-1645544158520-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin-10mm-Step-1-1645544158520-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin-10mm-Step-1-1645544158520-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin-10mm-Step-1-1645544158520-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p><strong>Now, let's get started!</strong></p><p>Heat a large, wide-based pan (preferably non-stick) with a generous drizzle of <strong>vegetable oil</strong> over a medium-high heat</p><p>Once hot, add your <strong>gnocchi</strong> and cook for 6-8 min or until beginning to crisp</p><p>Tip: Don't stir too often as this will prevent the gnocchi from crisping!</p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-copy-1638873851589-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-copy-1638873851589-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-copy-1638873851589-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-copy-1638873851589-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-copy-1638873851589-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, heat a separate large, wide-based pan (preferably non-stick) with a drizzle of <strong>vegetable oil</strong> over a medium-high heat</p><p>Once hot, add your <strong>salmon fillet[s] </strong>(skin-side down), season with a pinch of <strong>salt</strong> and <strong>pepper</strong> and cook for 9-10 min, turning once halfway</p><p>Tip: Your fish is cooked once it turns opaque and flakes easily</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-copy-1638873854213-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-copy-1638873854213-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-copy-1638873854213-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-copy-1638873854213-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-copy-1638873854213-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Boil a kettle</p><p>Peel and roughly chop your<strong> garlic</strong></p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1720783450253-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1720783450253-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1720783450253-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1720783450253-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1720783450253-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Wash your<strong> spinach</strong> then add to a colander and pour <strong>boiled water</strong> all over it so that it starts to wilt</p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Spinach-wilting-in-colander-1720793456690-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Spinach-wilting-in-colander-1720793456690-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Spinach-wilting-in-colander-1720793456690-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Spinach-wilting-in-colander-1720793456690-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Spinach-wilting-in-colander-1720793456690-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Dissolve your <strong>vegetable stock mix</strong> in 200ml <span class=\"text-purple\">[300ml]</span> <span class=\"text-danger\">[400ml] </span><strong>boiled water</strong></p><p>Add your <strong>chopped garlic</strong> and <strong>balsamic sundried tomato paste </strong>and stir it all together – this is your <strong>sundried tomato stock</strong></p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1720783513294-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1720783513294-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1720783513294-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1720783513294-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1720783513294-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the gnocchi has started to crisp, reduce the heat to medium and add the<strong> sundried tomato stock</strong> and <strong>crème fraîche</strong></p><p>Add your <strong>blanched peas </strong>and <strong>wilted spinach </strong>and<strong> </strong>cook for 1 min further or until warmed through – this is your<strong> creamy sun-dried tomato gnocchi</strong></p><p>Tip: Add a splash more water if your gnocchi is looking a little dry!</p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-copy-1638873866990-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-copy-1638873866990-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-copy-1638873866990-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-copy-1638873866990-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-copy-1638873866990-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the<strong> cooked salmon </strong>on top of the <strong>creamy sun-dried tomato gnocchi</strong></p><p>Finish with a few grinds of <strong>black pepper</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "milk",
+      "slug": "milk"
+    },
+    {
+      "title": "fish",
+      "slug": "fish"
+    },
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    }
+  ],
+  "seo": {
+    "title": "Creamy Sun-Dried Tomato Salmon With Spinach Gnocchi",
+    "description": "Due for a gnocchi fix? This lightning-fast recipe will hit the spot in just 10 minutes. You'll serve it with salmon cooked in a creamy sun-dried tomato sauce and baby leaf spinach and peas for extra greens. ",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/3724---Creamy-Tuscan-Salmon-Gnocchi6123-1627923430828.jpg"
+  },
+  "tags": [],
+  "uid": "blte1541af6a56c327f",
+  "_version": 2662,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 150,
+      "energy_kj": 633,
+      "fat_mg": 6401,
+      "fat_saturates_mg": 2111,
+      "carbs_mg": 15149,
+      "carbs_sugars_mg": 1816,
+      "fibre_mg": 1804,
+      "protein_mg": 8434,
+      "salt_mg": 536,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 703,
+      "energy_kj": 2950,
+      "fat_mg": 29815,
+      "fat_saturates_mg": 9833,
+      "carbs_mg": 70557,
+      "carbs_sugars_mg": 8461,
+      "fibre_mg": 8403,
+      "protein_mg": 39282,
+      "salt_mg": 2501,
+      "net_weight_mg": 465750
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 1,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "c6e9cd4a-b156-4852-9b2e-fcfceea5eaee",
+          "code": "I-08-SAU-PS-73",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+          "code": "IQ-05-FVG-PD-13-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d343996b-36eb-4918-9340-ca527fb4296c",
+          "code": "I-09-DAI-CR-31",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "2cada79f-be8e-41b5-8c11-3d6e9d3d6503",
+          "code": "I-09-DAI-PA-04",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "5d6b3f91-55f6-429e-b7cf-004b74520249",
+          "code": "IQ-10-MPF-SE-64",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d240500f-9c26-4286-88bc-6be3e774e96b",
+          "code": "I-05-FVG-FG-02-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "c6e9cd4a-b156-4852-9b2e-fcfceea5eaee",
+          "code": "I-08-SAU-PS-73",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+          "code": "IQ-05-FVG-PD-13-01",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d343996b-36eb-4918-9340-ca527fb4296c",
+          "code": "I-09-DAI-CR-31",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "2cada79f-be8e-41b5-8c11-3d6e9d3d6503",
+          "code": "I-09-DAI-PA-04",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ad9a92c9-f5b3-49ce-a582-be130ba3908b",
+          "code": "IQ-10-MPF-SE-44",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d240500f-9c26-4286-88bc-6be3e774e96b",
+          "code": "I-05-FVG-FG-02-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 3,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "c6e9cd4a-b156-4852-9b2e-fcfceea5eaee",
+          "code": "I-08-SAU-PS-73",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+          "code": "IQ-05-FVG-PD-13-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d343996b-36eb-4918-9340-ca527fb4296c",
+          "code": "I-09-DAI-CR-31",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "2cada79f-be8e-41b5-8c11-3d6e9d3d6503",
+          "code": "I-09-DAI-PA-04",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "5d6b3f91-55f6-429e-b7cf-004b74520249",
+          "code": "IQ-10-MPF-SE-64",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ad9a92c9-f5b3-49ce-a582-be130ba3908b",
+          "code": "IQ-10-MPF-SE-44",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d240500f-9c26-4286-88bc-6be3e774e96b",
+          "code": "I-05-FVG-FG-02-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "c6e9cd4a-b156-4852-9b2e-fcfceea5eaee",
+          "code": "I-08-SAU-PS-73",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+          "code": "IQ-05-FVG-PD-13-01",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d343996b-36eb-4918-9340-ca527fb4296c",
+          "code": "I-09-DAI-CR-31",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "2cada79f-be8e-41b5-8c11-3d6e9d3d6503",
+          "code": "I-09-DAI-PA-04",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ad9a92c9-f5b3-49ce-a582-be130ba3908b",
+          "code": "IQ-10-MPF-SE-44",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d240500f-9c26-4286-88bc-6be3e774e96b",
+          "code": "I-05-FVG-FG-02-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 5,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "c6e9cd4a-b156-4852-9b2e-fcfceea5eaee",
+          "code": "I-08-SAU-PS-73",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+          "code": "IQ-05-FVG-PD-13-01",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "d343996b-36eb-4918-9340-ca527fb4296c",
+          "code": "I-09-DAI-CR-31",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "2cada79f-be8e-41b5-8c11-3d6e9d3d6503",
+          "code": "I-09-DAI-PA-04",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "5d6b3f91-55f6-429e-b7cf-004b74520249",
+          "code": "IQ-10-MPF-SE-64",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ad9a92c9-f5b3-49ce-a582-be130ba3908b",
+          "code": "IQ-10-MPF-SE-44",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d240500f-9c26-4286-88bc-6be3e774e96b",
+          "code": "I-05-FVG-FG-02-03",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 3
+          }
+        }
+      ]
+    }
+  ]
+}

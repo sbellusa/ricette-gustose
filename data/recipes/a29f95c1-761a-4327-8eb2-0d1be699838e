@@ -1,0 +1,1065 @@
+{
+  "url": "/mushroom-thyme-fusilloni",
+  "title": "Mushroom & Thyme Tortiglioni",
+  "categories": [
+    {
+      "title": "All Recipes",
+      "url": "/recipes",
+      "uid": "blt99b86694701028c1"
+    },
+    {
+      "title": "Dairy-Free ",
+      "url": "/dairy-free",
+      "uid": "bltba0f45afb7165184"
+    },
+    {
+      "title": "Healthy Choices",
+      "url": "/healthy-choices",
+      "uid": "blt6481386f749a222a"
+    },
+    {
+      "title": "Vegetarian",
+      "url": "/vegetarian",
+      "uid": "blt5cc8b5413c283f12"
+    },
+    {
+      "title": "Vegan Recipes",
+      "url": "/vegan-recipes",
+      "uid": "blt780131ad80dc73ef"
+    },
+    {
+      "title": "Plant-Based Recipes",
+      "url": "/plant-based-recipes",
+      "uid": "blt1c6072696478398b"
+    }
+  ],
+  "gousto_id": "1504",
+  "gousto_uid": "a29f95c1-761a-4327-8eb2-0d1be699838e",
+  "media": {
+    "images": [
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1520_Mushroom--Thyme-Tortiglioni-V_001_0-1679651969565-x200.jpg",
+        "width": 200
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1520_Mushroom--Thyme-Tortiglioni-V_001_0-1679651969565-x400.jpg",
+        "width": 400
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1520_Mushroom--Thyme-Tortiglioni-V_001_0-1679651969565-x700.jpg",
+        "width": 700
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1520_Mushroom--Thyme-Tortiglioni-V_001_0-1679651969565-x1000.jpg",
+        "width": 1000
+      },
+      {
+        "image": "https://production-media.gousto.co.uk/cms/mood-image/1520_Mushroom--Thyme-Tortiglioni-V_001_0-1679651969565-x1500.jpg",
+        "width": 1500
+      }
+    ]
+  },
+  "rating": {
+    "average": 4.5,
+    "count": 10042
+  },
+  "description": "Pasta 'con funghi' is a popular mushroom pasta, but you'll swap cheese for creamy coconut yoghurt and thyme-infused mushrooms. Serve with toasted pine nut & seed mix for a delicious dinner! All Health Hub recipes meet one of these criteria: <600 calories, 3 of your 5/day, or a source of protein.",
+  "prep_times": {
+    "for_2": 30,
+    "for_4": 35
+  },
+  "cuisine": {
+    "slug": "italian",
+    "title": "Italian"
+  },
+  "ingredients": [
+    {
+      "label": "Cultured coconut (80g)",
+      "title": "cultured coconut-I-06-SML-CO-20",
+      "uid": "blt4abf28b431ea901a",
+      "gousto_uuid": "d529be26-fdca-4488-989a-4198039d6c77",
+      "name": "cultured coconut",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/coconut-yoghurt-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/coconut-yoghurt-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/coconut-yoghurt-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/coconut-yoghurt-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/coconut-yoghurt-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Pine kernel & seed mix (30g)",
+      "title": "pine kernel & seed mix-I-04-NUT-DF-07",
+      "uid": "bltb8ad78aee78a171e",
+      "gousto_uuid": "d3e8b905-e330-4b72-a0d4-57a7eb0f5449",
+      "name": "pine kernel & seed mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pine-nut--seed-mix-sachet-30g-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pine-nut--seed-mix-sachet-30g-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pine-nut--seed-mix-sachet-30g-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pine-nut--seed-mix-sachet-30g-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pine-nut--seed-mix-sachet-30g-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "sesame"
+          },
+          {
+            "title": null,
+            "slug": "peanut"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Flat white mushrooms (150g)",
+      "title": "flat white mushrooms-I-05-FVG-MS-25",
+      "uid": "blt2eaee74f1ed6326d",
+      "gousto_uuid": "ff5f52af-5ac6-4043-a5fc-c26516ed9094",
+      "name": "flat white mushrooms",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/130g-portobello-mushrooms-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/130g-portobello-mushrooms-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/130g-portobello-mushrooms-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/130g-portobello-mushrooms-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/130g-portobello-mushrooms-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Vegetable stock mix (11g)",
+      "title": "vegetable stock mix-I-06-SML-SC-27",
+      "uid": "bltebbd714d321e7e43",
+      "gousto_uuid": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+      "name": "vegetable stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Vegetable stock mix (5.5g) x0",
+      "title": "vegetable stock mix-I-06-SML-SC-26",
+      "uid": "blt0ca5e580e2d973c5",
+      "gousto_uuid": "166bfad3-d300-465d-b61c-fef4d2965904",
+      "name": "vegetable stock mix",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Henderson's Relish (15ml)",
+      "title": "Henderson's Relish-I-08-SAU-HD-03",
+      "uid": "bltf3888be38553dc9c",
+      "gousto_uuid": "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+      "name": "Henderson's Relish",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Hendersons-Relish-New-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Hendersons-Relish-New-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Hendersons-Relish-New-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Hendersons-Relish-New-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/Hendersons-Relish-New-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Tortiglioni (200g)",
+      "title": "tortiglioni-IQ-03-GRN-PA-20-02",
+      "uid": "blt531310de7790801b",
+      "gousto_uuid": "248e9920-213f-426d-90d4-611a29171065",
+      "name": "tortiglioni",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tortiglioni-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tortiglioni-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tortiglioni-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tortiglioni-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/tortiglioni-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": [
+          {
+            "title": null,
+            "slug": "gluten"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Thyme (5g)",
+      "title": "thyme-I-07-HBS-PL-27",
+      "uid": "bltb384c356068db77a",
+      "gousto_uuid": "b69a875d-2105-4280-9890-7a3fba1afa14",
+      "name": "thyme",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-thyme-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-thyme-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-thyme-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-thyme-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-thyme-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Garlic clove x2",
+      "title": "garlic clove-I-06-SML-OT-02",
+      "uid": "bltb25c60cccec7cd15",
+      "gousto_uuid": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    },
+    {
+      "label": "Brown onion",
+      "title": "brown onion-I-02-SVG-VG-07",
+      "uid": "blt8f3ebc667e318aad",
+      "gousto_uuid": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      },
+      "allergens": {
+        "allergen": []
+      }
+    }
+  ],
+  "basics": [
+    {
+      "title": "Olive oil",
+      "slug": "olive-oil"
+    },
+    {
+      "title": "Pepper",
+      "slug": "pepper"
+    },
+    {
+      "title": "Salt",
+      "slug": "salt"
+    },
+    {
+      "title": "Water",
+      "slug": "water"
+    }
+  ],
+  "cooking_instructions": [
+    {
+      "instruction": "<p>Boil a kettle</p><p>Peel and finely dice your <strong>brown</strong> <strong>onion[s]</strong></p><p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of<strong> olive oil</strong> over a medium heat</p><p>Once hot, add the <strong>diced onion</strong> with a pinch of <strong>salt</strong> and cook for 4-5 min or until starting to soften</p>",
+      "order": 1,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-1-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-1-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-1-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-1-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-1-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>While the onion is cooking, slice your <strong>flat white mushrooms</strong></p><p>Peel and finely chop (or grate) your <strong>garlic</strong></p>",
+      "order": 2,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-2-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-2-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-2-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-2-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-2-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the onion has softened, add the<strong> sliced mushrooms</strong> and cook for 8-10 min further or until the mushrooms are beginning to caramelise</p>",
+      "order": 3,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-3-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-3-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-3-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-3-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-3-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Add your <strong>tortiglioni </strong>to a pot of <strong>boiled water</strong> with a large pinch of <strong>salt</strong> and bring to the boil over a high heat</p><p>Cook the <strong>tortiglioni </strong>for 8-10 min or until cooked with a slight bite</p><p>Once done, drain the <strong>cooked</strong> <strong>tortiglioni </strong>and then return to the pot</p>",
+      "order": 4,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-4-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-4-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-4-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-4-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-4-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>While the pasta is cooking, strip your<strong> thyme leaves </strong>from their stems and chop them finely, discard the stems</p><p>Tip: Hold the top of the herb sprigs firmly and slide your fingers down their lengths to easily remove the leaves</p><p>Dissolve your <strong>vegetable stock mix </strong>in 200ml <span class=\"text-purple\">[260ml] </span><span class=\"text-danger\">[350ml]</span> <strong>boiled water</strong></p>",
+      "order": 5,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-5-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-5-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-5-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-5-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-5-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Once the mushrooms have caramelised, add the <strong>chopped garlic</strong> and <strong>chopped</strong> <strong>thyme</strong> and cook for 1-2 min further</p><p>Add your <strong>Henderson's Relish</strong> and <strong>vegetable stock</strong> to the pan and cook for 3-4 min</p>",
+      "order": 6,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-6-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-6-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-6-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-6-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-6-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Meanwhile, heat a separate large, wide-based pan (preferably non-stick) over a medium heat</p><p>Once hot, add your <strong>pine kernel & seed mix</strong> and cook for 2-3 min or until lightly toasted</p><p>Tip: Watch them like a hawk to make sure they don’t burn!</p><p>Remove the mushroom pan from the heat and stir in your <strong>cultured coconut</strong>, then add the <strong>drained tortiglioni </strong>and give everything a good mix up – this is your<strong> mushroom & thyme tortiglioni</strong></p>",
+      "order": 7,
+      "media": {
+        "images": [
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-7-x200.jpg",
+            "width": 200
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-7-x400.jpg",
+            "width": 400
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-7-x700.jpg",
+            "width": 700
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-7-x1000.jpg",
+            "width": 1000
+          },
+          {
+            "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1520.-step-7-x1500.jpg",
+            "width": 1500
+          }
+        ]
+      }
+    },
+    {
+      "instruction": "<p>Serve the <strong>mushroom & thyme tortiglioni</strong> and season with a good grind of <strong>black pepper</strong></p><p>Garnish with the <strong>toasted pine kernel & seed mix</strong></p><p>Enjoy!</p>",
+      "order": 8,
+      "media": {
+        "images": []
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "title": "gluten",
+      "slug": "gluten"
+    },
+    {
+      "title": "peanut",
+      "slug": "peanut"
+    },
+    {
+      "title": "sesame",
+      "slug": "sesame"
+    }
+  ],
+  "seo": {
+    "title": "Mushroom & Thyme Fusilloni",
+    "description": "Pasta 'con funghi' is a popular mushroom pasta, but you'll swap cheese for creamy coconut yoghurt and thyme-infused mushrooms. Serve with a sprinkle of toasted pine nuts for a delicious dinner!",
+    "robots": [],
+    "canonical": "",
+    "open_graph_image": "https://production-media.gousto.co.uk/cms/mood-image/1520_Mushroom--Thyme-Tortiglioni-V_001_0-1679651969565.jpg"
+  },
+  "tags": [],
+  "uid": "blt9c12b6b23da9f9b5",
+  "_version": 5655,
+  "nutritional_information": {
+    "per_hundred_grams": {
+      "energy_kcal": 190,
+      "energy_kj": 805,
+      "fat_mg": 5777,
+      "fat_saturates_mg": 2638,
+      "carbs_mg": 30303,
+      "carbs_sugars_mg": 2472,
+      "fibre_mg": 2327,
+      "protein_mg": 5997,
+      "salt_mg": 512,
+      "net_weight_mg": 100000
+    },
+    "per_portion": {
+      "energy_kcal": 556,
+      "energy_kj": 2348,
+      "fat_mg": 16842,
+      "fat_saturates_mg": 7692,
+      "carbs_mg": 88334,
+      "carbs_sugars_mg": 7207,
+      "fibre_mg": 6784,
+      "protein_mg": 17484,
+      "salt_mg": 1495,
+      "net_weight_mg": 291500
+    }
+  },
+  "portion_sizes": [
+    {
+      "portions": 1,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+          "code": "I-08-SAU-HD-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+          "code": "I-02-SVG-VG-07",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d529be26-fdca-4488-989a-4198039d6c77",
+          "code": "I-06-SML-CO-20",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ff5f52af-5ac6-4043-a5fc-c26516ed9094",
+          "code": "I-05-FVG-MS-25",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d3e8b905-e330-4b72-a0d4-57a7eb0f5449",
+          "code": "I-04-NUT-DF-07",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b69a875d-2105-4280-9890-7a3fba1afa14",
+          "code": "I-07-HBS-PL-27",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "248e9920-213f-426d-90d4-611a29171065",
+          "code": "IQ-03-GRN-PA-20-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 2,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+          "code": "I-08-SAU-HD-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+          "code": "I-02-SVG-VG-07",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "d529be26-fdca-4488-989a-4198039d6c77",
+          "code": "I-06-SML-CO-20",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "ff5f52af-5ac6-4043-a5fc-c26516ed9094",
+          "code": "I-05-FVG-MS-25",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d3e8b905-e330-4b72-a0d4-57a7eb0f5449",
+          "code": "I-04-NUT-DF-07",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "b69a875d-2105-4280-9890-7a3fba1afa14",
+          "code": "I-07-HBS-PL-27",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "248e9920-213f-426d-90d4-611a29171065",
+          "code": "IQ-03-GRN-PA-20-02",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 3,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+          "code": "I-08-SAU-HD-03",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+          "code": "I-02-SVG-VG-07",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d529be26-fdca-4488-989a-4198039d6c77",
+          "code": "I-06-SML-CO-20",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ff5f52af-5ac6-4043-a5fc-c26516ed9094",
+          "code": "I-05-FVG-MS-25",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "d3e8b905-e330-4b72-a0d4-57a7eb0f5449",
+          "code": "I-04-NUT-DF-07",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "b69a875d-2105-4280-9890-7a3fba1afa14",
+          "code": "I-07-HBS-PL-27",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "248e9920-213f-426d-90d4-611a29171065",
+          "code": "IQ-03-GRN-PA-20-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 1
+          }
+        }
+      ]
+    },
+    {
+      "portions": 4,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+          "code": "I-08-SAU-HD-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+          "code": "I-02-SVG-VG-07",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "d529be26-fdca-4488-989a-4198039d6c77",
+          "code": "I-06-SML-CO-20",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "ff5f52af-5ac6-4043-a5fc-c26516ed9094",
+          "code": "I-05-FVG-MS-25",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 4
+          }
+        },
+        {
+          "id": "d3e8b905-e330-4b72-a0d4-57a7eb0f5449",
+          "code": "I-04-NUT-DF-07",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "b69a875d-2105-4280-9890-7a3fba1afa14",
+          "code": "I-07-HBS-PL-27",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "248e9920-213f-426d-90d4-611a29171065",
+          "code": "IQ-03-GRN-PA-20-02",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    },
+    {
+      "portions": 5,
+      "is_offered": true,
+      "ingredients_skus": [
+        {
+          "id": "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+          "code": "I-08-SAU-HD-03",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+          "code": "I-02-SVG-VG-07",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "d529be26-fdca-4488-989a-4198039d6c77",
+          "code": "I-06-SML-CO-20",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "ff5f52af-5ac6-4043-a5fc-c26516ed9094",
+          "code": "I-05-FVG-MS-25",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "code": "I-06-SML-OT-02",
+          "quantities": {
+            "in_box": 5
+          }
+        },
+        {
+          "id": "d3e8b905-e330-4b72-a0d4-57a7eb0f5449",
+          "code": "I-04-NUT-DF-07",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "b69a875d-2105-4280-9890-7a3fba1afa14",
+          "code": "I-07-HBS-PL-27",
+          "quantities": {
+            "in_box": 2
+          }
+        },
+        {
+          "id": "248e9920-213f-426d-90d4-611a29171065",
+          "code": "IQ-03-GRN-PA-20-02",
+          "quantities": {
+            "in_box": 3
+          }
+        },
+        {
+          "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+          "code": "I-06-SML-SC-26",
+          "quantities": {
+            "in_box": 1
+          }
+        },
+        {
+          "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+          "code": "I-06-SML-SC-27",
+          "quantities": {
+            "in_box": 2
+          }
+        }
+      ]
+    }
+  ]
+}
