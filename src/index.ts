@@ -22,7 +22,9 @@ app.use((cors as (options: cors.CorsOptions) => express.RequestHandler)({}));
 
 app.use(express.static('dist'));
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT
+ ||
+ 3000;
 
 app.get('/ping', (_req, res) => {
   console.log('someone pinged here');
