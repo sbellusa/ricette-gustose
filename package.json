@@ -4,7 +4,7 @@
   "description": "Ricette gustose",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: no test specified\"",
     "tsc": "tsc",
     "dev": "nodemon src/index.ts",    
     "build:react": "@powershell Remove-Item -Recurse -Force dist && cd ../ricette-gustose-react && npm run build && @powershell Copy-Item dist -Recurse ../ricette-gustose",
