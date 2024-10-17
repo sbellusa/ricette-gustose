@@ -20,6 +20,8 @@ const app = express();
 app.use(express.json());
 app.use((cors as (options: cors.CorsOptions) => express.RequestHandler)({}));
 
+app.use(express.static('dist'));
+
 const PORT = 3000;
 
 app.get('/ping', (_req, res) => {
