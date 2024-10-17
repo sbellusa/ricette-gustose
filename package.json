@@ -6,8 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\"",
     "tsc": "tsc",
-    "dev": "nodemon src/index.ts",    
-    "build:react": "@powershell Remove-Item -Recurse -Force dist && cd ../ricette-gustose-react && npm run build && @powershell Copy-Item dist -Recurse ../ricette-gustose",
+    "dev": "nodemon src/index.ts",
+    "export:assets":"@powershell Copy-Item ./src/assets -Recurse -Force ./dist" ,
+    "build:react": "npm run export:assets && @powershell Remove-Item -Recurse -Force dist && cd ../ricette-gustose-react && npm run build && @powershell Copy-Item dist -Recurse ../ricette-gustose",
     "deploy:git": "npm run build:react && git add . && git commit -m \"Updated react project\" && git push",
     "lint": "eslint .",
     "start": "node build/index.js"
@@ -23,6 +24,7 @@
     "@typescript-eslint/eslint-plugin": "^8.5.0",
     "@typescript-eslint/parser": "^8.5.0",
     "@typescript-eslint/typescript-estree": "^8.5.0",
+    "copyfiles": "^2.4.1",
     "eslint": "^9.10.0",
     "nodemon": "^3.1.7",
     "ts-node-dev": "^2.0.0",

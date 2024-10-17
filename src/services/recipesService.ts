@@ -1,5 +1,5 @@
-import recipesData from '../../data/all_recipes_full.json';
-import ingredientsData from '../../data/ingredients.json';
+import recipesData from '../assets/data/all_recipes_full.json';
+import ingredientsData from '../assets/data/ingredients.json';
 import { Recipe } from '../../types/recipeModels';
 import { RecipesResponse } from '../../types/responseModel';
 // import { IngredientEntry, IngredientQuery } from '../../types/ingredientModels';

@@ -35,7 +35,7 @@ app.use('/api/recipes', recipeRouter);
 app.use('/api/ingredients', ingredientRouter);
 app.use('/api/recipes/forIngredients', recipesForIngredientsRouter);
 
-app.use('/img', express.static(path.join(__dirname, 'public/ingredient-images')));
+app.use('/img', express.static(path.join(__dirname, 'assets/ingredient-images')));
 
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);

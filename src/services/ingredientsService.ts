@@ -1,4 +1,4 @@
-import ingredientsData from '../../data/ingredients.json';
+import ingredientsData from '../assets/data/ingredients.json';
 import { IngredientEntry } from '../../types/ingredientModels';
 import { IngredientsQueryResponse, IngredientsResponse } from '../../types/responseModel';
 
