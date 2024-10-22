@@ -9,7 +9,8 @@
     "start": "npm run build:ui && npm run build:server && cd ./app/server && npm start",
     "build:ui": "cd ./app/frontend/ && npm run build && @powershell Copy-Item ./dist/* -Recurse -Force ../../build",
     "build:server": "cd ./app/server/ && npm run build",
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Error: no test specified\"",
+    "lint": "cd ./app/server/ && npm run lint && cd ../../app/frontend/ && npm run lint"
   },
   "devDependencies": {
     "concurrently": "^9.0.1"
