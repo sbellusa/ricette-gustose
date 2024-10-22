@@ -24,6 +24,6 @@ export default [
   pluginJs.configs.recommended,
   ...tseslint.configs.recommended,
   {
-    ignores: [".node_modules/*", "dist/**", "build/**"]
+    ignores: [".node_modules/*", "dist/**", "bin/**", "build/**"]
   },
 ];

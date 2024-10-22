@@ -3,19 +3,42 @@
   "version": "0.0.1",
   "description": "Ricette Gustose",
   "scripts": {
-    "dev": "concurrently \"npm run dev:frontend\" \"npm run dev:backend\"",
+    "dev": "concurrently \"npm run dev:frontend\" \"nodemon ./src/index\"",
     "dev:frontend": "cd ./app/frontend/ && npm run dev",
-    "dev:backend": "cd ./app/server/ && npm run dev",    
-    "start": "node ./app/server/bin/index",
-    "build:all": "npm run build:frontend && npm run build:backend && cd ./app/server && npm start",
+    "dev:backend": "nodemon ./app/server/src/index",
     "build:frontend": "cd ./app/frontend/ && npm run build && @powershell Copy-Item ./dist/* -Recurse -Force ../../build",
-    "build:backend": "cd ./app/server/ && npm run build",
+    "build:backend": "tsc",
+    "build:all": "npm run build:frontend && npm run build:backend && npm start",
+    "start": "node ./app/server/bin/index",
     "test": "echo \"Error: no test specified\"",
     "lint": "cd ./app/server/ && npm run lint && cd ../../app/frontend/ && npm run lint"
   },
-  "devDependencies": {
-    "concurrently": "^9.0.1"
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1"
   },
+  "devDependencies": {
+    "@eslint/js": "^9.13.0",
+    "@types/cookie-parser": "^1.4.7",
+    "@types/debug": "^4.1.12",
+    "@types/eslint": "^9.6.1",
+    "@types/express": "^5.0.0",
+    "@types/http-errors": "^2.0.4",
+    "@types/morgan": "^1.9.9",
+    "@types/node": "^22.7.8",
+    "@typescript-eslint/eslint-plugin": "^8.11.0",
+    "@typescript-eslint/parser": "^8.11.0",
+    "eslint": "^9.13.0",
+    "globals": "^15.11.0",
+    "nodemon": "^3.1.7",
+    "typescript": "^5.6.3",
+    "typescript-eslint": "^8.11.0",
+    "concurrently": "^9.0.1"
+  },  
   "author": "Alessandro Bellu",
   "license": "MIT"
 }
