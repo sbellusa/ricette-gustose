@@ -1,0 +1,14 @@
+{
+  "name": "react-node-app",
+  "version": "0.0.1",
+  "description": "React node integration",
+  "scripts": {
+    "dev:frontend": "cd ./app/frontend/ && npm run dev",
+    "dev:backend": "cd ./app/server/ && npm run dev",
+    "start": "npm run build:ui && cd ./app/server && npm start",
+    "build:ui": "cd ./app/frontend/ && npm run build && @powershell Copy-Item ./dist/* -Recurse -Force ../../build",
+    "test": "echo \"Error: no test specified\""
+  },
+  "author": "Alessandro Bellu",
+  "license": "MIT"
+}
