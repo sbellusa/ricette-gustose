@@ -6,7 +6,7 @@
     "dev": "concurrently \"npm run dev:frontend\" \"npm run dev:backend\"",
     "dev:frontend": "cd ./app/frontend/ && npm run dev",
     "dev:backend": "cd ./app/server/ && npm run dev",    
-    "start": "node .app/server/dist/index",
+    "start": "node ./app/server/dist/index",
     "build": "npm run build:ui && npm run build:server && cd ./app/server && npm start",
     "build:ui": "cd ./app/frontend/ && npm run build && @powershell Copy-Item ./dist/* -Recurse -Force ../../build",
     "build:server": "cd ./app/server/ && npm run build",
