@@ -7,9 +7,9 @@
     "dev:frontend": "cd ./app/frontend/ && npm run dev",
     "dev:backend": "cd ./app/server/ && npm run dev",    
     "start": "node ./app/server/dist/index",
-    "build": "npm run build:ui && npm run build:server && cd ./app/server && npm start",
-    "build:ui": "cd ./app/frontend/ && npm run build && @powershell Copy-Item ./dist/* -Recurse -Force ../../build",
-    "build:server": "cd ./app/server/ && npm run build",
+    "build:all": "npm run build:frontend && npm run build:backend && cd ./app/server && npm start",
+    "build:frontend": "cd ./app/frontend/ && npm run build && @powershell Copy-Item ./dist/* -Recurse -Force ../../build",
+    "build:backend": "cd ./app/server/ && npm run build",
     "test": "echo \"Error: no test specified\"",
     "lint": "cd ./app/server/ && npm run lint && cd ../../app/frontend/ && npm run lint"
   },
