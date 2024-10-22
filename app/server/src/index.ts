@@ -1,6 +1,7 @@
+import http from 'http';
+
 var app = require('./app');
 var debug = require('debug')('ricettegustose:server');
-var http = require('http');
 
 // Get port from environment and store in Express
 var port = normalizePort(process.env.PORT || '3000');
@@ -15,7 +16,7 @@ server.on('error', onError);
 server.on('listening', onListening);
 
 // Normalize a port into a number, string, or false.
-function normalizePort(val) {
+function normalizePort(val : string) {
   var port = parseInt(val, 10);
 
   if (isNaN(port)) return val; // named pipe
@@ -25,7 +26,7 @@ function normalizePort(val) {
 }
 
 // Event listener for HTTP server "error" event
-function onError(error) {
+function onError(error : NodeJS.ErrnoException) {
   if (error.syscall !== 'listen') throw error;
 
   var bind = typeof port === 'string'
@@ -52,6 +53,6 @@ function onListening() {
   var addr = server.address();
   var bind = typeof addr === 'string'
     ? 'pipe ' + addr
-    : 'port ' + addr.port;
+    : 'port ' + addr?.port;
   debug('Listening on ' + bind);
 }
