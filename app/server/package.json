@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "nodemon ./src/index",
     "build": "tsc",
-    "start": "node ./dist/index",
+    "start": "node ./bin/index",
     "lint": "eslint ."
   },
   "dependencies": {
