@@ -1,7 +1,7 @@
 {
-  "name": "react-node-app",
+  "name": "ricette-gustose",
   "version": "0.0.1",
-  "description": "React node integration",
+  "description": "Ricette Gustose",
   "scripts": {
     "dev": "concurrently \"npm run dev:frontend\" \"npm run dev:backend\"",
     "dev:frontend": "cd ./app/frontend/ && npm run dev",
