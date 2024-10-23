@@ -2,7 +2,12 @@
   "compilerOptions": 
   {
     "forceConsistentCasingInFileNames": true,
-    "strict":true 
+    "strict":true,
+    "rootDir": "./",                                 
+    "baseUrl": "./", 
+    "paths": {
+      "@types/*": ["src/types/*"],
+    },  
   },
   "files": [],
   "references": [

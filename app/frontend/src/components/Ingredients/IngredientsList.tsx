@@ -1,8 +1,7 @@
 import SearchIngredientBox from './SearchIngredientBox'
 import IngredientsListItem from './IngredientsListItem'
 import recipesService from '../../services/recipes'
-import { IngredientQuery, IngredientItem } from '../../interfaces/ingredienTypes'
-import { RecipesResponse } from '../../interfaces/recipeTypes'
+import { IngredientItem, RecipesResponse, IngredientQuery } from '../../types/interfaces'
 import { ListGroup } from 'react-bootstrap'
 
 interface IngredientsListProps {
@@ -10,7 +9,6 @@ interface IngredientsListProps {
   setIngredients: (ingredient: IngredientItem[]) => void
   setRecipes: (ingredient: RecipesResponse) => void
 }
-
 
 const IngredientsList = (props: IngredientsListProps) => {
 
@@ -57,8 +55,8 @@ const IngredientsList = (props: IngredientsListProps) => {
   }
 
   return (
-    <>      
-    <h2>Ingredients:</h2>
+    <>
+      <h2>Ingredients:</h2>
       <SearchIngredientBox ingredients={props.ingredients} addIngredient={addIngredient} />
 
       <ListGroup>

@@ -1,5 +1,5 @@
 import axios from 'axios'
-import { RecipesResponse } from '../interfaces/recipeTypes';
+import { RecipesResponse } from '../types/interfaces';
 const baseUrl = '/api/recipes'
 
 

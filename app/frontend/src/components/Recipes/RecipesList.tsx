@@ -1,7 +1,6 @@
 import { Col, Row } from 'react-bootstrap'
-import { RecipesResponse } from '../../interfaces/recipeTypes'
+import { IngredientItem, RecipesResponse } from '../../types/interfaces'
 import RecipesListItem from './RecipesListItem'
-import { IngredientItem } from '../../interfaces/ingredienTypes'
 
 interface RecipesListProps {
   recipes: RecipesResponse,

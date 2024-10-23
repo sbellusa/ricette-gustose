@@ -1,5 +1,5 @@
 import { Badge, ListGroup } from 'react-bootstrap'
-import { IngredientQuery } from '../../interfaces/ingredienTypes'
+import { IngredientQuery } from "../../types/interfaces";
 
 interface SearchIngredientBoxItemProps {
   ingredient: IngredientQuery

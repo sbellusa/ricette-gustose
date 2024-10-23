@@ -1,15 +1,14 @@
 import { Badge, Card, Stack } from "react-bootstrap";
-import { RecipeItem } from "../../interfaces/recipeTypes";
-import { IngredientItem } from "../../interfaces/ingredienTypes";
+import { IngredientItem, Recipe } from "../../types/interfaces";
 
 interface RecipesListItemProps {
-  recipe: RecipeItem,
+  recipe: Recipe,
   ingredients: IngredientItem[]
 }
 
 const RecipesListItem = (props: RecipesListItemProps) => {
 
-  const rec: RecipeItem = props.recipe
+  const rec: Recipe = props.recipe
 
   const ingredientsList =
     rec.ingredients

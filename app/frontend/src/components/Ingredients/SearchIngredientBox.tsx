@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import ingredientsService from '../../services/ingredients'
-import { IngredientQuery } from '../../interfaces/ingredienTypes'
+import { IngredientQuery } from "../../types/interfaces";
 import SearchIngredientBoxItem from './SearchIngredientBoxItem'
 import { Button, Form, InputGroup, ListGroup, OverlayTrigger, Popover } from 'react-bootstrap'
 

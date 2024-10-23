@@ -1,5 +1,5 @@
 import { Form } from "react-bootstrap";
-import { IngredientItem } from "../../interfaces/ingredienTypes";
+import { IngredientItem } from "../../types/interfaces";
 
 interface IngredientsListItemProps {
   ingredient: IngredientItem,

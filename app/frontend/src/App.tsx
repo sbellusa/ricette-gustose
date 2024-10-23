@@ -2,8 +2,7 @@ import './App.scss'
 import { useState } from 'react'
 import IngredientsList from './components/Ingredients/IngredientsList'
 import RecipesList from './components/Recipes/RecipesList'
-import { IngredientItem } from './interfaces/ingredienTypes'
-import { RecipesResponse } from './interfaces/recipeTypes'
+import { IngredientItem, RecipesResponse } from './types/interfaces'
 import { Stack } from 'react-bootstrap'
 
 const App = () => {
