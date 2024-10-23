@@ -1,6 +1,6 @@
 import axios from 'axios'
 import { RecipesResponse } from '../interfaces/recipeTypes';
-const baseUrl = 'http://localhost:3000/api/recipes'
+const baseUrl = '/api/recipes'
 
 
 const getQuery = async (query: string[]): Promise<RecipesResponse> => {

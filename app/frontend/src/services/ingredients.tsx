@@ -1,6 +1,6 @@
 import axios from 'axios'
 import { IngredientQueryResponse } from '../interfaces/ingredienTypes';
-const baseUrl = 'http://localhost:3000/api/ingredients' //http://localhost:3000/api/ingredients/
+const baseUrl = '/api/ingredients' //http://localhost:3000/api/ingredients/
 
 
 const getQuery = async (query: string): Promise<IngredientQueryResponse> => {
