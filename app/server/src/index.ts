@@ -12,7 +12,9 @@ app.set('port', port);
 const server = http.createServer(app);
 
 // Listen on provided port, on all network interfaces.
-server.listen(port);
+app.listen(port, () => {
+  console.log(`Server running on port ${port}`);
+});
 server.on('error', onError);
 server.on('listening', onListening);
 
@@ -22,7 +24,7 @@ function normalizePort(val : string) {
 
   if (isNaN(port)) return val; // named pipe
   if (port >= 0) return port; // port number
-
+ 
   return false;
 }
 

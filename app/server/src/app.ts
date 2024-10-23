@@ -6,10 +6,27 @@ import path from 'path';
 import cookieParser from 'cookie-parser';
 import logger from 'morgan';
 
+import ingredientRouter from './routes/ingredients';
+import ingredientsService from './services/ingredientsService';
+
+import recipeRouter from './routes/recipes';
+import recipesService from './services/recipesService';
+import recipesForIngredientsRouter from './routes/recipesForIngredients';
+
 // import indexRouter from './routes/index';
 import usersRouter from './routes/users';
 
+// eslint-disable-next-line @typescript-eslint/no-require-imports
+import cors = require('cors');
+
+// Initialise to load large json files in memory
+recipesService.getEntries();
+ingredientsService.getEntries();
+
 const app = express();
+
+app.use(express.json());
+app.use((cors as (options: cors.CorsOptions) => express.RequestHandler)({}));
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
@@ -19,13 +36,17 @@ app.use(logger('dev'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
-app.use(express.static(path.join(__dirname, '../../../public')));
-app.use(express.static(path.join(__dirname, '../../../build')));
-app.use(express.static(path.join(__dirname, './frontend')));
+app.use(express.static('@build'));
+app.use(express.static('@frontend'));
+app.use(express.static(path.join(__dirname, '../../../../build')));
+app.use(express.static(path.join(__dirname, '../../../../build/app/frontend')));
 
 // app.use('/', indexRouter);
 app.use('/api', usersRouter);
-
+app.use('/api/recipes', recipeRouter);
+app.use('/api/ingredients', ingredientRouter);
+app.use('/api/recipes/forIngredients', recipesForIngredientsRouter);
+ 
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {
   next(createError(404));

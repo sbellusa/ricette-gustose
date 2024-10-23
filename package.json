@@ -6,16 +6,18 @@
     "dev": "concurrently \"npm run dev:frontend\" \"npm run dev:backend\"",
     "dev:frontend": "cd ./app/frontend/ && npm run dev",
     "dev:backend": "nodemon ./app/server/src/index",
-    "build:frontend": "cd ./app/frontend/ && npm run build && @powershell md ../../build/frontend/assets -ea 0 && @powershell Copy-Item ./dist/* -Recurse -Force ../../build/frontend",
+    "build:frontend": "cd ./app/frontend/ && npm run build && @powershell md ../../build/app/frontend/assets -ea 0 && @powershell Copy-Item ./dist/* -Recurse -Force ../../build/app/frontend",
     "build:backend": "cd ./app/server/ && npm run build && @powershell Copy-Item ./bin/* -Recurse -Force ../../build",
     "build:all": "npm run build:frontend && npm run build:backend",
     "build:start": "npm run build:all && npm start",
-    "start": "node ./build/index",
+    "start": "node ./build/app/server/src/index",
     "test": "echo \"Error: no test specified\"",
     "lint": "cd ./app/server/ && npm run lint && cd ../../app/frontend/ && npm run lint"
   },
   "dependencies": {
+    "@types/cors": "^2.8.17",
     "cookie-parser": "~1.4.4",
+    "cors": "^2.8.5",
     "debug": "~2.6.9",
     "ejs": "^3.1.10",
     "express": "^4.21.1",
@@ -33,13 +35,13 @@
     "@types/node": "^22.7.8",
     "@typescript-eslint/eslint-plugin": "^8.11.0",
     "@typescript-eslint/parser": "^8.11.0",
+    "concurrently": "^9.0.1",
     "eslint": "^9.13.0",
     "globals": "^15.11.0",
     "nodemon": "^3.1.7",
     "typescript": "^5.6.3",
-    "typescript-eslint": "^8.11.0",
-    "concurrently": "^9.0.1"
-  },  
+    "typescript-eslint": "^8.11.0"
+  },
   "author": "Alessandro Bellu",
   "license": "MIT"
 }
