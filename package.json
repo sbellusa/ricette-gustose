@@ -6,7 +6,7 @@
     "dev": "concurrently \"npm run dev:frontend\" \"npm run dev:backend\"",
     "dev:frontend": "cd ./app/frontend/ && npm run dev",
     "dev:backend": "nodemon ./app/server/src/index",
-    "build:frontend": "cd ./app/frontend/ && npm run build && @powershell md ../../build/app/frontend/assets -ea 0 && @powershell Copy-Item ./dist/* -Recurse -Force ../../build/app/frontend",
+    "build:frontend": "cd ./app/frontend/ && npm run build && @powershell md ../../build/app/frontend/assets -Force && @powershell Copy-Item ./dist/* -Recurse -Force ../../build/app/frontend",
     "build:backend": "cd ./app/server/ && npm run build && @powershell Copy-Item ./bin/* -Recurse -Force ../../build",
     "build:all": "npm run build:frontend && npm run build:backend",
     "build:start": "npm run build:all && npm start",

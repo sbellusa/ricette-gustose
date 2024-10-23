@@ -1,47 +1,31 @@
-import { useEffect, useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import axios from "axios";
-import './App.css'
+import './App.scss'
+import { useState } from 'react'
+import IngredientsList from './components/Ingredients/IngredientsList'
+import RecipesList from './components/Recipes/RecipesList'
+import { IngredientItem } from './interfaces/ingredienTypes'
+import { RecipesResponse } from './interfaces/recipeTypes'
+import { Stack } from 'react-bootstrap'
 
-function App() {
-  const [count, setCount] = useState(0)
-  const [msg, setMsg] = useState("Loading...")
-
-
-  useEffect(() => {
-    axios
-    .get("/api")
-    .then(function (response) {
-      setMsg(response.data);
-    });
-  }, []);
+const App = () => {
+  const [ingredients, setIngredients] = useState<IngredientItem[]>([])
+  const [recipes, setRecipes] = useState<RecipesResponse>({ count: 0, total: 0, items: [] })
 
   return (
     <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>      
-      <h3>API response: {msg}</h3>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+      <main>
+        <div className="d-flex flex-column flex-shrink-0 p-3 text-white bg-dark" >
+          <IngredientsList ingredients={ingredients} setIngredients={setIngredients} setRecipes={setRecipes} />
+        </div>
+
+        <div className="b-example-divider"></div>
+        <Stack gap={3}>
+          <h1>Ricette gustose</h1>
+          <RecipesList recipes={recipes} ingredients={ingredients} />
+        </Stack>
+      </main>
     </>
   )
 }
+
 
 export default App
