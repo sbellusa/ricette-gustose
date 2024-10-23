@@ -15,7 +15,7 @@ const SearchIngredientBoxItem = (props: SearchIngredientBoxItemProps) => {
 
   return (
     <ListGroup.Item action as="li" onClick={handleSelectIngredient} className="d-flex justify-content-between align-items-start">
-      <img src={`http://localhost:3000/img/${props.ingredient.id}.jpg`} alt={props.ingredient.name} width={50} height={50} />
+      <img src={props.ingredient.img} alt={props.ingredient.name} width={50} height={50} />
       <div className="ms-2 me-auto">
         <div className="fw-bold">{props.ingredient.name}</div>
       </div>

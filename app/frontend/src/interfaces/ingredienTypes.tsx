@@ -8,6 +8,7 @@ export interface IngredientQuery {
   id: string
   name: string
   count: number
+  img: string
 }
 
 export interface IngredientItem extends IngredientQuery {

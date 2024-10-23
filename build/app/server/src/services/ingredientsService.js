@@ -41,7 +41,12 @@ const getQueryEntry = (id) => {
     const response = {
         count: sliced.length,
         total: all.length,
-        items: sliced //.map(({ id, name, count }) => ({ id, name, count }))
+        items: sliced.map(({ id, name, count }) => ({
+            id,
+            name,
+            count,
+            img: `https://ricettegustosestorage.blob.core.windows.net/img-ingredients/${id}.jpg`
+        }))
     };
     return response;
 };

@@ -15,7 +15,7 @@ const getEntries = (): IngredientsResponse => {
   return response;
 };
 
-const getIngredientsFromId = (id: string) : IngredientEntry[] => {
+const getIngredientsFromId = (id: string): IngredientEntry[] => {
   return ingredients.filter(entry => entry.name.toLowerCase().includes(id.toLowerCase()));
 };
 
@@ -51,7 +51,14 @@ const getQueryEntry = (id: string): IngredientsQueryResponse => {
   const response: IngredientsQueryResponse = {
     count: sliced.length,
     total: all.length,
-    items: sliced //.map(({ id, name, count }) => ({ id, name, count }))
+    items: sliced.map(({ id, name, count }) =>
+    (
+      {
+        id,
+        name,
+        count,
+        img: `https://ricettegustosestorage.blob.core.windows.net/img-ingredients/${id}.jpg`
+      }))
   };
 
   return response;
